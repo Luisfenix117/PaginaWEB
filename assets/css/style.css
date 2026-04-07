@@ -1,0 +1,255 @@
+:root {
+    /* Paleta Táctica */
+    --bg-system: #0a0a0d;
+    --panel-bg: rgba(13, 13, 18, 0.85); /* Semi-transparente */
+    --text-primary: #e0e0e0;
+    --text-muted: #888891;
+    --accent-red: #ff3b3b; /* antes: accent-blue */
+    --border-dim: #27272a;
+    --font-ui: 'JetBrains Mono', monospace;
+}
+
+body {
+    margin: 0;
+    font-family: var(--font-ui);
+    /* quitamos la imagen principal de body */
+    background-color: var(--bg-system);
+    position: relative;
+    z-index: 0; /* importante: para que ::before pueda situarse detrás del contenido */
+}
+
+/* Capa difusa extendida detrás para rellenar los laterales */
+body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background: url('../img/backgroundrojo.png') center center / cover no-repeat fixed;
+    filter: blur(30px) brightness(0.45) saturate(0.8);
+    transform: scale(1.05);
+    z-index: 0; /* queda por debajo del contenido con z-index >= 1 */
+    pointer-events: none;
+}
+
+/* La imagen principal ahora se aplica al contenedor de la vista (sobre la capa difusa) */
+.viewport-canvas {
+    display: grid;
+    grid-template-columns: 253px auto 253px;
+    grid-template-rows: 1fr auto;
+    align-items: start;
+    height: 100vh;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;
+    z-index: 5;
+    background: url('../img/backgroundrojo.png') center center / contain no-repeat;
+    background-color: transparent;
+    gap: 0;
+}
+
+/* Capa que aplica una tint roja / recolor sobre la imagen central
+   (queda debajo de los panels y encima del blur) */
+.viewport-canvas::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    z-index: 1; /* debajo de panels (z-index:5) */
+    background: url('../img/backgroundrojo.png') center center / contain no-repeat;
+    /* mueve los tonos hacia el rojo y potencia contraste ligeramente */
+    filter: hue-rotate(-25deg) saturate(1.2) contrast(1.05);
+    mix-blend-mode: normal;
+    opacity: 1;
+    display: block;
+}
+
+/* colocar panels en las columnas laterales y que llenen la altura de la fila 1 */
+.panel-left  { grid-column: 1; grid-row: 1; }
+.panel-right { grid-column: 3; grid-row: 1; }
+
+.panel {
+    display: flex;
+    flex-direction: column;
+    height: 100%;   /* hace que el panel llegue hasta abajo (fila 1 completa) */
+    min-height: 0;
+    z-index: 5;
+}
+
+/* asegurarse de que el contenido interno haga scroll si excede la altura */
+.panel-content {
+    flex: 1 1 auto;
+    overflow: auto;
+}
+
+/* footer en la segunda fila del grid */
+.system-footer {
+    position: relative;
+    grid-column: 1 / -1;
+    grid-row: 2;
+    height: 40px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+    font-size: 10px;
+    z-index: 5;
+}
+
+/* --- ESTILO DE PANELES (UI FRAMES) --- */
+.ui-frame {
+    background-color: rgba(6, 6, 8, 0.92); /* más opaco para texto legible */
+    border: 1px solid rgba(255, 64, 64, 0.14); /* sustituye el teal/azul tenue por rojo tenue */
+    box-shadow: 0 10px 30px rgba(0,0,0,0.6); /* profundidad para separar del fondo */
+    backdrop-filter: blur(6px) saturate(1.05);
+    color: var(--text-primary);
+}
+
+/* Pseudo-elemento para el pulso de brillo azul (eléctrico) */
+.ui-frame::after {
+    content: '';
+    position: absolute;
+    top: -1px; left: -1px; right: -1px; bottom: -1px;
+    border: 1px solid var(--accent-red);
+    pointer-events: none;
+    opacity: 0;
+    animation: electric-pulse 3s ease-in-out infinite;
+}
+
+@keyframes electric-pulse {
+    0%, 100% { opacity: 0; box-shadow: 0 0 5px transparent; }
+    50% { opacity: 0.6; box-shadow: 0 0 15px var(--accent-red); }
+}
+
+.panel {
+    width: 100%;
+    display: flex;           /* para permitir que el header y content se distribuyan verticalmente */
+    flex-direction: column;  /* layout vertical dentro del panel */
+    align-self: stretch;     /* asegura que el panel se estire en el eje vertical del contenedor */
+    min-height: 0;           /* necesario para que overflow funcione correctamente dentro del flex item */
+    /* quitar height: fit-content y max-height para que rellene la columna */
+}
+
+.panel-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 15px;
+    font-size: 10px;
+    color: var(--text-muted);
+    border-bottom: 1px solid var(--border-dim);
+    background: linear-gradient(180deg, rgba(0,0,0,0.18), rgba(0,0,0,0.06));
+    text-shadow: 0 1px 0 rgba(0,0,0,0.65);
+}
+
+.status-indicator { font-weight: 700; }
+.status-indicator.online { color: #50fa7b; }
+
+.panel-content {
+    padding: 20px;
+    flex: 1 1 auto;
+    overflow: auto;
+    color: var(--text-primary);
+    text-shadow: 0 1px 0 rgba(0,0,0,0.6);
+}
+
+/* Títulos y Texto */
+.user-handle {
+    font-size: 22px;
+    margin: 0 0 10px 0;
+    letter-spacing: -1px;
+    color: var(--text-primary);
+    text-shadow: 0 2px 8px rgba(0,0,0,0.7);
+}
+.user-bio, .user-location {
+    font-size: 11px;
+    color: var(--text-muted);
+    margin: 4px 0;
+}
+
+.separator-line {
+    height: 1px;
+    background-color: var(--border-dim);
+    margin: 20px 0;
+}
+
+/* Enlaces */
+.link-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.link-item {
+    display: block;
+    color: var(--text-primary);
+    text-decoration: none;
+    font-size: 13px;
+    padding: 6px 10px;
+    border: 1px solid transparent;
+    transition: all 0.2s ease;
+    background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.02));
+    border-radius: 6px;
+    font-weight: 600;
+    text-shadow: 0 1px 0 rgba(0,0,0,0.6);
+}
+
+.link-item:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+    border-color: var(--border-dim);
+    color: var(--accent-red);
+}
+
+/* Sección Spotify/Música */
+.audio-section {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.spotify-placeholder {
+    width: 100%;
+    height: 152px;
+    background: #0d1117;
+    border: 1px solid var(--border-dim);
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #444;
+}
+
+.music-player {
+    display: flex;
+    gap: 8px;
+}
+.player-btn {
+    background: rgba(0,0,0,0.35);
+    color: var(--accent-red);
+    border: 1px solid var(--accent-red);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.45), inset 0 -1px 0 rgba(255,255,255,0.03);
+    cursor: pointer;
+    padding: 5px 10px;
+    font-family: inherit;
+    font-size: 11px;
+}
+.player-btn:hover {
+    background-color: var(--accent-red);
+    color: #000;
+    box-shadow: 0 6px 18px rgba(255,64,64,0.08);
+}
+
+/* --- FOOTER --- */
+.system-footer {
+    background: rgba(0,0,0,0.6);
+    border-top: 1px solid rgba(0,0,0,0.5);
+    color: var(--text-muted);
+    box-shadow: 0 -6px 18px rgba(0,0,0,0.45);
+}
+.system-footer .version {
+    color: var(--accent-red);
+    font-weight: 700;
+    text-shadow: 0 1px 0 rgba(0,0,0,0.7);
+}
+
+/* Small tweak: asegurar que panel content se lea en pantallas pequeñas */
+@media (max-width: 900px) {
+    .ui-frame { background-color: rgba(6,6,8,0.96); }
+    .panel-header { padding: 10px 16px; }
+}

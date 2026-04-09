@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DEPLOYMENT FEED // [Tu_Usuario]</title>
+    <title>LUIS_FENIX_117 // TERMINAL </title>
     <link rel="stylesheet" href="assets/css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
 </head>
@@ -19,9 +19,9 @@
                 <span class="status-indicator online">ONLINE</span>
             </header>
             <section class="panel-content">
-                <h1 class="user-handle">[Luis fenix117]</h1>
-                <p class="user-bio">> SYSTEM CORE XBOX</p>
-                <p class="user-location">> NODE_MEXICO</p>
+                <div class="user-card">
+                    <img class="user-banner" src="assets/img/banner.jpg" alt="Banner de Luis Fenix117">
+                </div>
                 <div class="separator-line"></div>
 
                 <!-- --- INFO / CONTACTS --- -->
@@ -41,18 +41,18 @@
 
         <div class="panel panel-right ui-frame">
             <header class="panel-header">
-                <span class="system-id">AUDIO_STREAM</span>
+                <span class="system-id">ACTIVITY_LOG</span>
             </header>
             <section class="panel-content audio-section">
                 <!-- Widget de MyAnimeList con últimas actualizaciones de anime y manga -->
                 <div class="mal-widget">
                     <div class="mal-section">
-                        <h3>Anime recientes</h3>
-                        <div id="mal-anime-list" class="mal-list">Cargando...</div>
-                    </div>
-                    <div class="mal-section">
                         <h3>Manga recientes</h3>
                         <div id="mal-manga-list" class="mal-list">Cargando...</div>
+                    </div>
+                    <div class="mal-section">
+                        <h3>Anime recientes</h3>
+                        <div id="mal-anime-list" class="mal-list">Cargando...</div>
                     </div>
                 </div>
                 <div class="separator-line"></div>
@@ -74,8 +74,9 @@
         // Carga un RSS usando proxies públicos para evitar bloqueos por CORS.
         async function fetchRssViaProxy(rssUrl) {
             const proxies = [
+                'https://thingproxy.freeboard.io/fetch/',
+                'https://api.codetabs.com/v1/proxy?quest=',
                 'https://api.allorigins.win/raw?url=',
-                'https://api.allorigins.win/get?url=',
                 'https://corsproxy.io/?',
             ];
 
@@ -108,6 +109,8 @@
         // Se usa proxy para evitar que el navegador bloquee la petición por CORS.
         async function fetchCoverImage(itemUrl) {
             const proxies = [
+                'https://thingproxy.freeboard.io/fetch/',
+                'https://api.codetabs.com/v1/proxy?quest=',
                 'https://api.allorigins.win/raw?url=',
                 'https://corsproxy.io/?',
             ];
@@ -117,7 +120,8 @@
                     const response = await fetch(proxy + encodeURIComponent(itemUrl));
                     if (!response.ok) continue;
                     const html = await response.text();
-                    const match = html.match(/<meta property="og:image" content="([^"]+)"/i);
+                    const match = html.match(/<meta\s+(?:property|itemprop)=['"](?:og:image|image)['"]\s+content=['"]([^'"]+)['"]/i)
+                        || html.match(/<meta\s+content=['"]([^'"]+)['"]\s+(?:property|itemprop)=['"](?:og:image|image)['"]/i);
                     if (match) {
                         return match[1];
                     }
@@ -129,58 +133,134 @@
             return null;
         }
 
+        const CACHE_TTL_MS = 1000 * 60 * 60; // 1 hora de caché
+
+        function getCacheKey(elementId) {
+            return `mal-cache-${elementId}`;
+        }
+
+        function loadCache(elementId, allowStale = false) {
+            try {
+                const raw = localStorage.getItem(getCacheKey(elementId));
+                if (!raw) return null;
+                const data = JSON.parse(raw);
+                if (!data.timestamp || !data.items) return null;
+                if (Date.now() - data.timestamp > CACHE_TTL_MS) {
+                    if (allowStale) {
+                        return data.items;
+                    }
+                    localStorage.removeItem(getCacheKey(elementId));
+                    return null;
+                }
+                return data.items;
+            } catch (error) {
+                console.warn('Error leyendo cache', error);
+                return null;
+            }
+        }
+
+        function saveCache(elementId, items) {
+            try {
+                const data = {
+                    timestamp: Date.now(),
+                    items,
+                };
+                localStorage.setItem(getCacheKey(elementId), JSON.stringify(data));
+            } catch (error) {
+                console.warn('Error guardando cache', error);
+            }
+        }
+
+        function formatDescription(description) {
+            const [stateText, progressText] = description.split(' - ').map(part => part?.trim() || '');
+            return { stateText, progressText };
+        }
+
+        function renderMalItems(container, items) {
+            if (!items || items.length === 0) {
+                container.innerHTML = '<p>No se encontraron entradas.</p>';
+                return;
+            }
+
+            const list = document.createElement('div');
+            list.className = 'mal-items';
+
+            items.forEach(item => {
+                const card = document.createElement('div');
+                card.className = 'mal-item';
+                card.innerHTML = `
+                    ${item.imageUrl ? `<div class="mal-item-thumb"><img src="${item.imageUrl}" alt="${item.title}" loading="lazy"></div>` : ''}
+                    <div class="mal-item-content">
+                        <a class="mal-item-title" href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a>
+                        ${item.stateText ? `<div class="mal-item-state">${item.stateText}</div>` : ''}
+                        ${item.progressText ? `<div class="mal-item-progress">${item.progressText}</div>` : ''}
+                        <div class="mal-item-date">${item.dateLabel}</div>
+                    </div>
+                `;
+                list.appendChild(card);
+            });
+
+            container.innerHTML = '';
+            container.appendChild(list);
+        }
+
+        function parseRssItems(xmlText) {
+            const parser = new DOMParser();
+            const xml = parser.parseFromString(xmlText, 'text/xml');
+            const items = Array.from(xml.querySelectorAll('item')).slice(0, 3);
+            return items.map(item => {
+                const title = item.querySelector('title')?.textContent || 'Sin título';
+                const link = item.querySelector('link')?.textContent || '#';
+                const description = item.querySelector('description')?.textContent || '';
+                const pubDate = item.querySelector('pubDate')?.textContent || '';
+                const dateLabel = pubDate ? new Date(pubDate).toLocaleDateString('es-ES', {
+                    day: '2-digit', month: 'short', year: 'numeric'
+                }) : '';
+                const { stateText, progressText } = formatDescription(description);
+                return { title, link, description, stateText, progressText, dateLabel, imageUrl: null };
+            });
+        }
+
+        async function enrichImages(items, previousImageMap = {}) {
+            return Promise.all(items.map(async item => {
+                if (item.imageUrl) {
+                    return item;
+                }
+                const fetchedImage = await fetchCoverImage(item.link);
+                item.imageUrl = fetchedImage || previousImageMap[item.link] || null;
+                return item;
+            }));
+        }
+
         // Crea el widget con los últimos 3 elementos del RSS.
         // Muestra la portada a la izquierda y el estado/capítulo a la derecha.
         async function loadMalFeed(rssUrl, elementId) {
             const container = document.getElementById(elementId);
-            container.innerHTML = '<p>Cargando...</p>';
+            const cachedItems = loadCache(elementId);
+            const staleItems = cachedItems ? null : loadCache(elementId, true);
+
+            if (cachedItems) {
+                renderMalItems(container, cachedItems);
+            } else if (staleItems) {
+                renderMalItems(container, staleItems);
+            } else {
+                container.innerHTML = '<p>Cargando...</p>';
+            }
 
             try {
                 const text = await fetchRssViaProxy(rssUrl);
-                const parser = new DOMParser();
-                const xml = parser.parseFromString(text, 'text/xml');
-                const items = xml.querySelectorAll('item');
-
-                if (items.length === 0) {
-                    container.innerHTML = '<p>No se encontraron entradas.</p>';
-                    return;
-                }
-
-                const list = document.createElement('div');
-                list.className = 'mal-items';
-
-                for (const item of Array.from(items).slice(0, 3)) {
-                    const title = item.querySelector('title')?.textContent || 'Sin título';
-                    const link = item.querySelector('link')?.textContent || '#';
-                    const description = item.querySelector('description')?.textContent || '';
-                    const pubDate = item.querySelector('pubDate')?.textContent || '';
-                    const dateLabel = pubDate ? new Date(pubDate).toLocaleDateString('es-ES', {
-                        day: '2-digit', month: 'short', year: 'numeric'
-                    }) : '';
-
-                    // Divide la descripción en estado y progreso del capítulo/episodio.
-                    const [stateText, progressText] = description.split(' - ').map(part => part?.trim() || '');
-
-                    const imageUrl = await fetchCoverImage(link);
-                    const card = document.createElement('div');
-                    card.className = 'mal-item';
-                    card.innerHTML = `
-                        ${imageUrl ? `<div class="mal-item-thumb"><img src="${imageUrl}" alt="${title}" loading="lazy"></div>` : ''}
-                        <div class="mal-item-content">
-                            <a class="mal-item-title" href="${link}" target="_blank" rel="noopener noreferrer">${title}</a>
-                            ${stateText ? `<div class="mal-item-state">${stateText}</div>` : ''}
-                            ${progressText ? `<div class="mal-item-progress">${progressText}</div>` : ''}
-                            <div class="mal-item-date">${dateLabel}</div>
-                        </div>
-                    `;
-
-                    list.appendChild(card);
-                }
-
-                container.innerHTML = '';
-                container.appendChild(list);
+                let items = parseRssItems(text);
+                const previousImageMap = (cachedItems || staleItems || []).reduce((acc, item) => {
+                    if (item.link && item.imageUrl) acc[item.link] = item.imageUrl;
+                    return acc;
+                }, {});
+                items = await enrichImages(items, previousImageMap);
+                renderMalItems(container, items);
+                saveCache(elementId, items);
             } catch (error) {
-                container.innerHTML = '<p>Error cargando RSS.</p>';
+                if (!cachedItems && !staleItems) {
+                    container.innerHTML = '<p>Error cargando RSS.</p>';
+                }
                 console.error(error);
             }
         }

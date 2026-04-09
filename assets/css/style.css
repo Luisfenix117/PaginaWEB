@@ -218,24 +218,16 @@ body::before {
     gap: 10px;
 }
 
-.link-item {
-    display: block;
-    color: var(--text-primary);
-    text-decoration: none;
-    font-size: 13px;
-    padding: 6px 10px;
-    border: 1px solid transparent;
-    transition: all 0.2s ease;
-    background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.02));
-    border-radius: 6px;
-    font-weight: 600;
-    text-shadow: 0 1px 0 rgba(0,0,0,0.6);
-}
+
 
 .link-item:hover {
-    background-color: rgba(255, 255, 255, 0.05);
-    border-color: var(--border-dim);
-    color: var(--accent-red);
+    background: rgba(255, 59, 59, 0.08);
+    border-color: rgba(255, 59, 59, 0.35);
+    transform: translateX(2px); /* leve, no exagerado */
+}
+
+.link-item:hover img {
+    filter: brightness(0) invert(1) drop-shadow(0 0 4px rgba(255, 59, 59, 0.8));
 }
 
 /* Sección Spotify/Música */
@@ -381,8 +373,108 @@ body::before {
     text-shadow: 0 1px 0 rgba(0,0,0,0.7);
 }
 
+/* ========================= */
+/* 🔗 LINKS (ARREGLADO) */
+/* ========================= */
+
+.link-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 12px; /* más aire entre items */
+}
+
+.link-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    padding: 8px 10px;
+    border-radius: 8px;
+    text-decoration: none;
+
+    /* 🔥 clave: deja de verse plano */
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+
+    transition: all 0.2s ease;
+}
+
+
+
+/* ICONOS */
+.link-item img {
+    width: 22px;
+    height: 22px;
+    object-fit: contain;
+
+    /* 🔥 visible en fondo oscuro */
+    filter: brightness(0) invert(1);
+    opacity: 0.85;
+}
+
+.link-item:hover img {
+    filter: brightness(0) invert(1) drop-shadow(0 0 4px rgba(255, 59, 59, 0.8));
+}
+
+/* TEXTO */
+.link-item span {
+    color: var(--accent-red);
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.no-link {
+    cursor: default;
+}
+
+.no-link:hover {
+    color: var(--accent-red);
+}
 /* Small tweak: asegurar que panel content se lea en pantallas pequeñas */
 @media (max-width: 900px) {
     .ui-frame { background-color: rgba(6,6,8,0.96); }
     .panel-header { padding: 10px 16px; }
+}
+
+@media (max-width: 768px) {
+    .viewport-canvas {
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+
+    .panel-left,
+    .panel-right {
+        grid-column: auto;
+        grid-row: auto;
+    }
+
+    .panel {
+        height: auto;
+        min-height: auto;
+    }
+
+    .panel-content {
+        overflow: visible;
+    }
+}
+
+@media (max-width: 768px) {
+    .panel-header {
+        font-size: 12px;
+    }
+
+    .link-item {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    .user-banner {
+        max-height: 140px;
+    }
+
+    .mal-item {
+        gap: 10px;
+    }
 }

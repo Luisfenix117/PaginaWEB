@@ -203,16 +203,108 @@ body::before {
     flex-direction: column;
     gap: 10px;
 }
-.spotify-placeholder {
-    width: 100%;
-    height: 152px;
-    background: #0d1117;
-    border: 1px solid var(--border-dim);
-    border-radius: 12px;
+
+.mal-widget {
+    padding: 16px;
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 14px;
+}
+
+.mal-widget-title {
+    margin: 0 0 12px;
+    font-size: 14px;
+    letter-spacing: 0.03em;
+    color: var(--accent-red);
+}
+
+.mal-section {
+    margin-bottom: 16px;
+}
+
+.mal-section h3 {
+    margin: 0 0 10px;
+    font-size: 12px;
+    color: var(--accent-red);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.mal-items {
     display: flex;
-    align-items: center;
-    justify-content: center;
-    color: #444;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.mal-item {
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+    padding: 8px 10px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.mal-item-thumb {
+    min-width: 52px;
+    width: 52px;
+    height: 74px;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #0b0b0d;
+    flex-shrink: 0;
+}
+
+.mal-item-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.mal-item-content {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.mal-item-title {
+    color: var(--accent-red);
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.mal-item-title:hover {
+    text-decoration: underline;
+}
+
+.mal-item-state {
+    font-size: 11px;
+    color: #f8f8f8;
+    opacity: 0.9;
+}
+
+.mal-item-progress {
+    font-size: 11px;
+    color: var(--text-muted);
+}
+
+.mal-item-date {
+    font-size: 10px;
+    color: var(--text-muted);
+}
+
+.mal-item-desc {
+    font-size: 11px;
+    color: var(--text-muted);
+    line-height: 1.4;
+}
+
+.mal-item-date {
+    font-size: 10px;
+    color: var(--text-muted);
 }
 
 .music-player {

@@ -431,6 +431,91 @@ body::before {
 .no-link:hover {
     color: var(--accent-red);
 }
+/* Botones de Jugador Estilo Terminal Compacta */
+.player-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.6);
+    color: var(--accent-red);
+    
+    /* Borde casi imperceptible */
+    border: 0.5px solid rgba(255, 59, 59, 0.3);
+    
+    /* Dimensiones reducidas */
+    padding: 2px 6px; 
+    font-size: 15px; 
+    height: 18px;     /* Altura fija para control total */
+    min-width: 60px;  /* Asegura consistencia sin ser ancho */
+    
+    font-family: var(--font-ui);
+    letter-spacing: 0.5px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+    text-transform: uppercase;
+}
+
+.player-btn:hover {
+    background-color: var(--accent-red);
+    color: #000;
+    border-color: var(--accent-red);
+    box-shadow: 0 0 8px rgba(255, 59, 59, 0.3);
+}
+
+/* Contenedor para que no se estiren */
+.music-player {
+    display: flex;
+    flex-direction: column; /* Los apila uno sobre otro */
+    align-items: center;    /* Los centra horizontalmente */
+    justify-content: center;
+    gap: 6px;               /* Espacio constante entre ellos */
+    width: 100%;
+}
+
+.player-btn {
+    position: relative;
+    overflow: hidden; /* Necesario para que el brillo no se salga */
+    background: rgba(0, 0, 0, 0.8);
+    /* ... resto de tus estilos (border, font, etc) ... */
+}
+.player-btn::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: linear-gradient(
+        to bottom,
+        transparent,
+        rgba(255, 59, 59, 0.15),
+        transparent
+    );
+    transform: rotate(45deg);
+    pointer-events: none;
+    opacity: 0;
+}
+
+/* Solo se activa cuando la canción está sonando */
+.is-playing .player-btn::before {
+    opacity: 1;
+    animation: scan-line 2.5s infinite linear;
+}
+
+@keyframes scan-line {
+    0% { transform: translateY(-100%) rotate(45deg); }
+    100% { transform: translateY(100%) rotate(45deg); }
+}
+
+/* Efecto de parpadeo suave al texto */
+.is-playing .player-btn {
+    animation: text-flicker 3s infinite;
+}
+
+@keyframes text-flicker {
+    0%, 100% { opacity: 1; text-shadow: 0 0 2px var(--accent-red); }
+    50% { opacity: 0.8; text-shadow: 0 0 8px var(--accent-red); }
+}
 /* Small tweak: asegurar que panel content se lea en pantallas pequeñas */
 @media (max-width: 900px) {
     .ui-frame { background-color: rgba(6,6,8,0.96); }

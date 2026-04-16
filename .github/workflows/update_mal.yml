@@ -9,8 +9,6 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: 1. Descargar repositorio
         uses: actions/checkout@v4 # Actualizado de v3 a v4

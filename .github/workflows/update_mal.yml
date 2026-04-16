@@ -1,0 +1,23 @@
+name: Update MAL Data
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Cada 12 horas
+  push:
+    branches: [ main ] # También al subir cambios
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: npm install axios jsdom
+      - run: node update_mal.js
+      - name: Commit & Push
+        run: |
+          git config --global user.name 'MAL-Bot'
+          git config --global user.email 'bot@github.com'
+          git add assets/data/mal_data.json
+          git commit -m "update: mal statistics" || exit 0
+          git push

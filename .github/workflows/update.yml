@@ -39,6 +39,7 @@ jobs:
           
           git add assets/data/*.json
           
+          # La clave es añadir "|| true" o asegurar que el bloque termine en éxito
           if git diff --staged --quiet; then
             echo "Sin cambios detectados en MAL o Xbox. Saltando commit."
           else

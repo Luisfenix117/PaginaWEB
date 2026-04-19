@@ -15,7 +15,7 @@ body {
     /* quitamos la imagen principal de body */
     background-color: var(--bg-system);
     position: relative;
-    z-index: 0; /* importante: para que ::before pueda situarse detrás del contenido */
+    z-index: -1; /* importante: para que ::before pueda situarse detrás del contenido */
 }
 
 /* Capa difusa extendida detrás para rellenar los laterales */
@@ -26,7 +26,7 @@ body::before {
     background: url('../img/backgroundrojo.png') center center / cover no-repeat fixed;
     filter: blur(30px) brightness(0.45) saturate(0.8);
     transform: scale(1.05);
-    z-index: 0; /* queda por debajo del contenido con z-index >= 1 */
+    z-index: -2; /* queda por debajo del contenido con z-index >= 1 */
     pointer-events: none;
 }
 
@@ -80,6 +80,24 @@ body::before {
     overflow: auto;
 }
 
+.panel-center {
+    grid-column: 2;
+    padding: 20px;
+    
+    /* CAMBIO CLAVE: Quitamos los 240px fijos para que sea fluido */
+    flex: 1 1 auto; 
+    width: 100%;
+    max-width: 100vw;
+    box-sizing: border-box; /* El padding se cuenta hacia adentro */
+    
+    /* Mantenemos tu lógica de scroll si la necesitas para las tarjetas */
+    overflow-x: hidden; /* Evita el scroll del contenedor padre */
+    scroll-snap-type: x mandatory;
+
+    position: relative;
+    z-index: 10;
+}
+
 /* footer en la segunda fila del grid */
 .system-footer {
     position: relative;
@@ -103,7 +121,7 @@ body::before {
     color: var(--text-primary);
 }
 
-/* Pseudo-elemento para el pulso de brillo azul (eléctrico) */
+/* Pseudo-elemento para el pulso (eléctrico) */
 .ui-frame::after {
     content: '';
     position: absolute;
@@ -373,9 +391,7 @@ body::before {
     text-shadow: 0 1px 0 rgba(0,0,0,0.7);
 }
 
-/* ========================= */
-/* 🔗 LINKS (ARREGLADO) */
-/* ========================= */
+
 
 .link-grid {
     display: flex;
@@ -392,7 +408,7 @@ body::before {
     border-radius: 8px;
     text-decoration: none;
 
-    /* 🔥 clave: deja de verse plano */
+   
     background: rgba(255, 255, 255, 0.02);
     border: 1px solid rgba(255, 255, 255, 0.05);
 
@@ -407,7 +423,7 @@ body::before {
     height: 22px;
     object-fit: contain;
 
-    /* 🔥 visible en fondo oscuro */
+    /* visible en fondo oscuro */
     filter: brightness(0) invert(1);
     opacity: 0.85;
 }
@@ -431,7 +447,8 @@ body::before {
 .no-link:hover {
     color: var(--accent-red);
 }
-/* Botones de Jugador Estilo Terminal Compacta */
+
+/* Botones Estilo Terminal Compacta */
 .player-btn {
     display: inline-flex;
     align-items: center;
@@ -502,6 +519,111 @@ body::before {
     animation: scan-line 2.5s infinite linear;
 }
 
+/* Contenedor con Scroll Horizontal */
+#xbox-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    
+    /* Asegura que ocupe todo el ancho disponible del padre */
+    width: 100%; 
+    max-width: 100%;
+    
+    /* El padding se cuenta HACIA ADENTRO, no hacia afuera */
+    box-sizing: border-box; 
+    padding: 10px;
+    
+    /* Elimina cualquier scroll horizontal accidental */
+    overflow-x: hidden;
+}
+
+
+/* Tarjeta Individual */
+.xbox-item-card {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+    box-sizing: border-box; /* Crucial para evitar que el borde sume ancho */
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 64, 64, 0.14);
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.xbox-item-card:hover {
+    background: rgba(255, 64, 64, 0.05);
+    border-color: var(--accent-red);
+}
+
+/* Imagen a la izquierda */
+.game-thumb {
+    width: 60px;
+    height: 60px;
+    flex-shrink: 0;
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.game-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Info a la derecha */
+.game-details {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    
+}
+
+.game-name {
+    font-size: 11px; /* Bajamos un poco el tamaño para títulos largos */
+    font-weight: 700;
+    color: var(--text-primary);
+    
+    /* Si el nombre es muy largo, ponemos puntos suspensivos */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.game-stats-row {
+    font-size: 11px;
+    color: var(--text-muted);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.stat-divider {
+    color: var(--accent-red);
+    opacity: 0.6;
+}
+
+.stat-percent {
+    color: var(--accent-red);
+    font-weight: bold;
+}
+
+@media (min-width: 768px) {
+    #xbox-list {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr); /* Volvemos a las 3 columnas */
+        gap: 10px;
+        overflow-x: hidden;
+    }
+}
+
+@media (min-width: 768px) {
+    .panel-center {
+        flex: 0 0 auto; 
+        /* Aquí puedes poner un ancho máximo para escritorio si no quieres que estire tanto */
+    }
+
+}
 @keyframes scan-line {
     0% { transform: translateY(-100%) rotate(45deg); }
     100% { transform: translateY(100%) rotate(45deg); }

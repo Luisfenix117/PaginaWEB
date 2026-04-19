@@ -38,7 +38,7 @@ async function updateXboxTitles() {
                 const currentData = fs.readFileSync(DATA_PATH, 'utf8');
                 if (currentData === newDataString) {
                     console.log(">>> Los 3 títulos son idénticos. Omitiendo guardado.");
-                    return;
+                    process.exit(0);
                 }
             }
 

@@ -2,55 +2,52 @@ const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 
-// Configuración de constantes
-const XUID = "2533274897489393"; 
 const DATA_PATH = path.join(__dirname, 'assets', 'data', 'xbox_data.json');
 const TOKEN = process.env.XBOX_API_KEY;
 
 async function updateXboxTitles() {
     if (!TOKEN) {
-        console.error(">>> ERROR: No se encontró XBOX_API_KEY en los Secrets.");
+        console.error(">>> ERROR: No se encontró XBOX_API_KEY.");
         process.exit(1);
     }
 
-    const options = {
-        method: 'GET',
-        url: 'https://api.xbl.io/v2/titles',
-        headers: {
-            'X-Authorization': TOKEN
-        }
-    };
-
     try {
-        console.log(">>> Consultando títulos de Xbox...");
-        const { data } = await axios.request(options);
-        
-        // Formateamos el JSON para guardarlo
-        const newDataString = JSON.stringify(data, null, 2);
+        const { data } = await axios.get('https://api.xbl.io/v2/titles', {
+            headers: { 'X-Authorization': TOKEN }
+        });
 
-        // --- Lógica de Comparación ---
-        if (fs.existsSync(DATA_PATH)) {
-            const currentData = fs.readFileSync(DATA_PATH, 'utf8');
-            if (currentData === newDataString) {
-                console.log(">>> Sincronización finalizada: Los datos son idénticos.");
-                return;
+        // 1. Verificamos que existan los títulos en la respuesta
+        if (data && data.content && Array.from(data.content.titles).length > 0) {
+            
+            // 2. Limitamos a los 3 más recientes utilizando .slice()
+            const limitedTitles = data.content.titles.slice(0, 3);
+            
+            // 3. Reconstruimos el objeto con la misma estructura pero ligera
+            const finalData = {
+                content: {
+                    xuid: data.content.xuid,
+                    titles: limitedTitles
+                },
+                code: 200
+            };
+
+            const newDataString = JSON.stringify(finalData, null, 2);
+
+            // 4. Lógica de comparación para evitar commits innecesarios
+            if (fs.existsSync(DATA_PATH)) {
+                const currentData = fs.readFileSync(DATA_PATH, 'utf8');
+                if (currentData === newDataString) {
+                    console.log(">>> Los 3 títulos son idénticos. Omitiendo guardado.");
+                    return;
+                }
             }
+
+            fs.writeFileSync(DATA_PATH, newDataString);
+            console.log(`>>> ÉXITO: Guardados los 3 títulos más recientes.`);
         }
-
-        // Asegurar que la carpeta existe antes de escribir
-        const dir = path.dirname(DATA_PATH);
-        if (!fs.existsSync(dir)) {
-            fs.mkdirSync(dir, { recursive: true });
-        }
-
-        fs.writeFileSync(DATA_PATH, newDataString);
-        console.log(">>> ÉXITO: assets/data/xbox_data.json actualizado.");
-
     } catch (error) {
-        console.error(">>> ERROR en la petición de Xbox:", error.response?.status || error.message);
-        process.exit(1);
+        console.error(">>> ERROR:", error.message);
     }
 }
 
-// Ejecutar la función
 updateXboxTitles();

@@ -10,7 +10,7 @@ async function debugXboxUI() {
         // Definimos estas constantes fuera del .map para no recrearlas en cada ciclo
         const fallbackGif = '../assets/img/fatal_error.gif';
         const localImageOverrides = {
-            "Goddess of Victory: Nikke": "../assets/img/Nikke.webp"
+         "Goddess of Victory: Nikke": "assets/img/Nikke.webp" 
         };
 
         container.innerHTML = titles.map(game => {

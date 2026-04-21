@@ -3,6 +3,48 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1766280986",
+        "pfn": "SNKCORPORATION.METALSLUGATTACKRELOADED_m9wgjevqarnpp",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000069474f1a",
+        "windowsPhoneProductId": null,
+        "name": "METAL SLUG ATTACK RELOADED",
+        "type": "Game",
+        "devices": [
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.24386.14631664888055091.25e5c403-4a07-402b-9c12-fdec07886ace.7994d7e5-5bcd-466c-b7f3-ce2786360543",
+        "mediaItemType": "Application",
+        "modernTitleId": "1766280986",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 10,
+          "totalAchievements": 0,
+          "currentGamerscore": 650,
+          "totalGamerscore": 1000,
+          "progressPercentage": 65,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-04-20T21:42:01.4328588Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
         "titleId": "2118292977",
         "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
@@ -34,7 +76,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-04-20T05:28:09.0498751Z",
+          "lastTimePlayed": "2026-04-20T20:16:21.8927135Z",
           "visible": true,
           "canHide": true
         },
@@ -63,11 +105,11 @@
         "modernTitleId": "1799236568",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 11,
+          "currentAchievements": 13,
           "totalAchievements": 0,
-          "currentGamerscore": 155,
+          "currentGamerscore": 185,
           "totalGamerscore": 1000,
-          "progressPercentage": 16,
+          "progressPercentage": 18,
           "sourceVersion": 2
         },
         "stats": {
@@ -78,7 +120,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-04-20T03:25:40.2053817Z",
+          "lastTimePlayed": "2026-04-20T19:04:39.2632155Z",
           "visible": true,
           "canHide": true
         },
@@ -89,47 +131,6 @@
         "contentBoards": null,
         "xboxLiveTier": "Full",
         "isStreamable": true
-      },
-      {
-        "titleId": "1775314772",
-        "pfn": null,
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
-        "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
-        "type": "Game",
-        "devices": [
-          "Win32"
-        ],
-        "displayImage": "",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-04-19T19:49:28.2025839Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null
       }
     ]
   },

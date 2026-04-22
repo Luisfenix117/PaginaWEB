@@ -3,27 +3,27 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1033937373",
-        "pfn": "KleiEntertainment.DontStarveTogetherConsoleEdition_h1qwf79amjr38",
+        "titleId": "2118292977",
+        "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
-        "serviceConfigId": "f2570100-ba9e-4443-9b01-def33da0a1dd",
+        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
         "windowsPhoneProductId": null,
-        "name": "Don't Starve Together: Console Edition",
+        "name": "ARC Raiders",
         "type": "Game",
         "devices": [
-          "XboxOne",
+          "PC",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.18719.68986806511725911.f424da40-674e-41a9-878c-7a524fa56895.9dccd119-677b-479c-987c-981c54bfcef3",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
         "mediaItemType": "Application",
-        "modernTitleId": "1033937373",
+        "modernTitleId": "2118292977",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 17,
+          "currentAchievements": 43,
           "totalAchievements": 0,
-          "currentGamerscore": 420,
+          "currentGamerscore": 810,
           "totalGamerscore": 1000,
-          "progressPercentage": 42,
+          "progressPercentage": 81,
           "sourceVersion": 2
         },
         "stats": {
@@ -34,7 +34,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-04-22T01:16:33.1706201Z",
+          "lastTimePlayed": "2026-04-22T06:28:44.532888Z",
           "visible": true,
           "canHide": true
         },
@@ -47,78 +47,38 @@
         "isStreamable": true
       },
       {
-        "titleId": "1775314772",
-        "pfn": null,
+        "titleId": "2068332202",
+        "pfn": "PlayStack.AbioticFactor_3wcqaesafpzfy",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "serviceConfigId": "00000000-0000-0000-0000-00007b483eaa",
         "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
+        "name": "Abiotic Factor",
         "type": "Game",
         "devices": [
-          "Win32"
-        ],
-        "displayImage": "",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-04-21T08:00:13.5905019Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null
-      },
-      {
-        "titleId": "1766280986",
-        "pfn": "SNKCORPORATION.METALSLUGATTACKRELOADED_m9wgjevqarnpp",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069474f1a",
-        "windowsPhoneProductId": null,
-        "name": "METAL SLUG ATTACK RELOADED",
-        "type": "Game",
-        "devices": [
+          "PC",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.24386.14631664888055091.25e5c403-4a07-402b-9c12-fdec07886ace.7994d7e5-5bcd-466c-b7f3-ce2786360543",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.45428.14585229772819603.06d592a4-a006-4f6e-901f-b18fb39d663a.6c31b5d2-3015-46cf-af4d-1acc5a2fc493",
         "mediaItemType": "Application",
-        "modernTitleId": "1766280986",
+        "modernTitleId": "2068332202",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 10,
+          "currentAchievements": 13,
           "totalAchievements": 0,
-          "currentGamerscore": 650,
+          "currentGamerscore": 160,
           "totalGamerscore": 1000,
-          "progressPercentage": 65,
+          "progressPercentage": 16,
           "sourceVersion": 2
         },
         "stats": {
           "sourceVersion": 1
         },
         "gamePass": {
-          "isGamePass": false
+          "isGamePass": true
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-04-20T21:42:01.4328588Z",
+          "lastTimePlayed": "2026-04-22T02:17:31.9965593Z",
           "visible": true,
           "canHide": true
         },
@@ -127,7 +87,53 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full"
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1874517142",
+        "pfn": "Microsoft.Pleasantville_8wekyb3d8bbwe",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00006fbadc96",
+        "windowsPhoneProductId": null,
+        "name": "Retro Classics",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.32224.13805261594576123.3da89ecd-dd82-4eb6-8b3e-50d0e4f648d2.968d9ce3-1b6c-4447-9fd6-37f893af0e2e",
+        "mediaItemType": "Application",
+        "modernTitleId": "1874517142",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 1000,
+          "progressPercentage": 0,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-04-22T01:48:02.7143688Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       }
     ]
   },

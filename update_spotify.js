@@ -31,22 +31,31 @@ async function updateSpotify() {
     
     const access_token = tokenData.access_token;
 
-    // 3. Pedir los tracks (limitado a los campos que necesitamos)
-    const url = `https://api.spotify.com/v1/playlists/${playlist_id}/tracks?fields=items(track(name,artists(name),album(name,images)))`;
-    
-    const response = await fetch(url, {
-      headers: { 'Authorization': `Bearer ${access_token}` }
-    });
-    const data = await response.json();
+   // 3. Pedir los tracks
+const url = `https://api.spotify.com/v1/playlists/${playlist_id}/tracks?fields=items(track(name,artists(name),album(name,images)))`;
 
-    // 4. Formatear datos para el laboratorio
-    const tracks = data.items.map(item => ({
-      title: item.track.name,
-      artist: item.track.artists.map(a => a.name).join(', '),
-      album: item.track.album.name,
-      image: item.track.album.images[0]?.url || ''
-    }));
+const response = await fetch(url, {
+  headers: { 'Authorization': `Bearer ${access_token}` }
+});
+const data = await response.json();
 
+// VALIDACIÓN CRÍTICA: Revisamos si 'items' existe antes de usar .map()
+if (!data.items) {
+  console.error("Error de Spotify API:", data.error || "No se encontraron items en la respuesta.");
+  // Esto nos imprimirá el objeto completo para ver qué mandó Spotify
+  console.log("Respuesta completa:", JSON.stringify(data, null, 2)); 
+  process.exit(1);
+}
+
+// 4. Formatear datos
+const tracks = data.items
+  .filter(item => item.track) // Filtramos por si acaso algún track viene nulo
+  .map(item => ({
+    title: item.track.name,
+    artist: item.track.artists.map(a => a.name).join(', '),
+    album: item.track.album.name,
+    image: item.track.album.images[0]?.url || ''
+  }));
     // 5. Guardar en la carpeta assets/data/
     const finalData = {
       last_updated: new Date().toISOString(),

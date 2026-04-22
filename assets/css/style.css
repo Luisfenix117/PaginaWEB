@@ -97,6 +97,10 @@ body::before {
 }
 
 .panel-center {
+    display: flex;
+    flex-direction: column; 
+    /* El espacio entre Xbox y Spotify */
+    gap: 25px;
     grid-column: 2;
     padding: 20px;
     

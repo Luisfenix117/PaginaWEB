@@ -1,17 +1,18 @@
 name: System Sync // Live Data
 on:
   schedule:
-    - cron: '0 */12 * * *' # Cada 12 horas
+    - cron: '0 */12 * * *' # Ejecución cada 12 horas
   push:
     branches: [ main ]
-  workflow_dispatch: # Botón manual para pruebas
+  workflow_dispatch: # Permite ejecución manual desde la pestaña Actions
 
 jobs:
   sync:
     runs-on: ubuntu-latest
-    environment: github-pages 
+    environment: Spotify 
     permissions:
       contents: write
+      
     steps:
       - name: 1. Descargar Repositorio
         uses: actions/checkout@v4
@@ -28,22 +29,26 @@ jobs:
       - name: 4. Ejecutar Motores de Datos
         env:
           XBOX_API_KEY: ${{ secrets.XBOX_API_KEY }}
+          SPOTIFY_API_KEY: ${{ secrets.SPOTIFY_API_KEY }}
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
         run: |
           node update_mal.js
           node update_xbox.js
+          node update_spotify.js
 
-      - name: 5. Guardar cambios si hay diferencias
+      - name: 5. Guardar cambios en el repositorio
         run: |
           git config --global user.name "Luisfenix117"
           git config --global user.email "45983058+Luisfenix117@users.noreply.github.com"
           
+          # Añadimos todos los JSON generados en la carpeta assets/data/
           git add assets/data/*.json
           
-          # La clave es añadir "|| true" o asegurar que el bloque termine en éxito
           if git diff --staged --quiet; then
-            echo "Sin cambios detectados en MAL o Xbox. Saltando commit."
+            echo "Sin cambios detectados en los feeds. Saltando commit."
           else
-            git commit -m "System: Update live feeds (MAL + Xbox) [skip ci]"
+            git commit -m "System: Update live feeds (MAL + Xbox + Spotify) [skip ci]"
             git push
           fi
         # Esta línea evita que el workflow se detenga si este paso no hace commit

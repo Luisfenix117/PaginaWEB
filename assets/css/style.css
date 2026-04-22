@@ -39,10 +39,12 @@ body::before {
     content: '';
     position: fixed;
     inset: 0;
+    /* Cambiamos contain por cover para que llene todo el móvil */
     background: url('../img/backgroundrojo.png') center center / cover no-repeat fixed;
-    filter: blur(30px) brightness(0.45) saturate(0.8);
-    transform: scale(1.05);
-    z-index: -2; /* queda por debajo del contenido con z-index >= 1 */
+    /* Aumentamos el blur para que el ruido de la imagen no distraiga en móvil */
+    filter: blur(40px) brightness(0.35) saturate(0.8);
+    transform: scale(1.1); /* Evita bordes blancos por el blur */
+    z-index: -2;
     pointer-events: none;
 }
 
@@ -630,7 +632,7 @@ body::before {
 }
 
 @media (min-width: 768px) {
-    #xbox-list {
+    #xbox-list, #spotify-list {
         display: grid;
         grid-template-columns: repeat(3, 1fr); /* Volvemos a las 3 columnas */
         gap: 10px;
@@ -670,12 +672,13 @@ body::before {
         display: flex;
         flex-direction: column;
         height: auto;
+        /* Quitamos la imagen de fondo repetida en móvil */
+        background: none !important; 
     }
 
-    .panel-left,
-    .panel-right {
-        grid-column: auto;
-        grid-row: auto;
+    .viewport-canvas::before {
+        /* Desactivamos la capa de tinte central en móvil para limpiar la UI */
+        display: none;
     }
 
     .panel {

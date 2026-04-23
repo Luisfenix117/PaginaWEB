@@ -33,7 +33,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-04-22T14:23:27.721192Z",
+          "lastTimePlayed": "2026-04-23T12:06:36.220712Z",
           "visible": true,
           "canHide": true
         },
@@ -42,6 +42,50 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
+      },
+      {
+        "titleId": "70786264",
+        "pfn": "HAMSTERCorporation.ACANEOGEOMETALSLUG5_7xd3265gdqs6r",
+        "bingId": null,
+        "serviceConfigId": "75c60100-4022-45f8-94ff-473204381cd8",
+        "windowsPhoneProductId": null,
+        "name": "ACA NEOGEO METAL SLUG 5",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.21774.66197757482710897.a833bd39-fd48-4721-99fe-54da6247b1de.e6aa14ba-a3fc-48d8-993c-255cb4ceb632",
+        "mediaItemType": "Application",
+        "modernTitleId": "70786264",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 5,
+          "totalAchievements": 0,
+          "currentGamerscore": 400,
+          "totalGamerscore": 1000,
+          "progressPercentage": 40,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-04-23T09:57:26.3366004Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
       },
       {
         "titleId": "2118292977",
@@ -75,51 +119,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-04-22T06:28:44.532888Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "2068332202",
-        "pfn": "PlayStack.AbioticFactor_3wcqaesafpzfy",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007b483eaa",
-        "windowsPhoneProductId": null,
-        "name": "Abiotic Factor",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.45428.14585229772819603.06d592a4-a006-4f6e-901f-b18fb39d663a.6c31b5d2-3015-46cf-af4d-1acc5a2fc493",
-        "mediaItemType": "Application",
-        "modernTitleId": "2068332202",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 13,
-          "totalAchievements": 0,
-          "currentGamerscore": 160,
-          "totalGamerscore": 1000,
-          "progressPercentage": 16,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-04-22T02:17:31.9965593Z",
+          "lastTimePlayed": "2026-04-23T09:00:36.8451921Z",
           "visible": true,
           "canHide": true
         },

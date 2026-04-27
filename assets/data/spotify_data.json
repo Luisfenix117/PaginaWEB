@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T16:48:14.149Z",
+  "last_updated": "2026-04-27T01:51:01.393Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -22,6 +22,13 @@
       "spotify_url": "https://open.spotify.com/track/4vrZhUgunb6QgDte14Izcg"
     },
     {
+      "title": "Spaliny",
+      "artist": "Cool Kids Of Death",
+      "album": "2006",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
+      "spotify_url": "https://open.spotify.com/track/4i0rifiTQtyLV8T0tq8vjC"
+    },
+    {
       "title": "Nobody's Listening",
       "artist": "Linkin Park",
       "album": "Meteora (Bonus Edition)",
@@ -34,13 +41,6 @@
       "album": "Meteora (Bonus Edition)",
       "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
       "spotify_url": "https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn"
-    },
-    {
-      "title": "Spaliny",
-      "artist": "Cool Kids Of Death",
-      "album": "2006",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
-      "spotify_url": "https://open.spotify.com/track/4i0rifiTQtyLV8T0tq8vjC"
     },
     {
       "title": "To Nie Zdarza Sie Nam",
@@ -64,18 +64,18 @@
       "spotify_url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
     },
     {
-      "title": "Disko Dla Wrazliwej Mlodziezy",
-      "artist": "Cool Kids Of Death",
-      "album": "2006",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
-      "spotify_url": "https://open.spotify.com/track/6B2HcbxH29uxAdyAHWvtWA"
-    },
-    {
       "title": "Somewhere I Belong",
       "artist": "Linkin Park",
       "album": "Meteora (Bonus Edition)",
       "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
       "spotify_url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx"
+    },
+    {
+      "title": "Disko Dla Wrazliwej Mlodziezy",
+      "artist": "Cool Kids Of Death",
+      "album": "2006",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
+      "spotify_url": "https://open.spotify.com/track/6B2HcbxH29uxAdyAHWvtWA"
     },
     {
       "title": "Hit the Floor",
@@ -85,18 +85,18 @@
       "spotify_url": "https://open.spotify.com/track/4wHktoSf6C0C0fAO8IIWqs"
     },
     {
-      "title": "Megapixel",
-      "artist": "Cool Kids Of Death",
-      "album": "2006",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
-      "spotify_url": "https://open.spotify.com/track/7xq832Osi8A2W3KlJdiImQ"
-    },
-    {
       "title": "Lying from You",
       "artist": "Linkin Park",
       "album": "Meteora (Bonus Edition)",
       "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
       "spotify_url": "https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1"
+    },
+    {
+      "title": "Megapixel",
+      "artist": "Cool Kids Of Death",
+      "album": "2006",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
+      "spotify_url": "https://open.spotify.com/track/7xq832Osi8A2W3KlJdiImQ"
     },
     {
       "title": "Faint",
@@ -134,18 +134,18 @@
       "spotify_url": "https://open.spotify.com/track/3dxiWIBVJRlqh9xk144rf4"
     },
     {
-      "title": "Serious",
-      "artist": "Daron Malakian and Scars On Broadway",
-      "album": "Scars on Broadway",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/7dbwliCP94bEhVVb7Ap7C9"
-    },
-    {
       "title": "From the Inside",
       "artist": "Linkin Park",
       "album": "Meteora (Bonus Edition)",
       "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
       "spotify_url": "https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ"
+    },
+    {
+      "title": "Kula w Plot",
+      "artist": "Cool Kids Of Death",
+      "album": "2006",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
+      "spotify_url": "https://open.spotify.com/track/7vgNTqKnLNy7ut6bVZrTP8"
     }
   ]
 }

@@ -3,6 +3,50 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1799236568",
+        "pfn": "39EA002F.FF5DF_n746a19ndrrjg",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00006b3e2bd8",
+        "windowsPhoneProductId": null,
+        "name": "FINAL FANTASY V",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.11900.13539872402382388.b924c764-f5ca-49ac-9e31-d5ada1c5b84b.2fa554e2-7136-45e3-80b8-fcb28ebc23c4",
+        "mediaItemType": "Application",
+        "modernTitleId": "1799236568",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 13,
+          "totalAchievements": 0,
+          "currentGamerscore": 185,
+          "totalGamerscore": 1000,
+          "progressPercentage": 18,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-04-26T15:38:00.3482229Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "2118292977",
         "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
@@ -86,50 +130,6 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
-      },
-      {
-        "titleId": "1146095571",
-        "pfn": null,
-        "bingId": "66acd000-77fe-1000-9115-d802445007d3",
-        "serviceConfigId": "e92c0100-731d-43e0-b9fb-bb27125c2061",
-        "windowsPhoneProductId": null,
-        "name": "EDF 2017",
-        "type": "Game",
-        "devices": [
-          "Xbox360",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.54758.66183065744062196.895534ef-ec4e-475c-bb99-915a83303391.a75a7c31-0e16-4870-8a94-545d4275016f",
-        "mediaItemType": "Xbox360Game",
-        "modernTitleId": "308027489",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 6,
-          "currentGamerscore": 0,
-          "totalGamerscore": 1000,
-          "progressPercentage": 0,
-          "sourceVersion": 1
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-04-24T22:55:00.6068401Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
       }
     ]
   },

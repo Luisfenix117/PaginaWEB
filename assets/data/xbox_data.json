@@ -3,6 +3,48 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "2011061477",
+        "pfn": "F024294D.PRAGMATA_8fty0by30jkny",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000077de5ce5",
+        "windowsPhoneProductId": null,
+        "name": "PRAGMATA",
+        "type": "Game",
+        "devices": [
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.53931.14635635892691285.c714c5ad-73ed-425e-81b8-f766ad7ad689.8c58d4ca-fb44-4f63-b399-796aa7e21f6f",
+        "mediaItemType": "Application",
+        "modernTitleId": "2011061477",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 14,
+          "totalAchievements": 0,
+          "currentGamerscore": 210,
+          "totalGamerscore": 1000,
+          "progressPercentage": 21,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-04-29T15:50:13.3332762Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
         "titleId": "2118292977",
         "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
@@ -86,51 +128,6 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
-      },
-      {
-        "titleId": "1714795112",
-        "pfn": "BethesdaSoftworks.Osiris2.0_3275kfvn8vcwc",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006635b268",
-        "windowsPhoneProductId": null,
-        "name": "DOOM + DOOM II",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.65308.14594598903877048.bbb5dc7a-5386-4439-89d6-a5136ac0725b.eea5c189-9a6c-4a48-bb66-6965091e5968",
-        "mediaItemType": "Application",
-        "modernTitleId": "1714795112",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 1000,
-          "progressPercentage": 0,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-04-28T02:38:25.7957752Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       }
     ]
   },

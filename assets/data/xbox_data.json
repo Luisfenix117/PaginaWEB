@@ -3,6 +3,48 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "2011061477",
+        "pfn": "F024294D.PRAGMATA_8fty0by30jkny",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000077de5ce5",
+        "windowsPhoneProductId": null,
+        "name": "PRAGMATA",
+        "type": "Game",
+        "devices": [
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.53931.14635635892691285.c714c5ad-73ed-425e-81b8-f766ad7ad689.8c58d4ca-fb44-4f63-b399-796aa7e21f6f",
+        "mediaItemType": "Application",
+        "modernTitleId": "2011061477",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 17,
+          "totalAchievements": 0,
+          "currentGamerscore": 240,
+          "totalGamerscore": 1000,
+          "progressPercentage": 24,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-05-02T09:55:20.9199747Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
         "titleId": "2118292977",
         "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
@@ -86,48 +128,6 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
-      },
-      {
-        "titleId": "2011061477",
-        "pfn": "F024294D.PRAGMATA_8fty0by30jkny",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000077de5ce5",
-        "windowsPhoneProductId": null,
-        "name": "PRAGMATA",
-        "type": "Game",
-        "devices": [
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.53931.14635635892691285.c714c5ad-73ed-425e-81b8-f766ad7ad689.8c58d4ca-fb44-4f63-b399-796aa7e21f6f",
-        "mediaItemType": "Application",
-        "modernTitleId": "2011061477",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 14,
-          "totalAchievements": 0,
-          "currentGamerscore": 210,
-          "totalGamerscore": 1000,
-          "progressPercentage": 21,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-04-29T15:50:13.3332762Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
       }
     ]
   },

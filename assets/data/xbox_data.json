@@ -3,6 +3,47 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1775314772",
+        "pfn": null,
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "windowsPhoneProductId": null,
+        "name": "Goddess of Victory: Nikke",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-05-03T04:31:10.6101236Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null
+      },
+      {
         "titleId": "1128466398",
         "pfn": null,
         "bingId": "66acd000-77fe-1000-9115-d802434307de",
@@ -79,48 +120,6 @@
         "images": null,
         "titleHistory": {
           "lastTimePlayed": "2026-05-02T21:55:31.6716345Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
-      },
-      {
-        "titleId": "2011061477",
-        "pfn": "F024294D.PRAGMATA_8fty0by30jkny",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000077de5ce5",
-        "windowsPhoneProductId": null,
-        "name": "PRAGMATA",
-        "type": "Game",
-        "devices": [
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.53931.14635635892691285.c714c5ad-73ed-425e-81b8-f766ad7ad689.8c58d4ca-fb44-4f63-b399-796aa7e21f6f",
-        "mediaItemType": "Application",
-        "modernTitleId": "2011061477",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 17,
-          "totalAchievements": 0,
-          "currentGamerscore": 240,
-          "totalGamerscore": 1000,
-          "progressPercentage": 24,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-05-02T09:55:20.9199747Z",
           "visible": true,
           "canHide": true
         },

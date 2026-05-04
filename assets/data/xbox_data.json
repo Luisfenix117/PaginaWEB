@@ -3,6 +3,94 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1799236568",
+        "pfn": "39EA002F.FF5DF_n746a19ndrrjg",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00006b3e2bd8",
+        "windowsPhoneProductId": null,
+        "name": "FINAL FANTASY V",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.11900.13539872402382388.b924c764-f5ca-49ac-9e31-d5ada1c5b84b.2fa554e2-7136-45e3-80b8-fcb28ebc23c4",
+        "mediaItemType": "Application",
+        "modernTitleId": "1799236568",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 16,
+          "totalAchievements": 0,
+          "currentGamerscore": 230,
+          "totalGamerscore": 1000,
+          "progressPercentage": 23,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-05-03T22:19:10.2012287Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "2118292977",
+        "pfn": "Embark.arc-raiders_kd876xf6dde24",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
+        "windowsPhoneProductId": null,
+        "name": "ARC Raiders",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
+        "mediaItemType": "Application",
+        "modernTitleId": "2118292977",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 43,
+          "totalAchievements": 0,
+          "currentGamerscore": 810,
+          "totalGamerscore": 1000,
+          "progressPercentage": 81,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-05-03T22:09:50.6436667Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "1775314772",
         "pfn": null,
         "bingId": null,
@@ -42,93 +130,6 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
-      },
-      {
-        "titleId": "1128466398",
-        "pfn": null,
-        "bingId": "66acd000-77fe-1000-9115-d802434307de",
-        "serviceConfigId": "aa220100-4029-46ac-a7db-2ed610c08361",
-        "windowsPhoneProductId": null,
-        "name": "LOST PLANET COLONIES",
-        "type": "Game",
-        "devices": [
-          "Xbox360",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.4474.65966929223688804.6ee7068f-4c62-4983-9a99-c3f7acab6973.247c6c2b-f698-419c-8276-46288f8b9a53",
-        "mediaItemType": "Xbox360Game",
-        "modernTitleId": "281052001",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 50,
-          "currentGamerscore": 0,
-          "totalGamerscore": 1000,
-          "progressPercentage": 0,
-          "sourceVersion": 1
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-05-02T22:03:50.005731Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
-      },
-      {
-        "titleId": "820078969",
-        "pfn": "EXORStudios.ZombieDriverUltimateEdition_9y41ntp9cv1jj",
-        "bingId": "90cd3c08-e2a7-4f60-8ea1-b0c64ac19381",
-        "serviceConfigId": "56ed0100-1d50-4e91-9a1a-911c30e16979",
-        "windowsPhoneProductId": null,
-        "name": "Zombie Driver Ultimate Edition",
-        "type": "Game",
-        "devices": [
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.22507.71022551694782528.780e0a86-b958-4c1d-8d7e-946e84ecb082.de80d75e-b179-4527-9e1c-ed3c79f6b99a",
-        "mediaItemType": "Application",
-        "modernTitleId": "820078969",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 2000,
-          "progressPercentage": 0,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-05-02T21:55:31.6716345Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
       }
     ]
   },

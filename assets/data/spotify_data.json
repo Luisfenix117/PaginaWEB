@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-04T13:22:17.392Z",
+  "last_updated": "2026-05-04T17:46:57.148Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
-    "range": "medium_term"
+    "range": "short_term"
   },
-  "total": 20,
+  "total": 50,
   "tracks": [
     {
       "title": "Skandal",
@@ -15,39 +15,11 @@
       "spotify_url": "https://open.spotify.com/track/1Ox2hzrDzEXsfuOqy48X5g"
     },
     {
-      "title": "Nobody's Listening",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/1EU3VuKGZOvd1HTkxLPUXK"
-    },
-    {
-      "title": "Spaliny",
-      "artist": "Cool Kids Of Death",
-      "album": "2006",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
-      "spotify_url": "https://open.spotify.com/track/4i0rifiTQtyLV8T0tq8vjC"
-    },
-    {
-      "title": "Don't Stay",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn"
-    },
-    {
-      "title": "To Nie Zdarza Sie Nam",
-      "artist": "Cool Kids Of Death",
-      "album": "2006",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
-      "spotify_url": "https://open.spotify.com/track/7EYdUDhO5zdnwDPynBHyZv"
-    },
-    {
-      "title": "Jedz Sol",
-      "artist": "Cool Kids Of Death",
-      "album": "2006",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
-      "spotify_url": "https://open.spotify.com/track/0J4g4x4BDz0J9DFqN69Ik9"
+      "title": "Flashpoint",
+      "artist": "Jack Grillo And Ricardo Hernandez",
+      "album": "Legendary Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb6042f1742e22f898831c4b",
+      "spotify_url": "https://open.spotify.com/track/2zJHA59LPbolESZOxsLAon"
     },
     {
       "title": "Papercut",
@@ -57,11 +29,67 @@
       "spotify_url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
     },
     {
-      "title": "Hit the Floor",
+      "title": "Paradigm Shift",
+      "artist": "Naoshi Mizuta",
+      "album": "FINAL FANTASY XIII-2 Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736011819525a1d54e78836426",
+      "spotify_url": "https://open.spotify.com/track/2vWEcYBAFGf3PxPl6B7Sem"
+    },
+    {
+      "title": "Spaliny",
+      "artist": "Cool Kids Of Death",
+      "album": "2006",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
+      "spotify_url": "https://open.spotify.com/track/4i0rifiTQtyLV8T0tq8vjC"
+    },
+    {
+      "title": "Nobody's Listening",
       "artist": "Linkin Park",
       "album": "Meteora (Bonus Edition)",
       "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/4wHktoSf6C0C0fAO8IIWqs"
+      "spotify_url": "https://open.spotify.com/track/1EU3VuKGZOvd1HTkxLPUXK"
+    },
+    {
+      "title": "Roll Call",
+      "artist": "Halo, Martin O'Donnell, Michael Salvatori",
+      "album": "Halo 3 (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738020c2a0541047cca540170c",
+      "spotify_url": "https://open.spotify.com/track/1iQArMDAAtrwaDZEvlwf2j"
+    },
+    {
+      "title": "Prywatne życie kasjerki PKP",
+      "artist": "Bielizna",
+      "album": "Bielizna",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739f4d2abcfa6a8c760d8a7581",
+      "spotify_url": "https://open.spotify.com/track/7vNll0nzieQGXu6g4bg7oX"
+    },
+    {
+      "title": "It's Just Business",
+      "artist": "Jack Grillo And Ricardo Hernandez",
+      "album": "Legendary Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb6042f1742e22f898831c4b",
+      "spotify_url": "https://open.spotify.com/track/4mupWNfGSQW0XC9qqaMlg6"
+    },
+    {
+      "title": "Polaczenia",
+      "artist": "Kombajn do zbierania kur po wioskach",
+      "album": "Osme pietro",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734b7aa629c1b58e9e26e25225",
+      "spotify_url": "https://open.spotify.com/track/0cWDKTHUND06wOeFeRcdGT"
+    },
+    {
+      "title": "Shut Me Up",
+      "artist": "Mindless Self Indulgence",
+      "album": "You'll Rebel to Anything (Expanded and Remastered 2008)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27386bddc6359ffef0f9c51e56e",
+      "spotify_url": "https://open.spotify.com/track/3oZUlZMXkj51AyYG8lGaE7"
+    },
+    {
+      "title": "Is Anybody There",
+      "artist": "Jack Grillo And Ricardo Hernandez",
+      "album": "Legendary Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb6042f1742e22f898831c4b",
+      "spotify_url": "https://open.spotify.com/track/4ZVlLJc8dhOItPnfGseSlw"
     },
     {
       "title": "Lying from You",
@@ -71,60 +99,60 @@
       "spotify_url": "https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1"
     },
     {
-      "title": "Somewhere I Belong",
+      "title": "The Wings of Victory",
+      "artist": "Ajurika",
+      "album": "Eternal Scar (Goddess of Victory: NIKKE Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736ec635d42ea8ffe6cf6db0d8",
+      "spotify_url": "https://open.spotify.com/track/02syqrrdwPdWbPN8G6D8FO"
+    },
+    {
+      "title": "Headstrong",
+      "artist": "Trapt",
+      "album": "Trapt",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fef4fd3b440eede03ee1330e",
+      "spotify_url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
+    },
+    {
+      "title": "With You",
       "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx"
+      "album": "Hybrid Theory (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
+      "spotify_url": "https://open.spotify.com/track/5uuXtfqM7Wp3idCxyHeOll"
     },
     {
-      "title": "Faint",
-      "artist": "Linkin Park",
-      "album": "Meteora",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b",
-      "spotify_url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
+      "title": "Ocho horas",
+      "artist": "CME Crew",
+      "album": "La Yoyis todos los días escucha rap",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342cd988d79c4ac2a14b27af4",
+      "spotify_url": "https://open.spotify.com/track/1noqOuzyIJ37r4CcrA9bNt"
     },
     {
-      "title": "404",
-      "artist": "milkypossum",
-      "album": "7STAGES",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f87907945821aca8b0984994",
-      "spotify_url": "https://open.spotify.com/track/4vrZhUgunb6QgDte14Izcg"
+      "title": "Enemy of My Enemy",
+      "artist": "Jack Grillo And Ricardo Hernandez",
+      "album": "Legendary Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb6042f1742e22f898831c4b",
+      "spotify_url": "https://open.spotify.com/track/21u2KVCNgF5DuZxW8beHxA"
     },
     {
-      "title": "Disko Dla Wrazliwej Mlodziezy",
+      "title": "All Fall Down",
+      "artist": "Jack Grillo And Ricardo Hernandez",
+      "album": "Legendary Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb6042f1742e22f898831c4b",
+      "spotify_url": "https://open.spotify.com/track/5aShnommk0yyQDcnq4tKbu"
+    },
+    {
+      "title": "SAKASAMA Girl Feeling",
+      "artist": "稲葉曇",
+      "album": "ANTICYCLONE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c2a3af824b7dd8cafae97e",
+      "spotify_url": "https://open.spotify.com/track/6gcRGre36WBCBhUz32iVlq"
+    },
+    {
+      "title": "To Nie Zdarza Sie Nam",
       "artist": "Cool Kids Of Death",
       "album": "2006",
       "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
-      "spotify_url": "https://open.spotify.com/track/6B2HcbxH29uxAdyAHWvtWA"
-    },
-    {
-      "title": "Megapixel",
-      "artist": "Cool Kids Of Death",
-      "album": "2006",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
-      "spotify_url": "https://open.spotify.com/track/7xq832Osi8A2W3KlJdiImQ"
-    },
-    {
-      "title": "100 Lat",
-      "artist": "Cool Kids Of Death",
-      "album": "2006",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
-      "spotify_url": "https://open.spotify.com/track/6WECUb43kmKIShcrha0Yxh"
-    },
-    {
-      "title": "Figure.09",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/0rPTPahzhGx9LSzI8XX5OM"
-    },
-    {
-      "title": "Hej Chlopcze",
-      "artist": "Cool Kids Of Death",
-      "album": "2006",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
-      "spotify_url": "https://open.spotify.com/track/7qm0j26jKPKbgxAPjCcFwY"
+      "spotify_url": "https://open.spotify.com/track/7EYdUDhO5zdnwDPynBHyZv"
     },
     {
       "title": "Breaking the Habit",
@@ -134,11 +162,67 @@
       "spotify_url": "https://open.spotify.com/track/3dxiWIBVJRlqh9xk144rf4"
     },
     {
-      "title": "From the Inside",
+      "title": "404",
+      "artist": "milkypossum",
+      "album": "7STAGES",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f87907945821aca8b0984994",
+      "spotify_url": "https://open.spotify.com/track/4vrZhUgunb6QgDte14Izcg"
+    },
+    {
+      "title": "Plains of Eternity",
+      "artist": "Joelle",
+      "album": "FINAL FANTASY XIII-2 Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736011819525a1d54e78836426",
+      "spotify_url": "https://open.spotify.com/track/0gp5D3qcl0u74WUEILRkOT"
+    },
+    {
+      "title": "All Alone",
+      "artist": "Jack Grillo And Ricardo Hernandez",
+      "album": "Legendary Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb6042f1742e22f898831c4b",
+      "spotify_url": "https://open.spotify.com/track/5NOY3k46gKPQkonq5h9Y37"
+    },
+    {
+      "title": "Somewhere I Belong",
       "artist": "Linkin Park",
       "album": "Meteora (Bonus Edition)",
       "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ"
+      "spotify_url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx"
+    },
+    {
+      "title": "One Step Closer",
+      "artist": "Linkin Park",
+      "album": "Hybrid Theory (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
+      "spotify_url": "https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4"
+    },
+    {
+      "title": "Faint",
+      "artist": "Linkin Park",
+      "album": "Meteora",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b",
+      "spotify_url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
+    },
+    {
+      "title": "Crawling",
+      "artist": "Linkin Park",
+      "album": "Hybrid Theory (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
+      "spotify_url": "https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"
+    },
+    {
+      "title": "I Want You",
+      "artist": "Savage Garden",
+      "album": "Savage Garden (Original Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aa5ebc681f9b8a07fd8274e6",
+      "spotify_url": "https://open.spotify.com/track/13SKWUEst7c0WohbwPAJJT"
+    },
+    {
+      "title": "BUG",
+      "artist": "Kairikibear",
+      "album": "BUG",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b4536bbcc18e172b3602a2a",
+      "spotify_url": "https://open.spotify.com/track/1fqfev7K0mfX7e1W64pDvA"
     },
     {
       "title": "Numb",
@@ -146,6 +230,132 @@
       "album": "Meteora",
       "image": "https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b",
       "spotify_url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
+    },
+    {
+      "title": "Bez końca",
+      "artist": "Siekiera",
+      "album": "Nowa Aleksandria",
+      "image": "https://i.scdn.co/image/ab67616d0000b27379a6ba6740c5db74e5433bf5",
+      "spotify_url": "https://open.spotify.com/track/4JAHOzldH1kVXYw1L1iK0M"
+    },
+    {
+      "title": "Hit the Floor",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/4wHktoSf6C0C0fAO8IIWqs"
+    },
+    {
+      "title": "綱渡り (feat. 巡音ルカ&メグッポイド)",
+      "artist": "otetsu",
+      "album": "LENS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d23e153a301bf0b08e5fb53b",
+      "spotify_url": "https://open.spotify.com/track/54P6vG4Rq705LOcfnAWUaH"
+    },
+    {
+      "title": "AM FM",
+      "artist": "Vertigoaway",
+      "album": "Agaki Home Radio",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b474d976b8d02670f5b1aac6",
+      "spotify_url": "https://open.spotify.com/track/5yOXhTFrNpJHbC2zZN3jzu"
+    },
+    {
+      "title": "Prince Of Darkness - Remastered 2004",
+      "artist": "Megadeth",
+      "album": "Risk (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e3cad5e9f4f92df63716bc33",
+      "spotify_url": "https://open.spotify.com/track/61L6xSR4n5cADuMqpCUOse"
+    },
+    {
+      "title": "Points of Authority / 99 Problems / One Step Closer",
+      "artist": "JAŸ-Z, Linkin Park",
+      "album": "Collision Course",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d3acd0f2186daa8e4cb0f65b",
+      "spotify_url": "https://open.spotify.com/track/65eohvrL4ttjA7EfFkQOhX"
+    },
+    {
+      "title": "glass (shattered everywhere)",
+      "artist": "Vertigoaway",
+      "album": "das epos hohlraum",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1e401887d493ff4cea50e76",
+      "spotify_url": "https://open.spotify.com/track/6l2t7xhXLmsPl6IusxUAtx"
+    },
+    {
+      "title": "An image in the making",
+      "artist": "稲葉曇",
+      "album": "ANTICYCLONE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c2a3af824b7dd8cafae97e",
+      "spotify_url": "https://open.spotify.com/track/6oFgEbMswPU2ELlYBHmKLz"
+    },
+    {
+      "title": "Downfall",
+      "artist": "TRUSTcompany",
+      "album": "The Lonely Position Of Neutral",
+      "image": "https://i.scdn.co/image/ab67616d0000b27388b917f8858ff133bf8ab09a",
+      "spotify_url": "https://open.spotify.com/track/76xddM2irVQCbuBoVbaElZ"
+    },
+    {
+      "title": "シンクタンク",
+      "artist": "稲葉曇, RIME",
+      "album": "音楽的同位体 裏命 1st COMPILATION ALBUM パラノーマル (vol.1 残響のパラノーマル)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273260d02a1eb4982e0114edb81",
+      "spotify_url": "https://open.spotify.com/track/7u4D80x7YHLSOOFPRopioI"
+    },
+    {
+      "title": "Who Do You Voodoo (From Dead Island)",
+      "artist": "Josef \"J7\" Lord, Christopher H. Knight",
+      "album": "Who Do You Voodoo (From Dead Island)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aa1b9568811088be9dd53f50",
+      "spotify_url": "https://open.spotify.com/track/1apH42Wa9c0Iy2X7VZOZr9"
+    },
+    {
+      "title": "Static",
+      "artist": "FLAVOR FOLEY",
+      "album": "Static",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a7c23e5f222c102be66ced1a",
+      "spotify_url": "https://open.spotify.com/track/5rWikNZ8ehUiA3zhz7Rebc"
+    },
+    {
+      "title": "Serious",
+      "artist": "Daron Malakian and Scars On Broadway",
+      "album": "Scars on Broadway",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
+      "spotify_url": "https://open.spotify.com/track/7dbwliCP94bEhVVb7Ap7C9"
+    },
+    {
+      "title": "どうにもとまらない",
+      "artist": "9mm Parabellum Bullet",
+      "album": "命ノゼンマイ",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738649f12be221f53420754d9a",
+      "spotify_url": "https://open.spotify.com/track/1ZpCUCIb7HIRhwJ9pHRxPJ"
+    },
+    {
+      "title": "ド屑",
+      "artist": "NAKISO",
+      "album": "ド屑",
+      "image": "https://i.scdn.co/image/ab67616d0000b27301daee027255fc1b69fbd1f1",
+      "spotify_url": "https://open.spotify.com/track/3DxfcE53Wf89XSftbAffFx"
+    },
+    {
+      "title": "Minotaur!",
+      "artist": "Jack Grillo And Ricardo Hernandez",
+      "album": "Legendary Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb6042f1742e22f898831c4b",
+      "spotify_url": "https://open.spotify.com/track/4uYMJOY3igC1lkyaYrC8iQ"
+    },
+    {
+      "title": "In the End",
+      "artist": "Linkin Park",
+      "album": "Hybrid Theory (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
+      "spotify_url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
+    },
+    {
+      "title": "Full Moon",
+      "artist": "Jack Grillo And Ricardo Hernandez",
+      "album": "Legendary Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb6042f1742e22f898831c4b",
+      "spotify_url": "https://open.spotify.com/track/6IdZdmfsR7FgMHZFC0w5wH"
     }
   ]
 }

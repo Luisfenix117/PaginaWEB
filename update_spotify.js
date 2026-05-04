@@ -33,8 +33,8 @@ async function updateSpotify() {
     const access_token = tokenData.access_token;
 
     // 3. Pedir tus canciones más escuchadas (Top Tracks)
-    // Usamos limit=20 y time_range=medium_term (últimos 6 meses aprox)
-    const url = `https://api.spotify.com/v1/me/top/tracks?time_range=medium_term&limit=20`;
+    // Usamos limit=50 y time_range=short_term (últimos mes aprox)
+    const url = `https://api.spotify.com/v1/me/top/tracks?time_range=short_term&limit=50`;
 
     const response = await fetch(url, {
       headers: { 'Authorization': `Bearer ${access_token}` }
@@ -63,7 +63,7 @@ async function updateSpotify() {
       metadata: {
         engine: "System Sync 2026",
         source: "Spotify Web API",
-        range: "medium_term"
+        range: "short_term"
       },
       total: tracks.length,
       tracks: tracks

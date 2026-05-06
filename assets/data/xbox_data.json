@@ -3,6 +3,50 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1799236568",
+        "pfn": "39EA002F.FF5DF_n746a19ndrrjg",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00006b3e2bd8",
+        "windowsPhoneProductId": null,
+        "name": "FINAL FANTASY V",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.11900.13539872402382388.b924c764-f5ca-49ac-9e31-d5ada1c5b84b.2fa554e2-7136-45e3-80b8-fcb28ebc23c4",
+        "mediaItemType": "Application",
+        "modernTitleId": "1799236568",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 21,
+          "totalAchievements": 0,
+          "currentGamerscore": 350,
+          "totalGamerscore": 1000,
+          "progressPercentage": 35,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-05-05T17:41:48.9433069Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "2118292977",
         "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
@@ -35,50 +79,6 @@
         "images": null,
         "titleHistory": {
           "lastTimePlayed": "2026-05-05T06:52:11.723527Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1799236568",
-        "pfn": "39EA002F.FF5DF_n746a19ndrrjg",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006b3e2bd8",
-        "windowsPhoneProductId": null,
-        "name": "FINAL FANTASY V",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.11900.13539872402382388.b924c764-f5ca-49ac-9e31-d5ada1c5b84b.2fa554e2-7136-45e3-80b8-fcb28ebc23c4",
-        "mediaItemType": "Application",
-        "modernTitleId": "1799236568",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 16,
-          "totalAchievements": 0,
-          "currentGamerscore": 230,
-          "totalGamerscore": 1000,
-          "progressPercentage": 23,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-05-03T22:19:10.2012287Z",
           "visible": true,
           "canHide": true
         },

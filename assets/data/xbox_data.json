@@ -3,6 +3,92 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1628932021",
+        "pfn": "40CD5403.ScottPilgrimEX_jy5ecxfgn3qy8",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-0000611787b5",
+        "windowsPhoneProductId": "a7790f38-b87c-4682-8980-71c3cff9a778",
+        "name": "Scott Pilgrim EX",
+        "type": "Game",
+        "devices": [
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.31399.14086778946224920.3ea99fa3-10c0-43b6-95c6-6b248a707323.111759d9-b903-4c2b-b089-efeb0ad7d6ab",
+        "mediaItemType": "Application",
+        "modernTitleId": "1628932021",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 3,
+          "totalAchievements": 0,
+          "currentGamerscore": 95,
+          "totalGamerscore": 1000,
+          "progressPercentage": 9,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-05-11T07:02:20.6100334Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
+        "titleId": "912199926",
+        "pfn": "1CFD0D18.YetAnotherZombieDefenseHD_h3zys8326q808",
+        "bingId": null,
+        "serviceConfigId": "e5e50100-ddde-4dad-9897-b21a365f10f6",
+        "windowsPhoneProductId": "5ec6f76f-09d7-48ba-b772-33561729e09a",
+        "name": "Yet Another Zombie Defense HD",
+        "type": "Game",
+        "devices": [
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.57647.64724323028014905.4319e58c-e84c-495e-9a84-faf3a0f393a1.6b7876d7-e758-46ee-90e0-819fe4ae4986",
+        "mediaItemType": "Application",
+        "modernTitleId": "912199926",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 7,
+          "totalAchievements": 0,
+          "currentGamerscore": 200,
+          "totalGamerscore": 1000,
+          "progressPercentage": 20,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-05-11T03:53:04.8810954Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
         "titleId": "1775314772",
         "pfn": null,
         "bingId": null,
@@ -42,94 +128,6 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
-      },
-      {
-        "titleId": "2118292977",
-        "pfn": "Embark.arc-raiders_kd876xf6dde24",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
-        "windowsPhoneProductId": null,
-        "name": "ARC Raiders",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
-        "mediaItemType": "Application",
-        "modernTitleId": "2118292977",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 43,
-          "totalAchievements": 0,
-          "currentGamerscore": 810,
-          "totalGamerscore": 1000,
-          "progressPercentage": 81,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-05-10T05:43:56.3288005Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1727852104",
-        "pfn": "39EA002F.FF6DF_n746a19ndrrjg",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000066fcee48",
-        "windowsPhoneProductId": null,
-        "name": "FINAL FANTASY VI",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.30999.13963239069939428.625a335f-7e8c-428e-8629-b822af0d8cc8.59166e05-0600-4e50-83f9-7149b9c79079",
-        "mediaItemType": "Application",
-        "modernTitleId": "1727852104",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 5,
-          "totalAchievements": 0,
-          "currentGamerscore": 65,
-          "totalGamerscore": 1000,
-          "progressPercentage": 6,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-05-10T01:36:08.3084171Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       }
     ]
   },

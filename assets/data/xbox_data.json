@@ -3,82 +3,38 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "2119021593",
-        "pfn": "UnknownWorldsEntertainmen.Subnautica2_bh1f6rvenfkm2",
+        "titleId": "1727852104",
+        "pfn": "39EA002F.FF6DF_n746a19ndrrjg",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007e4db419",
+        "serviceConfigId": "00000000-0000-0000-0000-000066fcee48",
         "windowsPhoneProductId": null,
-        "name": "Subnautica 2 (Game Preview)",
+        "name": "FINAL FANTASY VI",
         "type": "Game",
         "devices": [
           "PC",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.24729.14278055120361213.05cde7c1-588b-4c61-b9b1-c8bb00f314a2.b4373075-30c3-46a4-8528-126d15cbc3bb",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.30999.13963239069939428.625a335f-7e8c-428e-8629-b822af0d8cc8.59166e05-0600-4e50-83f9-7149b9c79079",
         "mediaItemType": "Application",
-        "modernTitleId": "2119021593",
+        "modernTitleId": "1727852104",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 0,
+          "currentAchievements": 6,
           "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
+          "currentGamerscore": 80,
+          "totalGamerscore": 1000,
+          "progressPercentage": 8,
           "sourceVersion": 2
         },
         "stats": {
           "sourceVersion": 1
         },
         "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-05-14T22:49:28.9537713Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "2118292977",
-        "pfn": "Embark.arc-raiders_kd876xf6dde24",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
-        "windowsPhoneProductId": null,
-        "name": "ARC Raiders",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
-        "mediaItemType": "Application",
-        "modernTitleId": "2118292977",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 44,
-          "totalAchievements": 0,
-          "currentGamerscore": 830,
-          "totalGamerscore": 1000,
-          "progressPercentage": 83,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
           "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-05-14T19:16:25.1232684Z",
+          "lastTimePlayed": "2026-05-15T07:25:02.5762628Z",
           "visible": true,
           "canHide": true
         },
@@ -121,7 +77,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-05-12T04:38:05.7412702Z",
+          "lastTimePlayed": "2026-05-15T05:26:35.2341749Z",
           "visible": true,
           "canHide": true
         },
@@ -130,6 +86,50 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
+      },
+      {
+        "titleId": "2119021593",
+        "pfn": "UnknownWorldsEntertainmen.Subnautica2_bh1f6rvenfkm2",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007e4db419",
+        "windowsPhoneProductId": null,
+        "name": "Subnautica 2 (Game Preview)",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.24729.14278055120361213.05cde7c1-588b-4c61-b9b1-c8bb00f314a2.b4373075-30c3-46a4-8528-126d15cbc3bb",
+        "mediaItemType": "Application",
+        "modernTitleId": "2119021593",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-05-14T22:49:28.9537713Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       }
     ]
   },

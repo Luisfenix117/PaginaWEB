@@ -3,6 +3,50 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "2119021593",
+        "pfn": "UnknownWorldsEntertainmen.Subnautica2_bh1f6rvenfkm2",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007e4db419",
+        "windowsPhoneProductId": null,
+        "name": "Subnautica 2 (Game Preview)",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.24729.14278055120361213.05cde7c1-588b-4c61-b9b1-c8bb00f314a2.b4373075-30c3-46a4-8528-126d15cbc3bb",
+        "mediaItemType": "Application",
+        "modernTitleId": "2119021593",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-05-14T22:49:28.9537713Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "2118292977",
         "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
@@ -34,7 +78,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-05-14T04:49:31.368164Z",
+          "lastTimePlayed": "2026-05-14T19:16:25.1232684Z",
           "visible": true,
           "canHide": true
         },
@@ -86,49 +130,6 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
-      },
-      {
-        "titleId": "1628932021",
-        "pfn": "40CD5403.ScottPilgrimEX_jy5ecxfgn3qy8",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-0000611787b5",
-        "windowsPhoneProductId": null,
-        "name": "Scott Pilgrim EX",
-        "type": "Game",
-        "devices": [
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.31399.14086778946224920.3ea99fa3-10c0-43b6-95c6-6b248a707323.111759d9-b903-4c2b-b089-efeb0ad7d6ab",
-        "mediaItemType": "Application",
-        "modernTitleId": "1628932021",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 3,
-          "totalAchievements": 0,
-          "currentGamerscore": 95,
-          "totalGamerscore": 1000,
-          "progressPercentage": 9,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 3
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-05-11T07:02:20.6100334Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
       }
     ]
   },

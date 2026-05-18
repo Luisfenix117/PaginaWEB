@@ -3,6 +3,50 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "2118292977",
+        "pfn": "Embark.arc-raiders_kd876xf6dde24",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
+        "windowsPhoneProductId": null,
+        "name": "ARC Raiders",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
+        "mediaItemType": "Application",
+        "modernTitleId": "2118292977",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 45,
+          "totalAchievements": 0,
+          "currentGamerscore": 870,
+          "totalGamerscore": 1000,
+          "progressPercentage": 87,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-05-18T14:17:21.2894708Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "2119021593",
         "pfn": "UnknownWorldsEntertainmen.Subnautica2_bh1f6rvenfkm2",
         "bingId": null,
@@ -35,50 +79,6 @@
         "images": null,
         "titleHistory": {
           "lastTimePlayed": "2026-05-17T22:04:42.6020772Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "2118292977",
-        "pfn": "Embark.arc-raiders_kd876xf6dde24",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
-        "windowsPhoneProductId": null,
-        "name": "ARC Raiders",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
-        "mediaItemType": "Application",
-        "modernTitleId": "2118292977",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 45,
-          "totalAchievements": 0,
-          "currentGamerscore": 870,
-          "totalGamerscore": 1000,
-          "progressPercentage": 87,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-05-17T21:27:49.2354738Z",
           "visible": true,
           "canHide": true
         },

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T02:15:45.211Z",
+  "last_updated": "2026-05-18T14:53:44.984Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -99,11 +99,25 @@
       "spotify_url": "https://open.spotify.com/track/1Z7v4XhpTusum8jKehKmAw"
     },
     {
+      "title": "Trust - Spanish Version",
+      "artist": "Megadeth",
+      "album": "Cryptic Writings (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
+      "spotify_url": "https://open.spotify.com/track/5ZxTp77CDwH2coZV7oHmlQ"
+    },
+    {
       "title": "シンクタンク",
       "artist": "稲葉曇, RIME",
       "album": "音楽的同位体 裏命 1st COMPILATION ALBUM パラノーマル (vol.1 残響のパラノーマル)",
       "image": "https://i.scdn.co/image/ab67616d0000b273260d02a1eb4982e0114edb81",
       "spotify_url": "https://open.spotify.com/track/7u4D80x7YHLSOOFPRopioI"
+    },
+    {
+      "title": "Prince Of Darkness - Remastered 2004",
+      "artist": "Megadeth",
+      "album": "Risk (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e3cad5e9f4f92df63716bc33",
+      "spotify_url": "https://open.spotify.com/track/61L6xSR4n5cADuMqpCUOse"
     },
     {
       "title": "未来世紀(秘)クラブ",
@@ -148,11 +162,11 @@
       "spotify_url": "https://open.spotify.com/track/4RDLqtYDoD4TGITzFiNZeb"
     },
     {
-      "title": "Trust - Spanish Version",
+      "title": "She-Wolf - Remastered 2004 / Remixed",
       "artist": "Megadeth",
       "album": "Cryptic Writings (Expanded Edition - Remastered)",
       "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/5ZxTp77CDwH2coZV7oHmlQ"
+      "spotify_url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo"
     },
     {
       "title": "Kill Rock 'n Roll",
@@ -218,13 +232,6 @@
       "spotify_url": "https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX"
     },
     {
-      "title": "Prince Of Darkness - Remastered 2004",
-      "artist": "Megadeth",
-      "album": "Risk (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e3cad5e9f4f92df63716bc33",
-      "spotify_url": "https://open.spotify.com/track/61L6xSR4n5cADuMqpCUOse"
-    },
-    {
       "title": "yume no manimani",
       "artist": "Siinamota",
       "album": "yume no manimani",
@@ -274,6 +281,13 @@
       "spotify_url": "https://open.spotify.com/track/52F89LJHMbXMdFNDfnm8KK"
     },
     {
+      "title": "Holy Wars...The Punishment Due - 2004 Remix",
+      "artist": "Megadeth",
+      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
+      "spotify_url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS"
+    },
+    {
       "title": "Hollow Men",
       "artist": "黒崎真音",
       "album": "H.O.T.D.",
@@ -316,13 +330,6 @@
       "spotify_url": "https://open.spotify.com/track/4E5xVW505akJX0wcKj8Mpd"
     },
     {
-      "title": "She-Wolf - Remastered 2004 / Remixed",
-      "artist": "Megadeth",
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo"
-    },
-    {
       "title": "The Wings of Victory",
       "artist": "Ajurika",
       "album": "Eternal Scar (Goddess of Victory: NIKKE Original Soundtrack)",
@@ -349,13 +356,6 @@
       "album": "Hypnotize",
       "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
       "spotify_url": "https://open.spotify.com/track/0dgCqrI14Oe3nqGLS3qbzJ"
-    },
-    {
-      "title": "44 Minutes",
-      "artist": "Megadeth",
-      "album": "Endgame",
-      "image": "https://i.scdn.co/image/ab67616d0000b27352103e45f70508a143245023",
-      "spotify_url": "https://open.spotify.com/track/0sT1eVQVyJ7Ruqo89yLmOJ"
     }
   ]
 }

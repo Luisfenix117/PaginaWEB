@@ -3,50 +3,6 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "2119021593",
-        "pfn": "UnknownWorldsEntertainmen.Subnautica2_bh1f6rvenfkm2",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007e4db419",
-        "windowsPhoneProductId": null,
-        "name": "Subnautica 2 (Game Preview)",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.24729.14278055120361213.05cde7c1-588b-4c61-b9b1-c8bb00f314a2.b4373075-30c3-46a4-8528-126d15cbc3bb",
-        "mediaItemType": "Application",
-        "modernTitleId": "2119021593",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-05-22T01:37:49.0283502Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
         "titleId": "2118292977",
         "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
@@ -78,7 +34,51 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-05-21T19:18:08.2527723Z",
+          "lastTimePlayed": "2026-05-22T06:24:07.7159652Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "2119021593",
+        "pfn": "UnknownWorldsEntertainmen.Subnautica2_bh1f6rvenfkm2",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007e4db419",
+        "windowsPhoneProductId": null,
+        "name": "Subnautica 2 (Game Preview)",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.24729.14278055120361213.05cde7c1-588b-4c61-b9b1-c8bb00f314a2.b4373075-30c3-46a4-8528-126d15cbc3bb",
+        "mediaItemType": "Application",
+        "modernTitleId": "2119021593",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-05-22T02:35:57.2633417Z",
           "visible": true,
           "canHide": true
         },

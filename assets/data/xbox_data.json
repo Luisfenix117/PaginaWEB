@@ -3,6 +3,51 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1714795112",
+        "pfn": "BethesdaSoftworks.Osiris2.0_3275kfvn8vcwc",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00006635b268",
+        "windowsPhoneProductId": null,
+        "name": "DOOM + DOOM II",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.65308.14594598903877048.bbb5dc7a-5386-4439-89d6-a5136ac0725b.eea5c189-9a6c-4a48-bb66-6965091e5968",
+        "mediaItemType": "Application",
+        "modernTitleId": "1714795112",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 33,
+          "currentGamerscore": 0,
+          "totalGamerscore": 1000,
+          "progressPercentage": 0,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-05-23T19:39:08.0977561Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "2118292977",
         "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
@@ -34,51 +79,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-05-23T05:32:08.5895562Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "2119021593",
-        "pfn": "UnknownWorldsEntertainmen.Subnautica2_bh1f6rvenfkm2",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007e4db419",
-        "windowsPhoneProductId": null,
-        "name": "Subnautica 2 (Game Preview)",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.24729.14278055120361213.05cde7c1-588b-4c61-b9b1-c8bb00f314a2.b4373075-30c3-46a4-8528-126d15cbc3bb",
-        "mediaItemType": "Application",
-        "modernTitleId": "2119021593",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-05-22T02:35:57.2633417Z",
+          "lastTimePlayed": "2026-05-23T18:57:28.5768314Z",
           "visible": true,
           "canHide": true
         },
@@ -121,7 +122,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-05-21T06:57:20.3830075Z",
+          "lastTimePlayed": "2026-05-23T18:29:36.3740957Z",
           "visible": true,
           "canHide": true
         },

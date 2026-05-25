@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T02:30:40.480Z",
+  "last_updated": "2026-05-25T14:33:29.981Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -134,6 +134,13 @@
       "spotify_url": "https://open.spotify.com/track/1Z7v4XhpTusum8jKehKmAw"
     },
     {
+      "title": "The Disintegrators - Remastered 2004 / Remixed",
+      "artist": "Megadeth",
+      "album": "Cryptic Writings (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
+      "spotify_url": "https://open.spotify.com/track/3L9BonXjYpw92WL0N9sOQR"
+    },
+    {
       "title": "Deadly Nightshade",
       "artist": "Megadeth",
       "album": "Th1rt3en",
@@ -190,11 +197,11 @@
       "spotify_url": "https://open.spotify.com/track/6oO7WMjD6kEvCITLbVj0mu"
     },
     {
-      "title": "The Disintegrators - Remastered 2004 / Remixed",
+      "title": "Promises",
       "artist": "Megadeth",
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/3L9BonXjYpw92WL0N9sOQR"
+      "album": "The World Needs a Hero",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739ce39d341464f1b624716601",
+      "spotify_url": "https://open.spotify.com/track/196rNjJkKTjsk2NTEtJKLq"
     },
     {
       "title": "Play for Blood",
@@ -286,13 +293,6 @@
       "album": "Hypnotize",
       "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
       "spotify_url": "https://open.spotify.com/track/11WZXXvGyrtUBp15TtojxA"
-    },
-    {
-      "title": "Promises",
-      "artist": "Megadeth",
-      "album": "The World Needs a Hero",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739ce39d341464f1b624716601",
-      "spotify_url": "https://open.spotify.com/track/196rNjJkKTjsk2NTEtJKLq"
     },
     {
       "title": "Pascal Beats",

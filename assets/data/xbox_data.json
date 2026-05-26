@@ -3,50 +3,6 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "2119021593",
-        "pfn": "UnknownWorldsEntertainmen.Subnautica2_bh1f6rvenfkm2",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007e4db419",
-        "windowsPhoneProductId": null,
-        "name": "Subnautica 2 (Game Preview)",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.24729.14278055120361213.05cde7c1-588b-4c61-b9b1-c8bb00f314a2.b4373075-30c3-46a4-8528-126d15cbc3bb",
-        "mediaItemType": "Application",
-        "modernTitleId": "2119021593",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-05-25T04:44:26.3016093Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
         "titleId": "2118292977",
         "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
@@ -78,7 +34,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-05-25T01:24:50.2457496Z",
+          "lastTimePlayed": "2026-05-26T07:57:08.734508Z",
           "visible": true,
           "canHide": true
         },
@@ -91,38 +47,38 @@
         "isStreamable": true
       },
       {
-        "titleId": "2079757188",
-        "pfn": "Microsoft.ForteBaseGame_8wekyb3d8bbwe",
+        "titleId": "2119021593",
+        "pfn": "UnknownWorldsEntertainmen.Subnautica2_bh1f6rvenfkm2",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007bf69384",
+        "serviceConfigId": "00000000-0000-0000-0000-00007e4db419",
         "windowsPhoneProductId": null,
-        "name": "Forza Horizon 6",
+        "name": "Subnautica 2 (Game Preview)",
         "type": "Game",
         "devices": [
           "PC",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.47378.13758467164481545.c998f207-34a5-4a78-8843-178e2acdf371.a6be6fee-fc3c-4547-9b9a-478ba3fd0d81",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.24729.14278055120361213.05cde7c1-588b-4c61-b9b1-c8bb00f314a2.b4373075-30c3-46a4-8528-126d15cbc3bb",
         "mediaItemType": "Application",
-        "modernTitleId": "2079757188",
+        "modernTitleId": "2119021593",
         "isBundle": false,
         "achievement": {
           "currentAchievements": 0,
-          "totalAchievements": 57,
+          "totalAchievements": 0,
           "currentGamerscore": 0,
-          "totalGamerscore": 1000,
+          "totalGamerscore": 0,
           "progressPercentage": 0,
           "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 3
+          "sourceVersion": 1
         },
         "gamePass": {
           "isGamePass": true
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-05-24T19:53:48.205432Z",
+          "lastTimePlayed": "2026-05-26T04:04:43.7787317Z",
           "visible": true,
           "canHide": true
         },
@@ -133,6 +89,50 @@
         "contentBoards": null,
         "xboxLiveTier": "Full",
         "isStreamable": true
+      },
+      {
+        "titleId": "70786264",
+        "pfn": "HAMSTERCorporation.ACANEOGEOMETALSLUG5_7xd3265gdqs6r",
+        "bingId": null,
+        "serviceConfigId": "75c60100-4022-45f8-94ff-473204381cd8",
+        "windowsPhoneProductId": null,
+        "name": "ACA NEOGEO METAL SLUG 5",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.21774.66197757482710897.a833bd39-fd48-4721-99fe-54da6247b1de.e6aa14ba-a3fc-48d8-993c-255cb4ceb632",
+        "mediaItemType": "Application",
+        "modernTitleId": "70786264",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 8,
+          "totalAchievements": 0,
+          "currentGamerscore": 660,
+          "totalGamerscore": 1000,
+          "progressPercentage": 66,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-05-26T03:24:22.1182426Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
       }
     ]
   },

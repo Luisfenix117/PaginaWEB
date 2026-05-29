@@ -3,112 +3,27 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1775314772",
-        "pfn": null,
+        "titleId": "2068332202",
+        "pfn": "PlayStack.AbioticFactor_3wcqaesafpzfy",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "serviceConfigId": "00000000-0000-0000-0000-00007b483eaa",
         "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
-        "type": "Game",
-        "devices": [
-          "Win32"
-        ],
-        "displayImage": "",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-05-28T13:58:24.9561147Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null
-      },
-      {
-        "titleId": "2118292977",
-        "pfn": "Embark.arc-raiders_kd876xf6dde24",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
-        "windowsPhoneProductId": null,
-        "name": "ARC Raiders",
+        "name": "Abiotic Factor",
         "type": "Game",
         "devices": [
           "PC",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.45428.14585229772819603.06d592a4-a006-4f6e-901f-b18fb39d663a.6c31b5d2-3015-46cf-af4d-1acc5a2fc493",
         "mediaItemType": "Application",
-        "modernTitleId": "2118292977",
+        "modernTitleId": "2068332202",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 45,
+          "currentAchievements": 15,
           "totalAchievements": 0,
-          "currentGamerscore": 870,
+          "currentGamerscore": 190,
           "totalGamerscore": 1000,
-          "progressPercentage": 87,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-05-27T20:36:00.8951722Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "2119021593",
-        "pfn": "UnknownWorldsEntertainmen.Subnautica2_bh1f6rvenfkm2",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007e4db419",
-        "windowsPhoneProductId": null,
-        "name": "Subnautica 2 (Game Preview)",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.24729.14278055120361213.05cde7c1-588b-4c61-b9b1-c8bb00f314a2.b4373075-30c3-46a4-8528-126d15cbc3bb",
-        "mediaItemType": "Application",
-        "modernTitleId": "2119021593",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
+          "progressPercentage": 19,
           "sourceVersion": 2
         },
         "stats": {
@@ -119,7 +34,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-05-26T04:04:43.7787317Z",
+          "lastTimePlayed": "2026-05-29T06:21:22.255182Z",
           "visible": true,
           "canHide": true
         },
@@ -130,6 +45,94 @@
         "contentBoards": null,
         "xboxLiveTier": "Full",
         "isStreamable": true
+      },
+      {
+        "titleId": "267695549",
+        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
+        "bingId": null,
+        "serviceConfigId": "93ac0100-efec-488c-af85-e5850ff4b5bd",
+        "windowsPhoneProductId": null,
+        "name": "Fortnite",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.52197.70702278257994163.68b869af-04bf-4393-8ae6-7bb15e154eea.b8cf9cd9-0fd7-4110-a538-3f7821fa950f",
+        "mediaItemType": "Application",
+        "modernTitleId": "267695549",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 14,
+          "totalAchievements": 0,
+          "currentGamerscore": 170,
+          "totalGamerscore": 1000,
+          "progressPercentage": 17,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-05-29T04:16:40.4083019Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1914565485",
+        "pfn": "GearboxPublishing.RiskofRain_qskmxqknqwqd4",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-0000721df36d",
+        "windowsPhoneProductId": null,
+        "name": "Risk of Rain",
+        "type": "Game",
+        "devices": [
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.32927.14103139940475989.16a966f0-1e46-4edf-9c49-5abc6f5e6116.f6337326-278f-4288-a0a7-61b1a076bf8e",
+        "mediaItemType": "Application",
+        "modernTitleId": "1914565485",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 11,
+          "totalAchievements": 0,
+          "currentGamerscore": 775,
+          "totalGamerscore": 1000,
+          "progressPercentage": 77,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-05-29T04:06:44.295066Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
       }
     ]
   },

@@ -3,27 +3,72 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "2068332202",
-        "pfn": "PlayStack.AbioticFactor_3wcqaesafpzfy",
+        "titleId": "964706972",
+        "pfn": "HelloGames.NoMansSky_bs190hzg1sesy",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007b483eaa",
+        "serviceConfigId": "29070100-b936-489a-bce8-b9af3980429c",
         "windowsPhoneProductId": null,
-        "name": "Abiotic Factor",
+        "name": "No Man's Sky",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.6972.68818099466568894.391e0700-449d-4430-a634-7339176aa70e.6f6fe001-0d83-4624-923c-e5b5d00836c2",
+        "mediaItemType": "Application",
+        "modernTitleId": "964706972",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 17,
+          "totalAchievements": 0,
+          "currentGamerscore": 544,
+          "totalGamerscore": 1000,
+          "progressPercentage": 54,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-05-29T21:42:34.9990538Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1795790912",
+        "pfn": "SecretMode.EscapetheBackrooms_w0mtarpevwbkm",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00006b099840",
+        "windowsPhoneProductId": null,
+        "name": "Escape the Backrooms",
         "type": "Game",
         "devices": [
           "PC",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.45428.14585229772819603.06d592a4-a006-4f6e-901f-b18fb39d663a.6c31b5d2-3015-46cf-af4d-1acc5a2fc493",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.29125.13852861338743544.9de827f6-aba1-46d4-b1da-516d3979d4f0.33ba3dc8-b233-419c-aa25-9e1d2698a025",
         "mediaItemType": "Application",
-        "modernTitleId": "2068332202",
+        "modernTitleId": "1795790912",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 15,
+          "currentAchievements": 4,
           "totalAchievements": 0,
-          "currentGamerscore": 190,
+          "currentGamerscore": 80,
           "totalGamerscore": 1000,
-          "progressPercentage": 19,
+          "progressPercentage": 8,
           "sourceVersion": 2
         },
         "stats": {
@@ -34,7 +79,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-05-29T06:21:22.255182Z",
+          "lastTimePlayed": "2026-05-29T20:17:37.8997249Z",
           "visible": true,
           "canHide": true
         },
@@ -47,39 +92,39 @@
         "isStreamable": true
       },
       {
-        "titleId": "267695549",
-        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
+        "titleId": "2105342780",
+        "pfn": "Microsoft.Maine_8wekyb3d8bbwe",
         "bingId": null,
-        "serviceConfigId": "93ac0100-efec-488c-af85-e5850ff4b5bd",
+        "serviceConfigId": "00000000-0000-0000-0000-00007d7cfb3c",
         "windowsPhoneProductId": null,
-        "name": "Fortnite",
+        "name": "Grounded",
         "type": "Game",
         "devices": [
           "PC",
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.52197.70702278257994163.68b869af-04bf-4393-8ae6-7bb15e154eea.b8cf9cd9-0fd7-4110-a538-3f7821fa950f",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.43675.14280109286674604.0f240f37-6e7f-43b4-bd81-aabc884bc103.0aabbba3-e5f5-4665-9eac-7a9c36f80430",
         "mediaItemType": "Application",
-        "modernTitleId": "267695549",
+        "modernTitleId": "2105342780",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 14,
+          "currentAchievements": 5,
           "totalAchievements": 0,
-          "currentGamerscore": 170,
-          "totalGamerscore": 1000,
-          "progressPercentage": 17,
+          "currentGamerscore": 175,
+          "totalGamerscore": 3300,
+          "progressPercentage": 5,
           "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 2
+          "sourceVersion": 3
         },
         "gamePass": {
           "isGamePass": true
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-05-29T04:16:40.4083019Z",
+          "lastTimePlayed": "2026-05-29T18:35:36.5091832Z",
           "visible": true,
           "canHide": true
         },
@@ -90,49 +135,6 @@
         "contentBoards": null,
         "xboxLiveTier": "Full",
         "isStreamable": true
-      },
-      {
-        "titleId": "1914565485",
-        "pfn": "GearboxPublishing.RiskofRain_qskmxqknqwqd4",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-0000721df36d",
-        "windowsPhoneProductId": null,
-        "name": "Risk of Rain",
-        "type": "Game",
-        "devices": [
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.32927.14103139940475989.16a966f0-1e46-4edf-9c49-5abc6f5e6116.f6337326-278f-4288-a0a7-61b1a076bf8e",
-        "mediaItemType": "Application",
-        "modernTitleId": "1914565485",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 11,
-          "totalAchievements": 0,
-          "currentGamerscore": 775,
-          "totalGamerscore": 1000,
-          "progressPercentage": 77,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 3
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-05-29T04:06:44.295066Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
       }
     ]
   },

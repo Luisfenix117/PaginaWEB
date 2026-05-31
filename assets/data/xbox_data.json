@@ -3,6 +3,49 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1144039928",
+        "pfn": "Microsoft.Chelan_8wekyb3d8bbwe",
+        "bingId": "f33009f4-14ff-4821-94e3-c3573c868c2e",
+        "serviceConfigId": "77290100-225e-4768-9373-98164430a9f8",
+        "windowsPhoneProductId": null,
+        "name": "Halo: la colección Jefe Maestro",
+        "type": "Game",
+        "devices": [
+          "PC"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.14011015795942652.ca67db1b-d21e-47e9-bbb4-5ece2ce3f774.c71a2431-5ef1-4c32-92fa-22cca6162053",
+        "mediaItemType": "Application",
+        "modernTitleId": "1144039928",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 272,
+          "totalAchievements": 0,
+          "currentGamerscore": 2610,
+          "totalGamerscore": 7000,
+          "progressPercentage": 37,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-05-31T06:51:21.9002338Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "2105342780",
         "pfn": "Microsoft.Maine_8wekyb3d8bbwe",
         "bingId": null,
@@ -35,7 +78,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-05-30T15:47:30.2912508Z",
+          "lastTimePlayed": "2026-05-31T03:49:36.5976864Z",
           "visible": true,
           "canHide": true
         },
@@ -48,81 +91,39 @@
         "isStreamable": true
       },
       {
-        "titleId": "2118292977",
-        "pfn": "Embark.arc-raiders_kd876xf6dde24",
+        "titleId": "2001700854",
+        "pfn": "38985CA0.COREBase_5bkah9njm3e9g",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
+        "serviceConfigId": "00000000-0000-0000-0000-0000774f87f6",
         "windowsPhoneProductId": null,
-        "name": "ARC Raiders",
+        "name": "Call of Duty®",
         "type": "Game",
         "devices": [
           "PC",
+          "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.19485.13966330883349940.8c9ea467-652a-4b13-9319-9621a0ac161f.5b9b17db-caf6-4d50-9b10-ddadb115a6f1",
         "mediaItemType": "Application",
-        "modernTitleId": "2118292977",
+        "modernTitleId": "2001700854",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 45,
+          "currentAchievements": 42,
           "totalAchievements": 0,
-          "currentGamerscore": 870,
-          "totalGamerscore": 1000,
-          "progressPercentage": 87,
+          "currentGamerscore": 1030,
+          "totalGamerscore": 4000,
+          "progressPercentage": 25,
           "sourceVersion": 2
         },
         "stats": {
           "sourceVersion": 2
         },
         "gamePass": {
-          "isGamePass": false
+          "isGamePass": true
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-05-30T14:23:58.5831173Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1924639289",
-        "pfn": "SONYINTERACTIVEENTERTAINM.ProjectBackgammon_h8th9h1pernc0",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000072b7aa39",
-        "windowsPhoneProductId": null,
-        "name": "HELLDIVERS™ 2",
-        "type": "Game",
-        "devices": [
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.23407.14538027815579556.2756e2fc-8675-4868-9ffc-be745706c3c0.3973026d-9449-45e7-a1b1-11414e866947",
-        "mediaItemType": "Application",
-        "modernTitleId": "1924639289",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 29,
-          "totalAchievements": 0,
-          "currentGamerscore": 555,
-          "totalGamerscore": 1000,
-          "progressPercentage": 55,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-05-30T14:21:53.8409843Z",
+          "lastTimePlayed": "2026-05-31T03:47:09.4134866Z",
           "visible": true,
           "canHide": true
         },

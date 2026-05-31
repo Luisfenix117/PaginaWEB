@@ -3,69 +3,28 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1775314772",
-        "pfn": null,
+        "titleId": "2105342780",
+        "pfn": "Microsoft.Maine_8wekyb3d8bbwe",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "serviceConfigId": "00000000-0000-0000-0000-00007d7cfb3c",
         "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
-        "type": "Game",
-        "devices": [
-          "Win32"
-        ],
-        "displayImage": "",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-05-30T07:33:11.0707335Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null
-      },
-      {
-        "titleId": "964706972",
-        "pfn": "HelloGames.NoMansSky_bs190hzg1sesy",
-        "bingId": null,
-        "serviceConfigId": "29070100-b936-489a-bce8-b9af3980429c",
-        "windowsPhoneProductId": null,
-        "name": "No Man's Sky",
+        "name": "Grounded",
         "type": "Game",
         "devices": [
           "PC",
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.6972.68818099466568894.391e0700-449d-4430-a634-7339176aa70e.6f6fe001-0d83-4624-923c-e5b5d00836c2",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.43675.14280109286674604.0f240f37-6e7f-43b4-bd81-aabc884bc103.0aabbba3-e5f5-4665-9eac-7a9c36f80430",
         "mediaItemType": "Application",
-        "modernTitleId": "964706972",
+        "modernTitleId": "2105342780",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 17,
+          "currentAchievements": 5,
           "totalAchievements": 0,
-          "currentGamerscore": 544,
-          "totalGamerscore": 1000,
-          "progressPercentage": 54,
+          "currentGamerscore": 175,
+          "totalGamerscore": 3300,
+          "progressPercentage": 5,
           "sourceVersion": 2
         },
         "stats": {
@@ -76,7 +35,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-05-29T21:42:34.9990538Z",
+          "lastTimePlayed": "2026-05-30T15:47:30.2912508Z",
           "visible": true,
           "canHide": true
         },
@@ -89,38 +48,81 @@
         "isStreamable": true
       },
       {
-        "titleId": "1795790912",
-        "pfn": "SecretMode.EscapetheBackrooms_w0mtarpevwbkm",
+        "titleId": "2118292977",
+        "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006b099840",
+        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
         "windowsPhoneProductId": null,
-        "name": "Escape the Backrooms",
+        "name": "ARC Raiders",
         "type": "Game",
         "devices": [
           "PC",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.29125.13852861338743544.9de827f6-aba1-46d4-b1da-516d3979d4f0.33ba3dc8-b233-419c-aa25-9e1d2698a025",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
         "mediaItemType": "Application",
-        "modernTitleId": "1795790912",
+        "modernTitleId": "2118292977",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 4,
+          "currentAchievements": 45,
           "totalAchievements": 0,
-          "currentGamerscore": 80,
+          "currentGamerscore": 870,
           "totalGamerscore": 1000,
-          "progressPercentage": 8,
+          "progressPercentage": 87,
           "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 1
+          "sourceVersion": 2
         },
         "gamePass": {
-          "isGamePass": true
+          "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-05-29T20:17:37.8997249Z",
+          "lastTimePlayed": "2026-05-30T14:23:58.5831173Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1924639289",
+        "pfn": "SONYINTERACTIVEENTERTAINM.ProjectBackgammon_h8th9h1pernc0",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000072b7aa39",
+        "windowsPhoneProductId": null,
+        "name": "HELLDIVERS™ 2",
+        "type": "Game",
+        "devices": [
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.23407.14538027815579556.2756e2fc-8675-4868-9ffc-be745706c3c0.3973026d-9449-45e7-a1b1-11414e866947",
+        "mediaItemType": "Application",
+        "modernTitleId": "1924639289",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 29,
+          "totalAchievements": 0,
+          "currentGamerscore": 555,
+          "totalGamerscore": 1000,
+          "progressPercentage": 55,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-05-30T14:21:53.8409843Z",
           "visible": true,
           "canHide": true
         },

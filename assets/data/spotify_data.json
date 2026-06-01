@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T02:41:01.911Z",
+  "last_updated": "2026-06-01T17:17:02.316Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -113,18 +113,18 @@
       "spotify_url": "https://open.spotify.com/track/5ZxTp77CDwH2coZV7oHmlQ"
     },
     {
+      "title": "Dread and the Fugitive Mind",
+      "artist": "Megadeth",
+      "album": "The World Needs a Hero",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739ce39d341464f1b624716601",
+      "spotify_url": "https://open.spotify.com/track/5ThljNlaUX5zNgNWBmanmG"
+    },
+    {
       "title": "She-Wolf - Remastered 2004 / Remixed",
       "artist": "Megadeth",
       "album": "Cryptic Writings (Expanded Edition - Remastered)",
       "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
       "spotify_url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo"
-    },
-    {
-      "title": "Hope Café",
-      "artist": "Jamie Paige",
-      "album": "Hope Café",
-      "image": "https://i.scdn.co/image/ab67616d0000b27362903b10b347dcd24233667c",
-      "spotify_url": "https://open.spotify.com/track/0AHevigrvo5dBfC2CaJahd"
     },
     {
       "title": "yume no manimani",
@@ -148,13 +148,6 @@
       "spotify_url": "https://open.spotify.com/track/52F89LJHMbXMdFNDfnm8KK"
     },
     {
-      "title": "Trust - Remastered 2004 / Remixed",
-      "artist": "Megadeth",
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/5emb8RDOZtpXlw6D0eEQbz"
-    },
-    {
       "title": "The Sick, The Dying… And The Dead!",
       "artist": "Megadeth",
       "album": "The Sick, The Dying… And The Dead!",
@@ -169,11 +162,11 @@
       "spotify_url": "https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh"
     },
     {
-      "title": "Kill Rock 'n Roll",
-      "artist": "System Of A Down",
-      "album": "Hypnotize",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
-      "spotify_url": "https://open.spotify.com/track/28TReO2Mxk9Q3GA4K98YSz"
+      "title": "Trust - Remastered 2004 / Remixed",
+      "artist": "Megadeth",
+      "album": "Cryptic Writings (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
+      "spotify_url": "https://open.spotify.com/track/5emb8RDOZtpXlw6D0eEQbz"
     },
     {
       "title": "Lost Umbrella",
@@ -188,13 +181,6 @@
       "album": "Cryptic Writings (Expanded Edition - Remastered)",
       "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
       "spotify_url": "https://open.spotify.com/track/3L9BonXjYpw92WL0N9sOQR"
-    },
-    {
-      "title": "Dreaming",
-      "artist": "System Of A Down",
-      "album": "Hypnotize",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
-      "spotify_url": "https://open.spotify.com/track/4uCfGqrF2OHcav71k0bk9D"
     },
     {
       "title": "Promises",
@@ -225,18 +211,25 @@
       "spotify_url": "https://open.spotify.com/track/4bdwEiJuBhWIkPKSVjyjiA"
     },
     {
-      "title": "Dread and the Fugitive Mind",
-      "artist": "Megadeth",
-      "album": "The World Needs a Hero",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739ce39d341464f1b624716601",
-      "spotify_url": "https://open.spotify.com/track/5ThljNlaUX5zNgNWBmanmG"
-    },
-    {
       "title": "愛して 愛して 愛して",
       "artist": "Kikuo",
       "album": "きくおミク3",
       "image": "https://i.scdn.co/image/ab67616d0000b273d1bd3a0ccc3fe60f8d6941ca",
       "spotify_url": "https://open.spotify.com/track/3ty4jnVIJ9My8ZnXFMc0Fg"
+    },
+    {
+      "title": "Hope Café",
+      "artist": "Jamie Paige",
+      "album": "Hope Café",
+      "image": "https://i.scdn.co/image/ab67616d0000b27362903b10b347dcd24233667c",
+      "spotify_url": "https://open.spotify.com/track/0AHevigrvo5dBfC2CaJahd"
+    },
+    {
+      "title": "Tornado Of Souls - 2004 Remix",
+      "artist": "Megadeth",
+      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
+      "spotify_url": "https://open.spotify.com/track/4E5xVW505akJX0wcKj8Mpd"
     },
     {
       "title": "RTRT",
@@ -253,6 +246,13 @@
       "spotify_url": "https://open.spotify.com/track/62cMBIOpINAOlVwe2jSUsZ"
     },
     {
+      "title": "Kill Rock 'n Roll",
+      "artist": "System Of A Down",
+      "album": "Hypnotize",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
+      "spotify_url": "https://open.spotify.com/track/28TReO2Mxk9Q3GA4K98YSz"
+    },
+    {
       "title": "失敗作少女 - 稲葉曇 Remix",
       "artist": "Kairikibear, 稲葉曇",
       "album": "ベノマ",
@@ -260,11 +260,11 @@
       "spotify_url": "https://open.spotify.com/track/5nDCSYZDGnaVPeHnK1zl2F"
     },
     {
-      "title": "Hypnotize",
+      "title": "Dreaming",
       "artist": "System Of A Down",
       "album": "Hypnotize",
       "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
-      "spotify_url": "https://open.spotify.com/track/6oO7WMjD6kEvCITLbVj0mu"
+      "spotify_url": "https://open.spotify.com/track/4uCfGqrF2OHcav71k0bk9D"
     },
     {
       "title": "44 Minutes",
@@ -295,13 +295,6 @@
       "spotify_url": "https://open.spotify.com/track/7u4D80x7YHLSOOFPRopioI"
     },
     {
-      "title": "Tornado Of Souls - 2004 Remix",
-      "artist": "Megadeth",
-      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
-      "spotify_url": "https://open.spotify.com/track/4E5xVW505akJX0wcKj8Mpd"
-    },
-    {
       "title": "Holy Wars...The Punishment Due - 2004 Remix",
       "artist": "Megadeth",
       "album": "Rust In Peace (2004 Remix / Expanded Edition)",
@@ -316,18 +309,18 @@
       "spotify_url": "https://open.spotify.com/track/6mSrN8nCiUBldL1UN3wFri"
     },
     {
-      "title": "Stealing Society",
-      "artist": "System Of A Down",
-      "album": "Hypnotize",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
-      "spotify_url": "https://open.spotify.com/track/0ELxqqeeisigIJhN6dsNHI"
-    },
-    {
       "title": "Peace Sells - Remastered",
       "artist": "Megadeth",
       "album": "Peace Sells...But Who's Buying (Deluxe Edition - Remastered)",
       "image": "https://i.scdn.co/image/ab67616d0000b2730f783e735d0f43f071109a90",
       "spotify_url": "https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX"
+    },
+    {
+      "title": "Hypnotize",
+      "artist": "System Of A Down",
+      "album": "Hypnotize",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
+      "spotify_url": "https://open.spotify.com/track/6oO7WMjD6kEvCITLbVj0mu"
     },
     {
       "title": "Sexy Sexy,",
@@ -356,6 +349,13 @@
       "album": "Vol.2 Se Tambalea",
       "image": "https://i.scdn.co/image/ab67616d0000b273129382653ebe244f1d8967f4",
       "spotify_url": "https://open.spotify.com/track/0BxhBCVQ0MLTEmffNVSGq7"
+    },
+    {
+      "title": "Me Duele Estar Solo",
+      "artist": "La Mafia",
+      "album": "20th Anniversary Series",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e5308493f96afd7d1b89c70",
+      "spotify_url": "https://open.spotify.com/track/0EbhpgP6Bx7tAHPydzDWSi"
     }
   ]
 }

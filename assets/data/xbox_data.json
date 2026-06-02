@@ -34,7 +34,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-01T19:18:01.8355899Z",
+          "lastTimePlayed": "2026-06-02T14:48:02.0443113Z",
           "visible": true,
           "canHide": true
         },
@@ -45,6 +45,47 @@
         "contentBoards": null,
         "xboxLiveTier": "Full",
         "isStreamable": true
+      },
+      {
+        "titleId": "1775314772",
+        "pfn": null,
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "windowsPhoneProductId": null,
+        "name": "Goddess of Victory: Nikke",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-02T07:38:59.0231071Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null
       },
       {
         "titleId": "2105342780",
@@ -80,49 +121,6 @@
         "images": null,
         "titleHistory": {
           "lastTimePlayed": "2026-06-01T18:19:44.3565868Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1144039928",
-        "pfn": "Microsoft.Chelan_8wekyb3d8bbwe",
-        "bingId": "f33009f4-14ff-4821-94e3-c3573c868c2e",
-        "serviceConfigId": "77290100-225e-4768-9373-98164430a9f8",
-        "windowsPhoneProductId": null,
-        "name": "Halo: la colección Jefe Maestro",
-        "type": "Game",
-        "devices": [
-          "PC"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.14011015795942652.ca67db1b-d21e-47e9-bbb4-5ece2ce3f774.c71a2431-5ef1-4c32-92fa-22cca6162053",
-        "mediaItemType": "Application",
-        "modernTitleId": "1144039928",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 274,
-          "totalAchievements": 0,
-          "currentGamerscore": 2620,
-          "totalGamerscore": 7000,
-          "progressPercentage": 37,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-01T17:14:57.0144598Z",
           "visible": true,
           "canHide": true
         },

@@ -3,39 +3,82 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "2105342780",
-        "pfn": "Microsoft.Maine_8wekyb3d8bbwe",
+        "titleId": "1924639289",
+        "pfn": "SONYINTERACTIVEENTERTAINM.ProjectBackgammon_h8th9h1pernc0",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007d7cfb3c",
+        "serviceConfigId": "00000000-0000-0000-0000-000072b7aa39",
         "windowsPhoneProductId": null,
-        "name": "Grounded",
+        "name": "HELLDIVERS™ 2",
+        "type": "Game",
+        "devices": [
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.23407.14538027815579556.2756e2fc-8675-4868-9ffc-be745706c3c0.3973026d-9449-45e7-a1b1-11414e866947",
+        "mediaItemType": "Application",
+        "modernTitleId": "1924639289",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 29,
+          "totalAchievements": 0,
+          "currentGamerscore": 555,
+          "totalGamerscore": 1000,
+          "progressPercentage": 55,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-04T02:33:36.6501746Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "2001700854",
+        "pfn": "38985CA0.COREBase_5bkah9njm3e9g",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-0000774f87f6",
+        "windowsPhoneProductId": null,
+        "name": "Call of Duty®",
         "type": "Game",
         "devices": [
           "PC",
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.43675.14280109286674604.0f240f37-6e7f-43b4-bd81-aabc884bc103.0aabbba3-e5f5-4665-9eac-7a9c36f80430",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.19485.13966330883349940.8c9ea467-652a-4b13-9319-9621a0ac161f.5b9b17db-caf6-4d50-9b10-ddadb115a6f1",
         "mediaItemType": "Application",
-        "modernTitleId": "2105342780",
+        "modernTitleId": "2001700854",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 6,
+          "currentAchievements": 42,
           "totalAchievements": 0,
-          "currentGamerscore": 200,
-          "totalGamerscore": 3300,
-          "progressPercentage": 6,
+          "currentGamerscore": 1030,
+          "totalGamerscore": 4000,
+          "progressPercentage": 25,
           "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 3
+          "sourceVersion": 2
         },
         "gamePass": {
           "isGamePass": true
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-03T01:58:03.4333686Z",
+          "lastTimePlayed": "2026-06-04T02:11:15.9020616Z",
           "visible": true,
           "canHide": true
         },
@@ -48,38 +91,37 @@
         "isStreamable": true
       },
       {
-        "titleId": "2118292977",
-        "pfn": "Embark.arc-raiders_kd876xf6dde24",
+        "titleId": "1775314772",
+        "pfn": null,
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
+        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
         "windowsPhoneProductId": null,
-        "name": "ARC Raiders",
+        "name": "Goddess of Victory: Nikke",
         "type": "Game",
         "devices": [
-          "PC",
-          "XboxSeries"
+          "Win32"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
+        "displayImage": "",
         "mediaItemType": "Application",
-        "modernTitleId": "2118292977",
+        "modernTitleId": null,
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 45,
+          "currentAchievements": 0,
           "totalAchievements": 0,
-          "currentGamerscore": 870,
-          "totalGamerscore": 1000,
-          "progressPercentage": 87,
-          "sourceVersion": 2
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
         },
         "stats": {
-          "sourceVersion": 2
+          "sourceVersion": 0
         },
         "gamePass": {
           "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-03T01:40:51.2500435Z",
+          "lastTimePlayed": "2026-06-03T20:22:03.2660924Z",
           "visible": true,
           "canHide": true
         },
@@ -87,53 +129,7 @@
         "detail": null,
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "70786264",
-        "pfn": "HAMSTERCorporation.ACANEOGEOMETALSLUG5_7xd3265gdqs6r",
-        "bingId": null,
-        "serviceConfigId": "75c60100-4022-45f8-94ff-473204381cd8",
-        "windowsPhoneProductId": null,
-        "name": "ACA NEOGEO METAL SLUG 5",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.21774.66197757482710897.a833bd39-fd48-4721-99fe-54da6247b1de.e6aa14ba-a3fc-48d8-993c-255cb4ceb632",
-        "mediaItemType": "Application",
-        "modernTitleId": "70786264",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 8,
-          "totalAchievements": 0,
-          "currentGamerscore": 660,
-          "totalGamerscore": 1000,
-          "progressPercentage": 66,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-02T23:37:15.0992279Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
+        "contentBoards": null
       }
     ]
   },

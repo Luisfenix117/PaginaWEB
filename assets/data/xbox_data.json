@@ -3,39 +3,37 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "2105342780",
-        "pfn": "Microsoft.Maine_8wekyb3d8bbwe",
+        "titleId": "2079436024",
+        "pfn": null,
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007d7cfb3c",
+        "serviceConfigId": "00000000-0000-0000-0000-00007bf1acf8",
         "windowsPhoneProductId": null,
-        "name": "Grounded",
+        "name": "TBH: Task Bar Hero",
         "type": "Game",
         "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
+          "Win32"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.43675.14280109286674604.0f240f37-6e7f-43b4-bd81-aabc884bc103.0aabbba3-e5f5-4665-9eac-7a9c36f80430",
+        "displayImage": "",
         "mediaItemType": "Application",
-        "modernTitleId": "2105342780",
+        "modernTitleId": null,
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 6,
+          "currentAchievements": 0,
           "totalAchievements": 0,
-          "currentGamerscore": 200,
-          "totalGamerscore": 3300,
-          "progressPercentage": 6,
-          "sourceVersion": 2
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
         },
         "stats": {
-          "sourceVersion": 3
+          "sourceVersion": 0
         },
         "gamePass": {
-          "isGamePass": true
+          "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-04T03:36:12.398005Z",
+          "lastTimePlayed": "2026-06-05T02:08:12.5757151Z",
           "visible": true,
           "canHide": true
         },
@@ -43,9 +41,7 @@
         "detail": null,
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
+        "contentBoards": null
       },
       {
         "titleId": "2118292977",
@@ -79,7 +75,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-04T03:11:46.5958852Z",
+          "lastTimePlayed": "2026-06-04T17:40:27.9294729Z",
           "visible": true,
           "canHide": true
         },
@@ -92,26 +88,26 @@
         "isStreamable": true
       },
       {
-        "titleId": "1924639289",
-        "pfn": "SONYINTERACTIVEENTERTAINM.ProjectBackgammon_h8th9h1pernc0",
+        "titleId": "1876744786",
+        "pfn": "TripwireInteractiveLLC.NightFall_237dqjpew1r3m",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000072b7aa39",
+        "serviceConfigId": "00000000-0000-0000-0000-00006fdcda52",
         "windowsPhoneProductId": null,
-        "name": "HELLDIVERS™ 2",
+        "name": "Killing Floor 3",
         "type": "Game",
         "devices": [
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.23407.14538027815579556.2756e2fc-8675-4868-9ffc-be745706c3c0.3973026d-9449-45e7-a1b1-11414e866947",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.14328.14195706336164156.a9665559-ccc2-4407-874f-7ff1741766ca.d71295b1-8ad3-4c6a-81f6-9a5672b8b2b0",
         "mediaItemType": "Application",
-        "modernTitleId": "1924639289",
+        "modernTitleId": "1876744786",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 29,
+          "currentAchievements": 19,
           "totalAchievements": 0,
-          "currentGamerscore": 555,
-          "totalGamerscore": 1000,
-          "progressPercentage": 55,
+          "currentGamerscore": 270,
+          "totalGamerscore": 1140,
+          "progressPercentage": 23,
           "sourceVersion": 2
         },
         "stats": {
@@ -122,7 +118,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-04T02:33:36.6501746Z",
+          "lastTimePlayed": "2026-06-04T17:12:29.7417499Z",
           "visible": true,
           "canHide": true
         },
@@ -131,8 +127,7 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
+        "xboxLiveTier": "Full"
       }
     ]
   },

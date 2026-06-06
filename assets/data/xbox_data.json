@@ -3,37 +3,39 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "2079436024",
-        "pfn": null,
+        "titleId": "2105342780",
+        "pfn": "Microsoft.Maine_8wekyb3d8bbwe",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007bf1acf8",
+        "serviceConfigId": "00000000-0000-0000-0000-00007d7cfb3c",
         "windowsPhoneProductId": null,
-        "name": "TBH: Task Bar Hero",
+        "name": "Grounded",
         "type": "Game",
         "devices": [
-          "Win32"
+          "PC",
+          "XboxOne",
+          "XboxSeries"
         ],
-        "displayImage": "",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.43675.14280109286674604.0f240f37-6e7f-43b4-bd81-aabc884bc103.0aabbba3-e5f5-4665-9eac-7a9c36f80430",
         "mediaItemType": "Application",
-        "modernTitleId": null,
+        "modernTitleId": "2105342780",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 0,
+          "currentAchievements": 6,
           "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
+          "currentGamerscore": 200,
+          "totalGamerscore": 3300,
+          "progressPercentage": 6,
+          "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 0
+          "sourceVersion": 3
         },
         "gamePass": {
-          "isGamePass": false
+          "isGamePass": true
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-05T02:08:12.5757151Z",
+          "lastTimePlayed": "2026-06-05T23:23:59.9329569Z",
           "visible": true,
           "canHide": true
         },
@@ -41,7 +43,54 @@
         "detail": null,
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
-        "contentBoards": null
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "267695549",
+        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
+        "bingId": null,
+        "serviceConfigId": "93ac0100-efec-488c-af85-e5850ff4b5bd",
+        "windowsPhoneProductId": null,
+        "name": "Fortnite",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.11692.70702278257994163.aa8c9424-8783-4ccc-a55a-a88472ec114e.41d0c1b2-b55e-4cb4-aa8e-4c6d1bf2e6db",
+        "mediaItemType": "Application",
+        "modernTitleId": "267695549",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 14,
+          "totalAchievements": 0,
+          "currentGamerscore": 170,
+          "totalGamerscore": 1000,
+          "progressPercentage": 17,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-05T22:15:41.6225732Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
         "titleId": "2118292977",
@@ -75,7 +124,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-04T17:40:27.9294729Z",
+          "lastTimePlayed": "2026-06-05T22:06:58.8443035Z",
           "visible": true,
           "canHide": true
         },
@@ -86,48 +135,6 @@
         "contentBoards": null,
         "xboxLiveTier": "Full",
         "isStreamable": true
-      },
-      {
-        "titleId": "1876744786",
-        "pfn": "TripwireInteractiveLLC.NightFall_237dqjpew1r3m",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006fdcda52",
-        "windowsPhoneProductId": null,
-        "name": "Killing Floor 3",
-        "type": "Game",
-        "devices": [
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.14328.14195706336164156.a9665559-ccc2-4407-874f-7ff1741766ca.d71295b1-8ad3-4c6a-81f6-9a5672b8b2b0",
-        "mediaItemType": "Application",
-        "modernTitleId": "1876744786",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 19,
-          "totalAchievements": 0,
-          "currentGamerscore": 270,
-          "totalGamerscore": 1140,
-          "progressPercentage": 23,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-04T17:12:29.7417499Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
       }
     ]
   },

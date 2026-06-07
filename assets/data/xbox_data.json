@@ -3,47 +3,6 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "2079436024",
-        "pfn": null,
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007bf1acf8",
-        "windowsPhoneProductId": null,
-        "name": "TBH: Task Bar Hero",
-        "type": "Game",
-        "devices": [
-          "Win32"
-        ],
-        "displayImage": "",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-06T20:18:47.8988284Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null
-      },
-      {
         "titleId": "2105342780",
         "pfn": "Microsoft.Maine_8wekyb3d8bbwe",
         "bingId": null,
@@ -76,7 +35,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-05T23:23:59.9329569Z",
+          "lastTimePlayed": "2026-06-07T05:46:19.6843497Z",
           "visible": true,
           "canHide": true
         },
@@ -121,7 +80,50 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-05T22:15:41.6225732Z",
+          "lastTimePlayed": "2026-06-07T03:52:11.693853Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1144039928",
+        "pfn": "Microsoft.Chelan_8wekyb3d8bbwe",
+        "bingId": "f33009f4-14ff-4821-94e3-c3573c868c2e",
+        "serviceConfigId": "00000000-0000-0000-0000-00004430a9f8",
+        "windowsPhoneProductId": null,
+        "name": "Halo: la colección Jefe Maestro",
+        "type": "Game",
+        "devices": [
+          "PC"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.14011015795942652.ca67db1b-d21e-47e9-bbb4-5ece2ce3f774.c71a2431-5ef1-4c32-92fa-22cca6162053",
+        "mediaItemType": "Application",
+        "modernTitleId": "1144039928",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 274,
+          "totalAchievements": 0,
+          "currentGamerscore": 2620,
+          "totalGamerscore": 7000,
+          "progressPercentage": 37,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-07T03:33:23.9500535Z",
           "visible": true,
           "canHide": true
         },

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T02:39:25.358Z",
+  "last_updated": "2026-06-08T15:28:52.760Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -92,6 +92,13 @@
       "spotify_url": "https://open.spotify.com/track/0nLKXss9qvh6ktklsGV9tG"
     },
     {
+      "title": "Holy Wars...The Punishment Due - 2004 Remix",
+      "artist": "Megadeth",
+      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
+      "spotify_url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS"
+    },
+    {
       "title": "黄昏のBAY CITY",
       "artist": "Junko Yagami",
       "album": "黄昏のBAY CITY",
@@ -127,13 +134,6 @@
       "spotify_url": "https://open.spotify.com/track/61L6xSR4n5cADuMqpCUOse"
     },
     {
-      "title": "Holy Wars...The Punishment Due - 2004 Remix",
-      "artist": "Megadeth",
-      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
-      "spotify_url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS"
-    },
-    {
       "title": "She-Wolf - Remastered 2004 / Remixed",
       "artist": "Megadeth",
       "album": "Cryptic Writings (Expanded Edition - Remastered)",
@@ -162,18 +162,18 @@
       "spotify_url": "https://open.spotify.com/track/5PRm5YNFUs6sWwAgoJdJIi"
     },
     {
+      "title": "Symphony Of Destruction - Remastered 2012",
+      "artist": "Megadeth",
+      "album": "Countdown To Extinction (Deluxe Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734be345f026469be09f12a92e",
+      "spotify_url": "https://open.spotify.com/track/5mR858YsHYG761aUqZoGkD"
+    },
+    {
       "title": "Hollow Men",
       "artist": "黒崎真音",
       "album": "H.O.T.D.",
       "image": "https://i.scdn.co/image/ab67616d0000b273faf6b1f9fe50162152482387",
       "spotify_url": "https://open.spotify.com/track/62cMBIOpINAOlVwe2jSUsZ"
-    },
-    {
-      "title": "Como Una Novela",
-      "artist": "Los Acosta",
-      "album": "Intimidades",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730017188a11ce16aba2bbfda0",
-      "spotify_url": "https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy"
     },
     {
       "title": "44 Minutes",
@@ -190,11 +190,25 @@
       "spotify_url": "https://open.spotify.com/track/3SlyFd6d5rgadQjW02zsyA"
     },
     {
+      "title": "Como Una Novela",
+      "artist": "Los Acosta",
+      "album": "Intimidades",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730017188a11ce16aba2bbfda0",
+      "spotify_url": "https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy"
+    },
+    {
       "title": "Trapeaste conmigo",
       "artist": "Grupo Mojado",
       "album": "Exitos de colección Vol. II",
       "image": "https://i.scdn.co/image/ab67616d0000b2733539dab351ac6f8d4864a4d0",
       "spotify_url": "https://open.spotify.com/track/4WtICkpsJ5SjhWoYzDHiBz"
+    },
+    {
+      "title": "Sweating Bullets - Remastered 2004",
+      "artist": "Megadeth",
+      "album": "Countdown To Extinction (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737b178f928742be1492c6fba2",
+      "spotify_url": "https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw"
     },
     {
       "title": "promise - 2016",
@@ -211,11 +225,25 @@
       "spotify_url": "https://open.spotify.com/track/5l8grt5AgofKqjNb7Kw3XJ"
     },
     {
+      "title": "Sweating Bullets - 1992 Mix Remaster",
+      "artist": "Megadeth",
+      "album": "Countdown To Extinction (1992 Mix Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736199c3f8db7456f23ba31103",
+      "spotify_url": "https://open.spotify.com/track/69NGwUHjJgzp5MtzP8Qmxz"
+    },
+    {
       "title": "Tornado Of Souls - 2004 Remix",
       "artist": "Megadeth",
       "album": "Rust In Peace (2004 Remix / Expanded Edition)",
       "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
       "spotify_url": "https://open.spotify.com/track/4E5xVW505akJX0wcKj8Mpd"
+    },
+    {
+      "title": "Hangar 18 - 2004 Remix",
+      "artist": "Megadeth",
+      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
+      "spotify_url": "https://open.spotify.com/track/6b6uLZsoGhObYexIxnRbIb"
     },
     {
       "title": "おかしのいえ (feat. 重音テト)",
@@ -232,18 +260,18 @@
       "spotify_url": "https://open.spotify.com/track/7dQXDhWQmLrememQGfQo70"
     },
     {
-      "title": "The Disintegrators - Remastered 2004 / Remixed",
-      "artist": "Megadeth",
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/3L9BonXjYpw92WL0N9sOQR"
-    },
-    {
       "title": "愛して 愛して 愛して",
       "artist": "Kikuo",
       "album": "きくおミク3",
       "image": "https://i.scdn.co/image/ab67616d0000b273d1bd3a0ccc3fe60f8d6941ca",
       "spotify_url": "https://open.spotify.com/track/3ty4jnVIJ9My8ZnXFMc0Fg"
+    },
+    {
+      "title": "The Disintegrators - Remastered 2004 / Remixed",
+      "artist": "Megadeth",
+      "album": "Cryptic Writings (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
+      "spotify_url": "https://open.spotify.com/track/3L9BonXjYpw92WL0N9sOQR"
     },
     {
       "title": "Peace Sells - Remastered",
@@ -288,6 +316,13 @@
       "spotify_url": "https://open.spotify.com/track/0yh2KSgup6u2nSUEKxRnxq"
     },
     {
+      "title": "Lucretia - 2004 Remix",
+      "artist": "Megadeth",
+      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
+      "spotify_url": "https://open.spotify.com/track/1Bi6Me45Xiqy4kYUGGwBTv"
+    },
+    {
       "title": "Nobody's Listening",
       "artist": "Linkin Park",
       "album": "Meteora (Bonus Edition)",
@@ -316,46 +351,11 @@
       "spotify_url": "https://open.spotify.com/track/6ag94zXSjx4qrI20daNxwQ"
     },
     {
-      "title": "Sweating Bullets - Remastered 2004",
-      "artist": "Megadeth",
-      "album": "Countdown To Extinction (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737b178f928742be1492c6fba2",
-      "spotify_url": "https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw"
-    },
-    {
       "title": "The Scorpion",
       "artist": "Megadeth",
       "album": "The System Has Failed",
       "image": "https://i.scdn.co/image/ab67616d0000b273cda3b381e6d4dddf4bc4d16c",
       "spotify_url": "https://open.spotify.com/track/7geKlX2WGsvBevRiBRh4iU"
-    },
-    {
-      "title": "ごめんね、いいコじゃいられない。",
-      "artist": "Miku Sawai",
-      "album": "憂鬱日和。",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f15e73095a9afd79d7daa9b0",
-      "spotify_url": "https://open.spotify.com/track/3lQCsg0VaUkUYRhIK8JFY0"
-    },
-    {
-      "title": "Sweating Bullets - 1992 Mix Remaster",
-      "artist": "Megadeth",
-      "album": "Countdown To Extinction (1992 Mix Remaster)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736199c3f8db7456f23ba31103",
-      "spotify_url": "https://open.spotify.com/track/69NGwUHjJgzp5MtzP8Qmxz"
-    },
-    {
-      "title": "Blackmail the Universe",
-      "artist": "Megadeth",
-      "album": "The System Has Failed",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cda3b381e6d4dddf4bc4d16c",
-      "spotify_url": "https://open.spotify.com/track/00RO3KGPvR2v369wwjDIsk"
-    },
-    {
-      "title": "Symphony Of Destruction - Remastered 2012",
-      "artist": "Megadeth",
-      "album": "Countdown To Extinction (Deluxe Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734be345f026469be09f12a92e",
-      "spotify_url": "https://open.spotify.com/track/5mR858YsHYG761aUqZoGkD"
     }
   ]
 }

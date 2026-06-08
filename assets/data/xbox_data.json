@@ -3,6 +3,91 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "2079436024",
+        "pfn": null,
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007bf1acf8",
+        "windowsPhoneProductId": null,
+        "name": "TBH: Task Bar Hero",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-08T01:46:31.220375Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null
+      },
+      {
+        "titleId": "926771636",
+        "pfn": "Ubisoft.256f5f4c-e715-45bc-a159-b33b5ed4fed8_ngz4m417e0mpw",
+        "bingId": "b0725d24-bc6d-4d63-9604-d3f17fe594ed",
+        "serviceConfigId": "4c5b0100-b87d-4442-9d9b-cb81373d69b4",
+        "windowsPhoneProductId": null,
+        "name": "Tom Clancy's Rainbow Six Siege",
+        "type": "Game",
+        "devices": [
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.48586.65170969132831011.a13a22f3-5325-489a-9982-552262e2f09b.dd7696e9-b093-40a5-a469-189d1d098444",
+        "mediaItemType": "Application",
+        "modernTitleId": "926771636",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 44,
+          "totalAchievements": 0,
+          "currentGamerscore": 865,
+          "totalGamerscore": 1000,
+          "progressPercentage": 86,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-07T18:45:34.2279039Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "2105342780",
         "pfn": "Microsoft.Maine_8wekyb3d8bbwe",
         "bingId": null,
@@ -36,94 +121,6 @@
         "images": null,
         "titleHistory": {
           "lastTimePlayed": "2026-06-07T05:46:19.6843497Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "267695549",
-        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
-        "bingId": null,
-        "serviceConfigId": "93ac0100-efec-488c-af85-e5850ff4b5bd",
-        "windowsPhoneProductId": null,
-        "name": "Fortnite",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.30243.70702278257994163.a192b10f-e44a-4746-afb2-c8d38dd3a4a0.9d63924a-301c-4076-b409-123a02fa2cdb",
-        "mediaItemType": "Application",
-        "modernTitleId": "267695549",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 14,
-          "totalAchievements": 0,
-          "currentGamerscore": 170,
-          "totalGamerscore": 1000,
-          "progressPercentage": 17,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-07T03:52:11.693853Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1144039928",
-        "pfn": "Microsoft.Chelan_8wekyb3d8bbwe",
-        "bingId": "f33009f4-14ff-4821-94e3-c3573c868c2e",
-        "serviceConfigId": "00000000-0000-0000-0000-00004430a9f8",
-        "windowsPhoneProductId": null,
-        "name": "Halo: la colección Jefe Maestro",
-        "type": "Game",
-        "devices": [
-          "PC"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.14011015795942652.ca67db1b-d21e-47e9-bbb4-5ece2ce3f774.c71a2431-5ef1-4c32-92fa-22cca6162053",
-        "mediaItemType": "Application",
-        "modernTitleId": "1144039928",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 274,
-          "totalAchievements": 0,
-          "currentGamerscore": 2620,
-          "totalGamerscore": 7000,
-          "progressPercentage": 37,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-07T03:33:23.9500535Z",
           "visible": true,
           "canHide": true
         },

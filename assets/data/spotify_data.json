@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T17:17:02.316Z",
+  "last_updated": "2026-06-08T02:39:25.358Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -8,32 +8,18 @@
   "total": 50,
   "tracks": [
     {
-      "title": "An image in the making",
-      "artist": "稲葉曇",
-      "album": "ANTICYCLONE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c2a3af824b7dd8cafae97e",
-      "spotify_url": "https://open.spotify.com/track/6oFgEbMswPU2ELlYBHmKLz"
-    },
-    {
-      "title": "Attack",
-      "artist": "System Of A Down",
-      "album": "Hypnotize",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
-      "spotify_url": "https://open.spotify.com/track/0dxPHMZTI8TWMYRucsAFNd"
-    },
-    {
-      "title": "きみに回帰線",
-      "artist": "稲葉曇",
-      "album": "ウェザーステーション",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a2e19e90170fd6cece34d2d9",
-      "spotify_url": "https://open.spotify.com/track/5gDC4Mq0zSYs2RuU6alQTq"
-    },
-    {
       "title": "The Right to Go Insane",
       "artist": "Megadeth",
       "album": "Endgame",
       "image": "https://i.scdn.co/image/ab67616d0000b27352103e45f70508a143245023",
       "spotify_url": "https://open.spotify.com/track/31W4nUR9aHzwVFUmcCHIzf"
+    },
+    {
+      "title": "Cómo Pude Enamorarme De Ti",
+      "artist": "Patrulla 81",
+      "album": "Como Pude Enamorarme De Ti",
+      "image": "https://i.scdn.co/image/ab67616d0000b27381242e7e107c1bab7877ae62",
+      "spotify_url": "https://open.spotify.com/track/0A4lH5fAqNuLCSOYA3Bp7V"
     },
     {
       "title": "NightmaRe",
@@ -50,25 +36,11 @@
       "spotify_url": "https://open.spotify.com/track/54qpkAilZbbLPCHFccwDHV"
     },
     {
-      "title": "Lotus eater (feat. Kaai Yuki)",
-      "artist": "Aoris, Yuki Kaai",
-      "album": "Lotus eater (feat. Kaai Yuki)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ea8f55f6d48c35c86822a79f",
-      "spotify_url": "https://open.spotify.com/track/6oGEsHXy2eo8KOmHZGDIJq"
-    },
-    {
-      "title": "BAKENOHANA",
-      "artist": "NAKISO",
-      "album": "BAKENOHANA",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737332deb0d90f697607c1e33e",
-      "spotify_url": "https://open.spotify.com/track/3Nyt0xoTlordHqvBR1EvzG"
-    },
-    {
-      "title": "ひみつの小学生",
-      "artist": "稲葉曇",
-      "album": "ウェザーステーション",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a2e19e90170fd6cece34d2d9",
-      "spotify_url": "https://open.spotify.com/track/4Y53Vi8Uwo47odD10w5Lv3"
+      "title": "Deadly Nightshade",
+      "artist": "Megadeth",
+      "album": "Th1rt3en",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cf7165d2f467e043f32774f4",
+      "spotify_url": "https://open.spotify.com/track/3hC43RiG30dzTivvX2gd0V"
     },
     {
       "title": "楽園",
@@ -85,18 +57,11 @@
       "spotify_url": "https://open.spotify.com/track/2VmOvzDdJmycCnGgCzkNrx"
     },
     {
-      "title": "電気予報 (feat. 初音ミク)",
-      "artist": "稲葉曇, Hatsune Miku",
-      "album": "電気予報",
-      "image": "https://i.scdn.co/image/ab67616d0000b27399ffbdcc63659f7d234ce019",
-      "spotify_url": "https://open.spotify.com/track/35sayLCpOsy7aCAp8sppG1"
-    },
-    {
-      "title": "Cómo Pude Enamorarme De Ti",
-      "artist": "Patrulla 81",
-      "album": "Como Pude Enamorarme De Ti",
-      "image": "https://i.scdn.co/image/ab67616d0000b27381242e7e107c1bab7877ae62",
-      "spotify_url": "https://open.spotify.com/track/0A4lH5fAqNuLCSOYA3Bp7V"
+      "title": "An image in the making",
+      "artist": "稲葉曇",
+      "album": "ANTICYCLONE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c2a3af824b7dd8cafae97e",
+      "spotify_url": "https://open.spotify.com/track/6oFgEbMswPU2ELlYBHmKLz"
     },
     {
       "title": "Play for Blood",
@@ -106,32 +71,11 @@
       "spotify_url": "https://open.spotify.com/track/4RDLqtYDoD4TGITzFiNZeb"
     },
     {
-      "title": "Trust - Spanish Version",
+      "title": "The Sick, The Dying… And The Dead!",
       "artist": "Megadeth",
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/5ZxTp77CDwH2coZV7oHmlQ"
-    },
-    {
-      "title": "Dread and the Fugitive Mind",
-      "artist": "Megadeth",
-      "album": "The World Needs a Hero",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739ce39d341464f1b624716601",
-      "spotify_url": "https://open.spotify.com/track/5ThljNlaUX5zNgNWBmanmG"
-    },
-    {
-      "title": "She-Wolf - Remastered 2004 / Remixed",
-      "artist": "Megadeth",
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo"
-    },
-    {
-      "title": "yume no manimani",
-      "artist": "Siinamota",
-      "album": "yume no manimani",
-      "image": "https://i.scdn.co/image/ab67616d0000b27315351094555be0c95ed12782",
-      "spotify_url": "https://open.spotify.com/track/0nLKXss9qvh6ktklsGV9tG"
+      "album": "The Sick, The Dying… And The Dead!",
+      "image": "https://i.scdn.co/image/ab67616d0000b27362c843dbee54435efe80987f",
+      "spotify_url": "https://open.spotify.com/track/6RzK7XvwxnRq6AKDklJS6L"
     },
     {
       "title": "バツ猫",
@@ -141,60 +85,11 @@
       "spotify_url": "https://open.spotify.com/track/0uKr6TVDh0UwUXx7Ud9Po9"
     },
     {
-      "title": "物をぱらぱら壊す",
-      "artist": "Kikuo",
-      "album": "きくおミク",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738fdb0c09eb333c24eb1bc53b",
-      "spotify_url": "https://open.spotify.com/track/52F89LJHMbXMdFNDfnm8KK"
-    },
-    {
-      "title": "The Sick, The Dying… And The Dead!",
-      "artist": "Megadeth",
-      "album": "The Sick, The Dying… And The Dead!",
-      "image": "https://i.scdn.co/image/ab67616d0000b27362c843dbee54435efe80987f",
-      "spotify_url": "https://open.spotify.com/track/6RzK7XvwxnRq6AKDklJS6L"
-    },
-    {
-      "title": "リレイアウター",
-      "artist": "稲葉曇",
-      "album": "リレイアウター",
-      "image": "https://i.scdn.co/image/ab67616d0000b27378b60feb9051b90c2d2b4684",
-      "spotify_url": "https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh"
-    },
-    {
-      "title": "Trust - Remastered 2004 / Remixed",
-      "artist": "Megadeth",
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/5emb8RDOZtpXlw6D0eEQbz"
-    },
-    {
-      "title": "Lost Umbrella",
-      "artist": "稲葉曇",
-      "album": "ANTICYCLONE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c2a3af824b7dd8cafae97e",
-      "spotify_url": "https://open.spotify.com/track/2zAi85TQB7mLzl8P1ySAj9"
-    },
-    {
-      "title": "The Disintegrators - Remastered 2004 / Remixed",
-      "artist": "Megadeth",
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/3L9BonXjYpw92WL0N9sOQR"
-    },
-    {
-      "title": "Promises",
-      "artist": "Megadeth",
-      "album": "The World Needs a Hero",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739ce39d341464f1b624716601",
-      "spotify_url": "https://open.spotify.com/track/196rNjJkKTjsk2NTEtJKLq"
-    },
-    {
-      "title": "Deadly Nightshade",
-      "artist": "Megadeth",
-      "album": "Th1rt3en",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cf7165d2f467e043f32774f4",
-      "spotify_url": "https://open.spotify.com/track/3hC43RiG30dzTivvX2gd0V"
+      "title": "yume no manimani",
+      "artist": "Siinamota",
+      "album": "yume no manimani",
+      "image": "https://i.scdn.co/image/ab67616d0000b27315351094555be0c95ed12782",
+      "spotify_url": "https://open.spotify.com/track/0nLKXss9qvh6ktklsGV9tG"
     },
     {
       "title": "黄昏のBAY CITY",
@@ -204,18 +99,46 @@
       "spotify_url": "https://open.spotify.com/track/4014FR3wY4V3s8hgDVSak7"
     },
     {
-      "title": "ラグトレイン",
-      "artist": "稲葉曇",
-      "album": "ウェザーステーション",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a2e19e90170fd6cece34d2d9",
-      "spotify_url": "https://open.spotify.com/track/4bdwEiJuBhWIkPKSVjyjiA"
+      "title": "Trust - Spanish Version",
+      "artist": "Megadeth",
+      "album": "Cryptic Writings (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
+      "spotify_url": "https://open.spotify.com/track/5ZxTp77CDwH2coZV7oHmlQ"
     },
     {
-      "title": "愛して 愛して 愛して",
-      "artist": "Kikuo",
-      "album": "きくおミク3",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d1bd3a0ccc3fe60f8d6941ca",
-      "spotify_url": "https://open.spotify.com/track/3ty4jnVIJ9My8ZnXFMc0Fg"
+      "title": "Promises",
+      "artist": "Megadeth",
+      "album": "The World Needs a Hero",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739ce39d341464f1b624716601",
+      "spotify_url": "https://open.spotify.com/track/196rNjJkKTjsk2NTEtJKLq"
+    },
+    {
+      "title": "Dread and the Fugitive Mind",
+      "artist": "Megadeth",
+      "album": "The World Needs a Hero",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739ce39d341464f1b624716601",
+      "spotify_url": "https://open.spotify.com/track/5ThljNlaUX5zNgNWBmanmG"
+    },
+    {
+      "title": "Prince Of Darkness - Remastered 2004",
+      "artist": "Megadeth",
+      "album": "Risk (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e3cad5e9f4f92df63716bc33",
+      "spotify_url": "https://open.spotify.com/track/61L6xSR4n5cADuMqpCUOse"
+    },
+    {
+      "title": "Holy Wars...The Punishment Due - 2004 Remix",
+      "artist": "Megadeth",
+      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
+      "spotify_url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS"
+    },
+    {
+      "title": "She-Wolf - Remastered 2004 / Remixed",
+      "artist": "Megadeth",
+      "album": "Cryptic Writings (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
+      "spotify_url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo"
     },
     {
       "title": "Hope Café",
@@ -225,11 +148,11 @@
       "spotify_url": "https://open.spotify.com/track/0AHevigrvo5dBfC2CaJahd"
     },
     {
-      "title": "Tornado Of Souls - 2004 Remix",
-      "artist": "Megadeth",
-      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
-      "spotify_url": "https://open.spotify.com/track/4E5xVW505akJX0wcKj8Mpd"
+      "title": "物をぱらぱら壊す",
+      "artist": "Kikuo",
+      "album": "きくおミク",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738fdb0c09eb333c24eb1bc53b",
+      "spotify_url": "https://open.spotify.com/track/52F89LJHMbXMdFNDfnm8KK"
     },
     {
       "title": "RTRT",
@@ -246,25 +169,11 @@
       "spotify_url": "https://open.spotify.com/track/62cMBIOpINAOlVwe2jSUsZ"
     },
     {
-      "title": "Kill Rock 'n Roll",
-      "artist": "System Of A Down",
-      "album": "Hypnotize",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
-      "spotify_url": "https://open.spotify.com/track/28TReO2Mxk9Q3GA4K98YSz"
-    },
-    {
-      "title": "失敗作少女 - 稲葉曇 Remix",
-      "artist": "Kairikibear, 稲葉曇",
-      "album": "ベノマ",
-      "image": "https://i.scdn.co/image/ab67616d0000b27385e62ca2d009dbae8fbb5365",
-      "spotify_url": "https://open.spotify.com/track/5nDCSYZDGnaVPeHnK1zl2F"
-    },
-    {
-      "title": "Dreaming",
-      "artist": "System Of A Down",
-      "album": "Hypnotize",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
-      "spotify_url": "https://open.spotify.com/track/4uCfGqrF2OHcav71k0bk9D"
+      "title": "Como Una Novela",
+      "artist": "Los Acosta",
+      "album": "Intimidades",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730017188a11ce16aba2bbfda0",
+      "spotify_url": "https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy"
     },
     {
       "title": "44 Minutes",
@@ -274,11 +183,18 @@
       "spotify_url": "https://open.spotify.com/track/0sT1eVQVyJ7Ruqo89yLmOJ"
     },
     {
-      "title": "NON-USE",
-      "artist": "稲葉曇",
-      "album": "ANTICYCLONE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c2a3af824b7dd8cafae97e",
-      "spotify_url": "https://open.spotify.com/track/5uJmXik3PnnbcKG3Y8bNS5"
+      "title": "Whose Life (Is It Anyways?)",
+      "artist": "Megadeth",
+      "album": "Th1rt3en",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cf7165d2f467e043f32774f4",
+      "spotify_url": "https://open.spotify.com/track/3SlyFd6d5rgadQjW02zsyA"
+    },
+    {
+      "title": "Trapeaste conmigo",
+      "artist": "Grupo Mojado",
+      "album": "Exitos de colección Vol. II",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733539dab351ac6f8d4864a4d0",
+      "spotify_url": "https://open.spotify.com/track/4WtICkpsJ5SjhWoYzDHiBz"
     },
     {
       "title": "promise - 2016",
@@ -288,18 +204,18 @@
       "spotify_url": "https://open.spotify.com/track/7oQQXpdyJgg2qnbOs1UhOm"
     },
     {
-      "title": "シンクタンク",
-      "artist": "稲葉曇, RIME",
-      "album": "音楽的同位体 裏命 1st COMPILATION ALBUM パラノーマル (vol.1 残響のパラノーマル)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273260d02a1eb4982e0114edb81",
-      "spotify_url": "https://open.spotify.com/track/7u4D80x7YHLSOOFPRopioI"
+      "title": "Something That I'm Not",
+      "artist": "Megadeth",
+      "album": "The System Has Failed",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cda3b381e6d4dddf4bc4d16c",
+      "spotify_url": "https://open.spotify.com/track/5l8grt5AgofKqjNb7Kw3XJ"
     },
     {
-      "title": "Holy Wars...The Punishment Due - 2004 Remix",
+      "title": "Tornado Of Souls - 2004 Remix",
       "artist": "Megadeth",
       "album": "Rust In Peace (2004 Remix / Expanded Edition)",
       "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
-      "spotify_url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS"
+      "spotify_url": "https://open.spotify.com/track/4E5xVW505akJX0wcKj8Mpd"
     },
     {
       "title": "おかしのいえ (feat. 重音テト)",
@@ -309,6 +225,27 @@
       "spotify_url": "https://open.spotify.com/track/6mSrN8nCiUBldL1UN3wFri"
     },
     {
+      "title": "Con El Corazón En La Mano",
+      "artist": "Liberación",
+      "album": "Con La Fuerza Del Destino",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737a425908b20d16771ae09fa6",
+      "spotify_url": "https://open.spotify.com/track/7dQXDhWQmLrememQGfQo70"
+    },
+    {
+      "title": "The Disintegrators - Remastered 2004 / Remixed",
+      "artist": "Megadeth",
+      "album": "Cryptic Writings (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
+      "spotify_url": "https://open.spotify.com/track/3L9BonXjYpw92WL0N9sOQR"
+    },
+    {
+      "title": "愛して 愛して 愛して",
+      "artist": "Kikuo",
+      "album": "きくおミク3",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d1bd3a0ccc3fe60f8d6941ca",
+      "spotify_url": "https://open.spotify.com/track/3ty4jnVIJ9My8ZnXFMc0Fg"
+    },
+    {
       "title": "Peace Sells - Remastered",
       "artist": "Megadeth",
       "album": "Peace Sells...But Who's Buying (Deluxe Edition - Remastered)",
@@ -316,32 +253,11 @@
       "spotify_url": "https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX"
     },
     {
-      "title": "Hypnotize",
-      "artist": "System Of A Down",
-      "album": "Hypnotize",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
-      "spotify_url": "https://open.spotify.com/track/6oO7WMjD6kEvCITLbVj0mu"
-    },
-    {
       "title": "Sexy Sexy,",
       "artist": "CASCADE",
       "album": "Sexy Sexy,",
       "image": "https://i.scdn.co/image/ab67616d0000b273bb3c2747c45028b5351f763c",
       "spotify_url": "https://open.spotify.com/track/2OvfUwEd9alJnJ9aziiucw"
-    },
-    {
-      "title": "天泣",
-      "artist": "稲葉曇",
-      "album": "ウェザーステーション",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a2e19e90170fd6cece34d2d9",
-      "spotify_url": "https://open.spotify.com/track/3xvBLua7hjT8xT5pDd3OLO"
-    },
-    {
-      "title": "Como Una Novela",
-      "artist": "Los Acosta",
-      "album": "Intimidades",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730017188a11ce16aba2bbfda0",
-      "spotify_url": "https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy"
     },
     {
       "title": "Yo Comencé La Broma",
@@ -356,6 +272,90 @@
       "album": "20th Anniversary Series",
       "image": "https://i.scdn.co/image/ab67616d0000b2736e5308493f96afd7d1b89c70",
       "spotify_url": "https://open.spotify.com/track/0EbhpgP6Bx7tAHPydzDWSi"
+    },
+    {
+      "title": "Amor Se Escribe Con Llanto",
+      "artist": "Guardianes Del Amor",
+      "album": "10 De Coleccion",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732d51c61f0bcb06b03763c494",
+      "spotify_url": "https://open.spotify.com/track/0EkZZm6d3j05yrFfKkAHn7"
+    },
+    {
+      "title": "ねぇ…",
+      "artist": "トマト組, 白上フブキ",
+      "album": "Shirakami Cafe Music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bdffc6fa9d7d136a2cb1a66e",
+      "spotify_url": "https://open.spotify.com/track/0yh2KSgup6u2nSUEKxRnxq"
+    },
+    {
+      "title": "Nobody's Listening",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/1EU3VuKGZOvd1HTkxLPUXK"
+    },
+    {
+      "title": "Back In the Day",
+      "artist": "Megadeth",
+      "album": "The System Has Failed",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cda3b381e6d4dddf4bc4d16c",
+      "spotify_url": "https://open.spotify.com/track/2RZZAz0LmWWPCtOC2yPszv"
+    },
+    {
+      "title": "カガリビト",
+      "artist": "millstones",
+      "album": "バイバイ、ブラックワールド",
+      "image": "https://i.scdn.co/image/ab67616d0000b27339e0c6f758ced07bdfaadea2",
+      "spotify_url": "https://open.spotify.com/track/2aiANo3P7FvB1qi7iJaSXr"
+    },
+    {
+      "title": "Par De Anillos",
+      "artist": "Viento Y Sol",
+      "album": "Par De Anillos (Clásicos Digitalizados)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273222ab9e430b86b1e5a821379",
+      "spotify_url": "https://open.spotify.com/track/6ag94zXSjx4qrI20daNxwQ"
+    },
+    {
+      "title": "Sweating Bullets - Remastered 2004",
+      "artist": "Megadeth",
+      "album": "Countdown To Extinction (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737b178f928742be1492c6fba2",
+      "spotify_url": "https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw"
+    },
+    {
+      "title": "The Scorpion",
+      "artist": "Megadeth",
+      "album": "The System Has Failed",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cda3b381e6d4dddf4bc4d16c",
+      "spotify_url": "https://open.spotify.com/track/7geKlX2WGsvBevRiBRh4iU"
+    },
+    {
+      "title": "ごめんね、いいコじゃいられない。",
+      "artist": "Miku Sawai",
+      "album": "憂鬱日和。",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f15e73095a9afd79d7daa9b0",
+      "spotify_url": "https://open.spotify.com/track/3lQCsg0VaUkUYRhIK8JFY0"
+    },
+    {
+      "title": "Sweating Bullets - 1992 Mix Remaster",
+      "artist": "Megadeth",
+      "album": "Countdown To Extinction (1992 Mix Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736199c3f8db7456f23ba31103",
+      "spotify_url": "https://open.spotify.com/track/69NGwUHjJgzp5MtzP8Qmxz"
+    },
+    {
+      "title": "Blackmail the Universe",
+      "artist": "Megadeth",
+      "album": "The System Has Failed",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cda3b381e6d4dddf4bc4d16c",
+      "spotify_url": "https://open.spotify.com/track/00RO3KGPvR2v369wwjDIsk"
+    },
+    {
+      "title": "Symphony Of Destruction - Remastered 2012",
+      "artist": "Megadeth",
+      "album": "Countdown To Extinction (Deluxe Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734be345f026469be09f12a92e",
+      "spotify_url": "https://open.spotify.com/track/5mR858YsHYG761aUqZoGkD"
     }
   ]
 }

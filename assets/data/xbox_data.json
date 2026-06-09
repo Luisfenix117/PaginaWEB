@@ -3,81 +3,38 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "2089424131",
-        "pfn": "11bitstudios.ThisWarofMineFinalCut_gwy9gn5q9j1y6",
+        "titleId": "2132429347",
+        "pfn": "GearboxPublishing.RiskofRain2_qskmxqknqwqd4",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007c8a1503",
+        "serviceConfigId": "00000000-0000-0000-0000-00007f1a4a23",
         "windowsPhoneProductId": null,
-        "name": "This War of Mine: Final Cut",
+        "name": "Risk of Rain 2",
         "type": "Game",
         "devices": [
-          "PC",
+          "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.48284.13818178861591472.06d4cfd1-e581-4b7f-8268-7ed2cfca3f35.c16f3c09-e1b5-4bb2-924e-4f06235ae319",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.8912.14621244486516926.f1cfde77-0a61-41c8-b5a7-ee7ba21d57fa.d53ca184-fb2c-4a32-8b4b-9d6cd15395fb",
         "mediaItemType": "Application",
-        "modernTitleId": "2089424131",
+        "modernTitleId": "2132429347",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 12,
+          "currentAchievements": 38,
           "totalAchievements": 0,
-          "currentGamerscore": 305,
-          "totalGamerscore": 1755,
-          "progressPercentage": 17,
+          "currentGamerscore": 1110,
+          "totalGamerscore": 1280,
+          "progressPercentage": 86,
           "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 1
+          "sourceVersion": 3
         },
         "gamePass": {
           "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-09T00:36:18.0849292Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "2011061477",
-        "pfn": "F024294D.PRAGMATA_8fty0by30jkny",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000077de5ce5",
-        "windowsPhoneProductId": null,
-        "name": "PRAGMATA",
-        "type": "Game",
-        "devices": [
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.53931.14635635892691285.c714c5ad-73ed-425e-81b8-f766ad7ad689.8c58d4ca-fb44-4f63-b399-796aa7e21f6f",
-        "mediaItemType": "Application",
-        "modernTitleId": "2011061477",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 18,
-          "totalAchievements": 0,
-          "currentGamerscore": 270,
-          "totalGamerscore": 1000,
-          "progressPercentage": 27,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-08T23:42:09.753865Z",
+          "lastTimePlayed": "2026-06-09T05:57:40.2727203Z",
           "visible": true,
           "canHide": true
         },
@@ -89,27 +46,69 @@
         "xboxLiveTier": "Full"
       },
       {
-        "titleId": "926771636",
-        "pfn": "Ubisoft.256f5f4c-e715-45bc-a159-b33b5ed4fed8_ngz4m417e0mpw",
-        "bingId": "b0725d24-bc6d-4d63-9604-d3f17fe594ed",
-        "serviceConfigId": "4c5b0100-b87d-4442-9d9b-cb81373d69b4",
+        "titleId": "2034370789",
+        "pfn": "ActiveGamingMediaInc.31157AC01A25E_4tj796bhrrsp0",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-0000794208e5",
+        "windowsPhoneProductId": "8045693b-7cdc-4edf-8b29-19f6c6cf002e",
+        "name": "Snezhinka",
+        "type": "Game",
+        "devices": [
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.6750.14477553757705125.8d796a72-f60a-4c06-bd3d-6db740e269dc.d0e75799-5c1b-4525-95dd-a841bcffd733",
+        "mediaItemType": "Application",
+        "modernTitleId": "2034370789",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 15,
+          "totalAchievements": 0,
+          "currentGamerscore": 690,
+          "totalGamerscore": 1000,
+          "progressPercentage": 69,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-09T05:50:26.6693887Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
+        "titleId": "389597738",
+        "pfn": "505GAMESS.P.A.84240166-5fcf-4ee1-b892-f5ff6a6094e1_tefn33qh9azfc",
+        "bingId": "801b5942-9e83-4777-9bc4-1598b60a4204",
+        "serviceConfigId": "f4f80100-7f03-4df9-8fbd-f0191738ca2a",
         "windowsPhoneProductId": null,
-        "name": "Tom Clancy's Rainbow Six Siege",
+        "name": "Terraria",
         "type": "Game",
         "devices": [
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.48586.65170969132831011.a13a22f3-5325-489a-9982-552262e2f09b.dd7696e9-b093-40a5-a469-189d1d098444",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.57835.70406876433810089.4beffaca-3fee-4154-a21f-ecd9b3bedbb3.c2203645-e73c-4760-bdbe-f1bcf32a0a05",
         "mediaItemType": "Application",
-        "modernTitleId": "926771636",
+        "modernTitleId": "389597738",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 44,
+          "currentAchievements": 2,
           "totalAchievements": 0,
-          "currentGamerscore": 865,
-          "totalGamerscore": 1000,
-          "progressPercentage": 86,
+          "currentGamerscore": 75,
+          "totalGamerscore": 1345,
+          "progressPercentage": 5,
           "sourceVersion": 2
         },
         "stats": {
@@ -120,7 +119,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-08T14:19:23.2529392Z",
+          "lastTimePlayed": "2026-06-09T05:48:16.5750684Z",
           "visible": true,
           "canHide": true
         },

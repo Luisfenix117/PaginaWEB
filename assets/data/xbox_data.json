@@ -3,82 +3,38 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1144039928",
-        "pfn": "Microsoft.Chelan_8wekyb3d8bbwe",
-        "bingId": "f33009f4-14ff-4821-94e3-c3573c868c2e",
-        "serviceConfigId": "77290100-225e-4768-9373-98164430a9f8",
+        "titleId": "926771636",
+        "pfn": "Ubisoft.256f5f4c-e715-45bc-a159-b33b5ed4fed8_ngz4m417e0mpw",
+        "bingId": "b0725d24-bc6d-4d63-9604-d3f17fe594ed",
+        "serviceConfigId": "4c5b0100-b87d-4442-9d9b-cb81373d69b4",
         "windowsPhoneProductId": null,
-        "name": "Halo: la colección Jefe Maestro",
+        "name": "Tom Clancy's Rainbow Six Siege",
         "type": "Game",
         "devices": [
-          "PC"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.14011015795942652.ca67db1b-d21e-47e9-bbb4-5ece2ce3f774.c71a2431-5ef1-4c32-92fa-22cca6162053",
-        "mediaItemType": "Application",
-        "modernTitleId": "1144039928",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 275,
-          "totalAchievements": 0,
-          "currentGamerscore": 2625,
-          "totalGamerscore": 7000,
-          "progressPercentage": 37,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-10T22:27:20.4912559Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "964706972",
-        "pfn": "HelloGames.NoMansSky_bs190hzg1sesy",
-        "bingId": null,
-        "serviceConfigId": "29070100-b936-489a-bce8-b9af3980429c",
-        "windowsPhoneProductId": null,
-        "name": "No Man's Sky",
-        "type": "Game",
-        "devices": [
-          "PC",
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.6972.68818099466568894.391e0700-449d-4430-a634-7339176aa70e.6f6fe001-0d83-4624-923c-e5b5d00836c2",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.48586.65170969132831011.a13a22f3-5325-489a-9982-552262e2f09b.dd7696e9-b093-40a5-a469-189d1d098444",
         "mediaItemType": "Application",
-        "modernTitleId": "964706972",
+        "modernTitleId": "926771636",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 17,
+          "currentAchievements": 44,
           "totalAchievements": 0,
-          "currentGamerscore": 544,
+          "currentGamerscore": 865,
           "totalGamerscore": 1000,
-          "progressPercentage": 54,
+          "progressPercentage": 86,
           "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 3
+          "sourceVersion": 2
         },
         "gamePass": {
           "isGamePass": true
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-10T21:42:45.6445921Z",
+          "lastTimePlayed": "2026-06-11T14:17:45.4875352Z",
           "visible": true,
           "canHide": true
         },
@@ -91,39 +47,37 @@
         "isStreamable": true
       },
       {
-        "titleId": "2105342780",
-        "pfn": "Microsoft.Maine_8wekyb3d8bbwe",
+        "titleId": "2079436024",
+        "pfn": null,
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007d7cfb3c",
+        "serviceConfigId": "00000000-0000-0000-0000-00007bf1acf8",
         "windowsPhoneProductId": null,
-        "name": "Grounded",
+        "name": "TBH: Task Bar Hero",
         "type": "Game",
         "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
+          "Win32"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.43675.14280109286674604.0f240f37-6e7f-43b4-bd81-aabc884bc103.0aabbba3-e5f5-4665-9eac-7a9c36f80430",
+        "displayImage": "",
         "mediaItemType": "Application",
-        "modernTitleId": "2105342780",
+        "modernTitleId": null,
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 6,
+          "currentAchievements": 0,
           "totalAchievements": 0,
-          "currentGamerscore": 200,
-          "totalGamerscore": 3300,
-          "progressPercentage": 6,
-          "sourceVersion": 2
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
         },
         "stats": {
-          "sourceVersion": 3
+          "sourceVersion": 0
         },
         "gamePass": {
-          "isGamePass": true
+          "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-10T20:44:00.3092963Z",
+          "lastTimePlayed": "2026-06-11T06:37:46.3558344Z",
           "visible": true,
           "canHide": true
         },
@@ -131,9 +85,48 @@
         "detail": null,
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
+        "contentBoards": null
+      },
+      {
+        "titleId": "1775314772",
+        "pfn": null,
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "windowsPhoneProductId": null,
+        "name": "Goddess of Victory: Nikke",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-11T02:40:04.5075233Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null
       }
     ]
   },

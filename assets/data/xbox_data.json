@@ -3,28 +3,26 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1690524168",
-        "pfn": "946B6A6E.WoLongFallenDynasty_dkffhzhmh6pmy",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000064c35a08",
+        "titleId": "1144039928",
+        "pfn": "Microsoft.Chelan_8wekyb3d8bbwe",
+        "bingId": "f33009f4-14ff-4821-94e3-c3573c868c2e",
+        "serviceConfigId": "77290100-225e-4768-9373-98164430a9f8",
         "windowsPhoneProductId": null,
-        "name": "Wo Long: Fallen Dynasty",
+        "name": "Halo: la colección Jefe Maestro",
         "type": "Game",
         "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
+          "PC"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.46001.13524128328401524.c8089ad9-5e75-4246-83e8-2dac88f04afd.9a8d6174-1791-45bf-b366-9360daf09b20",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.14011015795942652.ca67db1b-d21e-47e9-bbb4-5ece2ce3f774.c71a2431-5ef1-4c32-92fa-22cca6162053",
         "mediaItemType": "Application",
-        "modernTitleId": "1690524168",
+        "modernTitleId": "1144039928",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 11,
+          "currentAchievements": 275,
           "totalAchievements": 0,
-          "currentGamerscore": 165,
-          "totalGamerscore": 1585,
-          "progressPercentage": 10,
+          "currentGamerscore": 2625,
+          "totalGamerscore": 7000,
+          "progressPercentage": 37,
           "sourceVersion": 2
         },
         "stats": {
@@ -35,7 +33,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-10T03:13:12.0754317Z",
+          "lastTimePlayed": "2026-06-10T22:27:20.4912559Z",
           "visible": true,
           "canHide": true
         },
@@ -48,82 +46,39 @@
         "isStreamable": true
       },
       {
-        "titleId": "2089424131",
-        "pfn": "11bitstudios.ThisWarofMineFinalCut_gwy9gn5q9j1y6",
+        "titleId": "964706972",
+        "pfn": "HelloGames.NoMansSky_bs190hzg1sesy",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007c8a1503",
+        "serviceConfigId": "29070100-b936-489a-bce8-b9af3980429c",
         "windowsPhoneProductId": null,
-        "name": "This War of Mine: Final Cut",
+        "name": "No Man's Sky",
         "type": "Game",
         "devices": [
           "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.48284.13818178861591472.06d4cfd1-e581-4b7f-8268-7ed2cfca3f35.c16f3c09-e1b5-4bb2-924e-4f06235ae319",
-        "mediaItemType": "Application",
-        "modernTitleId": "2089424131",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 12,
-          "totalAchievements": 0,
-          "currentGamerscore": 305,
-          "totalGamerscore": 1755,
-          "progressPercentage": 17,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-10T02:46:54.2598081Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "2132429347",
-        "pfn": "GearboxPublishing.RiskofRain2_qskmxqknqwqd4",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007f1a4a23",
-        "windowsPhoneProductId": null,
-        "name": "Risk of Rain 2",
-        "type": "Game",
-        "devices": [
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.8912.14621244486516926.f1cfde77-0a61-41c8-b5a7-ee7ba21d57fa.d53ca184-fb2c-4a32-8b4b-9d6cd15395fb",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.6972.68818099466568894.391e0700-449d-4430-a634-7339176aa70e.6f6fe001-0d83-4624-923c-e5b5d00836c2",
         "mediaItemType": "Application",
-        "modernTitleId": "2132429347",
+        "modernTitleId": "964706972",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 38,
+          "currentAchievements": 17,
           "totalAchievements": 0,
-          "currentGamerscore": 1110,
-          "totalGamerscore": 1280,
-          "progressPercentage": 86,
+          "currentGamerscore": 544,
+          "totalGamerscore": 1000,
+          "progressPercentage": 54,
           "sourceVersion": 2
         },
         "stats": {
           "sourceVersion": 3
         },
         "gamePass": {
-          "isGamePass": false
+          "isGamePass": true
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-09T05:57:40.2727203Z",
+          "lastTimePlayed": "2026-06-10T21:42:45.6445921Z",
           "visible": true,
           "canHide": true
         },
@@ -132,7 +87,53 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full"
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "2105342780",
+        "pfn": "Microsoft.Maine_8wekyb3d8bbwe",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007d7cfb3c",
+        "windowsPhoneProductId": null,
+        "name": "Grounded",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.43675.14280109286674604.0f240f37-6e7f-43b4-bd81-aabc884bc103.0aabbba3-e5f5-4665-9eac-7a9c36f80430",
+        "mediaItemType": "Application",
+        "modernTitleId": "2105342780",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 6,
+          "totalAchievements": 0,
+          "currentGamerscore": 200,
+          "totalGamerscore": 3300,
+          "progressPercentage": 6,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-10T20:44:00.3092963Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       }
     ]
   },

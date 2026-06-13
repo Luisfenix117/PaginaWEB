@@ -3,6 +3,50 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1928988061",
+        "pfn": "StudioWildcard.ARKSurvivalAscended_1w2mm55455e38",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000072fa059d",
+        "windowsPhoneProductId": null,
+        "name": "ARK: Survival Ascended",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.3955.14545480955348978.971a18b6-ebe3-437f-af65-4ba072de8964.7c7c9bba-d6fe-42e3-83fc-bb2f6aeff2cd",
+        "mediaItemType": "Application",
+        "modernTitleId": "1928988061",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 2,
+          "totalAchievements": 0,
+          "currentGamerscore": 10,
+          "totalGamerscore": 1000,
+          "progressPercentage": 1,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-13T04:45:02.2068439Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "1775314772",
         "pfn": null,
         "bingId": null,
@@ -33,7 +77,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-13T02:11:52.5107256Z",
+          "lastTimePlayed": "2026-06-13T04:04:16.29814Z",
           "visible": true,
           "canHide": true
         },
@@ -77,49 +121,6 @@
         "images": null,
         "titleHistory": {
           "lastTimePlayed": "2026-06-12T01:36:06.5252568Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1144039928",
-        "pfn": "Microsoft.Chelan_8wekyb3d8bbwe",
-        "bingId": "f33009f4-14ff-4821-94e3-c3573c868c2e",
-        "serviceConfigId": "77290100-225e-4768-9373-98164430a9f8",
-        "windowsPhoneProductId": null,
-        "name": "Halo: la colección Jefe Maestro",
-        "type": "Game",
-        "devices": [
-          "PC"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.14011015795942652.ca67db1b-d21e-47e9-bbb4-5ece2ce3f774.c71a2431-5ef1-4c32-92fa-22cca6162053",
-        "mediaItemType": "Application",
-        "modernTitleId": "1144039928",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 277,
-          "totalAchievements": 0,
-          "currentGamerscore": 2640,
-          "totalGamerscore": 7000,
-          "progressPercentage": 37,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-12T00:00:00.7820527Z",
           "visible": true,
           "canHide": true
         },

@@ -3,6 +3,92 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "2011061477",
+        "pfn": "F024294D.PRAGMATA_8fty0by30jkny",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000077de5ce5",
+        "windowsPhoneProductId": null,
+        "name": "PRAGMATA",
+        "type": "Game",
+        "devices": [
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.53931.14635635892691285.c714c5ad-73ed-425e-81b8-f766ad7ad689.8c58d4ca-fb44-4f63-b399-796aa7e21f6f",
+        "mediaItemType": "Application",
+        "modernTitleId": "2011061477",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 18,
+          "totalAchievements": 0,
+          "currentGamerscore": 270,
+          "totalGamerscore": 1000,
+          "progressPercentage": 27,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-13T18:31:37.9060781Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
+        "titleId": "926771636",
+        "pfn": "Ubisoft.256f5f4c-e715-45bc-a159-b33b5ed4fed8_ngz4m417e0mpw",
+        "bingId": "b0725d24-bc6d-4d63-9604-d3f17fe594ed",
+        "serviceConfigId": "4c5b0100-b87d-4442-9d9b-cb81373d69b4",
+        "windowsPhoneProductId": null,
+        "name": "Tom Clancy's Rainbow Six Siege",
+        "type": "Game",
+        "devices": [
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.48586.65170969132831011.a13a22f3-5325-489a-9982-552262e2f09b.dd7696e9-b093-40a5-a469-189d1d098444",
+        "mediaItemType": "Application",
+        "modernTitleId": "926771636",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 44,
+          "totalAchievements": 0,
+          "currentGamerscore": 865,
+          "totalGamerscore": 1000,
+          "progressPercentage": 86,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-13T16:04:07.4132309Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "1928988061",
         "pfn": "StudioWildcard.ARKSurvivalAscended_1w2mm55455e38",
         "bingId": null,
@@ -35,92 +121,6 @@
         "images": null,
         "titleHistory": {
           "lastTimePlayed": "2026-06-13T04:45:02.2068439Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1775314772",
-        "pfn": null,
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
-        "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
-        "type": "Game",
-        "devices": [
-          "Win32"
-        ],
-        "displayImage": "",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-13T04:04:16.29814Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null
-      },
-      {
-        "titleId": "964706972",
-        "pfn": "HelloGames.NoMansSky_bs190hzg1sesy",
-        "bingId": null,
-        "serviceConfigId": "29070100-b936-489a-bce8-b9af3980429c",
-        "windowsPhoneProductId": null,
-        "name": "No Man's Sky",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.6972.68818099466568894.391e0700-449d-4430-a634-7339176aa70e.6f6fe001-0d83-4624-923c-e5b5d00836c2",
-        "mediaItemType": "Application",
-        "modernTitleId": "964706972",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 17,
-          "totalAchievements": 0,
-          "currentGamerscore": 544,
-          "totalGamerscore": 1000,
-          "progressPercentage": 54,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 3
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-12T01:36:06.5252568Z",
           "visible": true,
           "canHide": true
         },

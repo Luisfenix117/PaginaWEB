@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T02:44:32.849Z",
+  "last_updated": "2026-06-15T16:56:24.933Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -8,18 +8,18 @@
   "total": 50,
   "tracks": [
     {
-      "title": "The Right to Go Insane",
-      "artist": "Megadeth",
-      "album": "Endgame",
-      "image": "https://i.scdn.co/image/ab67616d0000b27352103e45f70508a143245023",
-      "spotify_url": "https://open.spotify.com/track/31W4nUR9aHzwVFUmcCHIzf"
-    },
-    {
       "title": "Cómo Pude Enamorarme De Ti",
       "artist": "Patrulla 81",
       "album": "Como Pude Enamorarme De Ti",
       "image": "https://i.scdn.co/image/ab67616d0000b27381242e7e107c1bab7877ae62",
       "spotify_url": "https://open.spotify.com/track/0A4lH5fAqNuLCSOYA3Bp7V"
+    },
+    {
+      "title": "The Right to Go Insane",
+      "artist": "Megadeth",
+      "album": "Endgame",
+      "image": "https://i.scdn.co/image/ab67616d0000b27352103e45f70508a143245023",
+      "spotify_url": "https://open.spotify.com/track/31W4nUR9aHzwVFUmcCHIzf"
     },
     {
       "title": "Attack",
@@ -36,25 +36,11 @@
       "spotify_url": "https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy"
     },
     {
-      "title": "Play for Blood",
-      "artist": "Megadeth",
-      "album": "United Abominations",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736e4a8eed4746006e42612c44",
-      "spotify_url": "https://open.spotify.com/track/4RDLqtYDoD4TGITzFiNZeb"
-    },
-    {
       "title": "Trapeaste conmigo",
       "artist": "Grupo Mojado",
       "album": "Exitos de colección Vol. II",
       "image": "https://i.scdn.co/image/ab67616d0000b2733539dab351ac6f8d4864a4d0",
       "spotify_url": "https://open.spotify.com/track/4WtICkpsJ5SjhWoYzDHiBz"
-    },
-    {
-      "title": "Prince Of Darkness - Remastered 2004",
-      "artist": "Megadeth",
-      "album": "Risk (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e3cad5e9f4f92df63716bc33",
-      "spotify_url": "https://open.spotify.com/track/61L6xSR4n5cADuMqpCUOse"
     },
     {
       "title": "Con El Corazón En La Mano",
@@ -113,6 +99,13 @@
       "spotify_url": "https://open.spotify.com/track/3hC43RiG30dzTivvX2gd0V"
     },
     {
+      "title": "Play for Blood",
+      "artist": "Megadeth",
+      "album": "United Abominations",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e4a8eed4746006e42612c44",
+      "spotify_url": "https://open.spotify.com/track/4RDLqtYDoD4TGITzFiNZeb"
+    },
+    {
       "title": "Par De Anillos",
       "artist": "Viento Y Sol",
       "album": "Par De Anillos (Clásicos Digitalizados)",
@@ -120,32 +113,11 @@
       "spotify_url": "https://open.spotify.com/track/6ag94zXSjx4qrI20daNxwQ"
     },
     {
-      "title": "The Scorpion",
-      "artist": "Megadeth",
-      "album": "The System Has Failed",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cda3b381e6d4dddf4bc4d16c",
-      "spotify_url": "https://open.spotify.com/track/7geKlX2WGsvBevRiBRh4iU"
-    },
-    {
       "title": "Kill Rock 'n Roll",
       "artist": "System Of A Down",
       "album": "Hypnotize",
       "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
       "spotify_url": "https://open.spotify.com/track/28TReO2Mxk9Q3GA4K98YSz"
-    },
-    {
-      "title": "Trust - Spanish Version",
-      "artist": "Megadeth",
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/5ZxTp77CDwH2coZV7oHmlQ"
-    },
-    {
-      "title": "She-Wolf - Remastered 2004 / Remixed",
-      "artist": "Megadeth",
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo"
     },
     {
       "title": "楽園",
@@ -204,20 +176,6 @@
       "spotify_url": "https://open.spotify.com/track/0WFPzcug392h7sumNfIUuZ"
     },
     {
-      "title": "Promises",
-      "artist": "Megadeth",
-      "album": "The World Needs a Hero",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739ce39d341464f1b624716601",
-      "spotify_url": "https://open.spotify.com/track/196rNjJkKTjsk2NTEtJKLq"
-    },
-    {
-      "title": "Lucretia - 2004 Remix",
-      "artist": "Megadeth",
-      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
-      "spotify_url": "https://open.spotify.com/track/1Bi6Me45Xiqy4kYUGGwBTv"
-    },
-    {
       "title": "Volcán",
       "artist": "José José",
       "album": "Volcan",
@@ -230,13 +188,6 @@
       "album": "Sueño Y Realidad",
       "image": "https://i.scdn.co/image/ab67616d0000b273f25a5393f9b7461032b15b07",
       "spotify_url": "https://open.spotify.com/track/2O0eIukxche3RjnlDdmnuA"
-    },
-    {
-      "title": "Back In the Day",
-      "artist": "Megadeth",
-      "album": "The System Has Failed",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cda3b381e6d4dddf4bc4d16c",
-      "spotify_url": "https://open.spotify.com/track/2RZZAz0LmWWPCtOC2yPszv"
     },
     {
       "title": "マカロン",
@@ -253,6 +204,13 @@
       "spotify_url": "https://open.spotify.com/track/58gbs8nQ1b5okqg9jXON4x"
     },
     {
+      "title": "Prince Of Darkness - Remastered 2004",
+      "artist": "Megadeth",
+      "album": "Risk (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e3cad5e9f4f92df63716bc33",
+      "spotify_url": "https://open.spotify.com/track/61L6xSR4n5cADuMqpCUOse"
+    },
+    {
       "title": "Que hay en tu mirada",
       "artist": "Los Vicko's de Ramon Daniel",
       "album": "15 Éxitos Originales de Los Vicko's",
@@ -260,11 +218,18 @@
       "spotify_url": "https://open.spotify.com/track/6BDeDyzda2DltFWMNO3qbp"
     },
     {
-      "title": "Holy Wars...The Punishment Due - 2004 Remix",
+      "title": "The Scorpion",
       "artist": "Megadeth",
-      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
-      "spotify_url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS"
+      "album": "The System Has Failed",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cda3b381e6d4dddf4bc4d16c",
+      "spotify_url": "https://open.spotify.com/track/7geKlX2WGsvBevRiBRh4iU"
+    },
+    {
+      "title": "Trust - Spanish Version",
+      "artist": "Megadeth",
+      "album": "Cryptic Writings (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
+      "spotify_url": "https://open.spotify.com/track/5ZxTp77CDwH2coZV7oHmlQ"
     },
     {
       "title": "DEATH LAND",
@@ -274,11 +239,11 @@
       "spotify_url": "https://open.spotify.com/track/2YqwqirlXvyX9Wsf1EckcA"
     },
     {
-      "title": "Fatal Illusion",
+      "title": "She-Wolf - Remastered 2004 / Remixed",
       "artist": "Megadeth",
-      "album": "Dystopia",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db38819ff1e73809f8be6107",
-      "spotify_url": "https://open.spotify.com/track/7IVhAkmr7xdgRZYc1Thrna"
+      "album": "Cryptic Writings (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
+      "spotify_url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo"
     },
     {
       "title": "44 Minutes",
@@ -286,6 +251,13 @@
       "album": "Endgame",
       "image": "https://i.scdn.co/image/ab67616d0000b27352103e45f70508a143245023",
       "spotify_url": "https://open.spotify.com/track/0sT1eVQVyJ7Ruqo89yLmOJ"
+    },
+    {
+      "title": "Jet Pilot",
+      "artist": "System Of A Down",
+      "album": "Toxicity",
+      "image": "https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa",
+      "spotify_url": "https://open.spotify.com/track/0a2kVvbCbk52gmeFQFHNaG"
     },
     {
       "title": "Un Títere",
@@ -337,13 +309,6 @@
       "spotify_url": "https://open.spotify.com/track/4014FR3wY4V3s8hgDVSak7"
     },
     {
-      "title": "Tornado Of Souls - 2004 Remix",
-      "artist": "Megadeth",
-      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
-      "spotify_url": "https://open.spotify.com/track/4E5xVW505akJX0wcKj8Mpd"
-    },
-    {
       "title": "物をぱらぱら壊す",
       "artist": "Kikuo",
       "album": "きくおミク",
@@ -351,11 +316,46 @@
       "spotify_url": "https://open.spotify.com/track/52F89LJHMbXMdFNDfnm8KK"
     },
     {
+      "title": "Holy Wars...The Punishment Due - 2004 Remix",
+      "artist": "Megadeth",
+      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
+      "spotify_url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS"
+    },
+    {
       "title": "Trust - Remastered 2004 / Remixed",
       "artist": "Megadeth",
       "album": "Cryptic Writings (Expanded Edition - Remastered)",
       "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
       "spotify_url": "https://open.spotify.com/track/5emb8RDOZtpXlw6D0eEQbz"
+    },
+    {
+      "title": "Pastillas de Amnesia",
+      "artist": "Bronco",
+      "album": "Pura Sangre",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d667cc8fa0d63569a1510949",
+      "spotify_url": "https://open.spotify.com/track/68hgdBIOfiGE7PRBN1q8jc"
+    },
+    {
+      "title": "Hypnotize",
+      "artist": "System Of A Down",
+      "album": "Hypnotize",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
+      "spotify_url": "https://open.spotify.com/track/6oO7WMjD6kEvCITLbVj0mu"
+    },
+    {
+      "title": "Public Enemy No. 1",
+      "artist": "Megadeth",
+      "album": "Th1rt3en",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cf7165d2f467e043f32774f4",
+      "spotify_url": "https://open.spotify.com/track/0RZilNVJdWibukEtyp9Ixj"
+    },
+    {
+      "title": "EL・DO・RA・DO",
+      "artist": "Seikima-II",
+      "album": "地獄より愛をこめて",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb7142839123bb577ca13083",
+      "spotify_url": "https://open.spotify.com/track/0WGRGtVNiiaU2x4z4w5UeP"
     }
   ]
 }

@@ -3,6 +3,50 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1928988061",
+        "pfn": "StudioWildcard.ARKSurvivalAscended_1w2mm55455e38",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000072fa059d",
+        "windowsPhoneProductId": null,
+        "name": "ARK: Survival Ascended",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.3955.14545480955348978.971a18b6-ebe3-437f-af65-4ba072de8964.7c7c9bba-d6fe-42e3-83fc-bb2f6aeff2cd",
+        "mediaItemType": "Application",
+        "modernTitleId": "1928988061",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 3,
+          "totalAchievements": 0,
+          "currentGamerscore": 15,
+          "totalGamerscore": 1000,
+          "progressPercentage": 1,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-15T01:42:32.9010074Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "1775314772",
         "pfn": null,
         "bingId": null,
@@ -84,50 +128,6 @@
         "alternateTitleIds": null,
         "contentBoards": null,
         "xboxLiveTier": "Full"
-      },
-      {
-        "titleId": "926771636",
-        "pfn": "Ubisoft.256f5f4c-e715-45bc-a159-b33b5ed4fed8_ngz4m417e0mpw",
-        "bingId": "b0725d24-bc6d-4d63-9604-d3f17fe594ed",
-        "serviceConfigId": "4c5b0100-b87d-4442-9d9b-cb81373d69b4",
-        "windowsPhoneProductId": null,
-        "name": "Tom Clancy's Rainbow Six Siege",
-        "type": "Game",
-        "devices": [
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.48586.65170969132831011.a13a22f3-5325-489a-9982-552262e2f09b.dd7696e9-b093-40a5-a469-189d1d098444",
-        "mediaItemType": "Application",
-        "modernTitleId": "926771636",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 44,
-          "totalAchievements": 0,
-          "currentGamerscore": 865,
-          "totalGamerscore": 1000,
-          "progressPercentage": 86,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-13T16:04:07.4132309Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       }
     ]
   },

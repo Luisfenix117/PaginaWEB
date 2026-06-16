@@ -3,38 +3,38 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1928988061",
-        "pfn": "StudioWildcard.ARKSurvivalAscended_1w2mm55455e38",
+        "titleId": "2118292977",
+        "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000072fa059d",
+        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
         "windowsPhoneProductId": null,
-        "name": "ARK: Survival Ascended",
+        "name": "ARC Raiders",
         "type": "Game",
         "devices": [
           "PC",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.3955.14545480955348978.971a18b6-ebe3-437f-af65-4ba072de8964.7c7c9bba-d6fe-42e3-83fc-bb2f6aeff2cd",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
         "mediaItemType": "Application",
-        "modernTitleId": "1928988061",
+        "modernTitleId": "2118292977",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 3,
+          "currentAchievements": 45,
           "totalAchievements": 0,
-          "currentGamerscore": 15,
+          "currentGamerscore": 870,
           "totalGamerscore": 1000,
-          "progressPercentage": 1,
+          "progressPercentage": 87,
           "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 3
+          "sourceVersion": 2
         },
         "gamePass": {
-          "isGamePass": true
+          "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-15T05:28:04.7843202Z",
+          "lastTimePlayed": "2026-06-16T10:29:21.0589542Z",
           "visible": true,
           "canHide": true
         },
@@ -47,78 +47,39 @@
         "isStreamable": true
       },
       {
-        "titleId": "1775314772",
-        "pfn": null,
+        "titleId": "2102232082",
+        "pfn": "BethesdaSoftworks.Medusa_3275kfvn8vcwc",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "serviceConfigId": "00000000-0000-0000-0000-00007d4d8412",
         "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
+        "name": "Heretic + Hexen",
         "type": "Game",
         "devices": [
-          "Win32"
-        ],
-        "displayImage": "",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-14T03:55:51.8128644Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null
-      },
-      {
-        "titleId": "2011061477",
-        "pfn": "F024294D.PRAGMATA_8fty0by30jkny",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000077de5ce5",
-        "windowsPhoneProductId": null,
-        "name": "PRAGMATA",
-        "type": "Game",
-        "devices": [
+          "PC",
+          "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.53931.14635635892691285.c714c5ad-73ed-425e-81b8-f766ad7ad689.8c58d4ca-fb44-4f63-b399-796aa7e21f6f",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.3496.13568632792554292.fea70ec4-25b5-4014-996b-52c5abc58b71.69e7078c-ec44-4a16-90d2-10509e7f21a6",
         "mediaItemType": "Application",
-        "modernTitleId": "2011061477",
+        "modernTitleId": "2102232082",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 18,
+          "currentAchievements": 1,
           "totalAchievements": 0,
-          "currentGamerscore": 270,
+          "currentGamerscore": 23,
           "totalGamerscore": 1000,
-          "progressPercentage": 27,
+          "progressPercentage": 2,
           "sourceVersion": 2
         },
         "stats": {
           "sourceVersion": 1
         },
         "gamePass": {
-          "isGamePass": false
+          "isGamePass": true
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-13T18:31:37.9060781Z",
+          "lastTimePlayed": "2026-06-16T09:44:35.5526217Z",
           "visible": true,
           "canHide": true
         },
@@ -127,7 +88,53 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full"
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1714795112",
+        "pfn": "BethesdaSoftworks.Osiris2.0_3275kfvn8vcwc",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00006635b268",
+        "windowsPhoneProductId": null,
+        "name": "DOOM + DOOM II",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.65308.14594598903877048.bbb5dc7a-5386-4439-89d6-a5136ac0725b.eea5c189-9a6c-4a48-bb66-6965091e5968",
+        "mediaItemType": "Application",
+        "modernTitleId": "1714795112",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 33,
+          "currentGamerscore": 0,
+          "totalGamerscore": 1000,
+          "progressPercentage": 0,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-16T07:41:28.2377175Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       }
     ]
   },

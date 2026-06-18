@@ -3,6 +3,51 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "2102232082",
+        "pfn": "BethesdaSoftworks.Medusa_3275kfvn8vcwc",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007d4d8412",
+        "windowsPhoneProductId": null,
+        "name": "Heretic + Hexen",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.3496.13568632792554292.fea70ec4-25b5-4014-996b-52c5abc58b71.69e7078c-ec44-4a16-90d2-10509e7f21a6",
+        "mediaItemType": "Application",
+        "modernTitleId": "2102232082",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 2,
+          "totalAchievements": 0,
+          "currentGamerscore": 46,
+          "totalGamerscore": 1000,
+          "progressPercentage": 4,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-18T06:04:22.8056741Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "1775314772",
         "pfn": null,
         "bingId": null,
@@ -33,7 +78,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-18T00:28:59.3983556Z",
+          "lastTimePlayed": "2026-06-18T05:13:07.7513561Z",
           "visible": true,
           "canHide": true
         },
@@ -44,71 +89,28 @@
         "contentBoards": null
       },
       {
-        "titleId": "2115352193",
-        "pfn": "KeplerInteractive.PacificDrive_ymj30pw7xe604",
+        "titleId": "1690524168",
+        "pfn": "946B6A6E.WoLongFallenDynasty_dkffhzhmh6pmy",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007e15b681",
+        "serviceConfigId": "00000000-0000-0000-0000-000064c35a08",
         "windowsPhoneProductId": null,
-        "name": "Pacific Drive",
+        "name": "Wo Long: Fallen Dynasty",
         "type": "Game",
         "devices": [
           "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.30777.14342694787118182.96ac9113-88e6-4c27-822e-b852c773b5cc.9664d48f-5494-4d80-b8a1-253008354cf2",
-        "mediaItemType": "Application",
-        "modernTitleId": "2115352193",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 1000,
-          "progressPercentage": 0,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-17T23:32:05.3427845Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "926771636",
-        "pfn": "Ubisoft.256f5f4c-e715-45bc-a159-b33b5ed4fed8_ngz4m417e0mpw",
-        "bingId": "b0725d24-bc6d-4d63-9604-d3f17fe594ed",
-        "serviceConfigId": "4c5b0100-b87d-4442-9d9b-cb81373d69b4",
-        "windowsPhoneProductId": null,
-        "name": "Tom Clancy's Rainbow Six Siege",
-        "type": "Game",
-        "devices": [
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.48586.65170969132831011.a13a22f3-5325-489a-9982-552262e2f09b.dd7696e9-b093-40a5-a469-189d1d098444",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.46001.13524128328401524.c8089ad9-5e75-4246-83e8-2dac88f04afd.9a8d6174-1791-45bf-b366-9360daf09b20",
         "mediaItemType": "Application",
-        "modernTitleId": "926771636",
+        "modernTitleId": "1690524168",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 44,
+          "currentAchievements": 11,
           "totalAchievements": 0,
-          "currentGamerscore": 865,
-          "totalGamerscore": 1000,
-          "progressPercentage": 86,
+          "currentGamerscore": 165,
+          "totalGamerscore": 1585,
+          "progressPercentage": 10,
           "sourceVersion": 2
         },
         "stats": {
@@ -119,7 +121,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-16T19:41:58.6596513Z",
+          "lastTimePlayed": "2026-06-18T02:43:11.8185186Z",
           "visible": true,
           "canHide": true
         },

@@ -3,6 +3,47 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1775314772",
+        "pfn": null,
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "windowsPhoneProductId": null,
+        "name": "Goddess of Victory: Nikke",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-20T06:53:42.767062Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null
+      },
+      {
         "titleId": "1144039928",
         "pfn": "Microsoft.Chelan_8wekyb3d8bbwe",
         "bingId": "f33009f4-14ff-4821-94e3-c3573c868c2e",
@@ -78,49 +119,6 @@
         "images": null,
         "titleHistory": {
           "lastTimePlayed": "2026-06-19T17:34:15.3333811Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1730971667",
-        "pfn": "TheFunPimps.7DaystoDieGoldEdition_yapmrbwff4apt",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-0000672c8813",
-        "windowsPhoneProductId": null,
-        "name": "7 Days to Die - Console Edition (Game Preview)",
-        "type": "Game",
-        "devices": [
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.59451.14625844531663575.3e9c3e1a-4cb9-4312-941d-02836382abc5.d38459a5-466b-4c70-8d3f-d472943251a8",
-        "mediaItemType": "Application",
-        "modernTitleId": "1730971667",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 43,
-          "currentGamerscore": 0,
-          "totalGamerscore": 1000,
-          "progressPercentage": 0,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-19T03:45:34.3259466Z",
           "visible": true,
           "canHide": true
         },

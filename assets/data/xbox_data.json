@@ -3,19 +3,19 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1775314772",
-        "pfn": null,
+        "titleId": "1944915755",
+        "pfn": "NetEaseGamesGlobal.OnceHumanDemo_hfc15bhpepnfj",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "serviceConfigId": "00000000-0000-0000-0000-000073ed0f2b",
         "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
+        "name": "Once Human Beta",
         "type": "Game",
         "devices": [
-          "Win32"
+          "XboxSeries"
         ],
-        "displayImage": "",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.29780.13797710740001513.0681ce1e-f520-400e-8b64-b7237e337088.96b65062-b88b-47e1-9aa9-337e073d33d7",
         "mediaItemType": "Application",
-        "modernTitleId": null,
+        "modernTitleId": "1944915755",
         "isBundle": false,
         "achievement": {
           "currentAchievements": 0,
@@ -26,14 +26,14 @@
           "sourceVersion": 0
         },
         "stats": {
-          "sourceVersion": 0
+          "sourceVersion": 1
         },
         "gamePass": {
           "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-20T06:53:42.767062Z",
+          "lastTimePlayed": "2026-06-21T02:37:43.6206253Z",
           "visible": true,
           "canHide": true
         },
@@ -41,7 +41,53 @@
         "detail": null,
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
-        "contentBoards": null
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
+        "titleId": "267695549",
+        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
+        "bingId": null,
+        "serviceConfigId": "93ac0100-efec-488c-af85-e5850ff4b5bd",
+        "windowsPhoneProductId": null,
+        "name": "Fortnite",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.30243.70702278257994163.a192b10f-e44a-4746-afb2-c8d38dd3a4a0.9d63924a-301c-4076-b409-123a02fa2cdb",
+        "mediaItemType": "Application",
+        "modernTitleId": "267695549",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 14,
+          "totalAchievements": 0,
+          "currentGamerscore": 170,
+          "totalGamerscore": 1000,
+          "progressPercentage": 17,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-21T00:26:55.7205943Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
         "titleId": "1144039928",
@@ -74,51 +120,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-19T21:55:23.5658949Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1928988061",
-        "pfn": "StudioWildcard.ARKSurvivalAscended_1w2mm55455e38",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000072fa059d",
-        "windowsPhoneProductId": null,
-        "name": "ARK: Survival Ascended",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.3955.14545480955348978.971a18b6-ebe3-437f-af65-4ba072de8964.7c7c9bba-d6fe-42e3-83fc-bb2f6aeff2cd",
-        "mediaItemType": "Application",
-        "modernTitleId": "1928988061",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 4,
-          "totalAchievements": 0,
-          "currentGamerscore": 40,
-          "totalGamerscore": 1000,
-          "progressPercentage": 4,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 3
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-19T17:34:15.3333811Z",
+          "lastTimePlayed": "2026-06-21T00:12:43.9709907Z",
           "visible": true,
           "canHide": true
         },

@@ -3,6 +3,91 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1727852104",
+        "pfn": "39EA002F.FF6DF_n746a19ndrrjg",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000066fcee48",
+        "windowsPhoneProductId": null,
+        "name": "FINAL FANTASY VI",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.30999.13963239069939428.625a335f-7e8c-428e-8629-b822af0d8cc8.59166e05-0600-4e50-83f9-7149b9c79079",
+        "mediaItemType": "Application",
+        "modernTitleId": "1727852104",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 6,
+          "totalAchievements": 0,
+          "currentGamerscore": 80,
+          "totalGamerscore": 1000,
+          "progressPercentage": 8,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-21T21:53:46.163964Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1775314772",
+        "pfn": null,
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "windowsPhoneProductId": null,
+        "name": "Goddess of Victory: Nikke",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-21T14:26:51.2023157Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null
+      },
+      {
         "titleId": "1944915755",
         "pfn": "NetEaseGamesGlobal.OnceHumanDemo_hfc15bhpepnfj",
         "bingId": null,
@@ -43,94 +128,6 @@
         "alternateTitleIds": null,
         "contentBoards": null,
         "xboxLiveTier": "Full"
-      },
-      {
-        "titleId": "267695549",
-        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
-        "bingId": null,
-        "serviceConfigId": "93ac0100-efec-488c-af85-e5850ff4b5bd",
-        "windowsPhoneProductId": null,
-        "name": "Fortnite",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.30243.70702278257994163.a192b10f-e44a-4746-afb2-c8d38dd3a4a0.9d63924a-301c-4076-b409-123a02fa2cdb",
-        "mediaItemType": "Application",
-        "modernTitleId": "267695549",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 14,
-          "totalAchievements": 0,
-          "currentGamerscore": 170,
-          "totalGamerscore": 1000,
-          "progressPercentage": 17,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-21T00:26:55.7205943Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1144039928",
-        "pfn": "Microsoft.Chelan_8wekyb3d8bbwe",
-        "bingId": "f33009f4-14ff-4821-94e3-c3573c868c2e",
-        "serviceConfigId": "77290100-225e-4768-9373-98164430a9f8",
-        "windowsPhoneProductId": null,
-        "name": "Halo: la colección Jefe Maestro",
-        "type": "Game",
-        "devices": [
-          "PC"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.14011015795942652.ca67db1b-d21e-47e9-bbb4-5ece2ce3f774.c71a2431-5ef1-4c32-92fa-22cca6162053",
-        "mediaItemType": "Application",
-        "modernTitleId": "1144039928",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 277,
-          "totalAchievements": 0,
-          "currentGamerscore": 2640,
-          "totalGamerscore": 7000,
-          "progressPercentage": 37,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-21T00:12:43.9709907Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       }
     ]
   },

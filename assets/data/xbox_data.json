@@ -33,7 +33,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-22T14:51:41.3002943Z",
+          "lastTimePlayed": "2026-06-22T19:56:30.4424179Z",
           "visible": true,
           "canHide": true
         },
@@ -43,6 +43,50 @@
         "alternateTitleIds": null,
         "contentBoards": null,
         "xboxLiveTier": "Full"
+      },
+      {
+        "titleId": "1928988061",
+        "pfn": "StudioWildcard.ARKSurvivalAscended_1w2mm55455e38",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000072fa059d",
+        "windowsPhoneProductId": null,
+        "name": "ARK: Survival Ascended",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.3955.14545480955348978.971a18b6-ebe3-437f-af65-4ba072de8964.7c7c9bba-d6fe-42e3-83fc-bb2f6aeff2cd",
+        "mediaItemType": "Application",
+        "modernTitleId": "1928988061",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 5,
+          "totalAchievements": 0,
+          "currentGamerscore": 65,
+          "totalGamerscore": 1000,
+          "progressPercentage": 6,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-22T18:20:39.0789675Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
         "titleId": "1828326430",
@@ -86,50 +130,6 @@
         "alternateTitleIds": null,
         "contentBoards": null,
         "xboxLiveTier": "Full"
-      },
-      {
-        "titleId": "1727852104",
-        "pfn": "39EA002F.FF6DF_n746a19ndrrjg",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000066fcee48",
-        "windowsPhoneProductId": null,
-        "name": "FINAL FANTASY VI",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.30999.13963239069939428.625a335f-7e8c-428e-8629-b822af0d8cc8.59166e05-0600-4e50-83f9-7149b9c79079",
-        "mediaItemType": "Application",
-        "modernTitleId": "1727852104",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 6,
-          "totalAchievements": 0,
-          "currentGamerscore": 80,
-          "totalGamerscore": 1000,
-          "progressPercentage": 8,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-21T21:53:46.163964Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       }
     ]
   },

@@ -3,6 +3,50 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1727852104",
+        "pfn": "39EA002F.FF6DF_n746a19ndrrjg",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000066fcee48",
+        "windowsPhoneProductId": null,
+        "name": "FINAL FANTASY VI",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.30999.13963239069939428.625a335f-7e8c-428e-8629-b822af0d8cc8.59166e05-0600-4e50-83f9-7149b9c79079",
+        "mediaItemType": "Application",
+        "modernTitleId": "1727852104",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 7,
+          "totalAchievements": 0,
+          "currentGamerscore": 95,
+          "totalGamerscore": 1000,
+          "progressPercentage": 9,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-24T00:47:40.5587453Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "1944915755",
         "pfn": "NetEaseGamesGlobal.OnceHumanDemo_hfc15bhpepnfj",
         "bingId": null,
@@ -87,49 +131,6 @@
         "contentBoards": null,
         "xboxLiveTier": "Full",
         "isStreamable": true
-      },
-      {
-        "titleId": "1828326430",
-        "pfn": "Microsoft.186805A1E9E_8wekyb3d8bbwe",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006cfa0c1e",
-        "windowsPhoneProductId": null,
-        "name": "Minecraft",
-        "type": "Game",
-        "devices": [
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.6631.13850085746326678.06e2dc5c-7997-46e9-a8e6-0e48b57cb13b.53ca896e-c3c3-460b-b9ee-70cc217b041c",
-        "mediaItemType": "Application",
-        "modernTitleId": "1828326430",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 53,
-          "totalAchievements": 0,
-          "currentGamerscore": 1075,
-          "totalGamerscore": 2980,
-          "progressPercentage": 36,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 3
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-22T04:00:39.766276Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
       }
     ]
   },

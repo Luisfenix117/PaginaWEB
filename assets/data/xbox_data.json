@@ -3,6 +3,95 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1727852104",
+        "pfn": "39EA002F.FF6DF_n746a19ndrrjg",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000066fcee48",
+        "windowsPhoneProductId": null,
+        "name": "FINAL FANTASY VI",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.30999.13963239069939428.625a335f-7e8c-428e-8629-b822af0d8cc8.59166e05-0600-4e50-83f9-7149b9c79079",
+        "mediaItemType": "Application",
+        "modernTitleId": "1727852104",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 10,
+          "totalAchievements": 0,
+          "currentGamerscore": 140,
+          "totalGamerscore": 1000,
+          "progressPercentage": 14,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-25T11:16:41.7033017Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "2102232082",
+        "pfn": "BethesdaSoftworks.Medusa_3275kfvn8vcwc",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007d4d8412",
+        "windowsPhoneProductId": null,
+        "name": "Heretic + Hexen",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.3496.13568632792554292.fea70ec4-25b5-4014-996b-52c5abc58b71.69e7078c-ec44-4a16-90d2-10509e7f21a6",
+        "mediaItemType": "Application",
+        "modernTitleId": "2102232082",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 4,
+          "totalAchievements": 0,
+          "currentGamerscore": 92,
+          "totalGamerscore": 1000,
+          "progressPercentage": 9,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-25T04:22:37.2252245Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "1828326430",
         "pfn": "Microsoft.186805A1E9E_8wekyb3d8bbwe",
         "bingId": null,
@@ -35,92 +124,6 @@
         "images": null,
         "titleHistory": {
           "lastTimePlayed": "2026-06-24T03:12:48.5904749Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
-      },
-      {
-        "titleId": "1727852104",
-        "pfn": "39EA002F.FF6DF_n746a19ndrrjg",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000066fcee48",
-        "windowsPhoneProductId": null,
-        "name": "FINAL FANTASY VI",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.30999.13963239069939428.625a335f-7e8c-428e-8629-b822af0d8cc8.59166e05-0600-4e50-83f9-7149b9c79079",
-        "mediaItemType": "Application",
-        "modernTitleId": "1727852104",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 7,
-          "totalAchievements": 0,
-          "currentGamerscore": 95,
-          "totalGamerscore": 1000,
-          "progressPercentage": 9,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-24T00:47:40.5587453Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1944915755",
-        "pfn": "NetEaseGamesGlobal.OnceHumanDemo_hfc15bhpepnfj",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000073ed0f2b",
-        "windowsPhoneProductId": null,
-        "name": "Once Human Beta",
-        "type": "Game",
-        "devices": [
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.29780.13797710740001513.0681ce1e-f520-400e-8b64-b7237e337088.96b65062-b88b-47e1-9aa9-337e073d33d7",
-        "mediaItemType": "Application",
-        "modernTitleId": "1944915755",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-22T19:56:30.4424179Z",
           "visible": true,
           "canHide": true
         },

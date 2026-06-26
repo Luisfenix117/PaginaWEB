@@ -3,95 +3,6 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1727852104",
-        "pfn": "39EA002F.FF6DF_n746a19ndrrjg",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000066fcee48",
-        "windowsPhoneProductId": null,
-        "name": "FINAL FANTASY VI",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.30999.13963239069939428.625a335f-7e8c-428e-8629-b822af0d8cc8.59166e05-0600-4e50-83f9-7149b9c79079",
-        "mediaItemType": "Application",
-        "modernTitleId": "1727852104",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 10,
-          "totalAchievements": 0,
-          "currentGamerscore": 140,
-          "totalGamerscore": 1000,
-          "progressPercentage": 14,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-25T11:16:41.7033017Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "2102232082",
-        "pfn": "BethesdaSoftworks.Medusa_3275kfvn8vcwc",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007d4d8412",
-        "windowsPhoneProductId": null,
-        "name": "Heretic + Hexen",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.3496.13568632792554292.fea70ec4-25b5-4014-996b-52c5abc58b71.69e7078c-ec44-4a16-90d2-10509e7f21a6",
-        "mediaItemType": "Application",
-        "modernTitleId": "2102232082",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 4,
-          "totalAchievements": 0,
-          "currentGamerscore": 92,
-          "totalGamerscore": 1000,
-          "progressPercentage": 9,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-25T04:22:37.2252245Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
         "titleId": "1828326430",
         "pfn": "Microsoft.186805A1E9E_8wekyb3d8bbwe",
         "bingId": null,
@@ -123,7 +34,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-24T03:12:48.5904749Z",
+          "lastTimePlayed": "2026-06-25T18:41:19.5721724Z",
           "visible": true,
           "canHide": true
         },
@@ -133,6 +44,95 @@
         "alternateTitleIds": null,
         "contentBoards": null,
         "xboxLiveTier": "Full"
+      },
+      {
+        "titleId": "267695549",
+        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
+        "bingId": null,
+        "serviceConfigId": "93ac0100-efec-488c-af85-e5850ff4b5bd",
+        "windowsPhoneProductId": null,
+        "name": "Fortnite",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.30243.70702278257994163.a192b10f-e44a-4746-afb2-c8d38dd3a4a0.9d63924a-301c-4076-b409-123a02fa2cdb",
+        "mediaItemType": "Application",
+        "modernTitleId": "267695549",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 14,
+          "totalAchievements": 0,
+          "currentGamerscore": 170,
+          "totalGamerscore": 1000,
+          "progressPercentage": 17,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-25T16:56:44.2353294Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "926771636",
+        "pfn": "Ubisoft.256f5f4c-e715-45bc-a159-b33b5ed4fed8_ngz4m417e0mpw",
+        "bingId": "b0725d24-bc6d-4d63-9604-d3f17fe594ed",
+        "serviceConfigId": "4c5b0100-b87d-4442-9d9b-cb81373d69b4",
+        "windowsPhoneProductId": null,
+        "name": "Tom Clancy's Rainbow Six Siege",
+        "type": "Game",
+        "devices": [
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.48586.65170969132831011.a13a22f3-5325-489a-9982-552262e2f09b.dd7696e9-b093-40a5-a469-189d1d098444",
+        "mediaItemType": "Application",
+        "modernTitleId": "926771636",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 44,
+          "totalAchievements": 0,
+          "currentGamerscore": 865,
+          "totalGamerscore": 1000,
+          "progressPercentage": 86,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-25T15:48:30.7931944Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       }
     ]
   },

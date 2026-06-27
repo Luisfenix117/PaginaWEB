@@ -3,6 +3,47 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1775314772",
+        "pfn": null,
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "windowsPhoneProductId": null,
+        "name": "Goddess of Victory: Nikke",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-27T11:59:06.4298874Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null
+      },
+      {
         "titleId": "2089424131",
         "pfn": "11bitstudios.ThisWarofMineFinalCut_gwy9gn5q9j1y6",
         "bingId": null,
@@ -19,11 +60,11 @@
         "modernTitleId": "2089424131",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 13,
+          "currentAchievements": 16,
           "totalAchievements": 0,
-          "currentGamerscore": 320,
+          "currentGamerscore": 560,
           "totalGamerscore": 1755,
-          "progressPercentage": 18,
+          "progressPercentage": 31,
           "sourceVersion": 2
         },
         "stats": {
@@ -34,7 +75,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-26T21:18:04.5635096Z",
+          "lastTimePlayed": "2026-06-27T09:45:33.6365734Z",
           "visible": true,
           "canHide": true
         },
@@ -79,50 +120,6 @@
         "images": null,
         "titleHistory": {
           "lastTimePlayed": "2026-06-26T20:29:26.0317657Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1901146690",
-        "pfn": "DotEmu.Abyssus_map6zyh9ym1xy",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000071513242",
-        "windowsPhoneProductId": null,
-        "name": "Abyssus",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.12093.14084222450778387.acfee501-4801-4255-b7de-e5a0ffccea4c.dd3af780-b06a-4fcc-a4c1-f5633a48f053",
-        "mediaItemType": "Application",
-        "modernTitleId": "1901146690",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 4,
-          "totalAchievements": 0,
-          "currentGamerscore": 40,
-          "totalGamerscore": 1000,
-          "progressPercentage": 4,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-26T15:21:48.0518652Z",
           "visible": true,
           "canHide": true
         },

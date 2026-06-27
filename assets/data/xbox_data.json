@@ -3,82 +3,38 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1828326430",
-        "pfn": "Microsoft.186805A1E9E_8wekyb3d8bbwe",
+        "titleId": "2089424131",
+        "pfn": "11bitstudios.ThisWarofMineFinalCut_gwy9gn5q9j1y6",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006cfa0c1e",
+        "serviceConfigId": "00000000-0000-0000-0000-00007c8a1503",
         "windowsPhoneProductId": null,
-        "name": "Minecraft",
-        "type": "Game",
-        "devices": [
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.6631.13850085746326678.06e2dc5c-7997-46e9-a8e6-0e48b57cb13b.53ca896e-c3c3-460b-b9ee-70cc217b041c",
-        "mediaItemType": "Application",
-        "modernTitleId": "1828326430",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 53,
-          "totalAchievements": 0,
-          "currentGamerscore": 1075,
-          "totalGamerscore": 2980,
-          "progressPercentage": 36,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 3
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-25T18:41:19.5721724Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
-      },
-      {
-        "titleId": "267695549",
-        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
-        "bingId": null,
-        "serviceConfigId": "93ac0100-efec-488c-af85-e5850ff4b5bd",
-        "windowsPhoneProductId": null,
-        "name": "Fortnite",
+        "name": "This War of Mine: Final Cut",
         "type": "Game",
         "devices": [
           "PC",
-          "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.30243.70702278257994163.a192b10f-e44a-4746-afb2-c8d38dd3a4a0.9d63924a-301c-4076-b409-123a02fa2cdb",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.48284.13818178861591472.06d4cfd1-e581-4b7f-8268-7ed2cfca3f35.c16f3c09-e1b5-4bb2-924e-4f06235ae319",
         "mediaItemType": "Application",
-        "modernTitleId": "267695549",
+        "modernTitleId": "2089424131",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 14,
+          "currentAchievements": 13,
           "totalAchievements": 0,
-          "currentGamerscore": 170,
-          "totalGamerscore": 1000,
-          "progressPercentage": 17,
+          "currentGamerscore": 320,
+          "totalGamerscore": 1755,
+          "progressPercentage": 18,
           "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 2
+          "sourceVersion": 1
         },
         "gamePass": {
-          "isGamePass": true
+          "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-25T16:56:44.2353294Z",
+          "lastTimePlayed": "2026-06-26T21:18:04.5635096Z",
           "visible": true,
           "canHide": true
         },
@@ -122,7 +78,51 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-25T15:48:30.7931944Z",
+          "lastTimePlayed": "2026-06-26T20:29:26.0317657Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1901146690",
+        "pfn": "DotEmu.Abyssus_map6zyh9ym1xy",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000071513242",
+        "windowsPhoneProductId": null,
+        "name": "Abyssus",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.12093.14084222450778387.acfee501-4801-4255-b7de-e5a0ffccea4c.dd3af780-b06a-4fcc-a4c1-f5633a48f053",
+        "mediaItemType": "Application",
+        "modernTitleId": "1901146690",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 4,
+          "totalAchievements": 0,
+          "currentGamerscore": 40,
+          "totalGamerscore": 1000,
+          "progressPercentage": 4,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-26T15:21:48.0518652Z",
           "visible": true,
           "canHide": true
         },

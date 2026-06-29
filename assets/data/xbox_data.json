@@ -3,112 +3,26 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1775314772",
-        "pfn": null,
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "titleId": "896928775",
+        "pfn": "Microsoft.MinecraftUWP_8wekyb3d8bbwe",
+        "bingId": "686834ad-c7a4-47f2-a66e-b0a0fc548c43",
+        "serviceConfigId": "4fc10100-5f7a-4470-899b-280835760c07",
         "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
+        "name": "Minecraft for Windows",
         "type": "Game",
         "devices": [
-          "Win32"
+          "PC"
         ],
-        "displayImage": "",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.31326.13510798885735219.3dfb176a-2479-4b17-ab6e-418794f3932d.a8aae002-3be2-4cd4-9ca3-b3e2e7e14882",
         "mediaItemType": "Application",
-        "modernTitleId": null,
+        "modernTitleId": "896928775",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 0,
+          "currentAchievements": 94,
           "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-27T11:59:06.4298874Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null
-      },
-      {
-        "titleId": "2089424131",
-        "pfn": "11bitstudios.ThisWarofMineFinalCut_gwy9gn5q9j1y6",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007c8a1503",
-        "windowsPhoneProductId": null,
-        "name": "This War of Mine: Final Cut",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.48284.13818178861591472.06d4cfd1-e581-4b7f-8268-7ed2cfca3f35.c16f3c09-e1b5-4bb2-924e-4f06235ae319",
-        "mediaItemType": "Application",
-        "modernTitleId": "2089424131",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 16,
-          "totalAchievements": 0,
-          "currentGamerscore": 560,
-          "totalGamerscore": 1755,
-          "progressPercentage": 31,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-27T09:45:33.6365734Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "926771636",
-        "pfn": "Ubisoft.256f5f4c-e715-45bc-a159-b33b5ed4fed8_ngz4m417e0mpw",
-        "bingId": "b0725d24-bc6d-4d63-9604-d3f17fe594ed",
-        "serviceConfigId": "4c5b0100-b87d-4442-9d9b-cb81373d69b4",
-        "windowsPhoneProductId": null,
-        "name": "Tom Clancy's Rainbow Six Siege",
-        "type": "Game",
-        "devices": [
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.48586.65170969132831011.a13a22f3-5325-489a-9982-552262e2f09b.dd7696e9-b093-40a5-a469-189d1d098444",
-        "mediaItemType": "Application",
-        "modernTitleId": "926771636",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 44,
-          "totalAchievements": 0,
-          "currentGamerscore": 865,
-          "totalGamerscore": 1000,
-          "progressPercentage": 86,
+          "currentGamerscore": 2115,
+          "totalGamerscore": 2980,
+          "progressPercentage": 70,
           "sourceVersion": 2
         },
         "stats": {
@@ -119,7 +33,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-26T20:29:26.0317657Z",
+          "lastTimePlayed": "2026-06-29T02:23:07.9253252Z",
           "visible": true,
           "canHide": true
         },
@@ -128,8 +42,93 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
+        "xboxLiveTier": "Full"
+      },
+      {
+        "titleId": "830649354",
+        "pfn": "WarnerBros.Interactive.CoreGame_ktmk1xygcecda",
+        "bingId": "f849bfcb-0d86-4e19-bdf9-9fb4140f0086",
+        "serviceConfigId": "b5fe0100-c634-4d68-870b-7bc83182b40a",
+        "windowsPhoneProductId": null,
+        "name": "Dying Light",
+        "type": "Game",
+        "devices": [
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.35296.63224705253913975.f86d2928-2308-41f8-ac16-0f9c2534f9f0.95188760-52cd-4eb5-8abe-5d83577671c1",
+        "mediaItemType": "Application",
+        "modernTitleId": "830649354",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 10,
+          "totalAchievements": 0,
+          "currentGamerscore": 145,
+          "totalGamerscore": 1490,
+          "progressPercentage": 9,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-28T21:34:48.8260596Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
+        "titleId": "1828326430",
+        "pfn": "Microsoft.186805A1E9E_8wekyb3d8bbwe",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00006cfa0c1e",
+        "windowsPhoneProductId": null,
+        "name": "Minecraft",
+        "type": "Game",
+        "devices": [
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.6631.13850085746326678.06e2dc5c-7997-46e9-a8e6-0e48b57cb13b.53ca896e-c3c3-460b-b9ee-70cc217b041c",
+        "mediaItemType": "Application",
+        "modernTitleId": "1828326430",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 53,
+          "totalAchievements": 0,
+          "currentGamerscore": 1075,
+          "totalGamerscore": 2980,
+          "progressPercentage": 36,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-28T19:03:30.5296982Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
       }
     ]
   },

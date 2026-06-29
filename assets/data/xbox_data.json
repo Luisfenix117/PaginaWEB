@@ -3,6 +3,47 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1775314772",
+        "pfn": null,
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "windowsPhoneProductId": null,
+        "name": "Goddess of Victory: Nikke",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-29T11:39:30.571782Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null
+      },
+      {
         "titleId": "896928775",
         "pfn": "Microsoft.MinecraftUWP_8wekyb3d8bbwe",
         "bingId": "686834ad-c7a4-47f2-a66e-b0a0fc548c43",
@@ -33,7 +74,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-29T02:23:07.9253252Z",
+          "lastTimePlayed": "2026-06-29T05:43:33.7042788Z",
           "visible": true,
           "canHide": true
         },
@@ -77,49 +118,6 @@
         "images": null,
         "titleHistory": {
           "lastTimePlayed": "2026-06-28T21:34:48.8260596Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
-      },
-      {
-        "titleId": "1828326430",
-        "pfn": "Microsoft.186805A1E9E_8wekyb3d8bbwe",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006cfa0c1e",
-        "windowsPhoneProductId": null,
-        "name": "Minecraft",
-        "type": "Game",
-        "devices": [
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.6631.13850085746326678.06e2dc5c-7997-46e9-a8e6-0e48b57cb13b.53ca896e-c3c3-460b-b9ee-70cc217b041c",
-        "mediaItemType": "Application",
-        "modernTitleId": "1828326430",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 53,
-          "totalAchievements": 0,
-          "currentGamerscore": 1075,
-          "totalGamerscore": 2980,
-          "progressPercentage": 36,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 3
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-28T19:03:30.5296982Z",
           "visible": true,
           "canHide": true
         },

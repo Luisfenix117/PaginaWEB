@@ -3,37 +3,38 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1775314772",
-        "pfn": null,
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "titleId": "1000604311",
+        "pfn": "F024294D.ResidentEvilRevelations2_8fty0by30jkny",
+        "bingId": "5fab6ebc-4cbf-4f01-88cd-1780d4d0c464",
+        "serviceConfigId": "b0e40100-e6d1-41c5-8fb1-695b3ba40297",
         "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
+        "name": "Resident Evil Revelations 2 (Episodio 1)",
         "type": "Game",
         "devices": [
-          "Win32"
+          "XboxOne",
+          "XboxSeries"
         ],
-        "displayImage": "",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.29123.65346347858891626.0724970f-bb88-4dfc-b04a-19941fd34b8b.84f20e2b-ee7a-4ab2-97b6-3468c5113483",
         "mediaItemType": "Application",
-        "modernTitleId": null,
+        "modernTitleId": "1000604311",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 0,
+          "currentAchievements": 3,
           "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
+          "currentGamerscore": 120,
+          "totalGamerscore": 1960,
+          "progressPercentage": 6,
+          "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 0
+          "sourceVersion": 2
         },
         "gamePass": {
           "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-29T11:39:30.571782Z",
+          "lastTimePlayed": "2026-06-30T01:02:17.8975808Z",
           "visible": true,
           "canHide": true
         },
@@ -41,40 +42,43 @@
         "detail": null,
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
-        "contentBoards": null
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
       },
       {
-        "titleId": "896928775",
-        "pfn": "Microsoft.MinecraftUWP_8wekyb3d8bbwe",
-        "bingId": "686834ad-c7a4-47f2-a66e-b0a0fc548c43",
-        "serviceConfigId": "4fc10100-5f7a-4470-899b-280835760c07",
+        "titleId": "2102232082",
+        "pfn": "BethesdaSoftworks.Medusa_3275kfvn8vcwc",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007d4d8412",
         "windowsPhoneProductId": null,
-        "name": "Minecraft for Windows",
+        "name": "Heretic + Hexen",
         "type": "Game",
         "devices": [
-          "PC"
+          "PC",
+          "XboxOne",
+          "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.31326.13510798885735219.3dfb176a-2479-4b17-ab6e-418794f3932d.a8aae002-3be2-4cd4-9ca3-b3e2e7e14882",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.3496.13568632792554292.fea70ec4-25b5-4014-996b-52c5abc58b71.69e7078c-ec44-4a16-90d2-10509e7f21a6",
         "mediaItemType": "Application",
-        "modernTitleId": "896928775",
+        "modernTitleId": "2102232082",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 94,
+          "currentAchievements": 9,
           "totalAchievements": 0,
-          "currentGamerscore": 2115,
-          "totalGamerscore": 2980,
-          "progressPercentage": 70,
+          "currentGamerscore": 207,
+          "totalGamerscore": 1000,
+          "progressPercentage": 20,
           "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 2
+          "sourceVersion": 1
         },
         "gamePass": {
           "isGamePass": true
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-29T05:43:33.7042788Z",
+          "lastTimePlayed": "2026-06-29T21:03:26.6842898Z",
           "visible": true,
           "canHide": true
         },
@@ -83,41 +87,42 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full"
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
-        "titleId": "830649354",
-        "pfn": "WarnerBros.Interactive.CoreGame_ktmk1xygcecda",
-        "bingId": "f849bfcb-0d86-4e19-bdf9-9fb4140f0086",
-        "serviceConfigId": "b5fe0100-c634-4d68-870b-7bc83182b40a",
+        "titleId": "2089424131",
+        "pfn": "11bitstudios.ThisWarofMineFinalCut_gwy9gn5q9j1y6",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007c8a1503",
         "windowsPhoneProductId": null,
-        "name": "Dying Light",
+        "name": "This War of Mine: Final Cut",
         "type": "Game",
         "devices": [
-          "XboxOne",
+          "PC",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.35296.63224705253913975.f86d2928-2308-41f8-ac16-0f9c2534f9f0.95188760-52cd-4eb5-8abe-5d83577671c1",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.48284.13818178861591472.06d4cfd1-e581-4b7f-8268-7ed2cfca3f35.c16f3c09-e1b5-4bb2-924e-4f06235ae319",
         "mediaItemType": "Application",
-        "modernTitleId": "830649354",
+        "modernTitleId": "2089424131",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 10,
+          "currentAchievements": 16,
           "totalAchievements": 0,
-          "currentGamerscore": 145,
-          "totalGamerscore": 1490,
-          "progressPercentage": 9,
+          "currentGamerscore": 560,
+          "totalGamerscore": 1755,
+          "progressPercentage": 31,
           "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 2
+          "sourceVersion": 1
         },
         "gamePass": {
           "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-28T21:34:48.8260596Z",
+          "lastTimePlayed": "2026-06-29T18:49:42.8110079Z",
           "visible": true,
           "canHide": true
         },
@@ -126,7 +131,8 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full"
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       }
     ]
   },

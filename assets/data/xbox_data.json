@@ -3,6 +3,47 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1775314772",
+        "pfn": null,
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "windowsPhoneProductId": null,
+        "name": "Goddess of Victory: Nikke",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-30T13:54:01.0276152Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null
+      },
+      {
         "titleId": "1000604311",
         "pfn": "F024294D.ResidentEvilRevelations2_8fty0by30jkny",
         "bingId": "5fab6ebc-4cbf-4f01-88cd-1780d4d0c464",
@@ -79,50 +120,6 @@
         "images": null,
         "titleHistory": {
           "lastTimePlayed": "2026-06-29T21:03:26.6842898Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "2089424131",
-        "pfn": "11bitstudios.ThisWarofMineFinalCut_gwy9gn5q9j1y6",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007c8a1503",
-        "windowsPhoneProductId": null,
-        "name": "This War of Mine: Final Cut",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.48284.13818178861591472.06d4cfd1-e581-4b7f-8268-7ed2cfca3f35.c16f3c09-e1b5-4bb2-924e-4f06235ae319",
-        "mediaItemType": "Application",
-        "modernTitleId": "2089424131",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 16,
-          "totalAchievements": 0,
-          "currentGamerscore": 560,
-          "totalGamerscore": 1755,
-          "progressPercentage": 31,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-29T18:49:42.8110079Z",
           "visible": true,
           "canHide": true
         },

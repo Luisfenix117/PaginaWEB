@@ -3,6 +3,49 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1730971667",
+        "pfn": "TheFunPimps.7DaystoDieGoldEdition_yapmrbwff4apt",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-0000672c8813",
+        "windowsPhoneProductId": null,
+        "name": "7 Days to Die - Console Edition (Game Preview)",
+        "type": "Game",
+        "devices": [
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.59451.14625844531663575.3e9c3e1a-4cb9-4312-941d-02836382abc5.d38459a5-466b-4c70-8d3f-d472943251a8",
+        "mediaItemType": "Application",
+        "modernTitleId": "1730971667",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 8,
+          "totalAchievements": 0,
+          "currentGamerscore": 90,
+          "totalGamerscore": 1000,
+          "progressPercentage": 9,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-07-01T04:17:02.107855Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "896928775",
         "pfn": "Microsoft.MinecraftUWP_8wekyb3d8bbwe",
         "bingId": "686834ad-c7a4-47f2-a66e-b0a0fc548c43",
@@ -84,49 +127,6 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
-      },
-      {
-        "titleId": "1000604311",
-        "pfn": "F024294D.ResidentEvilRevelations2_8fty0by30jkny",
-        "bingId": "5fab6ebc-4cbf-4f01-88cd-1780d4d0c464",
-        "serviceConfigId": "b0e40100-e6d1-41c5-8fb1-695b3ba40297",
-        "windowsPhoneProductId": null,
-        "name": "Resident Evil Revelations 2 (Episodio 1)",
-        "type": "Game",
-        "devices": [
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.29123.65346347858891626.0724970f-bb88-4dfc-b04a-19941fd34b8b.84f20e2b-ee7a-4ab2-97b6-3468c5113483",
-        "mediaItemType": "Application",
-        "modernTitleId": "1000604311",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 3,
-          "totalAchievements": 0,
-          "currentGamerscore": 120,
-          "totalGamerscore": 1960,
-          "progressPercentage": 6,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-30T01:02:17.8975808Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
       }
     ]
   },

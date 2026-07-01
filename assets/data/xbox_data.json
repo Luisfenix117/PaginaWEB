@@ -3,6 +3,48 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "896928775",
+        "pfn": "Microsoft.MinecraftUWP_8wekyb3d8bbwe",
+        "bingId": "686834ad-c7a4-47f2-a66e-b0a0fc548c43",
+        "serviceConfigId": "4fc10100-5f7a-4470-899b-280835760c07",
+        "windowsPhoneProductId": null,
+        "name": "Minecraft for Windows",
+        "type": "Game",
+        "devices": [
+          "PC"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.31326.13510798885735219.3dfb176a-2479-4b17-ab6e-418794f3932d.a8aae002-3be2-4cd4-9ca3-b3e2e7e14882",
+        "mediaItemType": "Application",
+        "modernTitleId": "896928775",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 94,
+          "totalAchievements": 0,
+          "currentGamerscore": 2115,
+          "totalGamerscore": 2980,
+          "progressPercentage": 70,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-06-30T14:53:40.0224523Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
         "titleId": "1775314772",
         "pfn": null,
         "bingId": null,
@@ -33,7 +75,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-30T13:54:01.0276152Z",
+          "lastTimePlayed": "2026-06-30T14:33:19.3690274Z",
           "visible": true,
           "canHide": true
         },
@@ -85,51 +127,6 @@
         "alternateTitleIds": null,
         "contentBoards": null,
         "xboxLiveTier": "Full"
-      },
-      {
-        "titleId": "2102232082",
-        "pfn": "BethesdaSoftworks.Medusa_3275kfvn8vcwc",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007d4d8412",
-        "windowsPhoneProductId": null,
-        "name": "Heretic + Hexen",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.3496.13568632792554292.fea70ec4-25b5-4014-996b-52c5abc58b71.69e7078c-ec44-4a16-90d2-10509e7f21a6",
-        "mediaItemType": "Application",
-        "modernTitleId": "2102232082",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 9,
-          "totalAchievements": 0,
-          "currentGamerscore": 207,
-          "totalGamerscore": 1000,
-          "progressPercentage": 20,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-06-29T21:03:26.6842898Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       }
     ]
   },

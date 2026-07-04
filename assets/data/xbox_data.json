@@ -3,6 +3,49 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1828326430",
+        "pfn": "Microsoft.186805A1E9E_8wekyb3d8bbwe",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00006cfa0c1e",
+        "windowsPhoneProductId": null,
+        "name": "Minecraft",
+        "type": "Game",
+        "devices": [
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.6631.13850085746326678.06e2dc5c-7997-46e9-a8e6-0e48b57cb13b.53ca896e-c3c3-460b-b9ee-70cc217b041c",
+        "mediaItemType": "Application",
+        "modernTitleId": "1828326430",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 53,
+          "totalAchievements": 0,
+          "currentGamerscore": 1075,
+          "totalGamerscore": 2980,
+          "progressPercentage": 36,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-07-04T03:13:09.0924812Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
         "titleId": "1000604311",
         "pfn": "F024294D.ResidentEvilRevelations2_8fty0by30jkny",
         "bingId": "5fab6ebc-4cbf-4f01-88cd-1780d4d0c464",
@@ -85,49 +128,6 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
-      },
-      {
-        "titleId": "1730971667",
-        "pfn": "TheFunPimps.7DaystoDieGoldEdition_yapmrbwff4apt",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-0000672c8813",
-        "windowsPhoneProductId": null,
-        "name": "7 Days to Die - Console Edition (Game Preview)",
-        "type": "Game",
-        "devices": [
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.59451.14625844531663575.3e9c3e1a-4cb9-4312-941d-02836382abc5.d38459a5-466b-4c70-8d3f-d472943251a8",
-        "mediaItemType": "Application",
-        "modernTitleId": "1730971667",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 13,
-          "totalAchievements": 0,
-          "currentGamerscore": 165,
-          "totalGamerscore": 1000,
-          "progressPercentage": 16,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-07-02T19:01:52.3330706Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       }
     ]
   },

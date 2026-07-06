@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T02:09:00.459Z",
+  "last_updated": "2026-07-06T14:58:05.126Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -29,25 +29,11 @@
       "spotify_url": "https://open.spotify.com/track/5ThljNlaUX5zNgNWBmanmG"
     },
     {
-      "title": "Public Enemy No. 1",
-      "artist": "Megadeth",
-      "album": "Th1rt3en",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cf7165d2f467e043f32774f4",
-      "spotify_url": "https://open.spotify.com/track/0RZilNVJdWibukEtyp9Ixj"
-    },
-    {
       "title": "Amateur (Rock Me Amadeus)",
       "artist": "Molotov",
       "album": "Con Todo Respeto",
       "image": "https://i.scdn.co/image/ab67616d0000b2735e2b069b2306267d474c43dd",
       "spotify_url": "https://open.spotify.com/track/0cOXDRG1giESc1QVrHpbGE"
-    },
-    {
-      "title": "Lucretia - 2004 Remix",
-      "artist": "Megadeth",
-      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
-      "spotify_url": "https://open.spotify.com/track/1Bi6Me45Xiqy4kYUGGwBTv"
     },
     {
       "title": "No Me Moleste Nadie",
@@ -71,13 +57,6 @@
       "spotify_url": "https://open.spotify.com/track/0dxPHMZTI8TWMYRucsAFNd"
     },
     {
-      "title": "Nobody's Listening",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/1EU3VuKGZOvd1HTkxLPUXK"
-    },
-    {
       "title": "Sexy Sexy,",
       "artist": "CASCADE",
       "album": "Sexy Sexy,",
@@ -99,11 +78,11 @@
       "spotify_url": "https://open.spotify.com/track/6BrBmkdx076OXG7BalDQhR"
     },
     {
-      "title": "She-Wolf - Remastered 2004 / Remixed",
+      "title": "Public Enemy No. 1",
       "artist": "Megadeth",
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo"
+      "album": "Th1rt3en",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cf7165d2f467e043f32774f4",
+      "spotify_url": "https://open.spotify.com/track/0RZilNVJdWibukEtyp9Ixj"
     },
     {
       "title": "Kingmaker",
@@ -113,18 +92,18 @@
       "spotify_url": "https://open.spotify.com/track/0Su0SQsuEdEvb9bqvL2auD"
     },
     {
-      "title": "Jet Pilot",
-      "artist": "System Of A Down",
-      "album": "Toxicity",
-      "image": "https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa",
-      "spotify_url": "https://open.spotify.com/track/0a2kVvbCbk52gmeFQFHNaG"
-    },
-    {
       "title": "No More Sorrow",
       "artist": "Linkin Park",
       "album": "Minutes to Midnight",
       "image": "https://i.scdn.co/image/ab67616d0000b273f208c8aa667a6d4f6feb8bbc",
       "spotify_url": "https://open.spotify.com/track/0tsFiS73rGU4TqrhLNg4cl"
+    },
+    {
+      "title": "Lucretia - 2004 Remix",
+      "artist": "Megadeth",
+      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
+      "spotify_url": "https://open.spotify.com/track/1Bi6Me45Xiqy4kYUGGwBTv"
     },
     {
       "title": "Flashpoint",
@@ -134,18 +113,18 @@
       "spotify_url": "https://open.spotify.com/track/2zJHA59LPbolESZOxsLAon"
     },
     {
+      "title": "She-Wolf - Remastered 2004 / Remixed",
+      "artist": "Megadeth",
+      "album": "Cryptic Writings (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
+      "spotify_url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo"
+    },
+    {
       "title": "GLITCH IN YOUR HEART",
       "artist": "gabemtnz",
       "album": "COMPUTER ANGELS",
       "image": "https://i.scdn.co/image/ab67616d0000b2731299a378e417d02a5e09941c",
       "spotify_url": "https://open.spotify.com/track/5aOOeJdwl10zMut2s3MB1z"
-    },
-    {
-      "title": "Symphony Of Destruction - Remastered 2012",
-      "artist": "Megadeth",
-      "album": "Countdown To Extinction (Deluxe Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734be345f026469be09f12a92e",
-      "spotify_url": "https://open.spotify.com/track/5mR858YsHYG761aUqZoGkD"
     },
     {
       "title": "The Scorpion",
@@ -216,20 +195,6 @@
       "album": "Toxicity",
       "image": "https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa",
       "spotify_url": "https://open.spotify.com/track/3AwLxSqo1jOOMpNsgxqRNE"
-    },
-    {
-      "title": "One Step Closer",
-      "artist": "Linkin Park",
-      "album": "Hybrid Theory (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
-      "spotify_url": "https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4"
-    },
-    {
-      "title": "Melt The Ice Away",
-      "artist": "Megadeth",
-      "album": "Dystopia",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db38819ff1e73809f8be6107",
-      "spotify_url": "https://open.spotify.com/track/0DcH20gfzWtJdqOPmOCuJf"
     },
     {
       "title": "葬送フリヰジアン",
@@ -330,13 +295,6 @@
       "spotify_url": "https://open.spotify.com/track/3lQCsg0VaUkUYRhIK8JFY0"
     },
     {
-      "title": "Bleed It Out",
-      "artist": "Linkin Park",
-      "album": "Minutes to Midnight",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f208c8aa667a6d4f6feb8bbc",
-      "spotify_url": "https://open.spotify.com/track/3qmvK8QARSPkFTuKeIXSbs"
-    },
-    {
       "title": "Play for Blood",
       "artist": "Megadeth",
       "album": "United Abominations",
@@ -356,6 +314,48 @@
       "album": "Con Todo Respeto",
       "image": "https://i.scdn.co/image/ab67616d0000b2735e2b069b2306267d474c43dd",
       "spotify_url": "https://open.spotify.com/track/4b1ihHEClvRMyFAmzCjFWB"
+    },
+    {
+      "title": "Lying from You",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1"
+    },
+    {
+      "title": "Dreaming",
+      "artist": "System Of A Down",
+      "album": "Hypnotize",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
+      "spotify_url": "https://open.spotify.com/track/4uCfGqrF2OHcav71k0bk9D"
+    },
+    {
+      "title": "絶望plantation",
+      "artist": "Yousei Teikoku",
+      "album": "Hades:The other world",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737f2553477856b47aab4c3a33",
+      "spotify_url": "https://open.spotify.com/track/51ePNk9mfBrzWpxHKztXDt"
+    },
+    {
+      "title": "Crawling",
+      "artist": "Linkin Park",
+      "album": "Hybrid Theory (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
+      "spotify_url": "https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"
+    },
+    {
+      "title": "New Divide",
+      "artist": "Linkin Park",
+      "album": "New Divide",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f1c282082b1b9b16e199bc23",
+      "spotify_url": "https://open.spotify.com/track/5Yg45DuQgNc1dRw11pixQi"
+    },
+    {
+      "title": "No Deje Que",
+      "artist": "Molotov",
+      "album": "Eternamiente",
+      "image": "https://i.scdn.co/image/ab67616d0000b27369ef00d26cab9b55ffe11060",
+      "spotify_url": "https://open.spotify.com/track/6dcYK3bSqAaNKQv8Bkr6DR"
     }
   ]
 }

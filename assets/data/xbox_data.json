@@ -3,6 +3,92 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "830649354",
+        "pfn": "WarnerBros.Interactive.CoreGame_ktmk1xygcecda",
+        "bingId": "f849bfcb-0d86-4e19-bdf9-9fb4140f0086",
+        "serviceConfigId": "b5fe0100-c634-4d68-870b-7bc83182b40a",
+        "windowsPhoneProductId": null,
+        "name": "Dying Light",
+        "type": "Game",
+        "devices": [
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.35296.63224705253913975.f86d2928-2308-41f8-ac16-0f9c2534f9f0.95188760-52cd-4eb5-8abe-5d83577671c1",
+        "mediaItemType": "Application",
+        "modernTitleId": "830649354",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 17,
+          "totalAchievements": 0,
+          "currentGamerscore": 250,
+          "totalGamerscore": 1490,
+          "progressPercentage": 16,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-07-05T21:41:00.296317Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
+        "titleId": "1730971667",
+        "pfn": "TheFunPimps.7DaystoDieGoldEdition_yapmrbwff4apt",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-0000672c8813",
+        "windowsPhoneProductId": null,
+        "name": "7 Days to Die - Console Edition (Game Preview)",
+        "type": "Game",
+        "devices": [
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.59451.14625844531663575.3e9c3e1a-4cb9-4312-941d-02836382abc5.d38459a5-466b-4c70-8d3f-d472943251a8",
+        "mediaItemType": "Application",
+        "modernTitleId": "1730971667",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 13,
+          "totalAchievements": 0,
+          "currentGamerscore": 165,
+          "totalGamerscore": 1000,
+          "progressPercentage": 16,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-07-05T20:08:27.6460062Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "2079436024",
         "pfn": null,
         "bingId": null,
@@ -42,92 +128,6 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
-      },
-      {
-        "titleId": "830649354",
-        "pfn": "WarnerBros.Interactive.CoreGame_ktmk1xygcecda",
-        "bingId": "f849bfcb-0d86-4e19-bdf9-9fb4140f0086",
-        "serviceConfigId": "b5fe0100-c634-4d68-870b-7bc83182b40a",
-        "windowsPhoneProductId": null,
-        "name": "Dying Light",
-        "type": "Game",
-        "devices": [
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.35296.63224705253913975.f86d2928-2308-41f8-ac16-0f9c2534f9f0.95188760-52cd-4eb5-8abe-5d83577671c1",
-        "mediaItemType": "Application",
-        "modernTitleId": "830649354",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 14,
-          "totalAchievements": 0,
-          "currentGamerscore": 200,
-          "totalGamerscore": 1490,
-          "progressPercentage": 13,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-07-04T20:27:06.1529695Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
-      },
-      {
-        "titleId": "1828326430",
-        "pfn": "Microsoft.186805A1E9E_8wekyb3d8bbwe",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006cfa0c1e",
-        "windowsPhoneProductId": null,
-        "name": "Minecraft",
-        "type": "Game",
-        "devices": [
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.6631.13850085746326678.06e2dc5c-7997-46e9-a8e6-0e48b57cb13b.53ca896e-c3c3-460b-b9ee-70cc217b041c",
-        "mediaItemType": "Application",
-        "modernTitleId": "1828326430",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 53,
-          "totalAchievements": 0,
-          "currentGamerscore": 1075,
-          "totalGamerscore": 2980,
-          "progressPercentage": 36,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 3
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-07-04T03:13:09.0924812Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
       }
     ]
   },

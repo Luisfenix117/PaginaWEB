@@ -3,6 +3,50 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1855024215",
+        "pfn": "FocusHomeInteractiveSA.Magnus_4hny5m903y3g0",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00006e916c57",
+        "windowsPhoneProductId": null,
+        "name": "Warhammer 40,000: Space Marine 2",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.55307.13528912654162373.752dd58c-93b6-40eb-ba0f-2d5ce3229dff.c5d5155c-3681-4be5-bfd0-952251a36c56",
+        "mediaItemType": "Application",
+        "modernTitleId": "1855024215",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 23,
+          "totalAchievements": 0,
+          "currentGamerscore": 400,
+          "totalGamerscore": 1000,
+          "progressPercentage": 40,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-07-09T04:09:57.6532014Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "1730971667",
         "pfn": "TheFunPimps.7DaystoDieGoldEdition_yapmrbwff4apt",
         "bingId": null,
@@ -86,50 +130,6 @@
         "alternateTitleIds": null,
         "contentBoards": null,
         "xboxLiveTier": "Full"
-      },
-      {
-        "titleId": "2118292977",
-        "pfn": "Embark.arc-raiders_kd876xf6dde24",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
-        "windowsPhoneProductId": null,
-        "name": "ARC Raiders",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
-        "mediaItemType": "Application",
-        "modernTitleId": "2118292977",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 45,
-          "totalAchievements": 0,
-          "currentGamerscore": 870,
-          "totalGamerscore": 1000,
-          "progressPercentage": 87,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-07-07T15:19:50.5003002Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       }
     ]
   },

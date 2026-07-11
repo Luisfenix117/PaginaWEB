@@ -3,39 +3,37 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "2102232082",
-        "pfn": "BethesdaSoftworks.Medusa_3275kfvn8vcwc",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007d4d8412",
+        "titleId": "1144039928",
+        "pfn": "Microsoft.Chelan_8wekyb3d8bbwe",
+        "bingId": "f33009f4-14ff-4821-94e3-c3573c868c2e",
+        "serviceConfigId": "77290100-225e-4768-9373-98164430a9f8",
         "windowsPhoneProductId": null,
-        "name": "Heretic + Hexen",
+        "name": "Halo: la colección Jefe Maestro",
         "type": "Game",
         "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
+          "PC"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.3496.13568632792554292.fea70ec4-25b5-4014-996b-52c5abc58b71.69e7078c-ec44-4a16-90d2-10509e7f21a6",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.14011015795942652.ca67db1b-d21e-47e9-bbb4-5ece2ce3f774.c71a2431-5ef1-4c32-92fa-22cca6162053",
         "mediaItemType": "Application",
-        "modernTitleId": "2102232082",
+        "modernTitleId": "1144039928",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 10,
+          "currentAchievements": 277,
           "totalAchievements": 0,
-          "currentGamerscore": 230,
-          "totalGamerscore": 1000,
-          "progressPercentage": 23,
+          "currentGamerscore": 2640,
+          "totalGamerscore": 7000,
+          "progressPercentage": 37,
           "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 1
+          "sourceVersion": 2
         },
         "gamePass": {
           "isGamePass": true
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-10T04:39:55.4458015Z",
+          "lastTimePlayed": "2026-07-10T22:57:54.3663383Z",
           "visible": true,
           "canHide": true
         },
@@ -48,70 +46,27 @@
         "isStreamable": true
       },
       {
-        "titleId": "1855024215",
-        "pfn": "FocusHomeInteractiveSA.Magnus_4hny5m903y3g0",
+        "titleId": "2118292977",
+        "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006e916c57",
+        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
         "windowsPhoneProductId": null,
-        "name": "Warhammer 40,000: Space Marine 2",
+        "name": "ARC Raiders",
         "type": "Game",
         "devices": [
           "PC",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.55307.13528912654162373.752dd58c-93b6-40eb-ba0f-2d5ce3229dff.c5d5155c-3681-4be5-bfd0-952251a36c56",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
         "mediaItemType": "Application",
-        "modernTitleId": "1855024215",
+        "modernTitleId": "2118292977",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 23,
+          "currentAchievements": 45,
           "totalAchievements": 0,
-          "currentGamerscore": 400,
+          "currentGamerscore": 870,
           "totalGamerscore": 1000,
-          "progressPercentage": 40,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-07-09T04:09:57.6532014Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1730971667",
-        "pfn": "TheFunPimps.7DaystoDieGoldEdition_yapmrbwff4apt",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-0000672c8813",
-        "windowsPhoneProductId": null,
-        "name": "7 Days to Die - Console Edition (Game Preview)",
-        "type": "Game",
-        "devices": [
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.59451.14625844531663575.3e9c3e1a-4cb9-4312-941d-02836382abc5.d38459a5-466b-4c70-8d3f-d472943251a8",
-        "mediaItemType": "Application",
-        "modernTitleId": "1730971667",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 15,
-          "totalAchievements": 0,
-          "currentGamerscore": 195,
-          "totalGamerscore": 1000,
-          "progressPercentage": 19,
+          "progressPercentage": 87,
           "sourceVersion": 2
         },
         "stats": {
@@ -122,7 +77,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-08T22:10:05.0709948Z",
+          "lastTimePlayed": "2026-07-10T20:40:46.0829523Z",
           "visible": true,
           "canHide": true
         },
@@ -133,6 +88,47 @@
         "contentBoards": null,
         "xboxLiveTier": "Full",
         "isStreamable": true
+      },
+      {
+        "titleId": "1775314772",
+        "pfn": null,
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "windowsPhoneProductId": null,
+        "name": "Goddess of Victory: Nikke",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-07-10T19:26:49.3436445Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null
       }
     ]
   },

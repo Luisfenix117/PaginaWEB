@@ -3,6 +3,51 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1960998926",
+        "pfn": "CRITICALREFLEX.BuckshotRoulette_20ymd9g5r2c54",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000074e2780e",
+        "windowsPhoneProductId": null,
+        "name": "Buckshot Roulette",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.52055.14572562994901136.49cdcd3b-62a2-4cc7-977e-e23a6d5ae650.e65dfc51-0867-4bf1-9ffc-cf7b0618a177",
+        "mediaItemType": "Application",
+        "modernTitleId": "1960998926",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 5,
+          "totalAchievements": 0,
+          "currentGamerscore": 300,
+          "totalGamerscore": 1000,
+          "progressPercentage": 30,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-07-11T04:56:37.6725001Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "1144039928",
         "pfn": "Microsoft.Chelan_8wekyb3d8bbwe",
         "bingId": "f33009f4-14ff-4821-94e3-c3573c868c2e",
@@ -88,47 +133,6 @@
         "contentBoards": null,
         "xboxLiveTier": "Full",
         "isStreamable": true
-      },
-      {
-        "titleId": "1775314772",
-        "pfn": null,
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
-        "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
-        "type": "Game",
-        "devices": [
-          "Win32"
-        ],
-        "displayImage": "",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-07-10T19:26:49.3436445Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null
       }
     ]
   },

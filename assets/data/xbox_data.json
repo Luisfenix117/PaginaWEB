@@ -3,6 +3,92 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1144039928",
+        "pfn": "Microsoft.Chelan_8wekyb3d8bbwe",
+        "bingId": "f33009f4-14ff-4821-94e3-c3573c868c2e",
+        "serviceConfigId": "77290100-225e-4768-9373-98164430a9f8",
+        "windowsPhoneProductId": null,
+        "name": "Halo: la colección Jefe Maestro",
+        "type": "Game",
+        "devices": [
+          "PC"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.14011015795942652.ca67db1b-d21e-47e9-bbb4-5ece2ce3f774.c71a2431-5ef1-4c32-92fa-22cca6162053",
+        "mediaItemType": "Application",
+        "modernTitleId": "1144039928",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 277,
+          "totalAchievements": 0,
+          "currentGamerscore": 2640,
+          "totalGamerscore": 7000,
+          "progressPercentage": 37,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-07-12T05:15:30.7801403Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1828326430",
+        "pfn": "Microsoft.186805A1E9E_8wekyb3d8bbwe",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00006cfa0c1e",
+        "windowsPhoneProductId": null,
+        "name": "Minecraft",
+        "type": "Game",
+        "devices": [
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.6631.13850085746326678.06e2dc5c-7997-46e9-a8e6-0e48b57cb13b.53ca896e-c3c3-460b-b9ee-70cc217b041c",
+        "mediaItemType": "Application",
+        "modernTitleId": "1828326430",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 53,
+          "totalAchievements": 0,
+          "currentGamerscore": 1075,
+          "totalGamerscore": 2980,
+          "progressPercentage": 36,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-07-12T02:37:48.8605985Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
         "titleId": "2118292977",
         "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
@@ -35,94 +121,6 @@
         "images": null,
         "titleHistory": {
           "lastTimePlayed": "2026-07-11T21:14:37.8665291Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1960998926",
-        "pfn": "CRITICALREFLEX.BuckshotRoulette_20ymd9g5r2c54",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000074e2780e",
-        "windowsPhoneProductId": null,
-        "name": "Buckshot Roulette",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.52055.14572562994901136.49cdcd3b-62a2-4cc7-977e-e23a6d5ae650.e65dfc51-0867-4bf1-9ffc-cf7b0618a177",
-        "mediaItemType": "Application",
-        "modernTitleId": "1960998926",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 5,
-          "totalAchievements": 0,
-          "currentGamerscore": 300,
-          "totalGamerscore": 1000,
-          "progressPercentage": 30,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-07-11T04:56:37.6725001Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1144039928",
-        "pfn": "Microsoft.Chelan_8wekyb3d8bbwe",
-        "bingId": "f33009f4-14ff-4821-94e3-c3573c868c2e",
-        "serviceConfigId": "77290100-225e-4768-9373-98164430a9f8",
-        "windowsPhoneProductId": null,
-        "name": "Halo: la colección Jefe Maestro",
-        "type": "Game",
-        "devices": [
-          "PC"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.14011015795942652.ca67db1b-d21e-47e9-bbb4-5ece2ce3f774.c71a2431-5ef1-4c32-92fa-22cca6162053",
-        "mediaItemType": "Application",
-        "modernTitleId": "1144039928",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 277,
-          "totalAchievements": 0,
-          "currentGamerscore": 2640,
-          "totalGamerscore": 7000,
-          "progressPercentage": 37,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-07-10T22:57:54.3663383Z",
           "visible": true,
           "canHide": true
         },

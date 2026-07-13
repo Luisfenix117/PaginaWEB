@@ -3,6 +3,92 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1797327516",
+        "pfn": "PocketpairInc.Palworld_ad4psfrxyesvt",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00006b210a9c",
+        "windowsPhoneProductId": null,
+        "name": "Palworld",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.45491.13654268679289325.ececb946-5639-4e77-b347-9d188d4e7e02.d4615c02-237f-4ec6-8ec6-a84aaeed586f",
+        "mediaItemType": "Application",
+        "modernTitleId": "1797327516",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 4,
+          "totalAchievements": 0,
+          "currentGamerscore": 400,
+          "totalGamerscore": 2820,
+          "progressPercentage": 14,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-07-13T01:40:10.8569233Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1775314772",
+        "pfn": null,
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "windowsPhoneProductId": null,
+        "name": "Goddess of Victory: Nikke",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-07-12T16:09:49.3161595Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null
+      },
+      {
         "titleId": "1144039928",
         "pfn": "Microsoft.Chelan_8wekyb3d8bbwe",
         "bingId": "f33009f4-14ff-4821-94e3-c3573c868c2e",
@@ -18,11 +104,11 @@
         "modernTitleId": "1144039928",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 277,
+          "currentAchievements": 279,
           "totalAchievements": 0,
-          "currentGamerscore": 2640,
+          "currentGamerscore": 2670,
           "totalGamerscore": 7000,
-          "progressPercentage": 37,
+          "progressPercentage": 38,
           "sourceVersion": 2
         },
         "stats": {
@@ -34,93 +120,6 @@
         "images": null,
         "titleHistory": {
           "lastTimePlayed": "2026-07-12T05:15:30.7801403Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1828326430",
-        "pfn": "Microsoft.186805A1E9E_8wekyb3d8bbwe",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006cfa0c1e",
-        "windowsPhoneProductId": null,
-        "name": "Minecraft",
-        "type": "Game",
-        "devices": [
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.6631.13850085746326678.06e2dc5c-7997-46e9-a8e6-0e48b57cb13b.53ca896e-c3c3-460b-b9ee-70cc217b041c",
-        "mediaItemType": "Application",
-        "modernTitleId": "1828326430",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 53,
-          "totalAchievements": 0,
-          "currentGamerscore": 1075,
-          "totalGamerscore": 2980,
-          "progressPercentage": 36,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 3
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-07-12T02:37:48.8605985Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
-      },
-      {
-        "titleId": "2118292977",
-        "pfn": "Embark.arc-raiders_kd876xf6dde24",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
-        "windowsPhoneProductId": null,
-        "name": "ARC Raiders",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
-        "mediaItemType": "Application",
-        "modernTitleId": "2118292977",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 45,
-          "totalAchievements": 0,
-          "currentGamerscore": 870,
-          "totalGamerscore": 1000,
-          "progressPercentage": 87,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-07-11T21:14:37.8665291Z",
           "visible": true,
           "canHide": true
         },

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T14:58:05.126Z",
+  "last_updated": "2026-07-13T01:48:50.481Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -8,6 +8,13 @@
   "total": 50,
   "tracks": [
     {
+      "title": "Dread and the Fugitive Mind",
+      "artist": "Megadeth",
+      "album": "The World Needs a Hero",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739ce39d341464f1b624716601",
+      "spotify_url": "https://open.spotify.com/track/5ThljNlaUX5zNgNWBmanmG"
+    },
+    {
       "title": "The Right to Go Insane",
       "artist": "Megadeth",
       "album": "Endgame",
@@ -15,18 +22,18 @@
       "spotify_url": "https://open.spotify.com/track/31W4nUR9aHzwVFUmcCHIzf"
     },
     {
-      "title": "Puttin' on the Ritz",
-      "artist": "Taco",
-      "album": "After Eight",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f13127cb48c63b2fb0c16521",
-      "spotify_url": "https://open.spotify.com/track/1taGkdO3DQsNRIQrarhVvc"
+      "title": "Serious",
+      "artist": "Daron Malakian and Scars On Broadway",
+      "album": "Scars on Broadway",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
+      "spotify_url": "https://open.spotify.com/track/7dbwliCP94bEhVVb7Ap7C9"
     },
     {
-      "title": "Dread and the Fugitive Mind",
+      "title": "Public Enemy No. 1",
       "artist": "Megadeth",
-      "album": "The World Needs a Hero",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739ce39d341464f1b624716601",
-      "spotify_url": "https://open.spotify.com/track/5ThljNlaUX5zNgNWBmanmG"
+      "album": "Th1rt3en",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cf7165d2f467e043f32774f4",
+      "spotify_url": "https://open.spotify.com/track/0RZilNVJdWibukEtyp9Ixj"
     },
     {
       "title": "Amateur (Rock Me Amadeus)",
@@ -50,109 +57,11 @@
       "spotify_url": "https://open.spotify.com/track/4SF2dVmTpz31rA44xBkSKJ"
     },
     {
-      "title": "Attack",
-      "artist": "System Of A Down",
-      "album": "Hypnotize",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
-      "spotify_url": "https://open.spotify.com/track/0dxPHMZTI8TWMYRucsAFNd"
-    },
-    {
       "title": "Sexy Sexy,",
       "artist": "CASCADE",
       "album": "Sexy Sexy,",
       "image": "https://i.scdn.co/image/ab67616d0000b273bb3c2747c45028b5351f763c",
       "spotify_url": "https://open.spotify.com/track/2OvfUwEd9alJnJ9aziiucw"
-    },
-    {
-      "title": "Trust - Remastered 2004 / Remixed",
-      "artist": "Megadeth",
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/5emb8RDOZtpXlw6D0eEQbz"
-    },
-    {
-      "title": "Lullaby Of A Deadman",
-      "artist": "Kevin Sherwood, Elena Siegman, Corey Redgrift",
-      "album": "Call of Duty: Black Ops – Zombies (Original Game Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734bc9031ffb86dfa3cea86c52",
-      "spotify_url": "https://open.spotify.com/track/6BrBmkdx076OXG7BalDQhR"
-    },
-    {
-      "title": "Public Enemy No. 1",
-      "artist": "Megadeth",
-      "album": "Th1rt3en",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cf7165d2f467e043f32774f4",
-      "spotify_url": "https://open.spotify.com/track/0RZilNVJdWibukEtyp9Ixj"
-    },
-    {
-      "title": "Kingmaker",
-      "artist": "Megadeth",
-      "album": "Super Collider",
-      "image": "https://i.scdn.co/image/ab67616d0000b273872b0074ecb6b93ff5676093",
-      "spotify_url": "https://open.spotify.com/track/0Su0SQsuEdEvb9bqvL2auD"
-    },
-    {
-      "title": "No More Sorrow",
-      "artist": "Linkin Park",
-      "album": "Minutes to Midnight",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f208c8aa667a6d4f6feb8bbc",
-      "spotify_url": "https://open.spotify.com/track/0tsFiS73rGU4TqrhLNg4cl"
-    },
-    {
-      "title": "Lucretia - 2004 Remix",
-      "artist": "Megadeth",
-      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
-      "spotify_url": "https://open.spotify.com/track/1Bi6Me45Xiqy4kYUGGwBTv"
-    },
-    {
-      "title": "Flashpoint",
-      "artist": "Jack Grillo And Ricardo Hernandez",
-      "album": "Legendary Original Soundtrack",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fb6042f1742e22f898831c4b",
-      "spotify_url": "https://open.spotify.com/track/2zJHA59LPbolESZOxsLAon"
-    },
-    {
-      "title": "She-Wolf - Remastered 2004 / Remixed",
-      "artist": "Megadeth",
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo"
-    },
-    {
-      "title": "GLITCH IN YOUR HEART",
-      "artist": "gabemtnz",
-      "album": "COMPUTER ANGELS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731299a378e417d02a5e09941c",
-      "spotify_url": "https://open.spotify.com/track/5aOOeJdwl10zMut2s3MB1z"
-    },
-    {
-      "title": "The Scorpion",
-      "artist": "Megadeth",
-      "album": "The System Has Failed",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cda3b381e6d4dddf4bc4d16c",
-      "spotify_url": "https://open.spotify.com/track/7geKlX2WGsvBevRiBRh4iU"
-    },
-    {
-      "title": "Kill Rock 'n Roll",
-      "artist": "System Of A Down",
-      "album": "Hypnotize",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
-      "spotify_url": "https://open.spotify.com/track/28TReO2Mxk9Q3GA4K98YSz"
-    },
-    {
-      "title": "Something That I'm Not",
-      "artist": "Megadeth",
-      "album": "The System Has Failed",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cda3b381e6d4dddf4bc4d16c",
-      "spotify_url": "https://open.spotify.com/track/5l8grt5AgofKqjNb7Kw3XJ"
-    },
-    {
-      "title": "Trust - Spanish Version",
-      "artist": "Megadeth",
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/5ZxTp77CDwH2coZV7oHmlQ"
     },
     {
       "title": "From the Inside",
@@ -162,25 +71,95 @@
       "spotify_url": "https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ"
     },
     {
-      "title": "Nightcall",
-      "artist": "Kavinsky",
-      "album": "Nightcall",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d6d8c2eaa1f9031b62f7a3f7",
-      "spotify_url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j"
+      "title": "GLITCH IN YOUR HEART",
+      "artist": "gabemtnz",
+      "album": "COMPUTER ANGELS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731299a378e417d02a5e09941c",
+      "spotify_url": "https://open.spotify.com/track/5aOOeJdwl10zMut2s3MB1z"
     },
     {
-      "title": "44 Minutes",
-      "artist": "Megadeth",
-      "album": "Endgame",
-      "image": "https://i.scdn.co/image/ab67616d0000b27352103e45f70508a143245023",
-      "spotify_url": "https://open.spotify.com/track/0sT1eVQVyJ7Ruqo89yLmOJ"
+      "title": "Lullaby Of A Deadman",
+      "artist": "Kevin Sherwood, Elena Siegman, Corey Redgrift",
+      "album": "Call of Duty: Black Ops – Zombies (Original Game Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734bc9031ffb86dfa3cea86c52",
+      "spotify_url": "https://open.spotify.com/track/6BrBmkdx076OXG7BalDQhR"
     },
     {
-      "title": "Prince Of Darkness - Remastered 2004",
+      "title": "Kingmaker",
       "artist": "Megadeth",
-      "album": "Risk (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e3cad5e9f4f92df63716bc33",
-      "spotify_url": "https://open.spotify.com/track/61L6xSR4n5cADuMqpCUOse"
+      "album": "Super Collider",
+      "image": "https://i.scdn.co/image/ab67616d0000b273872b0074ecb6b93ff5676093",
+      "spotify_url": "https://open.spotify.com/track/0Su0SQsuEdEvb9bqvL2auD"
+    },
+    {
+      "title": "GoldenEye 007, Surface 1",
+      "artist": "Arcade Player",
+      "album": "GoldenEye 007, Iconic Themes",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730036f956ce96c4293059d039",
+      "spotify_url": "https://open.spotify.com/track/1Ao4emjXQdvZL70ba3D0vz"
+    },
+    {
+      "title": "Lucretia - 2004 Remix",
+      "artist": "Megadeth",
+      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
+      "spotify_url": "https://open.spotify.com/track/1Bi6Me45Xiqy4kYUGGwBTv"
+    },
+    {
+      "title": "Don't Stay",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn"
+    },
+    {
+      "title": "Lying from You",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1"
+    },
+    {
+      "title": "The Scorpion",
+      "artist": "Megadeth",
+      "album": "The System Has Failed",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cda3b381e6d4dddf4bc4d16c",
+      "spotify_url": "https://open.spotify.com/track/7geKlX2WGsvBevRiBRh4iU"
+    },
+    {
+      "title": "Nobody's Listening",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/1EU3VuKGZOvd1HTkxLPUXK"
+    },
+    {
+      "title": "Numb",
+      "artist": "Linkin Park",
+      "album": "Meteora",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b",
+      "spotify_url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
+    },
+    {
+      "title": "Something That I'm Not",
+      "artist": "Megadeth",
+      "album": "The System Has Failed",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cda3b381e6d4dddf4bc4d16c",
+      "spotify_url": "https://open.spotify.com/track/5l8grt5AgofKqjNb7Kw3XJ"
+    },
+    {
+      "title": "Puttin' on the Ritz",
+      "artist": "Taco",
+      "album": "After Eight",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f13127cb48c63b2fb0c16521",
+      "spotify_url": "https://open.spotify.com/track/1taGkdO3DQsNRIQrarhVvc"
+    },
+    {
+      "title": "Absolute Genocide",
+      "artist": "Thy Art Is Murder",
+      "album": "Holy War",
+      "image": "https://i.scdn.co/image/ab67616d0000b27381cea7ba45c1fd582cc2e3e6",
+      "spotify_url": "https://open.spotify.com/track/1JXpJUnwFFibyI6MVC0415"
     },
     {
       "title": "White Noise",
@@ -197,6 +176,20 @@
       "spotify_url": "https://open.spotify.com/track/3AwLxSqo1jOOMpNsgxqRNE"
     },
     {
+      "title": "Somewhere I Belong",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx"
+    },
+    {
+      "title": "World Long Gone",
+      "artist": "Daron Malakian and Scars On Broadway",
+      "album": "Scars on Broadway",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
+      "spotify_url": "https://open.spotify.com/track/0MQy5d6TT1OJb4KVdjDLos"
+    },
+    {
       "title": "葬送フリヰジアン",
       "artist": "Yousei Teikoku",
       "album": "the age of villains",
@@ -204,18 +197,18 @@
       "spotify_url": "https://open.spotify.com/track/0ckbGgEWq5Dcn5wBFJGx4P"
     },
     {
-      "title": "ハロービルダー (feat. 初音ミク)",
-      "artist": "Utsu-P, Hatsune Miku",
-      "album": "ハロービルダー",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731b185114aec1e6c594af4c2e",
-      "spotify_url": "https://open.spotify.com/track/0yRiNFhO9eEroTvUeDLWkQ"
+      "title": "Stoner Hate",
+      "artist": "Daron Malakian and Scars On Broadway",
+      "album": "Scars on Broadway",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
+      "spotify_url": "https://open.spotify.com/track/0qpVlGaiQNReSLlTQnpxFO"
     },
     {
-      "title": "I Want You",
-      "artist": "Savage Garden",
-      "album": "Savage Garden (Original Version)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273aa5ebc681f9b8a07fd8274e6",
-      "spotify_url": "https://open.spotify.com/track/13SKWUEst7c0WohbwPAJJT"
+      "title": "No More Sorrow",
+      "artist": "Linkin Park",
+      "album": "Minutes to Midnight",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f208c8aa667a6d4f6feb8bbc",
+      "spotify_url": "https://open.spotify.com/track/0tsFiS73rGU4TqrhLNg4cl"
     },
     {
       "title": "Ultimas Noticias",
@@ -225,11 +218,25 @@
       "spotify_url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
     },
     {
-      "title": "リレイアウター",
-      "artist": "稲葉曇",
-      "album": "リレイアウター",
-      "image": "https://i.scdn.co/image/ab67616d0000b27378b60feb9051b90c2d2b4684",
-      "spotify_url": "https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh"
+      "title": "Insane",
+      "artist": "Daron Malakian and Scars On Broadway",
+      "album": "Scars on Broadway",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
+      "spotify_url": "https://open.spotify.com/track/1rq91I3R5gQDKWofpbBxj2"
+    },
+    {
+      "title": "Kill Each Other / Live Forever",
+      "artist": "Daron Malakian and Scars On Broadway",
+      "album": "Scars on Broadway",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
+      "spotify_url": "https://open.spotify.com/track/1ttZT4M4ps6UIRALF6xitp"
+    },
+    {
+      "title": "No Manches Mi Vida",
+      "artist": "Molotov",
+      "album": "Apocalypshit",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734bc839b846d5a838ced8217a",
+      "spotify_url": "https://open.spotify.com/track/1uD1mm4W2s9gA69hLhsdkH"
     },
     {
       "title": "Peril",
@@ -237,6 +244,13 @@
       "album": "Halo 2, Vol. 1 (Original Soundtrack)",
       "image": "https://i.scdn.co/image/ab67616d0000b2733d85808897b5cd1ef0b31a1e",
       "spotify_url": "https://open.spotify.com/track/1xemsxRCrSy9F30oXxq3zV"
+    },
+    {
+      "title": "Babylon",
+      "artist": "Daron Malakian and Scars On Broadway",
+      "album": "Scars on Broadway",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
+      "spotify_url": "https://open.spotify.com/track/22rdOl6y85LN5Ql6wrG7so"
     },
     {
       "title": "Mobius",
@@ -260,11 +274,11 @@
       "spotify_url": "https://open.spotify.com/track/2v7T65sRJlhytPQSqrnQ6L"
     },
     {
-      "title": "Don't Stay",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn"
+      "title": "Flashpoint",
+      "artist": "Jack Grillo And Ricardo Hernandez",
+      "album": "Legendary Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb6042f1742e22f898831c4b",
+      "spotify_url": "https://open.spotify.com/track/2zJHA59LPbolESZOxsLAon"
     },
     {
       "title": "DARLING DANCE",
@@ -281,6 +295,13 @@
       "spotify_url": "https://open.spotify.com/track/3a46IbbaZnjThFpwOW9orZ"
     },
     {
+      "title": "Breaking the Habit",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/3dxiWIBVJRlqh9xk144rf4"
+    },
+    {
       "title": "DDT",
       "artist": "Molotov",
       "album": "Eternamiente",
@@ -295,18 +316,18 @@
       "spotify_url": "https://open.spotify.com/track/3lQCsg0VaUkUYRhIK8JFY0"
     },
     {
-      "title": "Play for Blood",
-      "artist": "Megadeth",
-      "album": "United Abominations",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736e4a8eed4746006e42612c44",
-      "spotify_url": "https://open.spotify.com/track/4RDLqtYDoD4TGITzFiNZeb"
+      "title": "Slow Down",
+      "artist": "Leon Thomas",
+      "album": "Electric Dusk",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732684ee4b66ba735cfc792736",
+      "spotify_url": "https://open.spotify.com/track/4DfCzjuGvK8xq6g6e1EpoE"
     },
     {
-      "title": "Interstellar (VS Picayune Phase 3)",
-      "artist": "milkypossum",
-      "album": "Picayune Dreams, Vol. 2 (Official Video Game Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d5576840a73427145c1c9739",
-      "spotify_url": "https://open.spotify.com/track/4ZbHSP4sgwDo7v0ej2ZUGX"
+      "title": "Faint",
+      "artist": "Linkin Park",
+      "album": "Meteora",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b",
+      "spotify_url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
     },
     {
       "title": "Diseño Rolas (Designer Music)",
@@ -316,18 +337,11 @@
       "spotify_url": "https://open.spotify.com/track/4b1ihHEClvRMyFAmzCjFWB"
     },
     {
-      "title": "Lying from You",
+      "title": "Hit the Floor",
       "artist": "Linkin Park",
       "album": "Meteora (Bonus Edition)",
       "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1"
-    },
-    {
-      "title": "Dreaming",
-      "artist": "System Of A Down",
-      "album": "Hypnotize",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
-      "spotify_url": "https://open.spotify.com/track/4uCfGqrF2OHcav71k0bk9D"
+      "spotify_url": "https://open.spotify.com/track/4wHktoSf6C0C0fAO8IIWqs"
     },
     {
       "title": "絶望plantation",
@@ -342,20 +356,6 @@
       "album": "Hybrid Theory (Bonus Edition)",
       "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
       "spotify_url": "https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"
-    },
-    {
-      "title": "New Divide",
-      "artist": "Linkin Park",
-      "album": "New Divide",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f1c282082b1b9b16e199bc23",
-      "spotify_url": "https://open.spotify.com/track/5Yg45DuQgNc1dRw11pixQi"
-    },
-    {
-      "title": "No Deje Que",
-      "artist": "Molotov",
-      "album": "Eternamiente",
-      "image": "https://i.scdn.co/image/ab67616d0000b27369ef00d26cab9b55ffe11060",
-      "spotify_url": "https://open.spotify.com/track/6dcYK3bSqAaNKQv8Bkr6DR"
     }
   ]
 }

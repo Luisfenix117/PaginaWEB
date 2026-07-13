@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T01:48:50.481Z",
+  "last_updated": "2026-07-13T14:04:29.172Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -55,6 +55,13 @@
       "album": "初雪",
       "image": "https://i.scdn.co/image/ab67616d0000b2736d546e44ca425761487d4cc8",
       "spotify_url": "https://open.spotify.com/track/4SF2dVmTpz31rA44xBkSKJ"
+    },
+    {
+      "title": "未来世紀(秘)クラブ",
+      "artist": "Kyoko",
+      "album": "Under the Silk Tree",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b8b1087bddda47641a565f13",
+      "spotify_url": "https://open.spotify.com/track/54qpkAilZbbLPCHFccwDHV"
     },
     {
       "title": "Sexy Sexy,",
@@ -167,13 +174,6 @@
       "album": "MALL (Music From The Motion Picture)",
       "image": "https://i.scdn.co/image/ab67616d0000b273c716ab3bb4c4648e4763da70",
       "spotify_url": "https://open.spotify.com/track/2XREscvJdz0RQ2voe67rdU"
-    },
-    {
-      "title": "Prison Song",
-      "artist": "System Of A Down",
-      "album": "Toxicity",
-      "image": "https://i.scdn.co/image/ab67616d0000b27307bc7d2a745636c356b4d0aa",
-      "spotify_url": "https://open.spotify.com/track/3AwLxSqo1jOOMpNsgxqRNE"
     },
     {
       "title": "Somewhere I Belong",

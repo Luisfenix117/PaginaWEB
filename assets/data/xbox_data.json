@@ -3,38 +3,39 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1855024215",
-        "pfn": "FocusHomeInteractiveSA.Magnus_4hny5m903y3g0",
+        "titleId": "1797327516",
+        "pfn": "PocketpairInc.Palworld_ad4psfrxyesvt",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006e916c57",
+        "serviceConfigId": "00000000-0000-0000-0000-00006b210a9c",
         "windowsPhoneProductId": null,
-        "name": "Warhammer 40,000: Space Marine 2",
+        "name": "Palworld",
         "type": "Game",
         "devices": [
           "PC",
+          "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.55307.13528912654162373.752dd58c-93b6-40eb-ba0f-2d5ce3229dff.c5d5155c-3681-4be5-bfd0-952251a36c56",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.45491.13654268679289325.ececb946-5639-4e77-b347-9d188d4e7e02.d4615c02-237f-4ec6-8ec6-a84aaeed586f",
         "mediaItemType": "Application",
-        "modernTitleId": "1855024215",
+        "modernTitleId": "1797327516",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 23,
+          "currentAchievements": 8,
           "totalAchievements": 0,
-          "currentGamerscore": 400,
-          "totalGamerscore": 1000,
-          "progressPercentage": 40,
+          "currentGamerscore": 560,
+          "totalGamerscore": 2820,
+          "progressPercentage": 19,
           "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 2
+          "sourceVersion": 1
         },
         "gamePass": {
           "isGamePass": true
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-16T03:32:38.8666337Z",
+          "lastTimePlayed": "2026-07-16T16:10:56.4690033Z",
           "visible": true,
           "canHide": true
         },
@@ -78,7 +79,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-16T02:29:21.6217252Z",
+          "lastTimePlayed": "2026-07-16T15:39:39.4487155Z",
           "visible": true,
           "canHide": true
         },
@@ -91,37 +92,38 @@
         "isStreamable": true
       },
       {
-        "titleId": "1775314772",
-        "pfn": null,
+        "titleId": "1855024215",
+        "pfn": "FocusHomeInteractiveSA.Magnus_4hny5m903y3g0",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "serviceConfigId": "00000000-0000-0000-0000-00006e916c57",
         "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
+        "name": "Warhammer 40,000: Space Marine 2",
         "type": "Game",
         "devices": [
-          "Win32"
+          "PC",
+          "XboxSeries"
         ],
-        "displayImage": "",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.55307.13528912654162373.752dd58c-93b6-40eb-ba0f-2d5ce3229dff.c5d5155c-3681-4be5-bfd0-952251a36c56",
         "mediaItemType": "Application",
-        "modernTitleId": null,
+        "modernTitleId": "1855024215",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 0,
+          "currentAchievements": 23,
           "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
+          "currentGamerscore": 400,
+          "totalGamerscore": 1000,
+          "progressPercentage": 40,
+          "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 0
+          "sourceVersion": 2
         },
         "gamePass": {
-          "isGamePass": false
+          "isGamePass": true
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-15T14:50:48.9582901Z",
+          "lastTimePlayed": "2026-07-16T03:32:38.8666337Z",
           "visible": true,
           "canHide": true
         },
@@ -129,7 +131,9 @@
         "detail": null,
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
-        "contentBoards": null
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       }
     ]
   },

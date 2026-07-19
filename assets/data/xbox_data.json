@@ -3,6 +3,93 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "2118292977",
+        "pfn": "Embark.arc-raiders_kd876xf6dde24",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
+        "windowsPhoneProductId": null,
+        "name": "ARC Raiders",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
+        "mediaItemType": "Application",
+        "modernTitleId": "2118292977",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 46,
+          "totalAchievements": 0,
+          "currentGamerscore": 950,
+          "totalGamerscore": 1000,
+          "progressPercentage": 95,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-07-19T04:22:13.087447Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1696147865",
+        "pfn": "miHoYo.ZenlessZoneZero_43wdbdsrrv52a",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000065192999",
+        "windowsPhoneProductId": null,
+        "name": "Zenless Zone Zero",
+        "type": "Game",
+        "devices": [
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.22135.13974579424110118.aae80448-07b8-4653-a3c4-228ea5779358.2c93a444-64ff-46ae-aeb5-5cad61c4310c",
+        "mediaItemType": "Application",
+        "modernTitleId": "1696147865",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 29,
+          "totalAchievements": 0,
+          "currentGamerscore": 425,
+          "totalGamerscore": 1730,
+          "progressPercentage": 24,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-07-19T04:09:47.8512638Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "1775314772",
         "pfn": null,
         "bingId": null,
@@ -42,94 +129,6 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
-      },
-      {
-        "titleId": "1797327516",
-        "pfn": "PocketpairInc.Palworld_ad4psfrxyesvt",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006b210a9c",
-        "windowsPhoneProductId": null,
-        "name": "Palworld",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.45491.13654268679289325.ececb946-5639-4e77-b347-9d188d4e7e02.d4615c02-237f-4ec6-8ec6-a84aaeed586f",
-        "mediaItemType": "Application",
-        "modernTitleId": "1797327516",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 11,
-          "totalAchievements": 0,
-          "currentGamerscore": 705,
-          "totalGamerscore": 2820,
-          "progressPercentage": 25,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-07-18T02:24:00.4825598Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1144039928",
-        "pfn": "Microsoft.Chelan_8wekyb3d8bbwe",
-        "bingId": "f33009f4-14ff-4821-94e3-c3573c868c2e",
-        "serviceConfigId": "77290100-225e-4768-9373-98164430a9f8",
-        "windowsPhoneProductId": null,
-        "name": "Halo: la colección Jefe Maestro",
-        "type": "Game",
-        "devices": [
-          "PC"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.14011015795942652.ca67db1b-d21e-47e9-bbb4-5ece2ce3f774.c71a2431-5ef1-4c32-92fa-22cca6162053",
-        "mediaItemType": "Application",
-        "modernTitleId": "1144039928",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 280,
-          "totalAchievements": 0,
-          "currentGamerscore": 2680,
-          "totalGamerscore": 7000,
-          "progressPercentage": 38,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-07-18T01:21:50.8201712Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       }
     ]
   },

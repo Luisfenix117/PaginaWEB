@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T01:59:49.243Z",
+  "last_updated": "2026-07-20T13:47:42.679Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -57,6 +57,13 @@
       "spotify_url": "https://open.spotify.com/track/5aOOeJdwl10zMut2s3MB1z"
     },
     {
+      "title": "Kill Each Other / Live Forever",
+      "artist": "Daron Malakian and Scars On Broadway",
+      "album": "Scars on Broadway",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
+      "spotify_url": "https://open.spotify.com/track/1ttZT4M4ps6UIRALF6xitp"
+    },
+    {
       "title": "World Long Gone",
       "artist": "Daron Malakian and Scars On Broadway",
       "album": "Scars on Broadway",
@@ -90,13 +97,6 @@
       "album": "Scars on Broadway",
       "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
       "spotify_url": "https://open.spotify.com/track/1rq91I3R5gQDKWofpbBxj2"
-    },
-    {
-      "title": "Kill Each Other / Live Forever",
-      "artist": "Daron Malakian and Scars On Broadway",
-      "album": "Scars on Broadway",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/1ttZT4M4ps6UIRALF6xitp"
     },
     {
       "title": "Babylon",
@@ -239,13 +239,6 @@
       "spotify_url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo"
     },
     {
-      "title": "葬送フリヰジアン",
-      "artist": "Yousei Teikoku",
-      "album": "the age of villains",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731658f28be6207cc10a61321b",
-      "spotify_url": "https://open.spotify.com/track/0ckbGgEWq5Dcn5wBFJGx4P"
-    },
-    {
       "title": "No More Sorrow",
       "artist": "Linkin Park",
       "album": "Minutes to Midnight",
@@ -356,6 +349,13 @@
       "album": "Meteora (Bonus Edition)",
       "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
       "spotify_url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx"
+    },
+    {
+      "title": "ごめんね、いいコじゃいられない。",
+      "artist": "Miku Sawai",
+      "album": "憂鬱日和。",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f15e73095a9afd79d7daa9b0",
+      "spotify_url": "https://open.spotify.com/track/3lQCsg0VaUkUYRhIK8JFY0"
     }
   ]
 }

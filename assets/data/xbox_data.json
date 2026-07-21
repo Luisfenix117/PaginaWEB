@@ -3,37 +3,38 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1775314772",
-        "pfn": null,
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "titleId": "926771636",
+        "pfn": "Ubisoft.256f5f4c-e715-45bc-a159-b33b5ed4fed8_ngz4m417e0mpw",
+        "bingId": "b0725d24-bc6d-4d63-9604-d3f17fe594ed",
+        "serviceConfigId": "4c5b0100-b87d-4442-9d9b-cb81373d69b4",
         "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
+        "name": "Tom Clancy's Rainbow Six Siege",
         "type": "Game",
         "devices": [
-          "Win32"
+          "XboxOne",
+          "XboxSeries"
         ],
-        "displayImage": "",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.48586.65170969132831011.a13a22f3-5325-489a-9982-552262e2f09b.dd7696e9-b093-40a5-a469-189d1d098444",
         "mediaItemType": "Application",
-        "modernTitleId": null,
+        "modernTitleId": "926771636",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 0,
+          "currentAchievements": 44,
           "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
+          "currentGamerscore": 865,
+          "totalGamerscore": 1000,
+          "progressPercentage": 86,
+          "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 0
+          "sourceVersion": 2
         },
         "gamePass": {
-          "isGamePass": false
+          "isGamePass": true
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-20T04:39:43.9072872Z",
+          "lastTimePlayed": "2026-07-20T23:57:10.4731157Z",
           "visible": true,
           "canHide": true
         },
@@ -41,42 +42,43 @@
         "detail": null,
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
-        "contentBoards": null
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
-        "titleId": "1797327516",
-        "pfn": "PocketpairInc.Palworld_ad4psfrxyesvt",
+        "titleId": "2118292977",
+        "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006b210a9c",
+        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
         "windowsPhoneProductId": null,
-        "name": "Palworld",
+        "name": "ARC Raiders",
         "type": "Game",
         "devices": [
           "PC",
-          "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.45491.13654268679289325.ececb946-5639-4e77-b347-9d188d4e7e02.d4615c02-237f-4ec6-8ec6-a84aaeed586f",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
         "mediaItemType": "Application",
-        "modernTitleId": "1797327516",
+        "modernTitleId": "2118292977",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 12,
+          "currentAchievements": 46,
           "totalAchievements": 0,
-          "currentGamerscore": 735,
-          "totalGamerscore": 2820,
-          "progressPercentage": 26,
+          "currentGamerscore": 950,
+          "totalGamerscore": 1000,
+          "progressPercentage": 95,
           "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 1
+          "sourceVersion": 2
         },
         "gamePass": {
-          "isGamePass": true
+          "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-19T20:40:39.2593807Z",
+          "lastTimePlayed": "2026-07-20T23:53:00.0159804Z",
           "visible": true,
           "canHide": true
         },
@@ -119,7 +121,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-19T19:45:34.9461841Z",
+          "lastTimePlayed": "2026-07-20T23:04:25.7083155Z",
           "visible": true,
           "canHide": true
         },

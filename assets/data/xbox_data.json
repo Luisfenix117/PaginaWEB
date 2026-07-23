@@ -3,27 +3,26 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "926771636",
-        "pfn": "Ubisoft.256f5f4c-e715-45bc-a159-b33b5ed4fed8_ngz4m417e0mpw",
-        "bingId": "b0725d24-bc6d-4d63-9604-d3f17fe594ed",
-        "serviceConfigId": "4c5b0100-b87d-4442-9d9b-cb81373d69b4",
+        "titleId": "1144039928",
+        "pfn": "Microsoft.Chelan_8wekyb3d8bbwe",
+        "bingId": "f33009f4-14ff-4821-94e3-c3573c868c2e",
+        "serviceConfigId": "77290100-225e-4768-9373-98164430a9f8",
         "windowsPhoneProductId": null,
-        "name": "Tom Clancy's Rainbow Six Siege",
+        "name": "Halo: la colección Jefe Maestro",
         "type": "Game",
         "devices": [
-          "XboxOne",
-          "XboxSeries"
+          "PC"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.48586.65170969132831011.a13a22f3-5325-489a-9982-552262e2f09b.dd7696e9-b093-40a5-a469-189d1d098444",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.14011015795942652.ca67db1b-d21e-47e9-bbb4-5ece2ce3f774.c71a2431-5ef1-4c32-92fa-22cca6162053",
         "mediaItemType": "Application",
-        "modernTitleId": "926771636",
+        "modernTitleId": "1144039928",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 44,
+          "currentAchievements": 282,
           "totalAchievements": 0,
-          "currentGamerscore": 865,
-          "totalGamerscore": 1000,
-          "progressPercentage": 86,
+          "currentGamerscore": 2710,
+          "totalGamerscore": 7000,
+          "progressPercentage": 38,
           "sourceVersion": 2
         },
         "stats": {
@@ -34,7 +33,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-20T23:57:10.4731157Z",
+          "lastTimePlayed": "2026-07-22T20:32:19.3948196Z",
           "visible": true,
           "canHide": true
         },
@@ -78,7 +77,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-20T23:53:00.0159804Z",
+          "lastTimePlayed": "2026-07-22T19:36:13.439176Z",
           "visible": true,
           "canHide": true
         },
@@ -91,37 +90,38 @@
         "isStreamable": true
       },
       {
-        "titleId": "1696147865",
-        "pfn": "miHoYo.ZenlessZoneZero_43wdbdsrrv52a",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000065192999",
+        "titleId": "926771636",
+        "pfn": "Ubisoft.256f5f4c-e715-45bc-a159-b33b5ed4fed8_ngz4m417e0mpw",
+        "bingId": "b0725d24-bc6d-4d63-9604-d3f17fe594ed",
+        "serviceConfigId": "4c5b0100-b87d-4442-9d9b-cb81373d69b4",
         "windowsPhoneProductId": null,
-        "name": "Zenless Zone Zero",
+        "name": "Tom Clancy's Rainbow Six Siege",
         "type": "Game",
         "devices": [
+          "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.22135.13974579424110118.aae80448-07b8-4653-a3c4-228ea5779358.2c93a444-64ff-46ae-aeb5-5cad61c4310c",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.48586.65170969132831011.a13a22f3-5325-489a-9982-552262e2f09b.dd7696e9-b093-40a5-a469-189d1d098444",
         "mediaItemType": "Application",
-        "modernTitleId": "1696147865",
+        "modernTitleId": "926771636",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 29,
+          "currentAchievements": 44,
           "totalAchievements": 0,
-          "currentGamerscore": 425,
-          "totalGamerscore": 1730,
-          "progressPercentage": 24,
+          "currentGamerscore": 865,
+          "totalGamerscore": 1000,
+          "progressPercentage": 86,
           "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 3
+          "sourceVersion": 2
         },
         "gamePass": {
           "isGamePass": true
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-20T23:04:25.7083155Z",
+          "lastTimePlayed": "2026-07-20T23:57:10.4731157Z",
           "visible": true,
           "canHide": true
         },

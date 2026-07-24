@@ -3,37 +3,39 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1775314772",
-        "pfn": null,
+        "titleId": "1797327516",
+        "pfn": "PocketpairInc.Palworld_ad4psfrxyesvt",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "serviceConfigId": "00000000-0000-0000-0000-00006b210a9c",
         "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
+        "name": "Palworld",
         "type": "Game",
         "devices": [
-          "Win32"
+          "PC",
+          "XboxOne",
+          "XboxSeries"
         ],
-        "displayImage": "",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.45491.13654268679289325.ececb946-5639-4e77-b347-9d188d4e7e02.d4615c02-237f-4ec6-8ec6-a84aaeed586f",
         "mediaItemType": "Application",
-        "modernTitleId": null,
+        "modernTitleId": "1797327516",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 0,
+          "currentAchievements": 15,
           "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
+          "currentGamerscore": 810,
+          "totalGamerscore": 2820,
+          "progressPercentage": 28,
+          "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 0
+          "sourceVersion": 1
         },
         "gamePass": {
-          "isGamePass": false
+          "isGamePass": true
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-23T07:24:40.5912124Z",
+          "lastTimePlayed": "2026-07-24T01:06:25.0286269Z",
           "visible": true,
           "canHide": true
         },
@@ -41,48 +43,9 @@
         "detail": null,
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
-        "contentBoards": null
-      },
-      {
-        "titleId": "1801901058",
-        "pfn": null,
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006b66d402",
-        "windowsPhoneProductId": null,
-        "name": "Google Play Games",
-        "type": "Game",
-        "devices": [
-          "Win32"
-        ],
-        "displayImage": "",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-07-23T04:16:16.0979683Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
         "titleId": "1144039928",
@@ -100,11 +63,11 @@
         "modernTitleId": "1144039928",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 282,
+          "currentAchievements": 284,
           "totalAchievements": 0,
-          "currentGamerscore": 2710,
+          "currentGamerscore": 2735,
           "totalGamerscore": 7000,
-          "progressPercentage": 38,
+          "progressPercentage": 39,
           "sourceVersion": 2
         },
         "stats": {
@@ -115,7 +78,50 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-22T20:32:19.3948196Z",
+          "lastTimePlayed": "2026-07-23T21:33:01.2727213Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1696147865",
+        "pfn": "miHoYo.ZenlessZoneZero_43wdbdsrrv52a",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000065192999",
+        "windowsPhoneProductId": null,
+        "name": "Zenless Zone Zero",
+        "type": "Game",
+        "devices": [
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.22135.13974579424110118.aae80448-07b8-4653-a3c4-228ea5779358.2c93a444-64ff-46ae-aeb5-5cad61c4310c",
+        "mediaItemType": "Application",
+        "modernTitleId": "1696147865",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 29,
+          "totalAchievements": 0,
+          "currentGamerscore": 425,
+          "totalGamerscore": 1730,
+          "progressPercentage": 24,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-07-23T21:23:14.8833318Z",
           "visible": true,
           "canHide": true
         },

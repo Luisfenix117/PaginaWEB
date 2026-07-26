@@ -19,11 +19,11 @@
         "modernTitleId": "1727852104",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 11,
+          "currentAchievements": 15,
           "totalAchievements": 0,
-          "currentGamerscore": 155,
+          "currentGamerscore": 230,
           "totalGamerscore": 1000,
-          "progressPercentage": 15,
+          "progressPercentage": 23,
           "sourceVersion": 2
         },
         "stats": {
@@ -34,7 +34,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-25T22:26:47.4501222Z",
+          "lastTimePlayed": "2026-07-26T07:25:00.4050399Z",
           "visible": true,
           "canHide": true
         },
@@ -47,38 +47,37 @@
         "isStreamable": true
       },
       {
-        "titleId": "2118292977",
-        "pfn": "Embark.arc-raiders_kd876xf6dde24",
+        "titleId": "1801901058",
+        "pfn": null,
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
+        "serviceConfigId": "00000000-0000-0000-0000-00006b66d402",
         "windowsPhoneProductId": null,
-        "name": "ARC Raiders",
+        "name": "Google Play Games",
         "type": "Game",
         "devices": [
-          "PC",
-          "XboxSeries"
+          "Win32"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
+        "displayImage": "",
         "mediaItemType": "Application",
-        "modernTitleId": "2118292977",
+        "modernTitleId": null,
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 46,
+          "currentAchievements": 0,
           "totalAchievements": 0,
-          "currentGamerscore": 950,
-          "totalGamerscore": 1000,
-          "progressPercentage": 95,
-          "sourceVersion": 2
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
         },
         "stats": {
-          "sourceVersion": 2
+          "sourceVersion": 0
         },
         "gamePass": {
           "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-25T17:45:59.4833874Z",
+          "lastTimePlayed": "2026-07-26T03:20:30.973557Z",
           "visible": true,
           "canHide": true
         },
@@ -86,42 +85,40 @@
         "detail": null,
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
+        "contentBoards": null
       },
       {
-        "titleId": "1696147865",
-        "pfn": "miHoYo.ZenlessZoneZero_43wdbdsrrv52a",
+        "titleId": "1775314772",
+        "pfn": null,
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000065192999",
+        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
         "windowsPhoneProductId": null,
-        "name": "Zenless Zone Zero",
+        "name": "Goddess of Victory: Nikke",
         "type": "Game",
         "devices": [
-          "XboxSeries"
+          "Win32"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.22135.13974579424110118.aae80448-07b8-4653-a3c4-228ea5779358.2c93a444-64ff-46ae-aeb5-5cad61c4310c",
+        "displayImage": "",
         "mediaItemType": "Application",
-        "modernTitleId": "1696147865",
+        "modernTitleId": null,
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 29,
+          "currentAchievements": 0,
           "totalAchievements": 0,
-          "currentGamerscore": 425,
-          "totalGamerscore": 1730,
-          "progressPercentage": 24,
-          "sourceVersion": 2
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
         },
         "stats": {
-          "sourceVersion": 3
+          "sourceVersion": 0
         },
         "gamePass": {
-          "isGamePass": true
+          "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-25T17:42:00.073327Z",
+          "lastTimePlayed": "2026-07-26T02:25:27.1094951Z",
           "visible": true,
           "canHide": true
         },
@@ -129,9 +126,7 @@
         "detail": null,
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
+        "contentBoards": null
       }
     ]
   },

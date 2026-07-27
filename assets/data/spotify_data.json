@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T01:56:41.392Z",
+  "last_updated": "2026-07-27T14:09:51.717Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -13,6 +13,13 @@
       "album": "Scars on Broadway",
       "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
       "spotify_url": "https://open.spotify.com/track/7dbwliCP94bEhVVb7Ap7C9"
+    },
+    {
+      "title": "GoldenEye 007, Surface 1",
+      "artist": "Arcade Player",
+      "album": "GoldenEye 007, Iconic Themes",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730036f956ce96c4293059d039",
+      "spotify_url": "https://open.spotify.com/track/1Ao4emjXQdvZL70ba3D0vz"
     },
     {
       "title": "bloody events caused by traumatic experiences",
@@ -48,13 +55,6 @@
       "album": "Scars on Broadway",
       "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
       "spotify_url": "https://open.spotify.com/track/1ttZT4M4ps6UIRALF6xitp"
-    },
-    {
-      "title": "Lying from You",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1"
     },
     {
       "title": "World Long Gone",
@@ -97,13 +97,6 @@
       "album": "きくおミク６",
       "image": "https://i.scdn.co/image/ab67616d0000b27365f5e1afb341d92d4decaff4",
       "spotify_url": "https://open.spotify.com/track/0uKr6TVDh0UwUXx7Ud9Po9"
-    },
-    {
-      "title": "GoldenEye 007, Surface 1",
-      "artist": "Arcade Player",
-      "album": "GoldenEye 007, Iconic Themes",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730036f956ce96c4293059d039",
-      "spotify_url": "https://open.spotify.com/track/1Ao4emjXQdvZL70ba3D0vz"
     },
     {
       "title": "Insane",
@@ -155,13 +148,6 @@
       "spotify_url": "https://open.spotify.com/track/7w2C0PWqaHX64m5VHqWCFi"
     },
     {
-      "title": "Numb",
-      "artist": "Linkin Park",
-      "album": "Meteora",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b",
-      "spotify_url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
-    },
-    {
       "title": "SAKASAMA Girl Feeling",
       "artist": "稲葉曇",
       "album": "ANTICYCLONE",
@@ -197,6 +183,13 @@
       "spotify_url": "https://open.spotify.com/track/1taGkdO3DQsNRIQrarhVvc"
     },
     {
+      "title": "Lying from You",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1"
+    },
+    {
       "title": "First Light - 2018 Remaster",
       "artist": "Makoto Matsushita",
       "album": "FIRST LIGHT (+1; 2018 Remaster)",
@@ -209,13 +202,6 @@
       "album": "Holy War",
       "image": "https://i.scdn.co/image/ab67616d0000b27381cea7ba45c1fd582cc2e3e6",
       "spotify_url": "https://open.spotify.com/track/1JXpJUnwFFibyI6MVC0415"
-    },
-    {
-      "title": "White Noise",
-      "artist": "Chester Bennington, Dave Farrell, Joe Hahn, Mike Shinoda, Alec Puro",
-      "album": "MALL (Music From The Motion Picture)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c716ab3bb4c4648e4763da70",
-      "spotify_url": "https://open.spotify.com/track/2XREscvJdz0RQ2voe67rdU"
     },
     {
       "title": "BAKENOHANA",
@@ -237,13 +223,6 @@
       "album": "Picayune Dreams, Vol. 2 (Official Video Game Soundtrack)",
       "image": "https://i.scdn.co/image/ab67616d0000b273558d45f2c005e8810878dc1a",
       "spotify_url": "https://open.spotify.com/track/0P454oB1X79NALdmZwRS0M"
-    },
-    {
-      "title": "No More Sorrow",
-      "artist": "Linkin Park",
-      "album": "Minutes to Midnight",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f208c8aa667a6d4f6feb8bbc",
-      "spotify_url": "https://open.spotify.com/track/0tsFiS73rGU4TqrhLNg4cl"
     },
     {
       "title": "Enemy",
@@ -286,13 +265,6 @@
       "album": "Compañeros Musicales",
       "image": "https://i.scdn.co/image/ab67616d0000b273619a1d7617b751cfbde978d6",
       "spotify_url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
-    },
-    {
-      "title": "Peril",
-      "artist": "Martin O'Donnell, Michael Salvatori, Halo",
-      "album": "Halo 2, Vol. 1 (Original Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733d85808897b5cd1ef0b31a1e",
-      "spotify_url": "https://open.spotify.com/track/1xemsxRCrSy9F30oXxq3zV"
     },
     {
       "title": "Starting Over",
@@ -356,6 +328,34 @@
       "album": "Meteora (Bonus Edition)",
       "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
       "spotify_url": "https://open.spotify.com/track/4wHktoSf6C0C0fAO8IIWqs"
+    },
+    {
+      "title": "物をぱらぱら壊す",
+      "artist": "Kikuo",
+      "album": "きくおミク",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738fdb0c09eb333c24eb1bc53b",
+      "spotify_url": "https://open.spotify.com/track/52F89LJHMbXMdFNDfnm8KK"
+    },
+    {
+      "title": "El Gran Varón",
+      "artist": "Willie Colón",
+      "album": "Top Secrets",
+      "image": "https://i.scdn.co/image/ab67616d0000b27310f6d644b06f0c01aafd6006",
+      "spotify_url": "https://open.spotify.com/track/5XWfwjzFNl2pTB737fx7qr"
+    },
+    {
+      "title": "From the Inside",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ"
+    },
+    {
+      "title": "Jump Up (Goddess of Victory: NIKKE Original Soundtrack)",
+      "artist": "LEVEL NINE, Cosmograph",
+      "album": "Jump Up (Goddess of Victory: NIKKE Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273145e9ff20c771b0823b611f6",
+      "spotify_url": "https://open.spotify.com/track/7ol9KmOlxgynglIvgm4phw"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T13:47:42.679Z",
+  "last_updated": "2026-07-27T01:56:41.392Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -15,25 +15,11 @@
       "spotify_url": "https://open.spotify.com/track/7dbwliCP94bEhVVb7Ap7C9"
     },
     {
-      "title": "Dread and the Fugitive Mind",
-      "artist": "Megadeth",
-      "album": "The World Needs a Hero",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739ce39d341464f1b624716601",
-      "spotify_url": "https://open.spotify.com/track/5ThljNlaUX5zNgNWBmanmG"
-    },
-    {
       "title": "bloody events caused by traumatic experiences",
       "artist": "Bloody Mercury, TraumaClick",
       "album": "bloody events caused by traumatic experiences",
       "image": "https://i.scdn.co/image/ab67616d0000b27343413e19b5d22da15505aa88",
       "spotify_url": "https://open.spotify.com/track/2b6HnV0ngRk9BjfKcZT6Cp"
-    },
-    {
-      "title": "The Right to Go Insane",
-      "artist": "Megadeth",
-      "album": "Endgame",
-      "image": "https://i.scdn.co/image/ab67616d0000b27352103e45f70508a143245023",
-      "spotify_url": "https://open.spotify.com/track/31W4nUR9aHzwVFUmcCHIzf"
     },
     {
       "title": "未来世紀(秘)クラブ",
@@ -43,18 +29,18 @@
       "spotify_url": "https://open.spotify.com/track/54qpkAilZbbLPCHFccwDHV"
     },
     {
-      "title": "From the Inside",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ"
+      "title": "Dread and the Fugitive Mind",
+      "artist": "Megadeth",
+      "album": "The World Needs a Hero",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739ce39d341464f1b624716601",
+      "spotify_url": "https://open.spotify.com/track/5ThljNlaUX5zNgNWBmanmG"
     },
     {
-      "title": "GLITCH IN YOUR HEART",
-      "artist": "gabemtnz",
-      "album": "COMPUTER ANGELS",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731299a378e417d02a5e09941c",
-      "spotify_url": "https://open.spotify.com/track/5aOOeJdwl10zMut2s3MB1z"
+      "title": "NON-USE",
+      "artist": "稲葉曇",
+      "album": "ANTICYCLONE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c2a3af824b7dd8cafae97e",
+      "spotify_url": "https://open.spotify.com/track/5uJmXik3PnnbcKG3Y8bNS5"
     },
     {
       "title": "Kill Each Other / Live Forever",
@@ -64,11 +50,32 @@
       "spotify_url": "https://open.spotify.com/track/1ttZT4M4ps6UIRALF6xitp"
     },
     {
+      "title": "Lying from You",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1"
+    },
+    {
       "title": "World Long Gone",
       "artist": "Daron Malakian and Scars On Broadway",
       "album": "Scars on Broadway",
       "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
       "spotify_url": "https://open.spotify.com/track/0MQy5d6TT1OJb4KVdjDLos"
+    },
+    {
+      "title": "The Right to Go Insane",
+      "artist": "Megadeth",
+      "album": "Endgame",
+      "image": "https://i.scdn.co/image/ab67616d0000b27352103e45f70508a143245023",
+      "spotify_url": "https://open.spotify.com/track/31W4nUR9aHzwVFUmcCHIzf"
+    },
+    {
+      "title": "Funny",
+      "artist": "Daron Malakian and Scars On Broadway",
+      "album": "Scars on Broadway",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
+      "spotify_url": "https://open.spotify.com/track/7tZdEJUnzaZLWCirFFGal1"
     },
     {
       "title": "Public Enemy No. 1",
@@ -83,6 +90,13 @@
       "album": "Scars on Broadway",
       "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
       "spotify_url": "https://open.spotify.com/track/0qpVlGaiQNReSLlTQnpxFO"
+    },
+    {
+      "title": "バツ猫",
+      "artist": "Kikuo",
+      "album": "きくおミク６",
+      "image": "https://i.scdn.co/image/ab67616d0000b27365f5e1afb341d92d4decaff4",
+      "spotify_url": "https://open.spotify.com/track/0uKr6TVDh0UwUXx7Ud9Po9"
     },
     {
       "title": "GoldenEye 007, Surface 1",
@@ -120,25 +134,11 @@
       "spotify_url": "https://open.spotify.com/track/4SF2dVmTpz31rA44xBkSKJ"
     },
     {
-      "title": "Lying from You",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1"
-    },
-    {
       "title": "Chemicals",
       "artist": "Daron Malakian and Scars On Broadway",
       "album": "Scars on Broadway",
       "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
       "spotify_url": "https://open.spotify.com/track/5phSzjCOdzwK0qqKkgTUU6"
-    },
-    {
-      "title": "Lullaby Of A Deadman",
-      "artist": "Kevin Sherwood, Elena Siegman, Corey Redgrift",
-      "album": "Call of Duty: Black Ops – Zombies (Original Game Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734bc9031ffb86dfa3cea86c52",
-      "spotify_url": "https://open.spotify.com/track/6BrBmkdx076OXG7BalDQhR"
     },
     {
       "title": "I'll Get Even - Remastered 2004 / Remixed",
@@ -148,25 +148,11 @@
       "spotify_url": "https://open.spotify.com/track/7CIUiILz5HLnRv8c9NfZnb"
     },
     {
-      "title": "Funny",
-      "artist": "Daron Malakian and Scars On Broadway",
-      "album": "Scars on Broadway",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/7tZdEJUnzaZLWCirFFGal1"
-    },
-    {
       "title": "Exploding / Reloading",
       "artist": "Daron Malakian and Scars On Broadway",
       "album": "Scars on Broadway",
       "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
       "spotify_url": "https://open.spotify.com/track/7w2C0PWqaHX64m5VHqWCFi"
-    },
-    {
-      "title": "Nobody's Listening",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/1EU3VuKGZOvd1HTkxLPUXK"
     },
     {
       "title": "Numb",
@@ -176,18 +162,11 @@
       "spotify_url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
     },
     {
-      "title": "NON-USE",
+      "title": "SAKASAMA Girl Feeling",
       "artist": "稲葉曇",
       "album": "ANTICYCLONE",
       "image": "https://i.scdn.co/image/ab67616d0000b27325c2a3af824b7dd8cafae97e",
-      "spotify_url": "https://open.spotify.com/track/5uJmXik3PnnbcKG3Y8bNS5"
-    },
-    {
-      "title": "Something That I'm Not",
-      "artist": "Megadeth",
-      "album": "The System Has Failed",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cda3b381e6d4dddf4bc4d16c",
-      "spotify_url": "https://open.spotify.com/track/5l8grt5AgofKqjNb7Kw3XJ"
+      "spotify_url": "https://open.spotify.com/track/6gcRGre36WBCBhUz32iVlq"
     },
     {
       "title": "Skandal",
@@ -195,6 +174,27 @@
       "album": "2006",
       "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
       "spotify_url": "https://open.spotify.com/track/1Ox2hzrDzEXsfuOqy48X5g"
+    },
+    {
+      "title": "Universe",
+      "artist": "Daron Malakian and Scars On Broadway",
+      "album": "Scars on Broadway",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
+      "spotify_url": "https://open.spotify.com/track/5acyssLFZLOxPfp5YK1E2a"
+    },
+    {
+      "title": "An image in the making",
+      "artist": "稲葉曇",
+      "album": "ANTICYCLONE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c2a3af824b7dd8cafae97e",
+      "spotify_url": "https://open.spotify.com/track/6oFgEbMswPU2ELlYBHmKLz"
+    },
+    {
+      "title": "Puttin' on the Ritz",
+      "artist": "Taco",
+      "album": "After Eight",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f13127cb48c63b2fb0c16521",
+      "spotify_url": "https://open.spotify.com/track/1taGkdO3DQsNRIQrarhVvc"
     },
     {
       "title": "First Light - 2018 Remaster",
@@ -211,13 +211,6 @@
       "spotify_url": "https://open.spotify.com/track/1JXpJUnwFFibyI6MVC0415"
     },
     {
-      "title": "Puttin' on the Ritz",
-      "artist": "Taco",
-      "album": "After Eight",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f13127cb48c63b2fb0c16521",
-      "spotify_url": "https://open.spotify.com/track/1taGkdO3DQsNRIQrarhVvc"
-    },
-    {
       "title": "White Noise",
       "artist": "Chester Bennington, Dave Farrell, Joe Hahn, Mike Shinoda, Alec Puro",
       "album": "MALL (Music From The Motion Picture)",
@@ -225,11 +218,11 @@
       "spotify_url": "https://open.spotify.com/track/2XREscvJdz0RQ2voe67rdU"
     },
     {
-      "title": "絶望plantation",
-      "artist": "Yousei Teikoku",
-      "album": "Hades:The other world",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737f2553477856b47aab4c3a33",
-      "spotify_url": "https://open.spotify.com/track/51ePNk9mfBrzWpxHKztXDt"
+      "title": "BAKENOHANA",
+      "artist": "NAKISO",
+      "album": "BAKENOHANA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737332deb0d90f697607c1e33e",
+      "spotify_url": "https://open.spotify.com/track/3Nyt0xoTlordHqvBR1EvzG"
     },
     {
       "title": "She-Wolf - Remastered 2004 / Remixed",
@@ -239,18 +232,18 @@
       "spotify_url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo"
     },
     {
+      "title": "Hypernova (VS Picayune Phase 1)",
+      "artist": "milkypossum",
+      "album": "Picayune Dreams, Vol. 2 (Official Video Game Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273558d45f2c005e8810878dc1a",
+      "spotify_url": "https://open.spotify.com/track/0P454oB1X79NALdmZwRS0M"
+    },
+    {
       "title": "No More Sorrow",
       "artist": "Linkin Park",
       "album": "Minutes to Midnight",
       "image": "https://i.scdn.co/image/ab67616d0000b273f208c8aa667a6d4f6feb8bbc",
       "spotify_url": "https://open.spotify.com/track/0tsFiS73rGU4TqrhLNg4cl"
-    },
-    {
-      "title": "バツ猫",
-      "artist": "Kikuo",
-      "album": "きくおミク６",
-      "image": "https://i.scdn.co/image/ab67616d0000b27365f5e1afb341d92d4decaff4",
-      "spotify_url": "https://open.spotify.com/track/0uKr6TVDh0UwUXx7Ud9Po9"
     },
     {
       "title": "Enemy",
@@ -260,11 +253,11 @@
       "spotify_url": "https://open.spotify.com/track/1AdX0orSkAVctZjiam5AnS"
     },
     {
-      "title": "Lucretia - 2004 Remix",
-      "artist": "Megadeth",
-      "album": "Rust In Peace (2004 Remix / Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
-      "spotify_url": "https://open.spotify.com/track/1Bi6Me45Xiqy4kYUGGwBTv"
+      "title": "Nobody's Listening",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/1EU3VuKGZOvd1HTkxLPUXK"
     },
     {
       "title": "Ultimas Noticias",
@@ -274,11 +267,25 @@
       "spotify_url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
     },
     {
+      "title": "Pascal Beats",
+      "artist": "稲葉曇",
+      "album": "ANTICYCLONE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c2a3af824b7dd8cafae97e",
+      "spotify_url": "https://open.spotify.com/track/1phQA6cMXBMEEa3mCH4FuE"
+    },
+    {
       "title": "No Manches Mi Vida",
       "artist": "Molotov",
       "album": "Apocalypshit",
       "image": "https://i.scdn.co/image/ab67616d0000b2734bc839b846d5a838ced8217a",
       "spotify_url": "https://open.spotify.com/track/1uD1mm4W2s9gA69hLhsdkH"
+    },
+    {
+      "title": "La Carencia",
+      "artist": "Panteon Rococo",
+      "album": "Compañeros Musicales",
+      "image": "https://i.scdn.co/image/ab67616d0000b273619a1d7617b751cfbde978d6",
+      "spotify_url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
     },
     {
       "title": "Peril",
@@ -288,27 +295,6 @@
       "spotify_url": "https://open.spotify.com/track/1xemsxRCrSy9F30oXxq3zV"
     },
     {
-      "title": "Hypernova (VS Picayune Phase 1)",
-      "artist": "milkypossum",
-      "album": "Picayune Dreams, Vol. 2 (Official Video Game Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d5576840a73427145c1c9739",
-      "spotify_url": "https://open.spotify.com/track/2Lz2161fXcLpo7ujV2QUeM"
-    },
-    {
-      "title": "Mobius",
-      "artist": "Alexey Omelchuk",
-      "album": "Metro: Last Light: Original Soundtrack (Component 2)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273502957c845b106278505e24f",
-      "spotify_url": "https://open.spotify.com/track/2QvH4YTFzuxSU9GUcUFdYD"
-    },
-    {
-      "title": "Free L-Town",
-      "artist": "Spongebob Squarewave",
-      "album": "Return Of The Rave",
-      "image": "https://i.scdn.co/image/ab67616d0000b27311264d30474c6586b92faca9",
-      "spotify_url": "https://open.spotify.com/track/2hZ8AhP7SSmgS8O4r56sxb"
-    },
-    {
       "title": "Starting Over",
       "artist": "Joelle",
       "album": "FINAL FANTASY XIII-2 Original Soundtrack",
@@ -316,18 +302,11 @@
       "spotify_url": "https://open.spotify.com/track/2v7T65sRJlhytPQSqrnQ6L"
     },
     {
-      "title": "Flashpoint",
-      "artist": "Jack Grillo And Ricardo Hernandez",
-      "album": "Legendary Original Soundtrack",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fb6042f1742e22f898831c4b",
-      "spotify_url": "https://open.spotify.com/track/2zJHA59LPbolESZOxsLAon"
-    },
-    {
-      "title": "DARLING DANCE",
-      "artist": "Kairikibear",
-      "album": "DARLING SYNDROME",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731aafc7fbf9ef51d4c1ccb6af",
-      "spotify_url": "https://open.spotify.com/track/32cvZTXsJi4EzkvVDMH4Ij"
+      "title": "カーニバル (feat. メグッポイド)",
+      "artist": "otetsu",
+      "album": "Carnival",
+      "image": "https://i.scdn.co/image/ab67616d0000b273052c9e9d1a88e91a7d23217c",
+      "spotify_url": "https://open.spotify.com/track/3PaVt4uePedYLCpz5cAFJS"
     },
     {
       "title": "Father of Lies",
@@ -351,11 +330,32 @@
       "spotify_url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx"
     },
     {
-      "title": "ごめんね、いいコじゃいられない。",
-      "artist": "Miku Sawai",
-      "album": "憂鬱日和。",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f15e73095a9afd79d7daa9b0",
-      "spotify_url": "https://open.spotify.com/track/3lQCsg0VaUkUYRhIK8JFY0"
+      "title": "Slow Down",
+      "artist": "Leon Thomas",
+      "album": "Electric Dusk",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732684ee4b66ba735cfc792736",
+      "spotify_url": "https://open.spotify.com/track/4DfCzjuGvK8xq6g6e1EpoE"
+    },
+    {
+      "title": "アイデンティティ",
+      "artist": "Kanaria",
+      "album": "アイデンティティ",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dc2f7a9aa2bf67d4bf044caa",
+      "spotify_url": "https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi"
+    },
+    {
+      "title": "Faint",
+      "artist": "Linkin Park",
+      "album": "Meteora",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b",
+      "spotify_url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
+    },
+    {
+      "title": "Hit the Floor",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/4wHktoSf6C0C0fAO8IIWqs"
     }
   ]
 }

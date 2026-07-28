@@ -3,29 +3,27 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1480657460",
+        "titleId": "1801901058",
         "pfn": null,
-        "bingId": "66acd000-77fe-1000-9115-d80258410a34",
-        "serviceConfigId": "216f0100-158a-4bb5-a160-535d1a2d14e7",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00006b66d402",
         "windowsPhoneProductId": null,
-        "name": "Crazy Taxi",
+        "name": "Google Play Games",
         "type": "Game",
         "devices": [
-          "Xbox360",
-          "XboxOne",
-          "XboxSeries"
+          "Win32"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.34469.70823821492362242.30ba2ff6-2509-48dc-ae02-478bdf06e6b4.fa5aeddb-3ac1-42e4-a2a3-3e146a757a73",
-        "mediaItemType": "XboxArcadeGame",
-        "modernTitleId": "439162087",
+        "displayImage": "",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
         "isBundle": false,
         "achievement": {
           "currentAchievements": 0,
-          "totalAchievements": 12,
+          "totalAchievements": 0,
           "currentGamerscore": 0,
-          "totalGamerscore": 200,
+          "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 1
+          "sourceVersion": 0
         },
         "stats": {
           "sourceVersion": 0
@@ -35,7 +33,49 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-27T08:14:59.0029055Z",
+          "lastTimePlayed": "2026-07-28T10:32:29.3303474Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null
+      },
+      {
+        "titleId": "2118292977",
+        "pfn": "Embark.arc-raiders_kd876xf6dde24",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
+        "windowsPhoneProductId": null,
+        "name": "ARC Raiders",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
+        "mediaItemType": "Application",
+        "modernTitleId": "2118292977",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 46,
+          "totalAchievements": 0,
+          "currentGamerscore": 950,
+          "totalGamerscore": 1000,
+          "progressPercentage": 95,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-07-28T10:19:24.4064488Z",
           "visible": true,
           "canHide": true
         },
@@ -44,7 +84,8 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full"
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
         "titleId": "1775314772",
@@ -77,7 +118,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-27T06:08:03.1223216Z",
+          "lastTimePlayed": "2026-07-28T09:48:37.6393191Z",
           "visible": true,
           "canHide": true
         },
@@ -86,49 +127,6 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
-      },
-      {
-        "titleId": "1144039928",
-        "pfn": "Microsoft.Chelan_8wekyb3d8bbwe",
-        "bingId": "f33009f4-14ff-4821-94e3-c3573c868c2e",
-        "serviceConfigId": "77290100-225e-4768-9373-98164430a9f8",
-        "windowsPhoneProductId": null,
-        "name": "Halo: la colección Jefe Maestro",
-        "type": "Game",
-        "devices": [
-          "PC"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.14011015795942652.ca67db1b-d21e-47e9-bbb4-5ece2ce3f774.c71a2431-5ef1-4c32-92fa-22cca6162053",
-        "mediaItemType": "Application",
-        "modernTitleId": "1144039928",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 284,
-          "totalAchievements": 0,
-          "currentGamerscore": 2735,
-          "totalGamerscore": 7000,
-          "progressPercentage": 39,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-07-27T06:01:45.1877055Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       }
     ]
   },

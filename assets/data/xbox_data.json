@@ -34,7 +34,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-30T09:48:34.5353799Z",
+          "lastTimePlayed": "2026-07-31T11:22:53.6690725Z",
           "visible": true,
           "canHide": true
         },
@@ -47,12 +47,56 @@
         "isStreamable": true
       },
       {
-        "titleId": "1775314772",
+        "titleId": "1696147865",
+        "pfn": "miHoYo.ZenlessZoneZero_43wdbdsrrv52a",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000065192999",
+        "windowsPhoneProductId": null,
+        "name": "Zenless Zone Zero",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.58752.13974579424110118.a7c4bc1b-04b3-4177-85c0-1252f18d6f9c.91e6633b-1ba4-4bda-9a09-fdc53c5e6a7e",
+        "mediaItemType": "Application",
+        "modernTitleId": "1696147865",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 29,
+          "totalAchievements": 0,
+          "currentGamerscore": 425,
+          "totalGamerscore": 1730,
+          "progressPercentage": 24,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-07-31T10:44:56.9535388Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1801901058",
         "pfn": null,
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "serviceConfigId": "00000000-0000-0000-0000-00006b66d402",
         "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
+        "name": "Google Play Games",
         "type": "Game",
         "devices": [
           "Win32"
@@ -77,7 +121,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-30T07:25:26.0260328Z",
+          "lastTimePlayed": "2026-07-31T10:35:30.9881708Z",
           "visible": true,
           "canHide": true
         },
@@ -86,50 +130,6 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
-      },
-      {
-        "titleId": "2082978535",
-        "pfn": "Microsoft.198377053870B_8wekyb3d8bbwe",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007c27bae7",
-        "windowsPhoneProductId": null,
-        "name": "Halo: Campaign Evolved",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.60927.14018605831064250.443dafeb-7b4f-43fb-9452-0232c2810ba0.6c4e60ff-cf46-4b2e-8d42-13bd469e6840",
-        "mediaItemType": "Application",
-        "modernTitleId": "2082978535",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 2,
-          "totalAchievements": 0,
-          "currentGamerscore": 20,
-          "totalGamerscore": 1000,
-          "progressPercentage": 2,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-07-29T23:43:00.1606313Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       }
     ]
   },

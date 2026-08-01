@@ -33,7 +33,48 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-31T23:08:17.3976539Z",
+          "lastTimePlayed": "2026-08-01T06:26:34.3673472Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null
+      },
+      {
+        "titleId": "1801901058",
+        "pfn": null,
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00006b66d402",
+        "windowsPhoneProductId": null,
+        "name": "Google Play Games",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-08-01T05:25:01.8325844Z",
           "visible": true,
           "canHide": true
         },
@@ -76,50 +117,6 @@
         "images": null,
         "titleHistory": {
           "lastTimePlayed": "2026-07-31T14:21:44.1386276Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1727852104",
-        "pfn": "39EA002F.FF6DF_n746a19ndrrjg",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000066fcee48",
-        "windowsPhoneProductId": null,
-        "name": "FINAL FANTASY VI",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.30999.13963239069939428.625a335f-7e8c-428e-8629-b822af0d8cc8.59166e05-0600-4e50-83f9-7149b9c79079",
-        "mediaItemType": "Application",
-        "modernTitleId": "1727852104",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 15,
-          "totalAchievements": 0,
-          "currentGamerscore": 230,
-          "totalGamerscore": 1000,
-          "progressPercentage": 23,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-07-31T11:22:53.6690725Z",
           "visible": true,
           "canHide": true
         },

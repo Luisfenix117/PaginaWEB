@@ -3,6 +3,50 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1795790912",
+        "pfn": "SecretMode.EscapetheBackrooms_w0mtarpevwbkm",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00006b099840",
+        "windowsPhoneProductId": null,
+        "name": "Escape the Backrooms",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.29125.13852861338743544.9de827f6-aba1-46d4-b1da-516d3979d4f0.33ba3dc8-b233-419c-aa25-9e1d2698a025",
+        "mediaItemType": "Application",
+        "modernTitleId": "1795790912",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 5,
+          "totalAchievements": 0,
+          "currentGamerscore": 100,
+          "totalGamerscore": 1000,
+          "progressPercentage": 10,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-08-02T06:11:04.58731Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "1634088961",
         "pfn": "15140GreenManGaming.NoMoreRoomInHell2_82x1bmjckbb2j",
         "bingId": null,
@@ -88,47 +132,6 @@
         "contentBoards": null,
         "xboxLiveTier": "Full",
         "isStreamable": true
-      },
-      {
-        "titleId": "1775314772",
-        "pfn": null,
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
-        "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
-        "type": "Game",
-        "devices": [
-          "Win32"
-        ],
-        "displayImage": "",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-08-01T20:57:16.1469702Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null
       }
     ]
   },

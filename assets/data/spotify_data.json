@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T14:09:51.717Z",
+  "last_updated": "2026-08-03T01:51:05.321Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -8,11 +8,39 @@
   "total": 50,
   "tracks": [
     {
+      "title": "Dark World",
+      "artist": "Nobuo Uematsu",
+      "album": "FINAL FANTASY VI Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273108a0a766eead40065e0723f",
+      "spotify_url": "https://open.spotify.com/track/4OdxnwNJODBrH9x4EhYZPd"
+    },
+    {
+      "title": "Revolt",
+      "artist": "Fear No Empire",
+      "album": "Revolt",
+      "image": "https://i.scdn.co/image/ab67616d0000b273622ddb1c8963ccf9cb594586",
+      "spotify_url": "https://open.spotify.com/track/6OpJmZltXIDFtdAroRWr0g"
+    },
+    {
+      "title": "Skandal",
+      "artist": "Cool Kids Of Death",
+      "album": "2006",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
+      "spotify_url": "https://open.spotify.com/track/1Ox2hzrDzEXsfuOqy48X5g"
+    },
+    {
       "title": "Serious",
       "artist": "Daron Malakian and Scars On Broadway",
       "album": "Scars on Broadway",
       "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
       "spotify_url": "https://open.spotify.com/track/7dbwliCP94bEhVVb7Ap7C9"
+    },
+    {
+      "title": "El Gran Varón",
+      "artist": "Willie Colón",
+      "album": "Top Secrets",
+      "image": "https://i.scdn.co/image/ab67616d0000b27310f6d644b06f0c01aafd6006",
+      "spotify_url": "https://open.spotify.com/track/5XWfwjzFNl2pTB737fx7qr"
     },
     {
       "title": "GoldenEye 007, Surface 1",
@@ -22,6 +50,13 @@
       "spotify_url": "https://open.spotify.com/track/1Ao4emjXQdvZL70ba3D0vz"
     },
     {
+      "title": "Slam Shuffle",
+      "artist": "Nobuo Uematsu",
+      "album": "FINAL FANTASY VI Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273108a0a766eead40065e0723f",
+      "spotify_url": "https://open.spotify.com/track/49JTGIpzpblDjfR1QpNgUA"
+    },
+    {
       "title": "bloody events caused by traumatic experiences",
       "artist": "Bloody Mercury, TraumaClick",
       "album": "bloody events caused by traumatic experiences",
@@ -29,18 +64,18 @@
       "spotify_url": "https://open.spotify.com/track/2b6HnV0ngRk9BjfKcZT6Cp"
     },
     {
-      "title": "未来世紀(秘)クラブ",
-      "artist": "Kyoko",
-      "album": "Under the Silk Tree",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b8b1087bddda47641a565f13",
-      "spotify_url": "https://open.spotify.com/track/54qpkAilZbbLPCHFccwDHV"
+      "title": "Hypernova (VS Picayune Phase 1)",
+      "artist": "milkypossum",
+      "album": "Picayune Dreams, Vol. 2 (Official Video Game Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273558d45f2c005e8810878dc1a",
+      "spotify_url": "https://open.spotify.com/track/0P454oB1X79NALdmZwRS0M"
     },
     {
-      "title": "Dread and the Fugitive Mind",
-      "artist": "Megadeth",
-      "album": "The World Needs a Hero",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739ce39d341464f1b624716601",
-      "spotify_url": "https://open.spotify.com/track/5ThljNlaUX5zNgNWBmanmG"
+      "title": "Interstellar (VS Picayune Phase 3)",
+      "artist": "milkypossum",
+      "album": "Picayune Dreams, Vol. 2 (Official Video Game Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273558d45f2c005e8810878dc1a",
+      "spotify_url": "https://open.spotify.com/track/0zY59Yvw5fRi2xvaEv8l78"
     },
     {
       "title": "NON-USE",
@@ -50,11 +85,25 @@
       "spotify_url": "https://open.spotify.com/track/5uJmXik3PnnbcKG3Y8bNS5"
     },
     {
+      "title": "Dread and the Fugitive Mind",
+      "artist": "Megadeth",
+      "album": "The World Needs a Hero",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739ce39d341464f1b624716601",
+      "spotify_url": "https://open.spotify.com/track/5ThljNlaUX5zNgNWBmanmG"
+    },
+    {
       "title": "Kill Each Other / Live Forever",
       "artist": "Daron Malakian and Scars On Broadway",
       "album": "Scars on Broadway",
       "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
       "spotify_url": "https://open.spotify.com/track/1ttZT4M4ps6UIRALF6xitp"
+    },
+    {
+      "title": "Chemicals",
+      "artist": "Daron Malakian and Scars On Broadway",
+      "album": "Scars on Broadway",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
+      "spotify_url": "https://open.spotify.com/track/5phSzjCOdzwK0qqKkgTUU6"
     },
     {
       "title": "World Long Gone",
@@ -71,18 +120,18 @@
       "spotify_url": "https://open.spotify.com/track/31W4nUR9aHzwVFUmcCHIzf"
     },
     {
+      "title": "Spaliny",
+      "artist": "Cool Kids Of Death",
+      "album": "2006",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
+      "spotify_url": "https://open.spotify.com/track/4i0rifiTQtyLV8T0tq8vjC"
+    },
+    {
       "title": "Funny",
       "artist": "Daron Malakian and Scars On Broadway",
       "album": "Scars on Broadway",
       "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
       "spotify_url": "https://open.spotify.com/track/7tZdEJUnzaZLWCirFFGal1"
-    },
-    {
-      "title": "Public Enemy No. 1",
-      "artist": "Megadeth",
-      "album": "Th1rt3en",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cf7165d2f467e043f32774f4",
-      "spotify_url": "https://open.spotify.com/track/0RZilNVJdWibukEtyp9Ixj"
     },
     {
       "title": "Stoner Hate",
@@ -113,25 +162,18 @@
       "spotify_url": "https://open.spotify.com/track/22rdOl6y85LN5Ql6wrG7so"
     },
     {
-      "title": "Don't Stay",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn"
+      "title": "Last Battle -T260G-",
+      "artist": "伊藤 賢治",
+      "album": "サガ フロンティア オリジナル･サウンドトラック",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732d4bb93d4ec64ac05422bfdf",
+      "spotify_url": "https://open.spotify.com/track/2Ls03gdYhz4WRIQbFR3uUS"
     },
     {
-      "title": "NightmaRe",
-      "artist": "SNoW",
-      "album": "初雪",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736d546e44ca425761487d4cc8",
-      "spotify_url": "https://open.spotify.com/track/4SF2dVmTpz31rA44xBkSKJ"
-    },
-    {
-      "title": "Chemicals",
-      "artist": "Daron Malakian and Scars On Broadway",
-      "album": "Scars on Broadway",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/5phSzjCOdzwK0qqKkgTUU6"
+      "title": "Damned",
+      "artist": "Kevin Sherwood",
+      "album": "Call of Duty: Black Ops – Zombies (Original Game Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734bc9031ffb86dfa3cea86c52",
+      "spotify_url": "https://open.spotify.com/track/300oPI1fs0ZhQhPAX8Gn0y"
     },
     {
       "title": "I'll Get Even - Remastered 2004 / Remixed",
@@ -141,6 +183,13 @@
       "spotify_url": "https://open.spotify.com/track/7CIUiILz5HLnRv8c9NfZnb"
     },
     {
+      "title": "To Nie Zdarza Sie Nam",
+      "artist": "Cool Kids Of Death",
+      "album": "2006",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
+      "spotify_url": "https://open.spotify.com/track/7EYdUDhO5zdnwDPynBHyZv"
+    },
+    {
       "title": "Exploding / Reloading",
       "artist": "Daron Malakian and Scars On Broadway",
       "album": "Scars on Broadway",
@@ -148,18 +197,18 @@
       "spotify_url": "https://open.spotify.com/track/7w2C0PWqaHX64m5VHqWCFi"
     },
     {
+      "title": "You're Not Here",
+      "artist": "Akira Yamaoka",
+      "album": "SILENT HILL3 （Original Soundtrack）",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731e60e84c48546328e36bb85e",
+      "spotify_url": "https://open.spotify.com/track/4ISz5gX8VYzowflY64wsKb"
+    },
+    {
       "title": "SAKASAMA Girl Feeling",
       "artist": "稲葉曇",
       "album": "ANTICYCLONE",
       "image": "https://i.scdn.co/image/ab67616d0000b27325c2a3af824b7dd8cafae97e",
       "spotify_url": "https://open.spotify.com/track/6gcRGre36WBCBhUz32iVlq"
-    },
-    {
-      "title": "Skandal",
-      "artist": "Cool Kids Of Death",
-      "album": "2006",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
-      "spotify_url": "https://open.spotify.com/track/1Ox2hzrDzEXsfuOqy48X5g"
     },
     {
       "title": "Universe",
@@ -176,18 +225,18 @@
       "spotify_url": "https://open.spotify.com/track/6oFgEbMswPU2ELlYBHmKLz"
     },
     {
-      "title": "Puttin' on the Ritz",
-      "artist": "Taco",
-      "album": "After Eight",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f13127cb48c63b2fb0c16521",
-      "spotify_url": "https://open.spotify.com/track/1taGkdO3DQsNRIQrarhVvc"
+      "title": "Absolute Genocide",
+      "artist": "Thy Art Is Murder",
+      "album": "Holy War",
+      "image": "https://i.scdn.co/image/ab67616d0000b27381cea7ba45c1fd582cc2e3e6",
+      "spotify_url": "https://open.spotify.com/track/1JXpJUnwFFibyI6MVC0415"
     },
     {
-      "title": "Lying from You",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1"
+      "title": "未来世紀(秘)クラブ",
+      "artist": "Kyoko",
+      "album": "Under the Silk Tree",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b8b1087bddda47641a565f13",
+      "spotify_url": "https://open.spotify.com/track/54qpkAilZbbLPCHFccwDHV"
     },
     {
       "title": "First Light - 2018 Remaster",
@@ -197,11 +246,11 @@
       "spotify_url": "https://open.spotify.com/track/5Dra6dW1mc7BOh833TDowz"
     },
     {
-      "title": "Absolute Genocide",
-      "artist": "Thy Art Is Murder",
-      "album": "Holy War",
-      "image": "https://i.scdn.co/image/ab67616d0000b27381cea7ba45c1fd582cc2e3e6",
-      "spotify_url": "https://open.spotify.com/track/1JXpJUnwFFibyI6MVC0415"
+      "title": "La Carencia",
+      "artist": "Panteon Rococo",
+      "album": "Compañeros Musicales",
+      "image": "https://i.scdn.co/image/ab67616d0000b273619a1d7617b751cfbde978d6",
+      "spotify_url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
     },
     {
       "title": "BAKENOHANA",
@@ -211,18 +260,11 @@
       "spotify_url": "https://open.spotify.com/track/3Nyt0xoTlordHqvBR1EvzG"
     },
     {
-      "title": "She-Wolf - Remastered 2004 / Remixed",
-      "artist": "Megadeth",
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo"
-    },
-    {
-      "title": "Hypernova (VS Picayune Phase 1)",
-      "artist": "milkypossum",
-      "album": "Picayune Dreams, Vol. 2 (Official Video Game Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273558d45f2c005e8810878dc1a",
-      "spotify_url": "https://open.spotify.com/track/0P454oB1X79NALdmZwRS0M"
+      "title": "Jedz Sol",
+      "artist": "Cool Kids Of Death",
+      "album": "2006",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
+      "spotify_url": "https://open.spotify.com/track/0J4g4x4BDz0J9DFqN69Ik9"
     },
     {
       "title": "Enemy",
@@ -230,20 +272,6 @@
       "album": "Scars on Broadway",
       "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
       "spotify_url": "https://open.spotify.com/track/1AdX0orSkAVctZjiam5AnS"
-    },
-    {
-      "title": "Nobody's Listening",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/1EU3VuKGZOvd1HTkxLPUXK"
-    },
-    {
-      "title": "Ultimas Noticias",
-      "artist": "Viento Y Sol",
-      "album": "Últimas Noticias",
-      "image": "https://i.scdn.co/image/ab67616d0000b273404609fa206b807962c51c39",
-      "spotify_url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
     },
     {
       "title": "Pascal Beats",
@@ -260,18 +288,25 @@
       "spotify_url": "https://open.spotify.com/track/1uD1mm4W2s9gA69hLhsdkH"
     },
     {
-      "title": "La Carencia",
-      "artist": "Panteon Rococo",
-      "album": "Compañeros Musicales",
-      "image": "https://i.scdn.co/image/ab67616d0000b273619a1d7617b751cfbde978d6",
-      "spotify_url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
+      "title": "Peril",
+      "artist": "Martin O'Donnell, Michael Salvatori, Halo",
+      "album": "Halo 2, Vol. 1 (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d85808897b5cd1ef0b31a1e",
+      "spotify_url": "https://open.spotify.com/track/1xemsxRCrSy9F30oXxq3zV"
     },
     {
-      "title": "Starting Over",
-      "artist": "Joelle",
-      "album": "FINAL FANTASY XIII-2 Original Soundtrack",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736011819525a1d54e78836426",
-      "spotify_url": "https://open.spotify.com/track/2v7T65sRJlhytPQSqrnQ6L"
+      "title": "Czlowiek Mucha",
+      "artist": "Cool Kids Of Death",
+      "album": "2006",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
+      "spotify_url": "https://open.spotify.com/track/2rlIBUda4kyKEYb28LyHDu"
+    },
+    {
+      "title": "Don't Stay",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn"
     },
     {
       "title": "カーニバル (feat. メグッポイド)",
@@ -279,27 +314,6 @@
       "album": "Carnival",
       "image": "https://i.scdn.co/image/ab67616d0000b273052c9e9d1a88e91a7d23217c",
       "spotify_url": "https://open.spotify.com/track/3PaVt4uePedYLCpz5cAFJS"
-    },
-    {
-      "title": "Father of Lies",
-      "artist": "Whitechapel",
-      "album": "This Is Exile",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ab5c43c7db1214ce35eae750",
-      "spotify_url": "https://open.spotify.com/track/3a46IbbaZnjThFpwOW9orZ"
-    },
-    {
-      "title": "Breaking the Habit",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/3dxiWIBVJRlqh9xk144rf4"
-    },
-    {
-      "title": "Somewhere I Belong",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx"
     },
     {
       "title": "Slow Down",
@@ -316,18 +330,11 @@
       "spotify_url": "https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi"
     },
     {
-      "title": "Faint",
-      "artist": "Linkin Park",
-      "album": "Meteora",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b",
-      "spotify_url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
-    },
-    {
-      "title": "Hit the Floor",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/4wHktoSf6C0C0fAO8IIWqs"
+      "title": "Little Devil",
+      "artist": "Jack Grillo And Ricardo Hernandez",
+      "album": "Legendary Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb6042f1742e22f898831c4b",
+      "spotify_url": "https://open.spotify.com/track/4mEWnpjodXuZ6XVZDCn02n"
     },
     {
       "title": "物をぱらぱら壊す",
@@ -337,25 +344,18 @@
       "spotify_url": "https://open.spotify.com/track/52F89LJHMbXMdFNDfnm8KK"
     },
     {
-      "title": "El Gran Varón",
-      "artist": "Willie Colón",
-      "album": "Top Secrets",
-      "image": "https://i.scdn.co/image/ab67616d0000b27310f6d644b06f0c01aafd6006",
-      "spotify_url": "https://open.spotify.com/track/5XWfwjzFNl2pTB737fx7qr"
+      "title": "RTRT",
+      "artist": "Mili",
+      "album": "Miracle Milk",
+      "image": "https://i.scdn.co/image/ab67616d0000b273de2f0ff77da06e2bb0fda6d2",
+      "spotify_url": "https://open.spotify.com/track/5PRm5YNFUs6sWwAgoJdJIi"
     },
     {
-      "title": "From the Inside",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ"
-    },
-    {
-      "title": "Jump Up (Goddess of Victory: NIKKE Original Soundtrack)",
-      "artist": "LEVEL NINE, Cosmograph",
-      "album": "Jump Up (Goddess of Victory: NIKKE Original Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273145e9ff20c771b0823b611f6",
-      "spotify_url": "https://open.spotify.com/track/7ol9KmOlxgynglIvgm4phw"
+      "title": "Super Spreader",
+      "artist": "Fear No Empire",
+      "album": "Super Spreader",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4ff2e7047d07852e8631918",
+      "spotify_url": "https://open.spotify.com/track/5sK2qtbvfa5IV60HNnhHNX"
     }
   ]
 }

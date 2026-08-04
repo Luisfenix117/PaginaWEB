@@ -3,6 +3,94 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "2059212977",
+        "pfn": "Fictions.ProjectAibou_qj8vnfjar8dk2",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007abd18b1",
+        "windowsPhoneProductId": null,
+        "name": "Beast of Reincarnation",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.5739.14487652983694462.41488687-e41a-4db5-8dd7-e667f139dd72.4ab5257f-3ebb-4add-bb3a-19073e866429",
+        "mediaItemType": "Application",
+        "modernTitleId": "2059212977",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 46,
+          "currentGamerscore": 0,
+          "totalGamerscore": 1000,
+          "progressPercentage": 0,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-08-03T19:11:55.1731498Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "2082978535",
+        "pfn": "Microsoft.198377053870B_8wekyb3d8bbwe",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007c27bae7",
+        "windowsPhoneProductId": null,
+        "name": "Halo: Campaign Evolved",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.60927.14018605831064250.443dafeb-7b4f-43fb-9452-0232c2810ba0.6c4e60ff-cf46-4b2e-8d42-13bd469e6840",
+        "mediaItemType": "Application",
+        "modernTitleId": "2082978535",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 7,
+          "totalAchievements": 0,
+          "currentGamerscore": 70,
+          "totalGamerscore": 1000,
+          "progressPercentage": 7,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-08-03T15:34:42.635888Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "1775314772",
         "pfn": null,
         "bingId": null,
@@ -42,94 +130,6 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
-      },
-      {
-        "titleId": "1727852104",
-        "pfn": "39EA002F.FF6DF_n746a19ndrrjg",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000066fcee48",
-        "windowsPhoneProductId": null,
-        "name": "FINAL FANTASY VI",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.30999.13963239069939428.625a335f-7e8c-428e-8629-b822af0d8cc8.59166e05-0600-4e50-83f9-7149b9c79079",
-        "mediaItemType": "Application",
-        "modernTitleId": "1727852104",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 18,
-          "totalAchievements": 0,
-          "currentGamerscore": 290,
-          "totalGamerscore": 1000,
-          "progressPercentage": 28,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-08-03T11:19:48.3838742Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1795790912",
-        "pfn": "SecretMode.EscapetheBackrooms_w0mtarpevwbkm",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006b099840",
-        "windowsPhoneProductId": null,
-        "name": "Escape the Backrooms",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.29125.13852861338743544.9de827f6-aba1-46d4-b1da-516d3979d4f0.33ba3dc8-b233-419c-aa25-9e1d2698a025",
-        "mediaItemType": "Application",
-        "modernTitleId": "1795790912",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 5,
-          "totalAchievements": 0,
-          "currentGamerscore": 100,
-          "totalGamerscore": 1000,
-          "progressPercentage": 10,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-08-02T06:11:04.58731Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       }
     ]
   },

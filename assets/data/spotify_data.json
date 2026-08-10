@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T00:57:00.941Z",
+  "last_updated": "2026-08-10T12:43:21.215Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -50,25 +50,11 @@
       "spotify_url": "https://open.spotify.com/track/5XWfwjzFNl2pTB737fx7qr"
     },
     {
-      "title": "GoldenEye 007, Surface 1",
-      "artist": "Arcade Player",
-      "album": "GoldenEye 007, Iconic Themes",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730036f956ce96c4293059d039",
-      "spotify_url": "https://open.spotify.com/track/1Ao4emjXQdvZL70ba3D0vz"
-    },
-    {
       "title": "Battle to the Death",
       "artist": "Nobuo Uematsu",
       "album": "FINAL FANTASY VI Original Soundtrack",
       "image": "https://i.scdn.co/image/ab67616d0000b273108a0a766eead40065e0723f",
       "spotify_url": "https://open.spotify.com/track/4w5VTQid6aHNGnVGTVq7Gy"
-    },
-    {
-      "title": "Spaliny",
-      "artist": "Cool Kids Of Death",
-      "album": "2006",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
-      "spotify_url": "https://open.spotify.com/track/4i0rifiTQtyLV8T0tq8vjC"
     },
     {
       "title": "bloody events caused by traumatic experiences",
@@ -78,17 +64,17 @@
       "spotify_url": "https://open.spotify.com/track/2b6HnV0ngRk9BjfKcZT6Cp"
     },
     {
-      "title": "Serious",
-      "artist": "Daron Malakian and Scars On Broadway",
-      "album": "Scars on Broadway",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/7dbwliCP94bEhVVb7Ap7C9"
+      "title": "Spaliny",
+      "artist": "Cool Kids Of Death",
+      "album": "2006",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
+      "spotify_url": "https://open.spotify.com/track/4i0rifiTQtyLV8T0tq8vjC"
     },
     {
       "title": "Hypernova (VS Picayune Phase 1)",
       "artist": "milkypossum",
       "album": "Picayune Dreams, Vol. 2 (Official Video Game Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273558d45f2c005e8810878dc1a",
+      "image": "https://i.scdn.co/image/ab67616d0000b27337bdf2a50868964391d1e2b3",
       "spotify_url": "https://open.spotify.com/track/0P454oB1X79NALdmZwRS0M"
     },
     {
@@ -102,7 +88,7 @@
       "title": "Interstellar (VS Picayune Phase 3)",
       "artist": "milkypossum",
       "album": "Picayune Dreams, Vol. 2 (Official Video Game Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273558d45f2c005e8810878dc1a",
+      "image": "https://i.scdn.co/image/ab67616d0000b27337bdf2a50868964391d1e2b3",
       "spotify_url": "https://open.spotify.com/track/0zY59Yvw5fRi2xvaEv8l78"
     },
     {
@@ -155,13 +141,6 @@
       "spotify_url": "https://open.spotify.com/track/7CIUiILz5HLnRv8c9NfZnb"
     },
     {
-      "title": "You're Not Here",
-      "artist": "Akira Yamaoka",
-      "album": "SILENT HILL3 （Original Soundtrack）",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731e60e84c48546328e36bb85e",
-      "spotify_url": "https://open.spotify.com/track/4ISz5gX8VYzowflY64wsKb"
-    },
-    {
       "title": "SAKASAMA Girl Feeling",
       "artist": "稲葉曇",
       "album": "ANTICYCLONE",
@@ -169,25 +148,11 @@
       "spotify_url": "https://open.spotify.com/track/6gcRGre36WBCBhUz32iVlq"
     },
     {
-      "title": "An image in the making",
-      "artist": "稲葉曇",
-      "album": "ANTICYCLONE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c2a3af824b7dd8cafae97e",
-      "spotify_url": "https://open.spotify.com/track/6oFgEbMswPU2ELlYBHmKLz"
-    },
-    {
-      "title": "Kill Each Other / Live Forever",
-      "artist": "Daron Malakian and Scars On Broadway",
-      "album": "Scars on Broadway",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/1ttZT4M4ps6UIRALF6xitp"
-    },
-    {
-      "title": "未来世紀(秘)クラブ",
-      "artist": "Kyoko",
-      "album": "Under the Silk Tree",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b8b1087bddda47641a565f13",
-      "spotify_url": "https://open.spotify.com/track/54qpkAilZbbLPCHFccwDHV"
+      "title": "You're Not Here",
+      "artist": "Akira Yamaoka",
+      "album": "SILENT HILL3 （Original Soundtrack）",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731e60e84c48546328e36bb85e",
+      "spotify_url": "https://open.spotify.com/track/4ISz5gX8VYzowflY64wsKb"
     },
     {
       "title": "First Light - 2018 Remaster",
@@ -197,18 +162,11 @@
       "spotify_url": "https://open.spotify.com/track/5Dra6dW1mc7BOh833TDowz"
     },
     {
-      "title": "Chemicals",
-      "artist": "Daron Malakian and Scars On Broadway",
-      "album": "Scars on Broadway",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/5phSzjCOdzwK0qqKkgTUU6"
-    },
-    {
-      "title": "Funny",
-      "artist": "Daron Malakian and Scars On Broadway",
-      "album": "Scars on Broadway",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/7tZdEJUnzaZLWCirFFGal1"
+      "title": "An image in the making",
+      "artist": "稲葉曇",
+      "album": "ANTICYCLONE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c2a3af824b7dd8cafae97e",
+      "spotify_url": "https://open.spotify.com/track/6oFgEbMswPU2ELlYBHmKLz"
     },
     {
       "title": "バンシー・ストライクス",
@@ -216,13 +174,6 @@
       "album": "審問少女 VS 青春の殺人者 EP",
       "image": "https://i.scdn.co/image/ab67616d0000b2736a7945582c9c1a98c81fd4dc",
       "spotify_url": "https://open.spotify.com/track/7vKMlZyWXgsovA9CIDxLSw"
-    },
-    {
-      "title": "World Long Gone",
-      "artist": "Daron Malakian and Scars On Broadway",
-      "album": "Scars on Broadway",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/0MQy5d6TT1OJb4KVdjDLos"
     },
     {
       "title": "La Carencia",
@@ -239,25 +190,18 @@
       "spotify_url": "https://open.spotify.com/track/3Nyt0xoTlordHqvBR1EvzG"
     },
     {
-      "title": "Stoner Hate",
+      "title": "Serious",
       "artist": "Daron Malakian and Scars On Broadway",
       "album": "Scars on Broadway",
       "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/0qpVlGaiQNReSLlTQnpxFO"
+      "spotify_url": "https://open.spotify.com/track/7dbwliCP94bEhVVb7Ap7C9"
     },
     {
-      "title": "Pascal Beats",
-      "artist": "稲葉曇",
-      "album": "ANTICYCLONE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c2a3af824b7dd8cafae97e",
-      "spotify_url": "https://open.spotify.com/track/1phQA6cMXBMEEa3mCH4FuE"
-    },
-    {
-      "title": "Insane",
-      "artist": "Daron Malakian and Scars On Broadway",
-      "album": "Scars on Broadway",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/1rq91I3R5gQDKWofpbBxj2"
+      "title": "GoldenEye 007, Surface 1",
+      "artist": "Arcade Player",
+      "album": "GoldenEye 007, Iconic Themes",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730036f956ce96c4293059d039",
+      "spotify_url": "https://open.spotify.com/track/1Ao4emjXQdvZL70ba3D0vz"
     },
     {
       "title": "From That Day On...",
@@ -272,13 +216,6 @@
       "album": "Halo 2, Vol. 1 (Original Soundtrack)",
       "image": "https://i.scdn.co/image/ab67616d0000b2733d85808897b5cd1ef0b31a1e",
       "spotify_url": "https://open.spotify.com/track/1xemsxRCrSy9F30oXxq3zV"
-    },
-    {
-      "title": "Babylon",
-      "artist": "Daron Malakian and Scars On Broadway",
-      "album": "Scars on Broadway",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/22rdOl6y85LN5Ql6wrG7so"
     },
     {
       "title": "Czlowiek Mucha",
@@ -307,13 +244,6 @@
       "album": "Legendary Original Soundtrack",
       "image": "https://i.scdn.co/image/ab67616d0000b273fb6042f1742e22f898831c4b",
       "spotify_url": "https://open.spotify.com/track/4mEWnpjodXuZ6XVZDCn02n"
-    },
-    {
-      "title": "物をぱらぱら壊す",
-      "artist": "Kikuo",
-      "album": "きくおミク",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738fdb0c09eb333c24eb1bc53b",
-      "spotify_url": "https://open.spotify.com/track/52F89LJHMbXMdFNDfnm8KK"
     },
     {
       "title": "RTRT",
@@ -356,6 +286,76 @@
       "album": "2006",
       "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
       "spotify_url": "https://open.spotify.com/track/7qm0j26jKPKbgxAPjCcFwY"
+    },
+    {
+      "title": "Kula w Plot",
+      "artist": "Cool Kids Of Death",
+      "album": "2006",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
+      "spotify_url": "https://open.spotify.com/track/7vgNTqKnLNy7ut6bVZrTP8"
+    },
+    {
+      "title": "Error",
+      "artist": "Cool Kids Of Death",
+      "album": "2006",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
+      "spotify_url": "https://open.spotify.com/track/7wsWiQwr836BLBCWwXooSa"
+    },
+    {
+      "title": "Megapixel",
+      "artist": "Cool Kids Of Death",
+      "album": "2006",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
+      "spotify_url": "https://open.spotify.com/track/7xq832Osi8A2W3KlJdiImQ"
+    },
+    {
+      "title": "Looping the Rooms",
+      "artist": "rusino, Hatsune Miku",
+      "album": "Looping the Rooms",
+      "image": "https://i.scdn.co/image/ab67616d0000b27344f4d8e99ee8335a3a0873b0",
+      "spotify_url": "https://open.spotify.com/track/3XJCMkEWhd8xwHx6UGGa7C"
+    },
+    {
+      "title": "Kefka's Tower",
+      "artist": "Nobuo Uematsu",
+      "album": "FINAL FANTASY VI Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273108a0a766eead40065e0723f",
+      "spotify_url": "https://open.spotify.com/track/1JUBYmhgVjahw3ED0mx4pY"
+    },
+    {
+      "title": "氷穴",
+      "artist": "ナムコ レジェンダリー, Bandai Namco Game Music",
+      "album": "ドラゴンセイバー オリジナルサウンドトラック",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736ef2a722f5232a836150f2e6",
+      "spotify_url": "https://open.spotify.com/track/2d0XV9KscxS9C3SLBdO5es"
+    },
+    {
+      "title": "電気予報 (feat. 初音ミク)",
+      "artist": "稲葉曇, Hatsune Miku",
+      "album": "電気予報",
+      "image": "https://i.scdn.co/image/ab67616d0000b27399ffbdcc63659f7d234ce019",
+      "spotify_url": "https://open.spotify.com/track/35sayLCpOsy7aCAp8sppG1"
+    },
+    {
+      "title": "Al gato y al ratón",
+      "artist": "Banda Machos",
+      "album": "Sangre de indio",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f37c5d03be6c47e72ea8b373",
+      "spotify_url": "https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE"
+    },
+    {
+      "title": "Esper World",
+      "artist": "Nobuo Uematsu",
+      "album": "FINAL FANTASY VI Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273108a0a766eead40065e0723f",
+      "spotify_url": "https://open.spotify.com/track/4pT0lpkDqFUc05eDYDNpqO"
+    },
+    {
+      "title": "La Suburban Dorada",
+      "artist": "Los Huracanes del Norte",
+      "album": "10 Corridos Pesados",
+      "image": "https://i.scdn.co/image/ab67616d0000b27395d9ff099f94ab46171f103c",
+      "spotify_url": "https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE"
     }
   ]
 }

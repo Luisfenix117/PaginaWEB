@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T14:15:05.403Z",
+  "last_updated": "2026-08-10T00:57:00.941Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -22,6 +22,13 @@
       "spotify_url": "https://open.spotify.com/track/6OpJmZltXIDFtdAroRWr0g"
     },
     {
+      "title": "Slam Shuffle",
+      "artist": "Nobuo Uematsu",
+      "album": "FINAL FANTASY VI Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273108a0a766eead40065e0723f",
+      "spotify_url": "https://open.spotify.com/track/49JTGIpzpblDjfR1QpNgUA"
+    },
+    {
       "title": "Skandal",
       "artist": "Cool Kids Of Death",
       "album": "2006",
@@ -29,11 +36,11 @@
       "spotify_url": "https://open.spotify.com/track/1Ox2hzrDzEXsfuOqy48X5g"
     },
     {
-      "title": "Serious",
-      "artist": "Daron Malakian and Scars On Broadway",
-      "album": "Scars on Broadway",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/7dbwliCP94bEhVVb7Ap7C9"
+      "title": "Dancing Mad",
+      "artist": "Nobuo Uematsu",
+      "album": "FINAL FANTASY VI Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273108a0a766eead40065e0723f",
+      "spotify_url": "https://open.spotify.com/track/6spcQoZfsnzMhhhSW5dm4H"
     },
     {
       "title": "El Gran Varón",
@@ -50,74 +57,11 @@
       "spotify_url": "https://open.spotify.com/track/1Ao4emjXQdvZL70ba3D0vz"
     },
     {
-      "title": "Slam Shuffle",
+      "title": "Battle to the Death",
       "artist": "Nobuo Uematsu",
       "album": "FINAL FANTASY VI Original Soundtrack",
       "image": "https://i.scdn.co/image/ab67616d0000b273108a0a766eead40065e0723f",
-      "spotify_url": "https://open.spotify.com/track/49JTGIpzpblDjfR1QpNgUA"
-    },
-    {
-      "title": "bloody events caused by traumatic experiences",
-      "artist": "Bloody Mercury, TraumaClick",
-      "album": "bloody events caused by traumatic experiences",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343413e19b5d22da15505aa88",
-      "spotify_url": "https://open.spotify.com/track/2b6HnV0ngRk9BjfKcZT6Cp"
-    },
-    {
-      "title": "Hypernova (VS Picayune Phase 1)",
-      "artist": "milkypossum",
-      "album": "Picayune Dreams, Vol. 2 (Official Video Game Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273558d45f2c005e8810878dc1a",
-      "spotify_url": "https://open.spotify.com/track/0P454oB1X79NALdmZwRS0M"
-    },
-    {
-      "title": "Interstellar (VS Picayune Phase 3)",
-      "artist": "milkypossum",
-      "album": "Picayune Dreams, Vol. 2 (Official Video Game Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273558d45f2c005e8810878dc1a",
-      "spotify_url": "https://open.spotify.com/track/0zY59Yvw5fRi2xvaEv8l78"
-    },
-    {
-      "title": "NON-USE",
-      "artist": "稲葉曇",
-      "album": "ANTICYCLONE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c2a3af824b7dd8cafae97e",
-      "spotify_url": "https://open.spotify.com/track/5uJmXik3PnnbcKG3Y8bNS5"
-    },
-    {
-      "title": "Dread and the Fugitive Mind",
-      "artist": "Megadeth",
-      "album": "The World Needs a Hero",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739ce39d341464f1b624716601",
-      "spotify_url": "https://open.spotify.com/track/5ThljNlaUX5zNgNWBmanmG"
-    },
-    {
-      "title": "Kill Each Other / Live Forever",
-      "artist": "Daron Malakian and Scars On Broadway",
-      "album": "Scars on Broadway",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/1ttZT4M4ps6UIRALF6xitp"
-    },
-    {
-      "title": "Chemicals",
-      "artist": "Daron Malakian and Scars On Broadway",
-      "album": "Scars on Broadway",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/5phSzjCOdzwK0qqKkgTUU6"
-    },
-    {
-      "title": "World Long Gone",
-      "artist": "Daron Malakian and Scars On Broadway",
-      "album": "Scars on Broadway",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/0MQy5d6TT1OJb4KVdjDLos"
-    },
-    {
-      "title": "The Right to Go Insane",
-      "artist": "Megadeth",
-      "album": "Endgame",
-      "image": "https://i.scdn.co/image/ab67616d0000b27352103e45f70508a143245023",
-      "spotify_url": "https://open.spotify.com/track/31W4nUR9aHzwVFUmcCHIzf"
+      "spotify_url": "https://open.spotify.com/track/4w5VTQid6aHNGnVGTVq7Gy"
     },
     {
       "title": "Spaliny",
@@ -127,18 +71,53 @@
       "spotify_url": "https://open.spotify.com/track/4i0rifiTQtyLV8T0tq8vjC"
     },
     {
-      "title": "Funny",
-      "artist": "Daron Malakian and Scars On Broadway",
-      "album": "Scars on Broadway",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/7tZdEJUnzaZLWCirFFGal1"
+      "title": "bloody events caused by traumatic experiences",
+      "artist": "Bloody Mercury, TraumaClick",
+      "album": "bloody events caused by traumatic experiences",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343413e19b5d22da15505aa88",
+      "spotify_url": "https://open.spotify.com/track/2b6HnV0ngRk9BjfKcZT6Cp"
     },
     {
-      "title": "Stoner Hate",
+      "title": "Serious",
       "artist": "Daron Malakian and Scars On Broadway",
       "album": "Scars on Broadway",
       "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/0qpVlGaiQNReSLlTQnpxFO"
+      "spotify_url": "https://open.spotify.com/track/7dbwliCP94bEhVVb7Ap7C9"
+    },
+    {
+      "title": "Hypernova (VS Picayune Phase 1)",
+      "artist": "milkypossum",
+      "album": "Picayune Dreams, Vol. 2 (Official Video Game Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273558d45f2c005e8810878dc1a",
+      "spotify_url": "https://open.spotify.com/track/0P454oB1X79NALdmZwRS0M"
+    },
+    {
+      "title": "To Nie Zdarza Sie Nam",
+      "artist": "Cool Kids Of Death",
+      "album": "2006",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
+      "spotify_url": "https://open.spotify.com/track/7EYdUDhO5zdnwDPynBHyZv"
+    },
+    {
+      "title": "Interstellar (VS Picayune Phase 3)",
+      "artist": "milkypossum",
+      "album": "Picayune Dreams, Vol. 2 (Official Video Game Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273558d45f2c005e8810878dc1a",
+      "spotify_url": "https://open.spotify.com/track/0zY59Yvw5fRi2xvaEv8l78"
+    },
+    {
+      "title": "Lying from You",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1"
+    },
+    {
+      "title": "Jedz Sol",
+      "artist": "Cool Kids Of Death",
+      "album": "2006",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
+      "spotify_url": "https://open.spotify.com/track/0J4g4x4BDz0J9DFqN69Ik9"
     },
     {
       "title": "バツ猫",
@@ -146,20 +125,6 @@
       "album": "きくおミク６",
       "image": "https://i.scdn.co/image/ab67616d0000b27365f5e1afb341d92d4decaff4",
       "spotify_url": "https://open.spotify.com/track/0uKr6TVDh0UwUXx7Ud9Po9"
-    },
-    {
-      "title": "Insane",
-      "artist": "Daron Malakian and Scars On Broadway",
-      "album": "Scars on Broadway",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/1rq91I3R5gQDKWofpbBxj2"
-    },
-    {
-      "title": "Babylon",
-      "artist": "Daron Malakian and Scars On Broadway",
-      "album": "Scars on Broadway",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/22rdOl6y85LN5Ql6wrG7so"
     },
     {
       "title": "Last Battle -T260G-",
@@ -176,25 +141,18 @@
       "spotify_url": "https://open.spotify.com/track/300oPI1fs0ZhQhPAX8Gn0y"
     },
     {
+      "title": "Love Love Nightmare",
+      "artist": "Kiichi",
+      "album": "バフォメット",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731cd968007ca0969b7b03b7d7",
+      "spotify_url": "https://open.spotify.com/track/3eB2Bt0pl9LAgoeMr5MW1D"
+    },
+    {
       "title": "I'll Get Even - Remastered 2004 / Remixed",
       "artist": "Megadeth",
       "album": "Cryptic Writings (Expanded Edition - Remastered)",
       "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
       "spotify_url": "https://open.spotify.com/track/7CIUiILz5HLnRv8c9NfZnb"
-    },
-    {
-      "title": "To Nie Zdarza Sie Nam",
-      "artist": "Cool Kids Of Death",
-      "album": "2006",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
-      "spotify_url": "https://open.spotify.com/track/7EYdUDhO5zdnwDPynBHyZv"
-    },
-    {
-      "title": "Exploding / Reloading",
-      "artist": "Daron Malakian and Scars On Broadway",
-      "album": "Scars on Broadway",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/7w2C0PWqaHX64m5VHqWCFi"
     },
     {
       "title": "You're Not Here",
@@ -211,13 +169,6 @@
       "spotify_url": "https://open.spotify.com/track/6gcRGre36WBCBhUz32iVlq"
     },
     {
-      "title": "Universe",
-      "artist": "Daron Malakian and Scars On Broadway",
-      "album": "Scars on Broadway",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/5acyssLFZLOxPfp5YK1E2a"
-    },
-    {
       "title": "An image in the making",
       "artist": "稲葉曇",
       "album": "ANTICYCLONE",
@@ -225,11 +176,11 @@
       "spotify_url": "https://open.spotify.com/track/6oFgEbMswPU2ELlYBHmKLz"
     },
     {
-      "title": "Absolute Genocide",
-      "artist": "Thy Art Is Murder",
-      "album": "Holy War",
-      "image": "https://i.scdn.co/image/ab67616d0000b27381cea7ba45c1fd582cc2e3e6",
-      "spotify_url": "https://open.spotify.com/track/1JXpJUnwFFibyI6MVC0415"
+      "title": "Kill Each Other / Live Forever",
+      "artist": "Daron Malakian and Scars On Broadway",
+      "album": "Scars on Broadway",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
+      "spotify_url": "https://open.spotify.com/track/1ttZT4M4ps6UIRALF6xitp"
     },
     {
       "title": "未来世紀(秘)クラブ",
@@ -246,6 +197,34 @@
       "spotify_url": "https://open.spotify.com/track/5Dra6dW1mc7BOh833TDowz"
     },
     {
+      "title": "Chemicals",
+      "artist": "Daron Malakian and Scars On Broadway",
+      "album": "Scars on Broadway",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
+      "spotify_url": "https://open.spotify.com/track/5phSzjCOdzwK0qqKkgTUU6"
+    },
+    {
+      "title": "Funny",
+      "artist": "Daron Malakian and Scars On Broadway",
+      "album": "Scars on Broadway",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
+      "spotify_url": "https://open.spotify.com/track/7tZdEJUnzaZLWCirFFGal1"
+    },
+    {
+      "title": "バンシー・ストライクス",
+      "artist": "Kiichi",
+      "album": "審問少女 VS 青春の殺人者 EP",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a7945582c9c1a98c81fd4dc",
+      "spotify_url": "https://open.spotify.com/track/7vKMlZyWXgsovA9CIDxLSw"
+    },
+    {
+      "title": "World Long Gone",
+      "artist": "Daron Malakian and Scars On Broadway",
+      "album": "Scars on Broadway",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
+      "spotify_url": "https://open.spotify.com/track/0MQy5d6TT1OJb4KVdjDLos"
+    },
+    {
       "title": "La Carencia",
       "artist": "Panteon Rococo",
       "album": "Compañeros Musicales",
@@ -260,18 +239,11 @@
       "spotify_url": "https://open.spotify.com/track/3Nyt0xoTlordHqvBR1EvzG"
     },
     {
-      "title": "Jedz Sol",
-      "artist": "Cool Kids Of Death",
-      "album": "2006",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
-      "spotify_url": "https://open.spotify.com/track/0J4g4x4BDz0J9DFqN69Ik9"
-    },
-    {
-      "title": "Enemy",
+      "title": "Stoner Hate",
       "artist": "Daron Malakian and Scars On Broadway",
       "album": "Scars on Broadway",
       "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/1AdX0orSkAVctZjiam5AnS"
+      "spotify_url": "https://open.spotify.com/track/0qpVlGaiQNReSLlTQnpxFO"
     },
     {
       "title": "Pascal Beats",
@@ -281,11 +253,18 @@
       "spotify_url": "https://open.spotify.com/track/1phQA6cMXBMEEa3mCH4FuE"
     },
     {
-      "title": "No Manches Mi Vida",
-      "artist": "Molotov",
-      "album": "Apocalypshit",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734bc839b846d5a838ced8217a",
-      "spotify_url": "https://open.spotify.com/track/1uD1mm4W2s9gA69hLhsdkH"
+      "title": "Insane",
+      "artist": "Daron Malakian and Scars On Broadway",
+      "album": "Scars on Broadway",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
+      "spotify_url": "https://open.spotify.com/track/1rq91I3R5gQDKWofpbBxj2"
+    },
+    {
+      "title": "From That Day On...",
+      "artist": "Nobuo Uematsu",
+      "album": "FINAL FANTASY VI Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273108a0a766eead40065e0723f",
+      "spotify_url": "https://open.spotify.com/track/1uhAIHeLABHYEEPf31PelE"
     },
     {
       "title": "Peril",
@@ -295,6 +274,13 @@
       "spotify_url": "https://open.spotify.com/track/1xemsxRCrSy9F30oXxq3zV"
     },
     {
+      "title": "Babylon",
+      "artist": "Daron Malakian and Scars On Broadway",
+      "album": "Scars on Broadway",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
+      "spotify_url": "https://open.spotify.com/track/22rdOl6y85LN5Ql6wrG7so"
+    },
+    {
       "title": "Czlowiek Mucha",
       "artist": "Cool Kids Of Death",
       "album": "2006",
@@ -302,25 +288,11 @@
       "spotify_url": "https://open.spotify.com/track/2rlIBUda4kyKEYb28LyHDu"
     },
     {
-      "title": "Don't Stay",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn"
-    },
-    {
       "title": "カーニバル (feat. メグッポイド)",
       "artist": "otetsu",
       "album": "Carnival",
       "image": "https://i.scdn.co/image/ab67616d0000b273052c9e9d1a88e91a7d23217c",
       "spotify_url": "https://open.spotify.com/track/3PaVt4uePedYLCpz5cAFJS"
-    },
-    {
-      "title": "Slow Down",
-      "artist": "Leon Thomas",
-      "album": "Electric Dusk",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732684ee4b66ba735cfc792736",
-      "spotify_url": "https://open.spotify.com/track/4DfCzjuGvK8xq6g6e1EpoE"
     },
     {
       "title": "アイデンティティ",
@@ -356,6 +328,34 @@
       "album": "Super Spreader",
       "image": "https://i.scdn.co/image/ab67616d0000b273c4ff2e7047d07852e8631918",
       "spotify_url": "https://open.spotify.com/track/5sK2qtbvfa5IV60HNnhHNX"
+    },
+    {
+      "title": "Disko Dla Wrazliwej Mlodziezy",
+      "artist": "Cool Kids Of Death",
+      "album": "2006",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
+      "spotify_url": "https://open.spotify.com/track/6B2HcbxH29uxAdyAHWvtWA"
+    },
+    {
+      "title": "100 Lat",
+      "artist": "Cool Kids Of Death",
+      "album": "2006",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
+      "spotify_url": "https://open.spotify.com/track/6WECUb43kmKIShcrha0Yxh"
+    },
+    {
+      "title": "Jump Up (Goddess of Victory: NIKKE Original Soundtrack)",
+      "artist": "LEVEL NINE, Cosmograph",
+      "album": "Jump Up (Goddess of Victory: NIKKE Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273145e9ff20c771b0823b611f6",
+      "spotify_url": "https://open.spotify.com/track/7ol9KmOlxgynglIvgm4phw"
+    },
+    {
+      "title": "Hej Chlopcze",
+      "artist": "Cool Kids Of Death",
+      "album": "2006",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
+      "spotify_url": "https://open.spotify.com/track/7qm0j26jKPKbgxAPjCcFwY"
     }
   ]
 }

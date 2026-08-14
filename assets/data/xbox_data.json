@@ -3,6 +3,91 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1677004965",
+        "pfn": "39EA002F.FINALFANTASYVII_n746a19ndrrjg",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000063f510a5",
+        "windowsPhoneProductId": null,
+        "name": "FINAL FANTASY VII WINDOWS EDITION",
+        "type": "Game",
+        "devices": [
+          "PC"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.41815.14287834214643411.d0fc8bd6-dcae-44dc-b6e2-d5fdafab2f45.aa784df2-1ac1-4487-88f9-2cdbd8749dfc",
+        "mediaItemType": "Application",
+        "modernTitleId": "1677004965",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 2,
+          "totalAchievements": 0,
+          "currentGamerscore": 30,
+          "totalGamerscore": 1000,
+          "progressPercentage": 3,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-08-14T00:43:36.3274851Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
+        "titleId": "1634088961",
+        "pfn": "15140GreenManGaming.NoMoreRoomInHell2_82x1bmjckbb2j",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000061663801",
+        "windowsPhoneProductId": null,
+        "name": "No More Room in Hell 2",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.33783.14213687083064799.8ae5df44-07c8-4118-88c1-1ddb736d5d1c.f4c2d831-9773-46de-bd95-ef1d691b9050",
+        "mediaItemType": "Application",
+        "modernTitleId": "1634088961",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 6,
+          "totalAchievements": 0,
+          "currentGamerscore": 110,
+          "totalGamerscore": 1000,
+          "progressPercentage": 11,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-08-13T19:27:44.1627054Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
         "titleId": "1775314772",
         "pfn": null,
         "bingId": null,
@@ -42,94 +127,6 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
-      },
-      {
-        "titleId": "1634088961",
-        "pfn": "15140GreenManGaming.NoMoreRoomInHell2_82x1bmjckbb2j",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000061663801",
-        "windowsPhoneProductId": null,
-        "name": "No More Room in Hell 2",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.33783.14213687083064799.8ae5df44-07c8-4118-88c1-1ddb736d5d1c.f4c2d831-9773-46de-bd95-ef1d691b9050",
-        "mediaItemType": "Application",
-        "modernTitleId": "1634088961",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 5,
-          "totalAchievements": 0,
-          "currentGamerscore": 60,
-          "totalGamerscore": 1000,
-          "progressPercentage": 6,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 3
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-08-12T17:52:33.8513302Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
-      },
-      {
-        "titleId": "1960998926",
-        "pfn": "CRITICALREFLEX.BuckshotRoulette_20ymd9g5r2c54",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000074e2780e",
-        "windowsPhoneProductId": null,
-        "name": "Buckshot Roulette",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.52055.14572562994901136.49cdcd3b-62a2-4cc7-977e-e23a6d5ae650.e65dfc51-0867-4bf1-9ffc-cf7b0618a177",
-        "mediaItemType": "Application",
-        "modernTitleId": "1960998926",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 5,
-          "totalAchievements": 0,
-          "currentGamerscore": 300,
-          "totalGamerscore": 1000,
-          "progressPercentage": 30,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-08-09T19:09:50.4530672Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       }
     ]
   },

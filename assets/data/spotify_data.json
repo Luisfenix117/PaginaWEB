@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T12:43:21.215Z",
+  "last_updated": "2026-08-17T00:38:15.460Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -22,18 +22,18 @@
       "spotify_url": "https://open.spotify.com/track/6OpJmZltXIDFtdAroRWr0g"
     },
     {
-      "title": "Slam Shuffle",
-      "artist": "Nobuo Uematsu",
-      "album": "FINAL FANTASY VI Original Soundtrack",
-      "image": "https://i.scdn.co/image/ab67616d0000b273108a0a766eead40065e0723f",
-      "spotify_url": "https://open.spotify.com/track/49JTGIpzpblDjfR1QpNgUA"
-    },
-    {
       "title": "Skandal",
       "artist": "Cool Kids Of Death",
       "album": "2006",
       "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
       "spotify_url": "https://open.spotify.com/track/1Ox2hzrDzEXsfuOqy48X5g"
+    },
+    {
+      "title": "Slam Shuffle",
+      "artist": "Nobuo Uematsu",
+      "album": "FINAL FANTASY VI Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273108a0a766eead40065e0723f",
+      "spotify_url": "https://open.spotify.com/track/49JTGIpzpblDjfR1QpNgUA"
     },
     {
       "title": "Dancing Mad",
@@ -50,20 +50,6 @@
       "spotify_url": "https://open.spotify.com/track/5XWfwjzFNl2pTB737fx7qr"
     },
     {
-      "title": "Battle to the Death",
-      "artist": "Nobuo Uematsu",
-      "album": "FINAL FANTASY VI Original Soundtrack",
-      "image": "https://i.scdn.co/image/ab67616d0000b273108a0a766eead40065e0723f",
-      "spotify_url": "https://open.spotify.com/track/4w5VTQid6aHNGnVGTVq7Gy"
-    },
-    {
-      "title": "bloody events caused by traumatic experiences",
-      "artist": "Bloody Mercury, TraumaClick",
-      "album": "bloody events caused by traumatic experiences",
-      "image": "https://i.scdn.co/image/ab67616d0000b27343413e19b5d22da15505aa88",
-      "spotify_url": "https://open.spotify.com/track/2b6HnV0ngRk9BjfKcZT6Cp"
-    },
-    {
       "title": "Spaliny",
       "artist": "Cool Kids Of Death",
       "album": "2006",
@@ -71,11 +57,11 @@
       "spotify_url": "https://open.spotify.com/track/4i0rifiTQtyLV8T0tq8vjC"
     },
     {
-      "title": "Hypernova (VS Picayune Phase 1)",
-      "artist": "milkypossum",
-      "album": "Picayune Dreams, Vol. 2 (Official Video Game Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27337bdf2a50868964391d1e2b3",
-      "spotify_url": "https://open.spotify.com/track/0P454oB1X79NALdmZwRS0M"
+      "title": "Battle to the Death",
+      "artist": "Nobuo Uematsu",
+      "album": "FINAL FANTASY VI Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273108a0a766eead40065e0723f",
+      "spotify_url": "https://open.spotify.com/track/4w5VTQid6aHNGnVGTVq7Gy"
     },
     {
       "title": "To Nie Zdarza Sie Nam",
@@ -106,11 +92,11 @@
       "spotify_url": "https://open.spotify.com/track/0J4g4x4BDz0J9DFqN69Ik9"
     },
     {
-      "title": "バツ猫",
-      "artist": "Kikuo",
-      "album": "きくおミク６",
-      "image": "https://i.scdn.co/image/ab67616d0000b27365f5e1afb341d92d4decaff4",
-      "spotify_url": "https://open.spotify.com/track/0uKr6TVDh0UwUXx7Ud9Po9"
+      "title": "Love Love Nightmare",
+      "artist": "Kiichi",
+      "album": "バフォメット",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731cd968007ca0969b7b03b7d7",
+      "spotify_url": "https://open.spotify.com/track/3eB2Bt0pl9LAgoeMr5MW1D"
     },
     {
       "title": "Last Battle -T260G-",
@@ -127,11 +113,11 @@
       "spotify_url": "https://open.spotify.com/track/300oPI1fs0ZhQhPAX8Gn0y"
     },
     {
-      "title": "Love Love Nightmare",
-      "artist": "Kiichi",
-      "album": "バフォメット",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731cd968007ca0969b7b03b7d7",
-      "spotify_url": "https://open.spotify.com/track/3eB2Bt0pl9LAgoeMr5MW1D"
+      "title": "Points of Authority",
+      "artist": "Linkin Park",
+      "album": "Hybrid Theory (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
+      "spotify_url": "https://open.spotify.com/track/5egqKwgK5r5rvGD1LrtR7J"
     },
     {
       "title": "I'll Get Even - Remastered 2004 / Remixed",
@@ -155,25 +141,18 @@
       "spotify_url": "https://open.spotify.com/track/4ISz5gX8VYzowflY64wsKb"
     },
     {
-      "title": "First Light - 2018 Remaster",
-      "artist": "Makoto Matsushita",
-      "album": "FIRST LIGHT (+1; 2018 Remaster)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e3999c2a5bcf80a80742d8ea",
-      "spotify_url": "https://open.spotify.com/track/5Dra6dW1mc7BOh833TDowz"
-    },
-    {
-      "title": "An image in the making",
-      "artist": "稲葉曇",
-      "album": "ANTICYCLONE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27325c2a3af824b7dd8cafae97e",
-      "spotify_url": "https://open.spotify.com/track/6oFgEbMswPU2ELlYBHmKLz"
-    },
-    {
       "title": "バンシー・ストライクス",
       "artist": "Kiichi",
       "album": "審問少女 VS 青春の殺人者 EP",
       "image": "https://i.scdn.co/image/ab67616d0000b2736a7945582c9c1a98c81fd4dc",
       "spotify_url": "https://open.spotify.com/track/7vKMlZyWXgsovA9CIDxLSw"
+    },
+    {
+      "title": "White Noise",
+      "artist": "Chester Bennington, Dave Farrell, Joe Hahn, Mike Shinoda, Alec Puro",
+      "album": "MALL (Music From The Motion Picture)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c716ab3bb4c4648e4763da70",
+      "spotify_url": "https://open.spotify.com/track/2XREscvJdz0RQ2voe67rdU"
     },
     {
       "title": "La Carencia",
@@ -183,18 +162,25 @@
       "spotify_url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
     },
     {
-      "title": "BAKENOHANA",
-      "artist": "NAKISO",
-      "album": "BAKENOHANA",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737332deb0d90f697607c1e33e",
-      "spotify_url": "https://open.spotify.com/track/3Nyt0xoTlordHqvBR1EvzG"
+      "title": "An image in the making",
+      "artist": "稲葉曇",
+      "album": "ANTICYCLONE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c2a3af824b7dd8cafae97e",
+      "spotify_url": "https://open.spotify.com/track/6oFgEbMswPU2ELlYBHmKLz"
     },
     {
-      "title": "Serious",
-      "artist": "Daron Malakian and Scars On Broadway",
-      "album": "Scars on Broadway",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
-      "spotify_url": "https://open.spotify.com/track/7dbwliCP94bEhVVb7Ap7C9"
+      "title": "Jump Up (Goddess of Victory: NIKKE Original Soundtrack)",
+      "artist": "LEVEL NINE, Cosmograph",
+      "album": "Jump Up (Goddess of Victory: NIKKE Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273145e9ff20c771b0823b611f6",
+      "spotify_url": "https://open.spotify.com/track/7ol9KmOlxgynglIvgm4phw"
+    },
+    {
+      "title": "Hypernova (VS Picayune Phase 1)",
+      "artist": "milkypossum",
+      "album": "Picayune Dreams, Vol. 2 (Official Video Game Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27337bdf2a50868964391d1e2b3",
+      "spotify_url": "https://open.spotify.com/track/0P454oB1X79NALdmZwRS0M"
     },
     {
       "title": "GoldenEye 007, Surface 1",
@@ -202,6 +188,13 @@
       "album": "GoldenEye 007, Iconic Themes",
       "image": "https://i.scdn.co/image/ab67616d0000b2730036f956ce96c4293059d039",
       "spotify_url": "https://open.spotify.com/track/1Ao4emjXQdvZL70ba3D0vz"
+    },
+    {
+      "title": "Ultimas Noticias",
+      "artist": "Viento Y Sol",
+      "album": "Últimas Noticias",
+      "image": "https://i.scdn.co/image/ab67616d0000b273404609fa206b807962c51c39",
+      "spotify_url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
     },
     {
       "title": "From That Day On...",
@@ -223,6 +216,13 @@
       "album": "2006",
       "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
       "spotify_url": "https://open.spotify.com/track/2rlIBUda4kyKEYb28LyHDu"
+    },
+    {
+      "title": "BAKENOHANA",
+      "artist": "NAKISO",
+      "album": "BAKENOHANA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737332deb0d90f697607c1e33e",
+      "spotify_url": "https://open.spotify.com/track/3Nyt0xoTlordHqvBR1EvzG"
     },
     {
       "title": "カーニバル (feat. メグッポイド)",
@@ -274,13 +274,6 @@
       "spotify_url": "https://open.spotify.com/track/6WECUb43kmKIShcrha0Yxh"
     },
     {
-      "title": "Jump Up (Goddess of Victory: NIKKE Original Soundtrack)",
-      "artist": "LEVEL NINE, Cosmograph",
-      "album": "Jump Up (Goddess of Victory: NIKKE Original Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273145e9ff20c771b0823b611f6",
-      "spotify_url": "https://open.spotify.com/track/7ol9KmOlxgynglIvgm4phw"
-    },
-    {
       "title": "Hej Chlopcze",
       "artist": "Cool Kids Of Death",
       "album": "2006",
@@ -307,13 +300,6 @@
       "album": "2006",
       "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
       "spotify_url": "https://open.spotify.com/track/7xq832Osi8A2W3KlJdiImQ"
-    },
-    {
-      "title": "Looping the Rooms",
-      "artist": "rusino, Hatsune Miku",
-      "album": "Looping the Rooms",
-      "image": "https://i.scdn.co/image/ab67616d0000b27344f4d8e99ee8335a3a0873b0",
-      "spotify_url": "https://open.spotify.com/track/3XJCMkEWhd8xwHx6UGGa7C"
     },
     {
       "title": "Kefka's Tower",
@@ -356,6 +342,20 @@
       "album": "10 Corridos Pesados",
       "image": "https://i.scdn.co/image/ab67616d0000b27395d9ff099f94ab46171f103c",
       "spotify_url": "https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE"
+    },
+    {
+      "title": "Celes's Theme",
+      "artist": "Nobuo Uematsu",
+      "album": "FINAL FANTASY VI Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273108a0a766eead40065e0723f",
+      "spotify_url": "https://open.spotify.com/track/5P3b5SuXhhOcsBALTVrBC0"
+    },
+    {
+      "title": "specialist",
+      "artist": "アトラスサウンドチーム",
+      "album": "ネバー・モア-『ペルソナ4』輪廻転生-",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736f30ea0b56e51e110ef7c45e",
+      "spotify_url": "https://open.spotify.com/track/5UWJxql2C2VNLAusOQRjt1"
     }
   ]
 }

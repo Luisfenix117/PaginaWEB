@@ -3,49 +3,6 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1634088961",
-        "pfn": "15140GreenManGaming.NoMoreRoomInHell2_82x1bmjckbb2j",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000061663801",
-        "windowsPhoneProductId": null,
-        "name": "No More Room in Hell 2",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.33783.14213687083064799.8ae5df44-07c8-4118-88c1-1ddb736d5d1c.f4c2d831-9773-46de-bd95-ef1d691b9050",
-        "mediaItemType": "Application",
-        "modernTitleId": "1634088961",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 13,
-          "totalAchievements": 0,
-          "currentGamerscore": 295,
-          "totalGamerscore": 1000,
-          "progressPercentage": 29,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 3
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-08-16T21:43:25.2509008Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
-      },
-      {
         "titleId": "1775314772",
         "pfn": null,
         "bingId": null,
@@ -76,7 +33,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-08-16T03:18:37.7359549Z",
+          "lastTimePlayed": "2026-08-18T06:43:57.7829363Z",
           "visible": true,
           "canHide": true
         },
@@ -85,6 +42,49 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
+      },
+      {
+        "titleId": "1634088961",
+        "pfn": "15140GreenManGaming.NoMoreRoomInHell2_82x1bmjckbb2j",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000061663801",
+        "windowsPhoneProductId": null,
+        "name": "No More Room in Hell 2",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.33783.14213687083064799.8ae5df44-07c8-4118-88c1-1ddb736d5d1c.f4c2d831-9773-46de-bd95-ef1d691b9050",
+        "mediaItemType": "Application",
+        "modernTitleId": "1634088961",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 16,
+          "totalAchievements": 0,
+          "currentGamerscore": 335,
+          "totalGamerscore": 1000,
+          "progressPercentage": 33,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-08-18T03:43:53.8726344Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
       },
       {
         "titleId": "2019912107",

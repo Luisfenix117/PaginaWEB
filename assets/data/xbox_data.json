@@ -3,50 +3,6 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "2118292977",
-        "pfn": "Embark.arc-raiders_kd876xf6dde24",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
-        "windowsPhoneProductId": null,
-        "name": "ARC Raiders",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
-        "mediaItemType": "Application",
-        "modernTitleId": "2118292977",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 46,
-          "totalAchievements": 0,
-          "currentGamerscore": 950,
-          "totalGamerscore": 1000,
-          "progressPercentage": 95,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-08-22T21:20:31.9088864Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
         "titleId": "1634088961",
         "pfn": "15140GreenManGaming.NoMoreRoomInHell2_82x1bmjckbb2j",
         "bingId": null,
@@ -63,11 +19,11 @@
         "modernTitleId": "1634088961",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 21,
+          "currentAchievements": 27,
           "totalAchievements": 0,
-          "currentGamerscore": 445,
+          "currentGamerscore": 590,
           "totalGamerscore": 1000,
-          "progressPercentage": 44,
+          "progressPercentage": 59,
           "sourceVersion": 2
         },
         "stats": {
@@ -78,7 +34,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-08-22T21:04:03.4658915Z",
+          "lastTimePlayed": "2026-08-23T02:08:50.384536Z",
           "visible": true,
           "canHide": true
         },
@@ -121,7 +77,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-08-21T19:21:51.8754165Z",
+          "lastTimePlayed": "2026-08-23T01:07:27.4161932Z",
           "visible": true,
           "canHide": true
         },
@@ -131,6 +87,50 @@
         "alternateTitleIds": null,
         "contentBoards": null,
         "xboxLiveTier": "Full"
+      },
+      {
+        "titleId": "2118292977",
+        "pfn": "Embark.arc-raiders_kd876xf6dde24",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
+        "windowsPhoneProductId": null,
+        "name": "ARC Raiders",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
+        "mediaItemType": "Application",
+        "modernTitleId": "2118292977",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 46,
+          "totalAchievements": 0,
+          "currentGamerscore": 950,
+          "totalGamerscore": 1000,
+          "progressPercentage": 95,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-08-22T21:20:31.9088864Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       }
     ]
   },

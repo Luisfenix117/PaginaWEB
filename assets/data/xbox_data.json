@@ -3,6 +3,47 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1775314772",
+        "pfn": null,
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "windowsPhoneProductId": null,
+        "name": "Goddess of Victory: Nikke",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-08-27T20:12:12.7215322Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null
+      },
+      {
         "titleId": "1634088961",
         "pfn": "15140GreenManGaming.NoMoreRoomInHell2_82x1bmjckbb2j",
         "bingId": null,
@@ -19,11 +60,11 @@
         "modernTitleId": "1634088961",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 29,
+          "currentAchievements": 30,
           "totalAchievements": 0,
-          "currentGamerscore": 720,
+          "currentGamerscore": 770,
           "totalGamerscore": 1000,
-          "progressPercentage": 72,
+          "progressPercentage": 77,
           "sourceVersion": 2
         },
         "stats": {
@@ -34,7 +75,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-08-27T03:36:14.7531958Z",
+          "lastTimePlayed": "2026-08-27T18:12:39.047603Z",
           "visible": true,
           "canHide": true
         },
@@ -78,49 +119,6 @@
         "images": null,
         "titleHistory": {
           "lastTimePlayed": "2026-08-27T03:22:38.5844936Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1924639289",
-        "pfn": "SONYINTERACTIVEENTERTAINM.ProjectBackgammon_h8th9h1pernc0",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000072b7aa39",
-        "windowsPhoneProductId": null,
-        "name": "HELLDIVERS™ 2",
-        "type": "Game",
-        "devices": [
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.33698.14538027815579556.f358fa02-3caa-4f29-8eca-2536de6dba94.ddeea23a-89e9-4d1e-ba62-642439de90cd",
-        "mediaItemType": "Application",
-        "modernTitleId": "1924639289",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 29,
-          "totalAchievements": 0,
-          "currentGamerscore": 555,
-          "totalGamerscore": 1000,
-          "progressPercentage": 55,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-08-26T18:53:00.1640753Z",
           "visible": true,
           "canHide": true
         },

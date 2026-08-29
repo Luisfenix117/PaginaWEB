@@ -3,6 +3,92 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1144039928",
+        "pfn": "Microsoft.Chelan_8wekyb3d8bbwe",
+        "bingId": "f33009f4-14ff-4821-94e3-c3573c868c2e",
+        "serviceConfigId": "77290100-225e-4768-9373-98164430a9f8",
+        "windowsPhoneProductId": null,
+        "name": "Halo: la colección Jefe Maestro",
+        "type": "Game",
+        "devices": [
+          "PC"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.14011015795942652.ca67db1b-d21e-47e9-bbb4-5ece2ce3f774.c71a2431-5ef1-4c32-92fa-22cca6162053",
+        "mediaItemType": "Application",
+        "modernTitleId": "1144039928",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 285,
+          "totalAchievements": 0,
+          "currentGamerscore": 2740,
+          "totalGamerscore": 7000,
+          "progressPercentage": 39,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-08-28T22:56:07.984976Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1634088961",
+        "pfn": "15140GreenManGaming.NoMoreRoomInHell2_82x1bmjckbb2j",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000061663801",
+        "windowsPhoneProductId": null,
+        "name": "No More Room in Hell 2",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.33783.14213687083064799.8ae5df44-07c8-4118-88c1-1ddb736d5d1c.f4c2d831-9773-46de-bd95-ef1d691b9050",
+        "mediaItemType": "Application",
+        "modernTitleId": "1634088961",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 30,
+          "totalAchievements": 0,
+          "currentGamerscore": 770,
+          "totalGamerscore": 1000,
+          "progressPercentage": 77,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-08-28T22:02:30.9650254Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
         "titleId": "1775314772",
         "pfn": null,
         "bingId": null,
@@ -42,92 +128,6 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
-      },
-      {
-        "titleId": "2118292977",
-        "pfn": "Embark.arc-raiders_kd876xf6dde24",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
-        "windowsPhoneProductId": null,
-        "name": "ARC Raiders",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
-        "mediaItemType": "Application",
-        "modernTitleId": "2118292977",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 46,
-          "totalAchievements": 0,
-          "currentGamerscore": 950,
-          "totalGamerscore": 1000,
-          "progressPercentage": 95,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-08-28T19:00:53.5480458Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1677004965",
-        "pfn": "39EA002F.FINALFANTASYVII_n746a19ndrrjg",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000063f510a5",
-        "windowsPhoneProductId": null,
-        "name": "FINAL FANTASY VII WINDOWS EDITION",
-        "type": "Game",
-        "devices": [
-          "PC"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.41815.14287834214643411.d0fc8bd6-dcae-44dc-b6e2-d5fdafab2f45.aa784df2-1ac1-4487-88f9-2cdbd8749dfc",
-        "mediaItemType": "Application",
-        "modernTitleId": "1677004965",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 2,
-          "totalAchievements": 0,
-          "currentGamerscore": 30,
-          "totalGamerscore": 1000,
-          "progressPercentage": 3,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-08-28T08:26:52.9789403Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
       }
     ]
   },

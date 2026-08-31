@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T02:17:48.782Z",
+  "last_updated": "2026-08-31T18:25:03.501Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -78,13 +78,6 @@
       "spotify_url": "https://open.spotify.com/track/6oFgEbMswPU2ELlYBHmKLz"
     },
     {
-      "title": "Spaliny",
-      "artist": "Cool Kids Of Death",
-      "album": "2006",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
-      "spotify_url": "https://open.spotify.com/track/4i0rifiTQtyLV8T0tq8vjC"
-    },
-    {
       "title": "バンシー・ストライクス",
       "artist": "Kiichi",
       "album": "審問少女 VS 青春の殺人者 EP",
@@ -92,11 +85,25 @@
       "spotify_url": "https://open.spotify.com/track/7vKMlZyWXgsovA9CIDxLSw"
     },
     {
+      "title": "Spaliny",
+      "artist": "Cool Kids Of Death",
+      "album": "2006",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
+      "spotify_url": "https://open.spotify.com/track/4i0rifiTQtyLV8T0tq8vjC"
+    },
+    {
       "title": "Amateur (Rock Me Amadeus)",
       "artist": "Molotov",
       "album": "Con Todo Respeto",
       "image": "https://i.scdn.co/image/ab67616d0000b2735e2b069b2306267d474c43dd",
       "spotify_url": "https://open.spotify.com/track/0cOXDRG1giESc1QVrHpbGE"
+    },
+    {
+      "title": "カゼマチグサ",
+      "artist": "稲葉曇, 鳴花ヒメ",
+      "album": "カゼマチグサ",
+      "image": "https://i.scdn.co/image/ab67616d0000b273290dafaf55ef8be7cf4a604a",
+      "spotify_url": "https://open.spotify.com/track/1Z7v4XhpTusum8jKehKmAw"
     },
     {
       "title": "Almost Honest - Remastered 2004 / Remixed",
@@ -132,13 +139,6 @@
       "album": "Últimas Noticias",
       "image": "https://i.scdn.co/image/ab67616d0000b273404609fa206b807962c51c39",
       "spotify_url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
-    },
-    {
-      "title": "カゼマチグサ",
-      "artist": "稲葉曇, 鳴花ヒメ",
-      "album": "カゼマチグサ",
-      "image": "https://i.scdn.co/image/ab67616d0000b273290dafaf55ef8be7cf4a604a",
-      "spotify_url": "https://open.spotify.com/track/1Z7v4XhpTusum8jKehKmAw"
     },
     {
       "title": "イイコと妖狐",
@@ -232,18 +232,18 @@
       "spotify_url": "https://open.spotify.com/track/0BNSUTEty0vJiXqhsg0eyY"
     },
     {
-      "title": "Figure.09",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/0rPTPahzhGx9LSzI8XX5OM"
-    },
-    {
       "title": "Don't Stay",
       "artist": "Linkin Park",
       "album": "Meteora (Bonus Edition)",
       "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
       "spotify_url": "https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn"
+    },
+    {
+      "title": "Figure.09",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/0rPTPahzhGx9LSzI8XX5OM"
     },
     {
       "title": "Trapeaste conmigo",
@@ -258,6 +258,20 @@
       "album": "Herzeleid (Remastered 2020)",
       "image": "https://i.scdn.co/image/ab67616d0000b273dcdfc25819de77e79c2edf49",
       "spotify_url": "https://open.spotify.com/track/4yUcHLkHUwAPpKN0Uvdo8I"
+    },
+    {
+      "title": "物をぱらぱら壊す",
+      "artist": "Kikuo",
+      "album": "きくおミク",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738fdb0c09eb333c24eb1bc53b",
+      "spotify_url": "https://open.spotify.com/track/52F89LJHMbXMdFNDfnm8KK"
+    },
+    {
+      "title": "She-Wolf - Remastered 2004 / Remixed",
+      "artist": "Megadeth",
+      "album": "Cryptic Writings (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
+      "spotify_url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo"
     },
     {
       "title": "チェリーポップ",
@@ -281,6 +295,13 @@
       "spotify_url": "https://open.spotify.com/track/0J4g4x4BDz0J9DFqN69Ik9"
     },
     {
+      "title": "Contigo Ya Son Dos",
+      "artist": "Los Rehenes",
+      "album": "Ni El Primero Ni El Último",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ab25997d97a42002d8e04822",
+      "spotify_url": "https://open.spotify.com/track/0WFPzcug392h7sumNfIUuZ"
+    },
+    {
       "title": "El Triste",
       "artist": "José José",
       "album": "José José (El Triste)",
@@ -302,6 +323,20 @@
       "spotify_url": "https://open.spotify.com/track/0yb2qOhzja2F2KMuIgcr6L"
     },
     {
+      "title": "Ground Zero Funk",
+      "artist": "TEKKEN Project, Bandai Namco Game Music",
+      "album": "TEKKEN 5 (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732e9726694dc3974b1d231755",
+      "spotify_url": "https://open.spotify.com/track/13MGbKTTX4rnGbLUnLbWxt"
+    },
+    {
+      "title": "Coin locker Baby",
+      "artist": "Maretu",
+      "album": "Coin locker Baby",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b51af1497c3b81bb58698a9",
+      "spotify_url": "https://open.spotify.com/track/2A8g4brfM2DG9tS2BbcrHM"
+    },
+    {
       "title": "Catchy !?",
       "artist": "r-906",
       "album": "diaLOG",
@@ -316,46 +351,11 @@
       "spotify_url": "https://open.spotify.com/track/32fEW4jygJjjnZh2iBa5IR"
     },
     {
-      "title": "One Step Closer",
-      "artist": "Linkin Park",
-      "album": "Hybrid Theory (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
-      "spotify_url": "https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4"
-    },
-    {
-      "title": "The Disintegrators - Remastered 2004 / Remixed",
-      "artist": "Megadeth",
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/3L9BonXjYpw92WL0N9sOQR"
-    },
-    {
-      "title": "Limosnero De Cariño",
-      "artist": "Los Rehenes",
-      "album": "Limosnero De Cariño (Clásicos Digitalizados)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27314b21c4e1da2b687f520e703",
-      "spotify_url": "https://open.spotify.com/track/3byPF6yxPJC3OXmrZTnX4k"
-    },
-    {
-      "title": "愛して 愛して 愛して",
-      "artist": "Kikuo",
-      "album": "きくおミク3",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d1bd3a0ccc3fe60f8d6941ca",
-      "spotify_url": "https://open.spotify.com/track/3ty4jnVIJ9My8ZnXFMc0Fg"
-    },
-    {
-      "title": "物をぱらぱら壊す",
-      "artist": "Kikuo",
-      "album": "きくおミク",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738fdb0c09eb333c24eb1bc53b",
-      "spotify_url": "https://open.spotify.com/track/52F89LJHMbXMdFNDfnm8KK"
-    },
-    {
-      "title": "Crawling",
-      "artist": "Linkin Park",
-      "album": "Hybrid Theory (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
-      "spotify_url": "https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"
+      "title": "サラマンダー",
+      "artist": "DECO*27",
+      "album": "TRANSFORM",
+      "image": "https://i.scdn.co/image/ab67616d0000b27366c601815329070d83df52d8",
+      "spotify_url": "https://open.spotify.com/track/3Ep4hBCxB6437tYco5dSo7"
     }
   ]
 }

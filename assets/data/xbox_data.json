@@ -33,7 +33,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-08-30T04:49:16.5573971Z",
+          "lastTimePlayed": "2026-08-30T19:38:38.4229842Z",
           "visible": true,
           "canHide": true
         },
@@ -44,6 +44,47 @@
         "contentBoards": null,
         "xboxLiveTier": "Full",
         "isStreamable": true
+      },
+      {
+        "titleId": "1775314772",
+        "pfn": null,
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "windowsPhoneProductId": null,
+        "name": "Goddess of Victory: Nikke",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-08-30T19:37:06.7651349Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null
       },
       {
         "titleId": "1634088961",
@@ -62,11 +103,11 @@
         "modernTitleId": "1634088961",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 30,
+          "currentAchievements": 31,
           "totalAchievements": 0,
-          "currentGamerscore": 770,
+          "currentGamerscore": 790,
           "totalGamerscore": 1000,
-          "progressPercentage": 77,
+          "progressPercentage": 79,
           "sourceVersion": 2
         },
         "stats": {
@@ -77,50 +118,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-08-29T21:12:23.5697122Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
-      },
-      {
-        "titleId": "1680003655",
-        "pfn": "38985CA0.MW4Beta_5bkah9njm3e9g",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006422d247",
-        "windowsPhoneProductId": null,
-        "name": "Call of Duty®: Modern Warfare® 4 - Beta",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.21530.14503990753768294.b4091a75-5b14-4150-965e-63c10fea6364.4886decd-74f8-4fd4-a016-72a7af689894",
-        "mediaItemType": "Application",
-        "modernTitleId": "1680003655",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-08-29T20:28:55.686907Z",
+          "lastTimePlayed": "2026-08-30T18:08:53.55745Z",
           "visible": true,
           "canHide": true
         },

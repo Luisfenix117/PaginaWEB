@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T18:25:03.501Z",
+  "last_updated": "2026-09-07T01:50:44.461Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -8,25 +8,11 @@
   "total": 50,
   "tracks": [
     {
-      "title": "Dancing Mad",
-      "artist": "Nobuo Uematsu",
-      "album": "FINAL FANTASY VI Original Soundtrack",
-      "image": "https://i.scdn.co/image/ab67616d0000b273108a0a766eead40065e0723f",
-      "spotify_url": "https://open.spotify.com/track/6spcQoZfsnzMhhhSW5dm4H"
-    },
-    {
       "title": "Skandal",
       "artist": "Cool Kids Of Death",
       "album": "2006",
       "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
       "spotify_url": "https://open.spotify.com/track/1Ox2hzrDzEXsfuOqy48X5g"
-    },
-    {
-      "title": "Lying from You",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1"
     },
     {
       "title": "You're Not Here",
@@ -36,25 +22,11 @@
       "spotify_url": "https://open.spotify.com/track/4ISz5gX8VYzowflY64wsKb"
     },
     {
-      "title": "Slam Shuffle",
-      "artist": "Nobuo Uematsu",
-      "album": "FINAL FANTASY VI Original Soundtrack",
-      "image": "https://i.scdn.co/image/ab67616d0000b273108a0a766eead40065e0723f",
-      "spotify_url": "https://open.spotify.com/track/49JTGIpzpblDjfR1QpNgUA"
-    },
-    {
-      "title": "Battle to the Death",
-      "artist": "Nobuo Uematsu",
-      "album": "FINAL FANTASY VI Original Soundtrack",
-      "image": "https://i.scdn.co/image/ab67616d0000b273108a0a766eead40065e0723f",
-      "spotify_url": "https://open.spotify.com/track/4w5VTQid6aHNGnVGTVq7Gy"
-    },
-    {
-      "title": "Love Love Nightmare",
-      "artist": "Kiichi",
-      "album": "バフォメット",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731cd968007ca0969b7b03b7d7",
-      "spotify_url": "https://open.spotify.com/track/3eB2Bt0pl9LAgoeMr5MW1D"
+      "title": "Points of Authority",
+      "artist": "Linkin Park",
+      "album": "Hybrid Theory (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
+      "spotify_url": "https://open.spotify.com/track/5egqKwgK5r5rvGD1LrtR7J"
     },
     {
       "title": "Breaking the Habit",
@@ -64,11 +36,11 @@
       "spotify_url": "https://open.spotify.com/track/3dxiWIBVJRlqh9xk144rf4"
     },
     {
-      "title": "Points of Authority",
-      "artist": "Linkin Park",
-      "album": "Hybrid Theory (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
-      "spotify_url": "https://open.spotify.com/track/5egqKwgK5r5rvGD1LrtR7J"
+      "title": "Bodies",
+      "artist": "Megadeth",
+      "album": "Endgame",
+      "image": "https://i.scdn.co/image/ab67616d0000b27352103e45f70508a143245023",
+      "spotify_url": "https://open.spotify.com/track/5or8ibMTMYRTTCb4GqKtWd"
     },
     {
       "title": "An image in the making",
@@ -78,18 +50,18 @@
       "spotify_url": "https://open.spotify.com/track/6oFgEbMswPU2ELlYBHmKLz"
     },
     {
-      "title": "バンシー・ストライクス",
-      "artist": "Kiichi",
-      "album": "審問少女 VS 青春の殺人者 EP",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736a7945582c9c1a98c81fd4dc",
-      "spotify_url": "https://open.spotify.com/track/7vKMlZyWXgsovA9CIDxLSw"
+      "title": "I Think I Like It - Radio Edit",
+      "artist": "Fake Blood",
+      "album": "Fix Your Accent",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f426fdecc78361d76dbfc449",
+      "spotify_url": "https://open.spotify.com/track/4fkJYOIQ5ZQ788aOKYQGll"
     },
     {
-      "title": "Spaliny",
-      "artist": "Cool Kids Of Death",
-      "album": "2006",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
-      "spotify_url": "https://open.spotify.com/track/4i0rifiTQtyLV8T0tq8vjC"
+      "title": "Lying from You",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1"
     },
     {
       "title": "Amateur (Rock Me Amadeus)",
@@ -127,6 +99,13 @@
       "spotify_url": "https://open.spotify.com/track/4wHktoSf6C0C0fAO8IIWqs"
     },
     {
+      "title": "From the Inside",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ"
+    },
+    {
       "title": "Nobody's Listening",
       "artist": "Linkin Park",
       "album": "Meteora (Bonus Edition)",
@@ -139,6 +118,13 @@
       "album": "Últimas Noticias",
       "image": "https://i.scdn.co/image/ab67616d0000b273404609fa206b807962c51c39",
       "spotify_url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
+    },
+    {
+      "title": "Peril",
+      "artist": "Martin O'Donnell, Michael Salvatori, Halo",
+      "album": "Halo 2, Vol. 1 (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d85808897b5cd1ef0b31a1e",
+      "spotify_url": "https://open.spotify.com/track/1xemsxRCrSy9F30oXxq3zV"
     },
     {
       "title": "イイコと妖狐",
@@ -155,13 +141,6 @@
       "spotify_url": "https://open.spotify.com/track/2iSjIEdVdyxd34tgxwB8aW"
     },
     {
-      "title": "From the Inside",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ"
-    },
-    {
       "title": "Chciałbym umrzeć jak James Dean",
       "artist": "Partia",
       "album": "Umrzeć jak James Dean",
@@ -169,25 +148,11 @@
       "spotify_url": "https://open.spotify.com/track/2y2WVCyy70LSJAmkyAloun"
     },
     {
-      "title": "Kefka's Tower",
-      "artist": "Nobuo Uematsu",
-      "album": "FINAL FANTASY VI Original Soundtrack",
-      "image": "https://i.scdn.co/image/ab67616d0000b273108a0a766eead40065e0723f",
-      "spotify_url": "https://open.spotify.com/track/1JUBYmhgVjahw3ED0mx4pY"
-    },
-    {
       "title": "ZERO APPETITE",
       "artist": "SCRAPING BI",
       "album": "GULAG (English Version)",
       "image": "https://i.scdn.co/image/ab67616d0000b2738285dcbc11b4c71d9ded1005",
       "spotify_url": "https://open.spotify.com/track/1xn0QeUH6dzXge07ciIePp"
-    },
-    {
-      "title": "氷穴",
-      "artist": "ナムコ レジェンダリー, Bandai Namco Game Music",
-      "album": "ドラゴンセイバー オリジナルサウンドトラック",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736ef2a722f5232a836150f2e6",
-      "spotify_url": "https://open.spotify.com/track/2d0XV9KscxS9C3SLBdO5es"
     },
     {
       "title": "Numb",
@@ -204,39 +169,11 @@
       "spotify_url": "https://open.spotify.com/track/4b2GAM5mE3K0btATdsi0UO"
     },
     {
-      "title": "Esper World",
-      "artist": "Nobuo Uematsu",
-      "album": "FINAL FANTASY VI Original Soundtrack",
-      "image": "https://i.scdn.co/image/ab67616d0000b273108a0a766eead40065e0723f",
-      "spotify_url": "https://open.spotify.com/track/4pT0lpkDqFUc05eDYDNpqO"
-    },
-    {
-      "title": "To Nie Zdarza Sie Nam",
-      "artist": "Cool Kids Of Death",
-      "album": "2006",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
-      "spotify_url": "https://open.spotify.com/track/7EYdUDhO5zdnwDPynBHyZv"
-    },
-    {
       "title": "Hide & Seek",
       "artist": "Sui Uzi",
       "album": "Muse",
       "image": "https://i.scdn.co/image/ab67616d0000b273aab110b04119f085b8ee9701",
       "spotify_url": "https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ"
-    },
-    {
-      "title": "Yoshimitsu Stage - PlayStation2 version",
-      "artist": "TEKKEN Project, Bandai Namco Game Music",
-      "album": "TEKKEN TAG TOURNAMENT (Original Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27364871d0ce4d313f1e344897b",
-      "spotify_url": "https://open.spotify.com/track/0BNSUTEty0vJiXqhsg0eyY"
-    },
-    {
-      "title": "Don't Stay",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn"
     },
     {
       "title": "Figure.09",
@@ -246,11 +183,32 @@
       "spotify_url": "https://open.spotify.com/track/0rPTPahzhGx9LSzI8XX5OM"
     },
     {
+      "title": "Don't Stay",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn"
+    },
+    {
+      "title": "In the Heat of a Disco Night",
+      "artist": "Arabesque",
+      "album": "City Cats",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b75c510cfb22cc33ad968cc6",
+      "spotify_url": "https://open.spotify.com/track/1MJjw68l1Djgbq04BRggsn"
+    },
+    {
       "title": "Trapeaste conmigo",
       "artist": "Grupo Mojado",
       "album": "Exitos de colección Vol. II",
       "image": "https://i.scdn.co/image/ab67616d0000b2733539dab351ac6f8d4864a4d0",
       "spotify_url": "https://open.spotify.com/track/4WtICkpsJ5SjhWoYzDHiBz"
+    },
+    {
+      "title": "Spaliny",
+      "artist": "Cool Kids Of Death",
+      "album": "2006",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
+      "spotify_url": "https://open.spotify.com/track/4i0rifiTQtyLV8T0tq8vjC"
     },
     {
       "title": "Du riechst so gut",
@@ -274,25 +232,11 @@
       "spotify_url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo"
     },
     {
-      "title": "チェリーポップ",
-      "artist": "DECO*27",
-      "album": "チェリーポップ",
-      "image": "https://i.scdn.co/image/ab67616d0000b27331d124b8f070083597512e4c",
-      "spotify_url": "https://open.spotify.com/track/6yID3RbYKiwn2p2LPz0OkK"
-    },
-    {
       "title": "115",
       "artist": "Elena Siegman, Kevin Sherwood",
       "album": "Call of Duty: Black Ops – Zombies (Original Game Soundtrack)",
       "image": "https://i.scdn.co/image/ab67616d0000b2734bc9031ffb86dfa3cea86c52",
       "spotify_url": "https://open.spotify.com/track/725NSbIej5lP3GfhLC7So3"
-    },
-    {
-      "title": "Jedz Sol",
-      "artist": "Cool Kids Of Death",
-      "album": "2006",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c24ae0afc937dca8920f687",
-      "spotify_url": "https://open.spotify.com/track/0J4g4x4BDz0J9DFqN69Ik9"
     },
     {
       "title": "Contigo Ya Son Dos",
@@ -309,25 +253,11 @@
       "spotify_url": "https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD"
     },
     {
-      "title": "No More Sorrow",
-      "artist": "Linkin Park",
-      "album": "Minutes to Midnight",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f208c8aa667a6d4f6feb8bbc",
-      "spotify_url": "https://open.spotify.com/track/0tsFiS73rGU4TqrhLNg4cl"
-    },
-    {
       "title": "Brain Revolution Girl 2016 ver.",
       "artist": "Maretu",
       "album": "Coin locker Baby",
       "image": "https://i.scdn.co/image/ab67616d0000b2730b51af1497c3b81bb58698a9",
       "spotify_url": "https://open.spotify.com/track/0yb2qOhzja2F2KMuIgcr6L"
-    },
-    {
-      "title": "Ground Zero Funk",
-      "artist": "TEKKEN Project, Bandai Namco Game Music",
-      "album": "TEKKEN 5 (Original Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732e9726694dc3974b1d231755",
-      "spotify_url": "https://open.spotify.com/track/13MGbKTTX4rnGbLUnLbWxt"
     },
     {
       "title": "Coin locker Baby",
@@ -356,6 +286,76 @@
       "album": "TRANSFORM",
       "image": "https://i.scdn.co/image/ab67616d0000b27366c601815329070d83df52d8",
       "spotify_url": "https://open.spotify.com/track/3Ep4hBCxB6437tYco5dSo7"
+    },
+    {
+      "title": "One Step Closer",
+      "artist": "Linkin Park",
+      "album": "Hybrid Theory (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
+      "spotify_url": "https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4"
+    },
+    {
+      "title": "The Disintegrators - Remastered 2004 / Remixed",
+      "artist": "Megadeth",
+      "album": "Cryptic Writings (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
+      "spotify_url": "https://open.spotify.com/track/3L9BonXjYpw92WL0N9sOQR"
+    },
+    {
+      "title": "Limosnero De Cariño",
+      "artist": "Los Rehenes",
+      "album": "Limosnero De Cariño (Clásicos Digitalizados)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27314b21c4e1da2b687f520e703",
+      "spotify_url": "https://open.spotify.com/track/3byPF6yxPJC3OXmrZTnX4k"
+    },
+    {
+      "title": "愛して 愛して 愛して",
+      "artist": "Kikuo",
+      "album": "きくおミク3",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d1bd3a0ccc3fe60f8d6941ca",
+      "spotify_url": "https://open.spotify.com/track/3ty4jnVIJ9My8ZnXFMc0Fg"
+    },
+    {
+      "title": "Crawling",
+      "artist": "Linkin Park",
+      "album": "Hybrid Theory (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
+      "spotify_url": "https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr"
+    },
+    {
+      "title": "Supe Perder",
+      "artist": "Los Caminantes",
+      "album": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b0383be647ab4a6edb068a07",
+      "spotify_url": "https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW"
+    },
+    {
+      "title": "I'll Get Even - Remastered 2004 / Remixed",
+      "artist": "Megadeth",
+      "album": "Cryptic Writings (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
+      "spotify_url": "https://open.spotify.com/track/7CIUiILz5HLnRv8c9NfZnb"
+    },
+    {
+      "title": "In My Mind",
+      "artist": "Antiloop",
+      "album": "LP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273115a9f27ae1d9d610e164b64",
+      "spotify_url": "https://open.spotify.com/track/7FhMo3HBdR6CC5PMBVQoN3"
+    },
+    {
+      "title": "Session",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/00VKR5XH5jid1AgUdFz4bs"
+    },
+    {
+      "title": "Set U Free",
+      "artist": "K-System",
+      "album": "Supadupasounds",
+      "image": "https://i.scdn.co/image/ab67616d0000b273182c14785aaed962ad1b1fe6",
+      "spotify_url": "https://open.spotify.com/track/08dYVITflhEoyerzMwUiis"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T01:50:44.461Z",
+  "last_updated": "2026-09-07T16:50:35.638Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -316,6 +316,13 @@
       "spotify_url": "https://open.spotify.com/track/3ty4jnVIJ9My8ZnXFMc0Fg"
     },
     {
+      "title": "Mil Heridas",
+      "artist": "Cuisillos De Arturo Macias",
+      "album": "Mil Heridas",
+      "image": "https://i.scdn.co/image/ab67616d0000b27329dbde15c5fae634b83593b4",
+      "spotify_url": "https://open.spotify.com/track/42QrQFst462IHFXR19hxZQ"
+    },
+    {
       "title": "Crawling",
       "artist": "Linkin Park",
       "album": "Hybrid Theory (Bonus Edition)",
@@ -349,13 +356,6 @@
       "album": "Meteora (Bonus Edition)",
       "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
       "spotify_url": "https://open.spotify.com/track/00VKR5XH5jid1AgUdFz4bs"
-    },
-    {
-      "title": "Set U Free",
-      "artist": "K-System",
-      "album": "Supadupasounds",
-      "image": "https://i.scdn.co/image/ab67616d0000b273182c14785aaed962ad1b1fe6",
-      "spotify_url": "https://open.spotify.com/track/08dYVITflhEoyerzMwUiis"
     }
   ]
 }

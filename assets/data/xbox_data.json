@@ -3,39 +3,39 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1682965190",
-        "pfn": "AnnapurnaInteractive.StrayGame_c96c51jf6wkvm",
+        "titleId": "2102232082",
+        "pfn": "BethesdaSoftworks.Medusa_3275kfvn8vcwc",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-0000645002c6",
+        "serviceConfigId": "00000000-0000-0000-0000-00007d4d8412",
         "windowsPhoneProductId": null,
-        "name": "Stray",
+        "name": "Heretic + Hexen",
         "type": "Game",
         "devices": [
           "PC",
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.13754210357812593.c3c8aa7a-e063-438f-8dc1-02c5d4abfd95.6a73bdaa-9873-40f5-ae0b-fe820161c3d9",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.3496.13568632792554292.fea70ec4-25b5-4014-996b-52c5abc58b71.69e7078c-ec44-4a16-90d2-10509e7f21a6",
         "mediaItemType": "Application",
-        "modernTitleId": "1682965190",
+        "modernTitleId": "2102232082",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 24,
-          "currentGamerscore": 0,
+          "currentAchievements": 13,
+          "totalAchievements": 0,
+          "currentGamerscore": 299,
           "totalGamerscore": 1000,
-          "progressPercentage": 0,
+          "progressPercentage": 29,
           "sourceVersion": 2
         },
         "stats": {
           "sourceVersion": 1
         },
         "gamePass": {
-          "isGamePass": false
+          "isGamePass": true
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-07T07:05:05.3285249Z",
+          "lastTimePlayed": "2026-09-08T03:59:57.8617099Z",
           "visible": true,
           "canHide": true
         },
@@ -78,7 +78,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-07T03:57:43.5213387Z",
+          "lastTimePlayed": "2026-09-08T03:42:06.0429703Z",
           "visible": true,
           "canHide": true
         },
@@ -89,38 +89,39 @@
         "contentBoards": null
       },
       {
-        "titleId": "1634088961",
-        "pfn": "15140GreenManGaming.NoMoreRoomInHell2_82x1bmjckbb2j",
+        "titleId": "1682965190",
+        "pfn": "AnnapurnaInteractive.StrayGame_c96c51jf6wkvm",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000061663801",
+        "serviceConfigId": "00000000-0000-0000-0000-0000645002c6",
         "windowsPhoneProductId": null,
-        "name": "No More Room in Hell 2",
+        "name": "Stray",
         "type": "Game",
         "devices": [
           "PC",
+          "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.33783.14213687083064799.8ae5df44-07c8-4118-88c1-1ddb736d5d1c.f4c2d831-9773-46de-bd95-ef1d691b9050",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.13754210357812593.c3c8aa7a-e063-438f-8dc1-02c5d4abfd95.6a73bdaa-9873-40f5-ae0b-fe820161c3d9",
         "mediaItemType": "Application",
-        "modernTitleId": "1634088961",
+        "modernTitleId": "1682965190",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 32,
-          "totalAchievements": 0,
-          "currentGamerscore": 820,
+          "currentAchievements": 0,
+          "totalAchievements": 24,
+          "currentGamerscore": 0,
           "totalGamerscore": 1000,
-          "progressPercentage": 82,
+          "progressPercentage": 0,
           "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 3
+          "sourceVersion": 1
         },
         "gamePass": {
           "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-06T23:16:32.515644Z",
+          "lastTimePlayed": "2026-09-07T07:05:05.3285249Z",
           "visible": true,
           "canHide": true
         },

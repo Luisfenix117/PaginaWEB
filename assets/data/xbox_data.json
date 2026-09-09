@@ -3,51 +3,6 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "2102232082",
-        "pfn": "BethesdaSoftworks.Medusa_3275kfvn8vcwc",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007d4d8412",
-        "windowsPhoneProductId": null,
-        "name": "Heretic + Hexen",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.3496.13568632792554292.fea70ec4-25b5-4014-996b-52c5abc58b71.69e7078c-ec44-4a16-90d2-10509e7f21a6",
-        "mediaItemType": "Application",
-        "modernTitleId": "2102232082",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 13,
-          "totalAchievements": 0,
-          "currentGamerscore": 299,
-          "totalGamerscore": 1000,
-          "progressPercentage": 29,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-09-08T03:59:57.8617099Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
         "titleId": "1775314772",
         "pfn": null,
         "bingId": null,
@@ -78,7 +33,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-08T03:42:06.0429703Z",
+          "lastTimePlayed": "2026-09-08T18:31:22.9225933Z",
           "visible": true,
           "canHide": true
         },
@@ -89,28 +44,26 @@
         "contentBoards": null
       },
       {
-        "titleId": "1682965190",
-        "pfn": "AnnapurnaInteractive.StrayGame_c96c51jf6wkvm",
+        "titleId": "2011061477",
+        "pfn": "F024294D.PRAGMATA_8fty0by30jkny",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-0000645002c6",
+        "serviceConfigId": "00000000-0000-0000-0000-000077de5ce5",
         "windowsPhoneProductId": null,
-        "name": "Stray",
+        "name": "PRAGMATA",
         "type": "Game",
         "devices": [
-          "PC",
-          "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.13754210357812593.c3c8aa7a-e063-438f-8dc1-02c5d4abfd95.6a73bdaa-9873-40f5-ae0b-fe820161c3d9",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.53931.14635635892691285.c714c5ad-73ed-425e-81b8-f766ad7ad689.8c58d4ca-fb44-4f63-b399-796aa7e21f6f",
         "mediaItemType": "Application",
-        "modernTitleId": "1682965190",
+        "modernTitleId": "2011061477",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 24,
-          "currentGamerscore": 0,
+          "currentAchievements": 28,
+          "totalAchievements": 0,
+          "currentGamerscore": 530,
           "totalGamerscore": 1000,
-          "progressPercentage": 0,
+          "progressPercentage": 53,
           "sourceVersion": 2
         },
         "stats": {
@@ -121,7 +74,50 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-07T07:05:05.3285249Z",
+          "lastTimePlayed": "2026-09-08T17:16:55.5822839Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
+        "titleId": "2068332202",
+        "pfn": "PlayStack.AbioticFactor_3wcqaesafpzfy",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007b483eaa",
+        "windowsPhoneProductId": null,
+        "name": "Abiotic Factor",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.45428.14585229772819603.06d592a4-a006-4f6e-901f-b18fb39d663a.6c31b5d2-3015-46cf-af4d-1acc5a2fc493",
+        "mediaItemType": "Application",
+        "modernTitleId": "2068332202",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 18,
+          "totalAchievements": 0,
+          "currentGamerscore": 240,
+          "totalGamerscore": 1000,
+          "progressPercentage": 24,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-08T17:07:25.471867Z",
           "visible": true,
           "canHide": true
         },

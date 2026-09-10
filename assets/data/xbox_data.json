@@ -3,6 +3,48 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1677004965",
+        "pfn": "39EA002F.FINALFANTASYVII_n746a19ndrrjg",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000063f510a5",
+        "windowsPhoneProductId": null,
+        "name": "FINAL FANTASY VII WINDOWS EDITION",
+        "type": "Game",
+        "devices": [
+          "PC"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.41815.14287834214643411.d0fc8bd6-dcae-44dc-b6e2-d5fdafab2f45.aa784df2-1ac1-4487-88f9-2cdbd8749dfc",
+        "mediaItemType": "Application",
+        "modernTitleId": "1677004965",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 2,
+          "totalAchievements": 0,
+          "currentGamerscore": 30,
+          "totalGamerscore": 1000,
+          "progressPercentage": 3,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-10T01:06:41.9580794Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
         "titleId": "1775314772",
         "pfn": null,
         "bingId": null,
@@ -84,50 +126,6 @@
         "alternateTitleIds": null,
         "contentBoards": null,
         "xboxLiveTier": "Full"
-      },
-      {
-        "titleId": "2068332202",
-        "pfn": "PlayStack.AbioticFactor_3wcqaesafpzfy",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007b483eaa",
-        "windowsPhoneProductId": null,
-        "name": "Abiotic Factor",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.45428.14585229772819603.06d592a4-a006-4f6e-901f-b18fb39d663a.6c31b5d2-3015-46cf-af4d-1acc5a2fc493",
-        "mediaItemType": "Application",
-        "modernTitleId": "2068332202",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 18,
-          "totalAchievements": 0,
-          "currentGamerscore": 240,
-          "totalGamerscore": 1000,
-          "progressPercentage": 24,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-09-08T17:07:25.471867Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       }
     ]
   },

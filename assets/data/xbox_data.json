@@ -3,39 +3,38 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1682965190",
-        "pfn": "AnnapurnaInteractive.StrayGame_c96c51jf6wkvm",
+        "titleId": "1634088961",
+        "pfn": "15140GreenManGaming.NoMoreRoomInHell2_82x1bmjckbb2j",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-0000645002c6",
+        "serviceConfigId": "00000000-0000-0000-0000-000061663801",
         "windowsPhoneProductId": null,
-        "name": "Stray",
+        "name": "No More Room in Hell 2",
         "type": "Game",
         "devices": [
           "PC",
-          "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.13754210357812593.c3c8aa7a-e063-438f-8dc1-02c5d4abfd95.6a73bdaa-9873-40f5-ae0b-fe820161c3d9",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.33783.14213687083064799.8ae5df44-07c8-4118-88c1-1ddb736d5d1c.f4c2d831-9773-46de-bd95-ef1d691b9050",
         "mediaItemType": "Application",
-        "modernTitleId": "1682965190",
+        "modernTitleId": "1634088961",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 24,
-          "currentGamerscore": 0,
+          "currentAchievements": 32,
+          "totalAchievements": 0,
+          "currentGamerscore": 820,
           "totalGamerscore": 1000,
-          "progressPercentage": 0,
+          "progressPercentage": 82,
           "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 1
+          "sourceVersion": 3
         },
         "gamePass": {
           "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-10T07:49:58.8557754Z",
+          "lastTimePlayed": "2026-09-11T14:32:26.7977397Z",
           "visible": true,
           "canHide": true
         },
@@ -78,7 +77,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-10T04:43:01.6742565Z",
+          "lastTimePlayed": "2026-09-11T13:12:47.2079816Z",
           "visible": true,
           "canHide": true
         },
@@ -89,26 +88,28 @@
         "contentBoards": null
       },
       {
-        "titleId": "1677004965",
-        "pfn": "39EA002F.FINALFANTASYVII_n746a19ndrrjg",
+        "titleId": "1745661457",
+        "pfn": "CoffeeStainStudios.Valheim_496a1srhmar9w",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000063f510a5",
+        "serviceConfigId": "00000000-0000-0000-0000-0000680cae11",
         "windowsPhoneProductId": null,
-        "name": "FINAL FANTASY VII WINDOWS EDITION",
+        "name": "Valheim",
         "type": "Game",
         "devices": [
-          "PC"
+          "PC",
+          "XboxOne",
+          "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.41815.14287834214643411.d0fc8bd6-dcae-44dc-b6e2-d5fdafab2f45.aa784df2-1ac1-4487-88f9-2cdbd8749dfc",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.45431.13571084888216164.36662f68-6598-4726-a32e-049a0335e9dc.423ac20f-fb8c-4977-a41e-8f541a29692a",
         "mediaItemType": "Application",
-        "modernTitleId": "1677004965",
+        "modernTitleId": "1745661457",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 2,
+          "currentAchievements": 5,
           "totalAchievements": 0,
-          "currentGamerscore": 30,
+          "currentGamerscore": 75,
           "totalGamerscore": 1000,
-          "progressPercentage": 3,
+          "progressPercentage": 7,
           "sourceVersion": 2
         },
         "stats": {
@@ -119,7 +120,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-10T01:06:41.9580794Z",
+          "lastTimePlayed": "2026-09-11T02:34:02.1306553Z",
           "visible": true,
           "canHide": true
         },
@@ -128,7 +129,8 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full"
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       }
     ]
   },

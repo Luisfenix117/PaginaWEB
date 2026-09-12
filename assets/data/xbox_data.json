@@ -3,6 +3,94 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1623704813",
+        "pfn": "KOJIMAPRODUCTIONSCo.Ltd.DSDC_98qq2hk7wynyj",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000060c7c4ed",
+        "windowsPhoneProductId": null,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.65472.13774354316070254.dbfd815f-aaf8-4e63-b069-bd514601d13b.6bc5a8c9-3865-4600-abf0-1c2e2df6d988",
+        "mediaItemType": "Application",
+        "modernTitleId": "1623704813",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 23,
+          "totalAchievements": 0,
+          "currentGamerscore": 230,
+          "totalGamerscore": 1000,
+          "progressPercentage": 23,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-11T20:20:12.7781393Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "2118292977",
+        "pfn": "Embark.arc-raiders_kd876xf6dde24",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
+        "windowsPhoneProductId": null,
+        "name": "ARC Raiders",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
+        "mediaItemType": "Application",
+        "modernTitleId": "2118292977",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 46,
+          "totalAchievements": 0,
+          "currentGamerscore": 950,
+          "totalGamerscore": 1000,
+          "progressPercentage": 95,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-11T19:23:42.0204743Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "1634088961",
         "pfn": "15140GreenManGaming.NoMoreRoomInHell2_82x1bmjckbb2j",
         "bingId": null,
@@ -34,93 +122,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-11T14:32:26.7977397Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1775314772",
-        "pfn": null,
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
-        "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
-        "type": "Game",
-        "devices": [
-          "Win32"
-        ],
-        "displayImage": "",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-09-11T13:12:47.2079816Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null
-      },
-      {
-        "titleId": "1745661457",
-        "pfn": "CoffeeStainStudios.Valheim_496a1srhmar9w",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-0000680cae11",
-        "windowsPhoneProductId": null,
-        "name": "Valheim",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.45431.13571084888216164.36662f68-6598-4726-a32e-049a0335e9dc.423ac20f-fb8c-4977-a41e-8f541a29692a",
-        "mediaItemType": "Application",
-        "modernTitleId": "1745661457",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 5,
-          "totalAchievements": 0,
-          "currentGamerscore": 75,
-          "totalGamerscore": 1000,
-          "progressPercentage": 7,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-09-11T02:34:02.1306553Z",
+          "lastTimePlayed": "2026-09-11T17:16:32.4557048Z",
           "visible": true,
           "canHide": true
         },

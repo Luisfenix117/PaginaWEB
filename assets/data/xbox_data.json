@@ -33,7 +33,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-12T09:19:47.5078676Z",
+          "lastTimePlayed": "2026-09-13T14:33:46.4965141Z",
           "visible": true,
           "canHide": true
         },
@@ -42,6 +42,48 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
+      },
+      {
+        "titleId": "1677004965",
+        "pfn": "39EA002F.FINALFANTASYVII_n746a19ndrrjg",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000063f510a5",
+        "windowsPhoneProductId": null,
+        "name": "FINAL FANTASY VII WINDOWS EDITION",
+        "type": "Game",
+        "devices": [
+          "PC"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.41815.14287834214643411.d0fc8bd6-dcae-44dc-b6e2-d5fdafab2f45.aa784df2-1ac1-4487-88f9-2cdbd8749dfc",
+        "mediaItemType": "Application",
+        "modernTitleId": "1677004965",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 2,
+          "totalAchievements": 0,
+          "currentGamerscore": 30,
+          "totalGamerscore": 1000,
+          "progressPercentage": 3,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-13T03:46:42.0604381Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
       },
       {
         "titleId": "1623704813",
@@ -76,50 +118,6 @@
         "images": null,
         "titleHistory": {
           "lastTimePlayed": "2026-09-11T20:20:12.7781393Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "2118292977",
-        "pfn": "Embark.arc-raiders_kd876xf6dde24",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
-        "windowsPhoneProductId": null,
-        "name": "ARC Raiders",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
-        "mediaItemType": "Application",
-        "modernTitleId": "2118292977",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 46,
-          "totalAchievements": 0,
-          "currentGamerscore": 950,
-          "totalGamerscore": 1000,
-          "progressPercentage": 95,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-09-11T19:23:42.0204743Z",
           "visible": true,
           "canHide": true
         },

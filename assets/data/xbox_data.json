@@ -3,39 +3,38 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1745661457",
-        "pfn": "CoffeeStainStudios.Valheim_496a1srhmar9w",
+        "titleId": "2118292977",
+        "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-0000680cae11",
+        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
         "windowsPhoneProductId": null,
-        "name": "Valheim",
+        "name": "ARC Raiders",
         "type": "Game",
         "devices": [
           "PC",
-          "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.45431.13571084888216164.36662f68-6598-4726-a32e-049a0335e9dc.423ac20f-fb8c-4977-a41e-8f541a29692a",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
         "mediaItemType": "Application",
-        "modernTitleId": "1745661457",
+        "modernTitleId": "2118292977",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 6,
-          "totalAchievements": 0,
-          "currentGamerscore": 90,
+          "currentAchievements": 46,
+          "totalAchievements": 50,
+          "currentGamerscore": 950,
           "totalGamerscore": 1000,
-          "progressPercentage": 9,
+          "progressPercentage": 95,
           "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 1
+          "sourceVersion": 2
         },
         "gamePass": {
           "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-14T01:59:05.2199389Z",
+          "lastTimePlayed": "2026-09-15T14:09:59.7735654Z",
           "visible": true,
           "canHide": true
         },
@@ -48,37 +47,39 @@
         "isStreamable": true
       },
       {
-        "titleId": "1775314772",
-        "pfn": null,
+        "titleId": "1682965190",
+        "pfn": "AnnapurnaInteractive.StrayGame_c96c51jf6wkvm",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "serviceConfigId": "00000000-0000-0000-0000-0000645002c6",
         "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
+        "name": "Stray",
         "type": "Game",
         "devices": [
-          "Win32"
+          "PC",
+          "XboxOne",
+          "XboxSeries"
         ],
-        "displayImage": "",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.13754210357812593.c3c8aa7a-e063-438f-8dc1-02c5d4abfd95.6a73bdaa-9873-40f5-ae0b-fe820161c3d9",
         "mediaItemType": "Application",
-        "modernTitleId": null,
+        "modernTitleId": "1682965190",
         "isBundle": false,
         "achievement": {
           "currentAchievements": 0,
-          "totalAchievements": 0,
+          "totalAchievements": 24,
           "currentGamerscore": 0,
-          "totalGamerscore": 0,
+          "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 0
+          "sourceVersion": 1
         },
         "gamePass": {
           "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-13T14:33:46.4965141Z",
+          "lastTimePlayed": "2026-09-15T07:23:24.6751278Z",
           "visible": true,
           "canHide": true
         },
@@ -86,7 +87,9 @@
         "detail": null,
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
-        "contentBoards": null
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
         "titleId": "1677004965",
@@ -105,7 +108,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 2,
-          "totalAchievements": 0,
+          "totalAchievements": 31,
           "currentGamerscore": 30,
           "totalGamerscore": 1000,
           "progressPercentage": 3,
@@ -119,7 +122,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-13T03:46:42.0604381Z",
+          "lastTimePlayed": "2026-09-15T06:29:32.015259Z",
           "visible": true,
           "canHide": true
         },

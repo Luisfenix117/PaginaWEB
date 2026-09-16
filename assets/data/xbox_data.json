@@ -3,6 +3,94 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "2068332202",
+        "pfn": "PlayStack.AbioticFactor_3wcqaesafpzfy",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007b483eaa",
+        "windowsPhoneProductId": null,
+        "name": "Abiotic Factor",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.45428.14585229772819603.06d592a4-a006-4f6e-901f-b18fb39d663a.6c31b5d2-3015-46cf-af4d-1acc5a2fc493",
+        "mediaItemType": "Application",
+        "modernTitleId": "2068332202",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 19,
+          "totalAchievements": 53,
+          "currentGamerscore": 260,
+          "totalGamerscore": 1000,
+          "progressPercentage": 26,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-16T07:13:39.1711449Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1623704813",
+        "pfn": "KOJIMAPRODUCTIONSCo.Ltd.DSDC_98qq2hk7wynyj",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000060c7c4ed",
+        "windowsPhoneProductId": null,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.65472.13774354316070254.dbfd815f-aaf8-4e63-b069-bd514601d13b.6bc5a8c9-3865-4600-abf0-1c2e2df6d988",
+        "mediaItemType": "Application",
+        "modernTitleId": "1623704813",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 25,
+          "totalAchievements": 63,
+          "currentGamerscore": 250,
+          "totalGamerscore": 1000,
+          "progressPercentage": 25,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-16T02:47:45.8418841Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "2118292977",
         "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
@@ -45,93 +133,6 @@
         "contentBoards": null,
         "xboxLiveTier": "Full",
         "isStreamable": true
-      },
-      {
-        "titleId": "1682965190",
-        "pfn": "AnnapurnaInteractive.StrayGame_c96c51jf6wkvm",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-0000645002c6",
-        "windowsPhoneProductId": null,
-        "name": "Stray",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.13754210357812593.c3c8aa7a-e063-438f-8dc1-02c5d4abfd95.6a73bdaa-9873-40f5-ae0b-fe820161c3d9",
-        "mediaItemType": "Application",
-        "modernTitleId": "1682965190",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 24,
-          "currentGamerscore": 0,
-          "totalGamerscore": 1000,
-          "progressPercentage": 0,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-09-15T07:23:24.6751278Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1677004965",
-        "pfn": "39EA002F.FINALFANTASYVII_n746a19ndrrjg",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000063f510a5",
-        "windowsPhoneProductId": null,
-        "name": "FINAL FANTASY VII WINDOWS EDITION",
-        "type": "Game",
-        "devices": [
-          "PC"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.41815.14287834214643411.d0fc8bd6-dcae-44dc-b6e2-d5fdafab2f45.aa784df2-1ac1-4487-88f9-2cdbd8749dfc",
-        "mediaItemType": "Application",
-        "modernTitleId": "1677004965",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 2,
-          "totalAchievements": 31,
-          "currentGamerscore": 30,
-          "totalGamerscore": 1000,
-          "progressPercentage": 3,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-09-15T06:29:32.015259Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
       }
     ]
   },

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T02:19:14.837Z",
+  "last_updated": "2026-09-21T17:24:16.490Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -55,6 +55,13 @@
       "album": "Hypnotize",
       "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
       "spotify_url": "https://open.spotify.com/track/0dxPHMZTI8TWMYRucsAFNd"
+    },
+    {
+      "title": "Hypernova (VS Picayune Phase 1)",
+      "artist": "milkypossum",
+      "album": "Picayune Dreams, Vol. 2 (Official Video Game Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273021a9bed6041944d982a1f42",
+      "spotify_url": "https://open.spotify.com/track/0P454oB1X79NALdmZwRS0M"
     },
     {
       "title": "カゼマチグサ",
@@ -349,13 +356,6 @@
       "album": "LP",
       "image": "https://i.scdn.co/image/ab67616d0000b273115a9f27ae1d9d610e164b64",
       "spotify_url": "https://open.spotify.com/track/7FhMo3HBdR6CC5PMBVQoN3"
-    },
-    {
-      "title": "Bullprick - Remastered 2004 / Remixed",
-      "artist": "Megadeth",
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/7cUtSE6sh8hxSSC18K22tB"
     }
   ]
 }

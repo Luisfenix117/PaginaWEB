@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T17:14:00.116Z",
+  "last_updated": "2026-09-21T02:19:14.837Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -15,13 +15,6 @@
       "spotify_url": "https://open.spotify.com/track/6oFgEbMswPU2ELlYBHmKLz"
     },
     {
-      "title": "You're Not Here",
-      "artist": "Akira Yamaoka",
-      "album": "SILENT HILL3 （Original Soundtrack）",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731e60e84c48546328e36bb85e",
-      "spotify_url": "https://open.spotify.com/track/4ISz5gX8VYzowflY64wsKb"
-    },
-    {
       "title": "Peril",
       "artist": "Martin O'Donnell, Michael Salvatori, Halo",
       "album": "Halo 2, Vol. 1 (Original Soundtrack)",
@@ -29,39 +22,11 @@
       "spotify_url": "https://open.spotify.com/track/1xemsxRCrSy9F30oXxq3zV"
     },
     {
-      "title": "Breaking the Habit",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/3dxiWIBVJRlqh9xk144rf4"
-    },
-    {
-      "title": "Almost Honest - Remastered 2004 / Remixed",
-      "artist": "Megadeth",
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/2uw3kbepHeeeLTykdUeOtI"
-    },
-    {
-      "title": "From the Inside",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ"
-    },
-    {
-      "title": "Nobody's Listening",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/1EU3VuKGZOvd1HTkxLPUXK"
-    },
-    {
-      "title": "Lying from You",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1"
+      "title": "Truth and Reconciliation Suite",
+      "artist": "Halo, Martin O'Donnell, Michael Salvatori",
+      "album": "Halo: Combat Evolved (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731531d525ee57b2f6b44d9260",
+      "spotify_url": "https://open.spotify.com/track/1bD8U8qf7Y8PtnrLqlTU0R"
     },
     {
       "title": "Bodies",
@@ -71,18 +36,11 @@
       "spotify_url": "https://open.spotify.com/track/5or8ibMTMYRTTCb4GqKtWd"
     },
     {
-      "title": "Figure.09",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/0rPTPahzhGx9LSzI8XX5OM"
-    },
-    {
-      "title": "Don't Stay",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn"
+      "title": "You're Not Here",
+      "artist": "Akira Yamaoka",
+      "album": "SILENT HILL3 （Original Soundtrack）",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731e60e84c48546328e36bb85e",
+      "spotify_url": "https://open.spotify.com/track/4ISz5gX8VYzowflY64wsKb"
     },
     {
       "title": "She-Wolf - Remastered 2004 / Remixed",
@@ -92,11 +50,179 @@
       "spotify_url": "https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo"
     },
     {
-      "title": "I'll Get Even - Remastered 2004 / Remixed",
+      "title": "Attack",
+      "artist": "System Of A Down",
+      "album": "Hypnotize",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
+      "spotify_url": "https://open.spotify.com/track/0dxPHMZTI8TWMYRucsAFNd"
+    },
+    {
+      "title": "カゼマチグサ",
+      "artist": "稲葉曇, 鳴花ヒメ",
+      "album": "カゼマチグサ",
+      "image": "https://i.scdn.co/image/ab67616d0000b273290dafaf55ef8be7cf4a604a",
+      "spotify_url": "https://open.spotify.com/track/1Z7v4XhpTusum8jKehKmAw"
+    },
+    {
+      "title": "Little Devil",
+      "artist": "Jack Grillo And Ricardo Hernandez",
+      "album": "Legendary Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb6042f1742e22f898831c4b",
+      "spotify_url": "https://open.spotify.com/track/4mEWnpjodXuZ6XVZDCn02n"
+    },
+    {
+      "title": "Yoshimitsu Stage - PlayStation2 version",
+      "artist": "TEKKEN Project, Bandai Namco Game Music",
+      "album": "TEKKEN TAG TOURNAMENT (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27364871d0ce4d313f1e344897b",
+      "spotify_url": "https://open.spotify.com/track/0BNSUTEty0vJiXqhsg0eyY"
+    },
+    {
+      "title": "This Is the Hour",
+      "artist": "Halo, Martin O'Donnell, Michael Salvatori",
+      "album": "Halo 3 (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738020c2a0541047cca540170c",
+      "spotify_url": "https://open.spotify.com/track/0XFv7ftYcbjjfNA7vGrOyq"
+    },
+    {
+      "title": "A Walk In the Woods",
+      "artist": "Halo, Martin O'Donnell, Michael Salvatori",
+      "album": "Halo: Combat Evolved (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731531d525ee57b2f6b44d9260",
+      "spotify_url": "https://open.spotify.com/track/10ZgUdYwSX4MNhgDPTIIyN"
+    },
+    {
+      "title": "Loop Spinner",
+      "artist": "稲葉曇",
+      "album": "ANTICYCLONE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312d6eaddbbff6de7dd946fe7",
+      "spotify_url": "https://open.spotify.com/track/1trTep0PJGr1hq9qQbsRqI"
+    },
+    {
+      "title": "Protoss Ready Room",
+      "artist": "Jason Hayes, StarCraft, Blizzard Entertainment",
+      "album": "StarCraft Original Soundtrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ecfbe57592649dfad8c709b0",
+      "spotify_url": "https://open.spotify.com/track/2bCOrQ2WOOECRrueugs5AR"
+    },
+    {
+      "title": "天泣",
+      "artist": "稲葉曇",
+      "album": "ウェザーステーション",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a2e19e90170fd6cece34d2d9",
+      "spotify_url": "https://open.spotify.com/track/3xvBLua7hjT8xT5pDd3OLO"
+    },
+    {
+      "title": "Masquerade-Suite: Waltz",
+      "artist": "Aram Khachaturian, St. Petersburg State Symphony Orchestra, Andre Anichanov",
+      "album": "Khachaturian, A.I.: Spartacus, Suite No. 4 / Masquerade / Circus",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cf66fda048199c723ac0388e",
+      "spotify_url": "https://open.spotify.com/track/5WZe8HcgthPo4zUHB1Z5ZC"
+    },
+    {
+      "title": "Almost Honest - Remastered 2004 / Remixed",
       "artist": "Megadeth",
       "album": "Cryptic Writings (Expanded Edition - Remastered)",
       "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/7CIUiILz5HLnRv8c9NfZnb"
+      "spotify_url": "https://open.spotify.com/track/2uw3kbepHeeeLTykdUeOtI"
+    },
+    {
+      "title": "Limosnero De Cariño",
+      "artist": "Los Rehenes",
+      "album": "Limosnero De Cariño (Clásicos Digitalizados)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27314b21c4e1da2b687f520e703",
+      "spotify_url": "https://open.spotify.com/track/3byPF6yxPJC3OXmrZTnX4k"
+    },
+    {
+      "title": "I Think I Like It - Radio Edit",
+      "artist": "Fake Blood",
+      "album": "Fix Your Accent",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f426fdecc78361d76dbfc449",
+      "spotify_url": "https://open.spotify.com/track/4fkJYOIQ5ZQ788aOKYQGll"
+    },
+    {
+      "title": "ZERO APPETITE",
+      "artist": "SCRAPING BI",
+      "album": "GULAG (English Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738285dcbc11b4c71d9ded1005",
+      "spotify_url": "https://open.spotify.com/track/1xn0QeUH6dzXge07ciIePp"
+    },
+    {
+      "title": "Chciałbym umrzeć jak James Dean",
+      "artist": "Partia",
+      "album": "Umrzeć jak James Dean",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c5118595f9335d9f920e8bf8",
+      "spotify_url": "https://open.spotify.com/track/2y2WVCyy70LSJAmkyAloun"
+    },
+    {
+      "title": "Finish the Fight",
+      "artist": "Halo, Martin O'Donnell, Michael Salvatori",
+      "album": "Halo 3 (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738020c2a0541047cca540170c",
+      "spotify_url": "https://open.spotify.com/track/3JgyLoPdA0TLXsiDbx9jiH"
+    },
+    {
+      "title": "Dawn Patrol",
+      "artist": "Megadeth",
+      "album": "Rust In Peace",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342be808911785ceb13140edc",
+      "spotify_url": "https://open.spotify.com/track/4b2GAM5mE3K0btATdsi0UO"
+    },
+    {
+      "title": "The Instinct",
+      "artist": "Arcade Player",
+      "album": "Killer Instinct: The Themes",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734e1504aded780d42f987b1ab",
+      "spotify_url": "https://open.spotify.com/track/7lKbgu5ZkxBCNfnzeQJKX6"
+    },
+    {
+      "title": "Stealing Society",
+      "artist": "System Of A Down",
+      "album": "Hypnotize",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
+      "spotify_url": "https://open.spotify.com/track/0ELxqqeeisigIJhN6dsNHI"
+    },
+    {
+      "title": "Figure.09",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/0rPTPahzhGx9LSzI8XX5OM"
+    },
+    {
+      "title": "Interstellar (VS Picayune Phase 3)",
+      "artist": "milkypossum",
+      "album": "Picayune Dreams, Vol. 2 (Official Video Game Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273021a9bed6041944d982a1f42",
+      "spotify_url": "https://open.spotify.com/track/0zY59Yvw5fRi2xvaEv8l78"
+    },
+    {
+      "title": "Don't Stay",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn"
+    },
+    {
+      "title": "Beat It",
+      "artist": "Michael Jackson",
+      "album": "Thriller",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+      "spotify_url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
+    },
+    {
+      "title": "Du riechst so gut",
+      "artist": "Rammstein",
+      "album": "Herzeleid (Remastered 2020)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dcdfc25819de77e79c2edf49",
+      "spotify_url": "https://open.spotify.com/track/4yUcHLkHUwAPpKN0Uvdo8I"
+    },
+    {
+      "title": "Tentative",
+      "artist": "System Of A Down",
+      "album": "Hypnotize",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
+      "spotify_url": "https://open.spotify.com/track/11WZXXvGyrtUBp15TtojxA"
     },
     {
       "title": "The Disintegrators - Remastered 2004 / Remixed",
@@ -106,18 +232,32 @@
       "spotify_url": "https://open.spotify.com/track/3L9BonXjYpw92WL0N9sOQR"
     },
     {
-      "title": "Amateur (Rock Me Amadeus)",
-      "artist": "Molotov",
-      "album": "Con Todo Respeto",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735e2b069b2306267d474c43dd",
-      "spotify_url": "https://open.spotify.com/track/0cOXDRG1giESc1QVrHpbGE"
+      "title": "Vortex - Remastered 2004 / Remixed",
+      "artist": "Megadeth",
+      "album": "Cryptic Writings (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
+      "spotify_url": "https://open.spotify.com/track/41FcDZslc0stEDriURJKaK"
     },
     {
-      "title": "カゼマチグサ",
-      "artist": "稲葉曇, 鳴花ヒメ",
-      "album": "カゼマチグサ",
-      "image": "https://i.scdn.co/image/ab67616d0000b273290dafaf55ef8be7cf4a604a",
-      "spotify_url": "https://open.spotify.com/track/1Z7v4XhpTusum8jKehKmAw"
+      "title": "物をぱらぱら壊す",
+      "artist": "Kikuo",
+      "album": "きくおミク",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738fdb0c09eb333c24eb1bc53b",
+      "spotify_url": "https://open.spotify.com/track/52F89LJHMbXMdFNDfnm8KK"
+    },
+    {
+      "title": "Trust - Remastered 2004 / Remixed",
+      "artist": "Megadeth",
+      "album": "Cryptic Writings (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
+      "spotify_url": "https://open.spotify.com/track/5emb8RDOZtpXlw6D0eEQbz"
+    },
+    {
+      "title": "In the Heat of a Disco Night",
+      "artist": "Arabesque",
+      "album": "City Cats",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b75c510cfb22cc33ad968cc6",
+      "spotify_url": "https://open.spotify.com/track/1MJjw68l1Djgbq04BRggsn"
     },
     {
       "title": "Mastermind - Remastered 2004 / Remixed",
@@ -148,13 +288,6 @@
       "spotify_url": "https://open.spotify.com/track/3b1nPEPh9OGSngRUciEv6P"
     },
     {
-      "title": "Vortex - Remastered 2004 / Remixed",
-      "artist": "Megadeth",
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/41FcDZslc0stEDriURJKaK"
-    },
-    {
       "title": "Faint",
       "artist": "Linkin Park",
       "album": "Meteora",
@@ -162,11 +295,18 @@
       "spotify_url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
     },
     {
-      "title": "I Think I Like It - Radio Edit",
-      "artist": "Fake Blood",
-      "album": "Fix Your Accent",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f426fdecc78361d76dbfc449",
-      "spotify_url": "https://open.spotify.com/track/4fkJYOIQ5ZQ788aOKYQGll"
+      "title": "Vortex - Alternate Version",
+      "artist": "Megadeth",
+      "album": "Cryptic Writings (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
+      "spotify_url": "https://open.spotify.com/track/4zUQPLCqppBRayyhGT4IOy"
+    },
+    {
+      "title": "Smooth Criminal - 2012 Remaster",
+      "artist": "Michael Jackson",
+      "album": "Bad (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
+      "spotify_url": "https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j"
     },
     {
       "title": "Use The Man - Remastered 2004 / Remixed",
@@ -190,172 +330,32 @@
       "spotify_url": "https://open.spotify.com/track/5lAXI4GRCeBJYAX821Q329"
     },
     {
+      "title": "From the Inside",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ"
+    },
+    {
+      "title": "I Ran (So Far Away)",
+      "artist": "A Flock Of Seagulls",
+      "album": "A Flock of Seagulls",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732d6da1ee1b8d8fe70e1c43fe",
+      "spotify_url": "https://open.spotify.com/track/6vKVuBeExHlEh9cZ8Ppk8t"
+    },
+    {
+      "title": "In My Mind",
+      "artist": "Antiloop",
+      "album": "LP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273115a9f27ae1d9d610e164b64",
+      "spotify_url": "https://open.spotify.com/track/7FhMo3HBdR6CC5PMBVQoN3"
+    },
+    {
       "title": "Bullprick - Remastered 2004 / Remixed",
       "artist": "Megadeth",
       "album": "Cryptic Writings (Expanded Edition - Remastered)",
       "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
       "spotify_url": "https://open.spotify.com/track/7cUtSE6sh8hxSSC18K22tB"
-    },
-    {
-      "title": "Session",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/00VKR5XH5jid1AgUdFz4bs"
-    },
-    {
-      "title": "A Walk In the Woods",
-      "artist": "Halo, Martin O'Donnell, Michael Salvatori",
-      "album": "Halo: Combat Evolved (Original Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731531d525ee57b2f6b44d9260",
-      "spotify_url": "https://open.spotify.com/track/10ZgUdYwSX4MNhgDPTIIyN"
-    },
-    {
-      "title": "Loop Spinner",
-      "artist": "稲葉曇",
-      "album": "ANTICYCLONE",
-      "image": "https://i.scdn.co/image/ab67616d0000b27312d6eaddbbff6de7dd946fe7",
-      "spotify_url": "https://open.spotify.com/track/1trTep0PJGr1hq9qQbsRqI"
-    },
-    {
-      "title": "Protoss Ready Room",
-      "artist": "Jason Hayes, StarCraft, Blizzard Entertainment",
-      "album": "StarCraft Original Soundtrack",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ecfbe57592649dfad8c709b0",
-      "spotify_url": "https://open.spotify.com/track/2bCOrQ2WOOECRrueugs5AR"
-    },
-    {
-      "title": "In the House In a Heartbeat - Remix",
-      "artist": "Metro Exodus",
-      "album": "In the House In a Heartbeat (Remix)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273038817e3fc78884c98afd7d8",
-      "spotify_url": "https://open.spotify.com/track/2iSjIEdVdyxd34tgxwB8aW"
-    },
-    {
-      "title": "Numb",
-      "artist": "Linkin Park",
-      "album": "Meteora",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b",
-      "spotify_url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
-    },
-    {
-      "title": "Easier to Run",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/32fEW4jygJjjnZh2iBa5IR"
-    },
-    {
-      "title": "Somewhere I Belong",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx"
-    },
-    {
-      "title": "Little Devil",
-      "artist": "Jack Grillo And Ricardo Hernandez",
-      "album": "Legendary Original Soundtrack",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fb6042f1742e22f898831c4b",
-      "spotify_url": "https://open.spotify.com/track/4mEWnpjodXuZ6XVZDCn02n"
-    },
-    {
-      "title": "Hit the Floor",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/4wHktoSf6C0C0fAO8IIWqs"
-    },
-    {
-      "title": "Masquerade-Suite: Waltz",
-      "artist": "Aram Khachaturian, St. Petersburg State Symphony Orchestra, Andre Anichanov",
-      "album": "Khachaturian, A.I.: Spartacus, Suite No. 4 / Masquerade / Circus",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cf66fda048199c723ac0388e",
-      "spotify_url": "https://open.spotify.com/track/5WZe8HcgthPo4zUHB1Z5ZC"
-    },
-    {
-      "title": "失敗作少女 - 稲葉曇 Remix",
-      "artist": "Kairikibear, 稲葉曇",
-      "album": "ベノマ",
-      "image": "https://i.scdn.co/image/ab67616d0000b27385e62ca2d009dbae8fbb5365",
-      "spotify_url": "https://open.spotify.com/track/5nDCSYZDGnaVPeHnK1zl2F"
-    },
-    {
-      "title": "Chciałbym umrzeć jak James Dean",
-      "artist": "Partia",
-      "album": "Umrzeć jak James Dean",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c5118595f9335d9f920e8bf8",
-      "spotify_url": "https://open.spotify.com/track/2y2WVCyy70LSJAmkyAloun"
-    },
-    {
-      "title": "イイコと妖狐",
-      "artist": "Kikuo",
-      "album": "きくおミク7",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a631d787005137bb87709b04",
-      "spotify_url": "https://open.spotify.com/track/2MGSgGtpyKTjr7tY0pefZ8"
-    },
-    {
-      "title": "Hide & Seek",
-      "artist": "Sui Uzi",
-      "album": "Muse",
-      "image": "https://i.scdn.co/image/ab67616d0000b273aab110b04119f085b8ee9701",
-      "spotify_url": "https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ"
-    },
-    {
-      "title": "Interstellar (VS Picayune Phase 3)",
-      "artist": "milkypossum",
-      "album": "Picayune Dreams, Vol. 2 (Official Video Game Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273021a9bed6041944d982a1f42",
-      "spotify_url": "https://open.spotify.com/track/0zY59Yvw5fRi2xvaEv8l78"
-    },
-    {
-      "title": "ZERO APPETITE",
-      "artist": "SCRAPING BI",
-      "album": "GULAG (English Version)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738285dcbc11b4c71d9ded1005",
-      "spotify_url": "https://open.spotify.com/track/1xn0QeUH6dzXge07ciIePp"
-    },
-    {
-      "title": "Dawn Patrol",
-      "artist": "Megadeth",
-      "album": "Rust In Peace",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342be808911785ceb13140edc",
-      "spotify_url": "https://open.spotify.com/track/4b2GAM5mE3K0btATdsi0UO"
-    },
-    {
-      "title": "The Instinct",
-      "artist": "Arcade Player",
-      "album": "Killer Instinct: The Themes",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734e1504aded780d42f987b1ab",
-      "spotify_url": "https://open.spotify.com/track/7lKbgu5ZkxBCNfnzeQJKX6"
-    },
-    {
-      "title": "In the Heat of a Disco Night",
-      "artist": "Arabesque",
-      "album": "City Cats",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b75c510cfb22cc33ad968cc6",
-      "spotify_url": "https://open.spotify.com/track/1MJjw68l1Djgbq04BRggsn"
-    },
-    {
-      "title": "Beat It",
-      "artist": "Michael Jackson",
-      "album": "Thriller",
-      "image": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-      "spotify_url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
-    },
-    {
-      "title": "Du riechst so gut",
-      "artist": "Rammstein",
-      "album": "Herzeleid (Remastered 2020)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273dcdfc25819de77e79c2edf49",
-      "spotify_url": "https://open.spotify.com/track/4yUcHLkHUwAPpKN0Uvdo8I"
-    },
-    {
-      "title": "物をぱらぱら壊す",
-      "artist": "Kikuo",
-      "album": "きくおミク",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738fdb0c09eb333c24eb1bc53b",
-      "spotify_url": "https://open.spotify.com/track/52F89LJHMbXMdFNDfnm8KK"
     }
   ]
 }

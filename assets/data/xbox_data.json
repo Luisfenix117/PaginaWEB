@@ -105,11 +105,11 @@
         "modernTitleId": "2118292977",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 46,
-          "totalAchievements": 0,
-          "currentGamerscore": 950,
+          "currentAchievements": 0,
+          "totalAchievements": 50,
+          "currentGamerscore": 0,
           "totalGamerscore": 1000,
-          "progressPercentage": 95,
+          "progressPercentage": 0,
           "sourceVersion": 2
         },
         "stats": {

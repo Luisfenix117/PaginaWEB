@@ -3,51 +3,6 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1682965190",
-        "pfn": "AnnapurnaInteractive.StrayGame_c96c51jf6wkvm",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-0000645002c6",
-        "windowsPhoneProductId": null,
-        "name": "Stray",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.13754210357812593.c3c8aa7a-e063-438f-8dc1-02c5d4abfd95.6a73bdaa-9873-40f5-ae0b-fe820161c3d9",
-        "mediaItemType": "Application",
-        "modernTitleId": "1682965190",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 24,
-          "currentGamerscore": 0,
-          "totalGamerscore": 1000,
-          "progressPercentage": 0,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-09-22T07:27:18.7693842Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
         "titleId": "1775314772",
         "pfn": null,
         "bingId": null,
@@ -78,7 +33,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-22T05:37:09.2817888Z",
+          "lastTimePlayed": "2026-09-23T15:01:42.8681882Z",
           "visible": true,
           "canHide": true
         },
@@ -105,11 +60,11 @@
         "modernTitleId": "2118292977",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 50,
-          "currentGamerscore": 0,
+          "currentAchievements": 46,
+          "totalAchievements": 0,
+          "currentGamerscore": 950,
           "totalGamerscore": 1000,
-          "progressPercentage": 0,
+          "progressPercentage": 95,
           "sourceVersion": 2
         },
         "stats": {
@@ -120,7 +75,52 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-22T04:46:50.9925348Z",
+          "lastTimePlayed": "2026-09-23T15:00:31.8520071Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1745661457",
+        "pfn": "CoffeeStainStudios.Valheim_496a1srhmar9w",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-0000680cae11",
+        "windowsPhoneProductId": null,
+        "name": "Valheim",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.45431.13571084888216164.36662f68-6598-4726-a32e-049a0335e9dc.423ac20f-fb8c-4977-a41e-8f541a29692a",
+        "mediaItemType": "Application",
+        "modernTitleId": "1745661457",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 7,
+          "totalAchievements": 0,
+          "currentGamerscore": 105,
+          "totalGamerscore": 1000,
+          "progressPercentage": 10,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-23T05:07:15.7330481Z",
           "visible": true,
           "canHide": true
         },

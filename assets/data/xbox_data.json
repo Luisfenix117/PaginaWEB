@@ -3,82 +3,39 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1634088961",
-        "pfn": "15140GreenManGaming.NoMoreRoomInHell2_82x1bmjckbb2j",
+        "titleId": "1745661457",
+        "pfn": "CoffeeStainStudios.Valheim_496a1srhmar9w",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000061663801",
+        "serviceConfigId": "00000000-0000-0000-0000-0000680cae11",
         "windowsPhoneProductId": null,
-        "name": "No More Room in Hell 2",
+        "name": "Valheim",
         "type": "Game",
         "devices": [
           "PC",
+          "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.33783.14213687083064799.8ae5df44-07c8-4118-88c1-1ddb736d5d1c.f4c2d831-9773-46de-bd95-ef1d691b9050",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.45431.13571084888216164.36662f68-6598-4726-a32e-049a0335e9dc.423ac20f-fb8c-4977-a41e-8f541a29692a",
         "mediaItemType": "Application",
-        "modernTitleId": "1634088961",
+        "modernTitleId": "1745661457",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 35,
-          "currentGamerscore": 0,
+          "currentAchievements": 8,
+          "totalAchievements": 0,
+          "currentGamerscore": 120,
           "totalGamerscore": 1000,
-          "progressPercentage": 0,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 3
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-09-23T19:58:37.5358485Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1623704813",
-        "pfn": "KOJIMAPRODUCTIONSCo.Ltd.DSDC_98qq2hk7wynyj",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000060c7c4ed",
-        "windowsPhoneProductId": null,
-        "name": "DEATH STRANDING DIRECTOR'S CUT",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.65472.13774354316070254.dbfd815f-aaf8-4e63-b069-bd514601d13b.6bc5a8c9-3865-4600-abf0-1c2e2df6d988",
-        "mediaItemType": "Application",
-        "modernTitleId": "1623704813",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 63,
-          "currentGamerscore": 0,
-          "totalGamerscore": 1000,
-          "progressPercentage": 0,
+          "progressPercentage": 12,
           "sourceVersion": 2
         },
         "stats": {
           "sourceVersion": 1
         },
         "gamePass": {
-          "isGamePass": true
+          "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-23T17:17:06.2342588Z",
+          "lastTimePlayed": "2026-09-24T06:49:45.5857081Z",
           "visible": true,
           "canHide": true
         },
@@ -121,7 +78,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-23T15:01:42.8681882Z",
+          "lastTimePlayed": "2026-09-24T02:23:27.1646645Z",
           "visible": true,
           "canHide": true
         },
@@ -130,6 +87,50 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
+      },
+      {
+        "titleId": "1634088961",
+        "pfn": "15140GreenManGaming.NoMoreRoomInHell2_82x1bmjckbb2j",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000061663801",
+        "windowsPhoneProductId": null,
+        "name": "No More Room in Hell 2",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.33783.14213687083064799.8ae5df44-07c8-4118-88c1-1ddb736d5d1c.f4c2d831-9773-46de-bd95-ef1d691b9050",
+        "mediaItemType": "Application",
+        "modernTitleId": "1634088961",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 32,
+          "totalAchievements": 0,
+          "currentGamerscore": 820,
+          "totalGamerscore": 1000,
+          "progressPercentage": 82,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-23T19:58:37.5358485Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       }
     ]
   },

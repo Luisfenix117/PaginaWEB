@@ -35,7 +35,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-24T06:49:45.5857081Z",
+          "lastTimePlayed": "2026-09-25T00:20:34.4441738Z",
           "visible": true,
           "canHide": true
         },
@@ -78,7 +78,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-24T02:23:27.1646645Z",
+          "lastTimePlayed": "2026-09-24T21:59:25.1268303Z",
           "visible": true,
           "canHide": true
         },
@@ -89,38 +89,38 @@
         "contentBoards": null
       },
       {
-        "titleId": "1634088961",
-        "pfn": "15140GreenManGaming.NoMoreRoomInHell2_82x1bmjckbb2j",
+        "titleId": "2118292977",
+        "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000061663801",
+        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
         "windowsPhoneProductId": null,
-        "name": "No More Room in Hell 2",
+        "name": "ARC Raiders",
         "type": "Game",
         "devices": [
           "PC",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.33783.14213687083064799.8ae5df44-07c8-4118-88c1-1ddb736d5d1c.f4c2d831-9773-46de-bd95-ef1d691b9050",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
         "mediaItemType": "Application",
-        "modernTitleId": "1634088961",
+        "modernTitleId": "2118292977",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 32,
+          "currentAchievements": 46,
           "totalAchievements": 0,
-          "currentGamerscore": 820,
+          "currentGamerscore": 950,
           "totalGamerscore": 1000,
-          "progressPercentage": 82,
+          "progressPercentage": 95,
           "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 3
+          "sourceVersion": 2
         },
         "gamePass": {
           "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-23T19:58:37.5358485Z",
+          "lastTimePlayed": "2026-09-24T19:59:46.9312844Z",
           "visible": true,
           "canHide": true
         },

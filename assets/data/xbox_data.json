@@ -3,51 +3,6 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1745661457",
-        "pfn": "CoffeeStainStudios.Valheim_496a1srhmar9w",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-0000680cae11",
-        "windowsPhoneProductId": null,
-        "name": "Valheim",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.45431.13571084888216164.36662f68-6598-4726-a32e-049a0335e9dc.423ac20f-fb8c-4977-a41e-8f541a29692a",
-        "mediaItemType": "Application",
-        "modernTitleId": "1745661457",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 11,
-          "totalAchievements": 0,
-          "currentGamerscore": 165,
-          "totalGamerscore": 1000,
-          "progressPercentage": 16,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-09-29T04:37:26.1444183Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
         "titleId": "2118292977",
         "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
@@ -69,7 +24,10 @@
           "currentGamerscore": 950,
           "totalGamerscore": 1000,
           "progressPercentage": 95,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -79,7 +37,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-29T03:26:01.2111806Z",
+          "lastTimePlayed": "2026-09-29T17:41:43.0175143Z",
           "visible": true,
           "canHide": true
         },
@@ -112,7 +70,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -122,7 +83,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-28T00:52:44.5229116Z",
+          "lastTimePlayed": "2026-09-29T17:19:51.6102318Z",
           "visible": true,
           "canHide": true
         },
@@ -131,6 +92,54 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
+      },
+      {
+        "titleId": "1745661457",
+        "pfn": "CoffeeStainStudios.Valheim_496a1srhmar9w",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-0000680cae11",
+        "windowsPhoneProductId": null,
+        "name": "Valheim",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.45431.13571084888216164.36662f68-6598-4726-a32e-049a0335e9dc.423ac20f-fb8c-4977-a41e-8f541a29692a",
+        "mediaItemType": "Application",
+        "modernTitleId": "1745661457",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 11,
+          "totalAchievements": 0,
+          "currentGamerscore": 165,
+          "totalGamerscore": 1000,
+          "progressPercentage": 16,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-29T04:37:26.1444183Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       }
     ]
   },

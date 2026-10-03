@@ -36,7 +36,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-10-02T15:51:22.9330713Z",
+          "lastTimePlayed": "2026-10-03T02:50:16.5100475Z",
           "visible": true,
           "canHide": true
         },
@@ -45,6 +45,53 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
+      },
+      {
+        "titleId": "1634088961",
+        "pfn": "15140GreenManGaming.NoMoreRoomInHell2_82x1bmjckbb2j",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000061663801",
+        "windowsPhoneProductId": null,
+        "name": "No More Room in Hell 2",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.33783.14213687083064799.8ae5df44-07c8-4118-88c1-1ddb736d5d1c.f4c2d831-9773-46de-bd95-ef1d691b9050",
+        "mediaItemType": "Application",
+        "modernTitleId": "1634088961",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 32,
+          "totalAchievements": 0,
+          "currentGamerscore": 820,
+          "totalGamerscore": 1000,
+          "progressPercentage": 82,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-10-02T18:35:46.9371178Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
         "titleId": "2118292977",
@@ -81,55 +128,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-10-02T02:31:35.158565Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1745661457",
-        "pfn": "CoffeeStainStudios.Valheim_496a1srhmar9w",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-0000680cae11",
-        "windowsPhoneProductId": null,
-        "name": "Valheim",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.45431.13571084888216164.36662f68-6598-4726-a32e-049a0335e9dc.423ac20f-fb8c-4977-a41e-8f541a29692a",
-        "mediaItemType": "Application",
-        "modernTitleId": "1745661457",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 11,
-          "totalAchievements": 0,
-          "currentGamerscore": 165,
-          "totalGamerscore": 1000,
-          "progressPercentage": 16,
-          "sourceVersion": 2,
-          "baseGameCount": 1,
-          "baseGameCompleted": 0,
-          "isMythic": false
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-09-29T04:37:26.1444183Z",
+          "lastTimePlayed": "2026-10-02T17:08:44.8995816Z",
           "visible": true,
           "canHide": true
         },

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T18:56:18.134Z",
+  "last_updated": "2026-10-05T02:59:47.888Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -8,18 +8,11 @@
   "total": 50,
   "tracks": [
     {
-      "title": "Bodies",
-      "artist": "Megadeth",
-      "album": "Endgame",
-      "image": "https://i.scdn.co/image/ab67616d0000b27352103e45f70508a143245023",
-      "spotify_url": "https://open.spotify.com/track/5or8ibMTMYRTTCb4GqKtWd"
-    },
-    {
-      "title": "Attack",
-      "artist": "System Of A Down",
-      "album": "Hypnotize",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
-      "spotify_url": "https://open.spotify.com/track/0dxPHMZTI8TWMYRucsAFNd"
+      "title": "Love song wa utaenai",
+      "artist": "高橋玲子",
+      "album": "Love song wa utaenai",
+      "image": "https://i.scdn.co/image/ab67616d0000b273408d43e28da7e5bcc6f9874c",
+      "spotify_url": "https://open.spotify.com/track/20lDFx220Hygp0IzHRriBN"
     },
     {
       "title": "Peril",
@@ -27,6 +20,20 @@
       "album": "Halo 2, Vol. 1 (Original Soundtrack)",
       "image": "https://i.scdn.co/image/ab67616d0000b2733d85808897b5cd1ef0b31a1e",
       "spotify_url": "https://open.spotify.com/track/1xemsxRCrSy9F30oXxq3zV"
+    },
+    {
+      "title": "Trust - Remastered 2004 / Remixed",
+      "artist": "Megadeth",
+      "album": "Cryptic Writings (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
+      "spotify_url": "https://open.spotify.com/track/5emb8RDOZtpXlw6D0eEQbz"
+    },
+    {
+      "title": "Attack",
+      "artist": "System Of A Down",
+      "album": "Hypnotize",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
+      "spotify_url": "https://open.spotify.com/track/0dxPHMZTI8TWMYRucsAFNd"
     },
     {
       "title": "Como Una Novela",
@@ -43,18 +50,11 @@
       "spotify_url": "https://open.spotify.com/track/54qpkAilZbbLPCHFccwDHV"
     },
     {
-      "title": "Truth and Reconciliation Suite",
-      "artist": "Halo, Martin O'Donnell, Michael Salvatori",
-      "album": "Halo: Combat Evolved (Original Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731531d525ee57b2f6b44d9260",
-      "spotify_url": "https://open.spotify.com/track/1bD8U8qf7Y8PtnrLqlTU0R"
-    },
-    {
-      "title": "Trust - Remastered 2004 / Remixed",
-      "artist": "Megadeth",
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/5emb8RDOZtpXlw6D0eEQbz"
+      "title": "Don't Stay",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn"
     },
     {
       "title": "Almost Honest - Remastered 2004 / Remixed",
@@ -64,11 +64,102 @@
       "spotify_url": "https://open.spotify.com/track/2uw3kbepHeeeLTykdUeOtI"
     },
     {
+      "title": "Truth and Reconciliation Suite",
+      "artist": "Halo, Martin O'Donnell, Michael Salvatori",
+      "album": "Halo: Combat Evolved (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731531d525ee57b2f6b44d9260",
+      "spotify_url": "https://open.spotify.com/track/1bD8U8qf7Y8PtnrLqlTU0R"
+    },
+    {
+      "title": "Figure.09",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/0rPTPahzhGx9LSzI8XX5OM"
+    },
+    {
+      "title": "Lying from You",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1"
+    },
+    {
+      "title": "Hit the Floor",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/4wHktoSf6C0C0fAO8IIWqs"
+    },
+    {
+      "title": "A Walk In the Woods",
+      "artist": "Halo, Martin O'Donnell, Michael Salvatori",
+      "album": "Halo: Combat Evolved (Original Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731531d525ee57b2f6b44d9260",
+      "spotify_url": "https://open.spotify.com/track/10ZgUdYwSX4MNhgDPTIIyN"
+    },
+    {
+      "title": "Breaking the Habit",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/3dxiWIBVJRlqh9xk144rf4"
+    },
+    {
+      "title": "Somewhere I Belong",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx"
+    },
+    {
+      "title": "愛して 愛して 愛して",
+      "artist": "Kikuo",
+      "album": "きくおミク3",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d1bd3a0ccc3fe60f8d6941ca",
+      "spotify_url": "https://open.spotify.com/track/3ty4jnVIJ9My8ZnXFMc0Fg"
+    },
+    {
+      "title": "天泣",
+      "artist": "稲葉曇",
+      "album": "ウェザーステーション",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a2e19e90170fd6cece34d2d9",
+      "spotify_url": "https://open.spotify.com/track/3xvBLua7hjT8xT5pDd3OLO"
+    },
+    {
+      "title": "Faint",
+      "artist": "Linkin Park",
+      "album": "Meteora",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b",
+      "spotify_url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
+    },
+    {
+      "title": "From the Inside",
+      "artist": "Linkin Park",
+      "album": "Meteora (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+      "spotify_url": "https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ"
+    },
+    {
+      "title": "Serious",
+      "artist": "Daron Malakian and Scars On Broadway",
+      "album": "Scars on Broadway",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a57ca9e47d038be31c9aee9d",
+      "spotify_url": "https://open.spotify.com/track/7dbwliCP94bEhVVb7Ap7C9"
+    },
+    {
       "title": "Stealing Society",
       "artist": "System Of A Down",
       "album": "Hypnotize",
       "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
       "spotify_url": "https://open.spotify.com/track/0ELxqqeeisigIJhN6dsNHI"
+    },
+    {
+      "title": "Mastermind - Remastered 2004 / Remixed",
+      "artist": "Megadeth",
+      "album": "Cryptic Writings (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
+      "spotify_url": "https://open.spotify.com/track/1w4x51wQ4sPrvET6ahUkhq"
     },
     {
       "title": "Tentative",
@@ -85,6 +176,13 @@
       "spotify_url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
     },
     {
+      "title": "Dreaming",
+      "artist": "System Of A Down",
+      "album": "Hypnotize",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
+      "spotify_url": "https://open.spotify.com/track/4uCfGqrF2OHcav71k0bk9D"
+    },
+    {
       "title": "An image in the making",
       "artist": "稲葉曇",
       "album": "ANTICYCLONE",
@@ -99,18 +197,11 @@
       "spotify_url": "https://open.spotify.com/track/0P454oB1X79NALdmZwRS0M"
     },
     {
-      "title": "Figure.09",
+      "title": "Papercut",
       "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/0rPTPahzhGx9LSzI8XX5OM"
-    },
-    {
-      "title": "Mastermind - Remastered 2004 / Remixed",
-      "artist": "Megadeth",
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/1w4x51wQ4sPrvET6ahUkhq"
+      "album": "Hybrid Theory (Bonus Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
+      "spotify_url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
     },
     {
       "title": "Sin - Remastered 2004 / Remixed",
@@ -162,11 +253,11 @@
       "spotify_url": "https://open.spotify.com/track/5lAXI4GRCeBJYAX821Q329"
     },
     {
-      "title": "From the Inside",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ"
+      "title": "I'll Get Even - Remastered 2004 / Remixed",
+      "artist": "Megadeth",
+      "album": "Cryptic Writings (Expanded Edition - Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
+      "spotify_url": "https://open.spotify.com/track/7CIUiILz5HLnRv8c9NfZnb"
     },
     {
       "title": "Bullprick - Remastered 2004 / Remixed",
@@ -183,6 +274,13 @@
       "spotify_url": "https://open.spotify.com/track/00VKR5XH5jid1AgUdFz4bs"
     },
     {
+      "title": "Hope Café",
+      "artist": "Jamie Paige",
+      "album": "Hope Café",
+      "image": "https://i.scdn.co/image/ab67616d0000b27362903b10b347dcd24233667c",
+      "spotify_url": "https://open.spotify.com/track/0AHevigrvo5dBfC2CaJahd"
+    },
+    {
       "title": "Yoshimitsu Stage - PlayStation2 version",
       "artist": "TEKKEN Project, Bandai Namco Game Music",
       "album": "TEKKEN TAG TOURNAMENT (Original Soundtrack)",
@@ -195,6 +293,13 @@
       "album": "20th Anniversary Series",
       "image": "https://i.scdn.co/image/ab67616d0000b2736e5308493f96afd7d1b89c70",
       "spotify_url": "https://open.spotify.com/track/0EbhpgP6Bx7tAHPydzDWSi"
+    },
+    {
+      "title": "アンプランド・アポトーシス",
+      "artist": "柊マグネタイト",
+      "album": "アンプランド・アポトーシス",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738ecb6d431fbb3221c0a93b24",
+      "spotify_url": "https://open.spotify.com/track/0SSMZvd8iQT9f6Y2jBzQkW"
     },
     {
       "title": "This Is the Hour",
@@ -211,13 +316,6 @@
       "spotify_url": "https://open.spotify.com/track/0ebslgIk4lZ8CLuSCa9Cc3"
     },
     {
-      "title": "A Walk In the Woods",
-      "artist": "Halo, Martin O'Donnell, Michael Salvatori",
-      "album": "Halo: Combat Evolved (Original Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731531d525ee57b2f6b44d9260",
-      "spotify_url": "https://open.spotify.com/track/10ZgUdYwSX4MNhgDPTIIyN"
-    },
-    {
       "title": "Nobody's Listening",
       "artist": "Linkin Park",
       "album": "Meteora (Bonus Edition)",
@@ -225,11 +323,18 @@
       "spotify_url": "https://open.spotify.com/track/1EU3VuKGZOvd1HTkxLPUXK"
     },
     {
-      "title": "Papercut",
-      "artist": "Linkin Park",
-      "album": "Hybrid Theory (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
-      "spotify_url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
+      "title": "Real Shoushitsu",
+      "artist": "cosMo@Bousou-P",
+      "album": "Shoushitsu -Real And Repeat-",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732bb41b56ab26cf484b634956",
+      "spotify_url": "https://open.spotify.com/track/1RVQUmoxT7Iow5mIOx18NX"
+    },
+    {
+      "title": "No Manches Mi Vida",
+      "artist": "Molotov",
+      "album": "Apocalypshit",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734bc839b846d5a838ced8217a",
+      "spotify_url": "https://open.spotify.com/track/1uD1mm4W2s9gA69hLhsdkH"
     },
     {
       "title": "Kill Rock 'n Roll",
@@ -251,111 +356,6 @@
       "album": "Meteora",
       "image": "https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b",
       "spotify_url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
-    },
-    {
-      "title": "Evil That's Within - Remastered 2004 / Remixed",
-      "artist": "Megadeth",
-      "album": "Cryptic Writings (Expanded Edition - Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27376eff96fd2e3f9df3e71b276",
-      "spotify_url": "https://open.spotify.com/track/3MdMZjcivVhQ0E0HO6XtuR"
-    },
-    {
-      "title": "Breaking the Habit",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/3dxiWIBVJRlqh9xk144rf4"
-    },
-    {
-      "title": "Somewhere I Belong",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx"
-    },
-    {
-      "title": "天泣",
-      "artist": "稲葉曇",
-      "album": "ウェザーステーション",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a2e19e90170fd6cece34d2d9",
-      "spotify_url": "https://open.spotify.com/track/3xvBLua7hjT8xT5pDd3OLO"
-    },
-    {
-      "title": "Faint",
-      "artist": "Linkin Park",
-      "album": "Meteora",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735f1f51d14e8bea89484ecd1b",
-      "spotify_url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
-    },
-    {
-      "title": "Lying from You",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/4qVR3CF8FuFvHN4L6vXlB1"
-    },
-    {
-      "title": "Dreaming",
-      "artist": "System Of A Down",
-      "album": "Hypnotize",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
-      "spotify_url": "https://open.spotify.com/track/4uCfGqrF2OHcav71k0bk9D"
-    },
-    {
-      "title": "Hit the Floor",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/4wHktoSf6C0C0fAO8IIWqs"
-    },
-    {
-      "title": "Masquerade-Suite: Waltz",
-      "artist": "Aram Khachaturian, St. Petersburg State Symphony Orchestra, Andre Anichanov",
-      "album": "Khachaturian, A.I.: Spartacus, Suite No. 4 / Masquerade / Circus",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cf66fda048199c723ac0388e",
-      "spotify_url": "https://open.spotify.com/track/5WZe8HcgthPo4zUHB1Z5ZC"
-    },
-    {
-      "title": "Supe Perder",
-      "artist": "Los Caminantes",
-      "album": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b0383be647ab4a6edb068a07",
-      "spotify_url": "https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW"
-    },
-    {
-      "title": "How the Story Ends",
-      "artist": "Megadeth",
-      "album": "Endgame",
-      "image": "https://i.scdn.co/image/ab67616d0000b27352103e45f70508a143245023",
-      "spotify_url": "https://open.spotify.com/track/6PmAJkJVxzRIz9Yo6xEW21"
-    },
-    {
-      "title": "Hypnotize",
-      "artist": "System Of A Down",
-      "album": "Hypnotize",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
-      "spotify_url": "https://open.spotify.com/track/6oO7WMjD6kEvCITLbVj0mu"
-    },
-    {
-      "title": "No Room in Hell (From Dead Island: Riptide) [feat. Chamillionaire]",
-      "artist": "Josef \"J7\" Lord, Christopher H. Knight, Chamillionaire",
-      "album": "No Room in Hell (From Dead Island: Riptide) [feat. Chamillionaire]",
-      "image": "https://i.scdn.co/image/ab67616d0000b273348ed8c05f4d26d9ede97d50",
-      "spotify_url": "https://open.spotify.com/track/7GCaQKkUKDexBZgsthGG9z"
-    },
-    {
-      "title": "El Amar y el Querer",
-      "artist": "José José",
-      "album": "Reencuentro",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734fea82693604b715d8440f98",
-      "spotify_url": "https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P"
-    },
-    {
-      "title": "Don't Stay",
-      "artist": "Linkin Park",
-      "album": "Meteora (Bonus Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
-      "spotify_url": "https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn"
     }
   ]
 }

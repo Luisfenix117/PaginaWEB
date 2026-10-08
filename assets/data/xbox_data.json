@@ -19,11 +19,11 @@
         "modernTitleId": "1810111157",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 9,
+          "currentAchievements": 10,
           "totalAchievements": 0,
-          "currentGamerscore": 135,
+          "currentGamerscore": 150,
           "totalGamerscore": 1000,
-          "progressPercentage": 13,
+          "progressPercentage": 15,
           "sourceVersion": 2,
           "baseGameCount": 1,
           "baseGameCompleted": 0,
@@ -37,7 +37,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-10-07T03:34:08.1958702Z",
+          "lastTimePlayed": "2026-10-08T02:39:33.0976667Z",
           "visible": true,
           "canHide": true
         },

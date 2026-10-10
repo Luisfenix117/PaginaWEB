@@ -3,6 +3,50 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1775314772",
+        "pfn": null,
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "windowsPhoneProductId": null,
+        "name": "Goddess of Victory: Nikke",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-10-10T06:56:37.3124191Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null
+      },
+      {
         "titleId": "2118292977",
         "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
@@ -37,7 +81,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-10-10T02:39:52.0531074Z",
+          "lastTimePlayed": "2026-10-10T06:16:40.7407486Z",
           "visible": true,
           "canHide": true
         },
@@ -85,53 +129,6 @@
         "images": null,
         "titleHistory": {
           "lastTimePlayed": "2026-10-10T02:39:46.9837129Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1810111157",
-        "pfn": "Microsoft.Fairlightbasegame_8wekyb3d8bbwe",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006be41ab5",
-        "windowsPhoneProductId": null,
-        "name": "Gears of War: E-Day",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.10362.13978914104035031.46ab30c4-87b3-48d6-9e4a-ed44b301b17a.10a73531-4bf2-4be3-ac6c-45a529b8e30c",
-        "mediaItemType": "Application",
-        "modernTitleId": "1810111157",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 18,
-          "totalAchievements": 0,
-          "currentGamerscore": 270,
-          "totalGamerscore": 1000,
-          "progressPercentage": 27,
-          "sourceVersion": 2,
-          "baseGameCount": 1,
-          "baseGameCompleted": 0,
-          "isMythic": false
-        },
-        "stats": {
-          "sourceVersion": 3
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-10-09T15:13:28.908107Z",
           "visible": true,
           "canHide": true
         },

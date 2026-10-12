@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T03:15:21.507Z",
+  "last_updated": "2026-10-12T20:35:00.949Z",
   "metadata": {
     "engine": "System Sync 2026",
     "source": "Spotify Web API",
@@ -106,13 +106,6 @@
       "spotify_url": "https://open.spotify.com/track/11WZXXvGyrtUBp15TtojxA"
     },
     {
-      "title": "Stealing Society",
-      "artist": "System Of A Down",
-      "album": "Hypnotize",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
-      "spotify_url": "https://open.spotify.com/track/0ELxqqeeisigIJhN6dsNHI"
-    },
-    {
       "title": "Ultimas Noticias",
       "artist": "Viento Y Sol",
       "album": "Últimas Noticias",
@@ -188,6 +181,13 @@
       "album": "TEKKEN TAG TOURNAMENT (Original Soundtrack)",
       "image": "https://i.scdn.co/image/ab67616d0000b27364871d0ce4d313f1e344897b",
       "spotify_url": "https://open.spotify.com/track/0BNSUTEty0vJiXqhsg0eyY"
+    },
+    {
+      "title": "Stealing Society",
+      "artist": "System Of A Down",
+      "album": "Hypnotize",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff",
+      "spotify_url": "https://open.spotify.com/track/0ELxqqeeisigIJhN6dsNHI"
     },
     {
       "title": "Me Duele Estar Solo",

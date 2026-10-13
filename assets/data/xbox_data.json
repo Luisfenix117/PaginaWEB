@@ -3,50 +3,6 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1810111157",
-        "pfn": "Microsoft.Fairlightbasegame_8wekyb3d8bbwe",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006be41ab5",
-        "windowsPhoneProductId": null,
-        "name": "Gears of War: E-Day",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.10362.13978914104035031.46ab30c4-87b3-48d6-9e4a-ed44b301b17a.10a73531-4bf2-4be3-ac6c-45a529b8e30c",
-        "mediaItemType": "Application",
-        "modernTitleId": "1810111157",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 18,
-          "totalAchievements": 0,
-          "currentGamerscore": 270,
-          "totalGamerscore": 1000,
-          "progressPercentage": 27,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 3
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-10-13T03:42:31.3295598Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
         "titleId": "2118292977",
         "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
@@ -68,7 +24,10 @@
           "currentGamerscore": 950,
           "totalGamerscore": 1000,
           "progressPercentage": 95,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -78,7 +37,54 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-10-13T03:07:27.5136531Z",
+          "lastTimePlayed": "2026-10-13T12:39:35.8273856Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1810111157",
+        "pfn": "Microsoft.Fairlightbasegame_8wekyb3d8bbwe",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00006be41ab5",
+        "windowsPhoneProductId": null,
+        "name": "Gears of War: E-Day",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.10362.13978914104035031.46ab30c4-87b3-48d6-9e4a-ed44b301b17a.10a73531-4bf2-4be3-ac6c-45a529b8e30c",
+        "mediaItemType": "Application",
+        "modernTitleId": "1810111157",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 19,
+          "totalAchievements": 0,
+          "currentGamerscore": 285,
+          "totalGamerscore": 1000,
+          "progressPercentage": 28,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-10-13T03:42:31.3295598Z",
           "visible": true,
           "canHide": true
         },
@@ -111,7 +117,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0

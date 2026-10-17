@@ -3,6 +3,99 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1936835421",
+        "pfn": "RawFury.DeepDishDungeon_9s0pnehqffj7t",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007371c35d",
+        "windowsPhoneProductId": null,
+        "name": "Deep Dish Dungeon",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.2438.14326063685133853.939b1741-3671-493b-b12d-2c262722c883.4d206868-7b2a-4a85-aab9-129aeb46bc04",
+        "mediaItemType": "Application",
+        "modernTitleId": "1936835421",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 3,
+          "totalAchievements": 0,
+          "currentGamerscore": 120,
+          "totalGamerscore": 1000,
+          "progressPercentage": 12,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-10-17T06:10:38.1114166Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "2132429347",
+        "pfn": "GearboxPublishing.RiskofRain2_qskmxqknqwqd4",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007f1a4a23",
+        "windowsPhoneProductId": null,
+        "name": "Risk of Rain 2",
+        "type": "Game",
+        "devices": [
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.8912.14621244486516926.f1cfde77-0a61-41c8-b5a7-ee7ba21d57fa.d53ca184-fb2c-4a32-8b4b-9d6cd15395fb",
+        "mediaItemType": "Application",
+        "modernTitleId": "2132429347",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 38,
+          "totalAchievements": 0,
+          "currentGamerscore": 1110,
+          "totalGamerscore": 1430,
+          "progressPercentage": 77,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-10-17T02:14:09.1185411Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
         "titleId": "2118292977",
         "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
@@ -48,96 +141,6 @@
         "contentBoards": null,
         "xboxLiveTier": "Full",
         "isStreamable": true
-      },
-      {
-        "titleId": "1840884885",
-        "pfn": "ElectronicArtsMobile.93317BAB558E_q5ha1ztykcgvj",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006db9ac95",
-        "windowsPhoneProductId": null,
-        "name": "Battlefield™",
-        "type": "Game",
-        "devices": [
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.55941.14463498338197768.18cb1494-64ce-4e59-ab19-e22d2d16a6b4.f74c4338-395e-46ad-9adb-436f62c7c6b3",
-        "mediaItemType": "Application",
-        "modernTitleId": "1840884885",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 2,
-          "totalAchievements": 0,
-          "currentGamerscore": 30,
-          "totalGamerscore": 1185,
-          "progressPercentage": 2,
-          "sourceVersion": 2,
-          "baseGameCount": 1,
-          "baseGameCompleted": 0,
-          "isMythic": false
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-10-15T22:04:59.2710066Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1775314772",
-        "pfn": null,
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
-        "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
-        "type": "Game",
-        "devices": [
-          "Win32"
-        ],
-        "displayImage": "",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0,
-          "baseGameCount": 0,
-          "baseGameCompleted": 0,
-          "isMythic": false
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-10-15T08:53:34.5686958Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null
       }
     ]
   },

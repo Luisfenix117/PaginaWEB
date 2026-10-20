@@ -3,6 +3,52 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1840884885",
+        "pfn": "ElectronicArtsMobile.93317BAB558E_q5ha1ztykcgvj",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00006db9ac95",
+        "windowsPhoneProductId": null,
+        "name": "Battlefield™",
+        "type": "Game",
+        "devices": [
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.55941.14463498338197768.18cb1494-64ce-4e59-ab19-e22d2d16a6b4.f74c4338-395e-46ad-9adb-436f62c7c6b3",
+        "mediaItemType": "Application",
+        "modernTitleId": "1840884885",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 4,
+          "totalAchievements": 0,
+          "currentGamerscore": 60,
+          "totalGamerscore": 1185,
+          "progressPercentage": 5,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-10-20T04:46:15.6432238Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "2118292977",
         "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
@@ -37,7 +83,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-10-19T01:01:53.783176Z",
+          "lastTimePlayed": "2026-10-20T03:51:03.8371673Z",
           "visible": true,
           "canHide": true
         },
@@ -92,53 +138,6 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
-      },
-      {
-        "titleId": "1936835421",
-        "pfn": "RawFury.DeepDishDungeon_9s0pnehqffj7t",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007371c35d",
-        "windowsPhoneProductId": null,
-        "name": "Deep Dish Dungeon",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.2438.14326063685133853.939b1741-3671-493b-b12d-2c262722c883.4d206868-7b2a-4a85-aab9-129aeb46bc04",
-        "mediaItemType": "Application",
-        "modernTitleId": "1936835421",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 3,
-          "totalAchievements": 0,
-          "currentGamerscore": 120,
-          "totalGamerscore": 1000,
-          "progressPercentage": 12,
-          "sourceVersion": 2,
-          "baseGameCount": 1,
-          "baseGameCompleted": 0,
-          "isMythic": false
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-10-17T06:10:38.1114166Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       }
     ]
   },

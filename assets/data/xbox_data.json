@@ -3,40 +3,40 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1840884885",
-        "pfn": "ElectronicArtsMobile.93317BAB558E_q5ha1ztykcgvj",
+        "titleId": "1775314772",
+        "pfn": null,
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006db9ac95",
+        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
         "windowsPhoneProductId": null,
-        "name": "Battlefield™",
+        "name": "Goddess of Victory: Nikke",
         "type": "Game",
         "devices": [
-          "XboxSeries"
+          "Win32"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.55941.14463498338197768.18cb1494-64ce-4e59-ab19-e22d2d16a6b4.f74c4338-395e-46ad-9adb-436f62c7c6b3",
+        "displayImage": "",
         "mediaItemType": "Application",
-        "modernTitleId": "1840884885",
+        "modernTitleId": null,
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 4,
+          "currentAchievements": 0,
           "totalAchievements": 0,
-          "currentGamerscore": 60,
-          "totalGamerscore": 1185,
-          "progressPercentage": 5,
-          "sourceVersion": 2,
-          "baseGameCount": 1,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0,
+          "baseGameCount": 0,
           "baseGameCompleted": 0,
           "isMythic": false
         },
         "stats": {
-          "sourceVersion": 2
+          "sourceVersion": 0
         },
         "gamePass": {
           "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-10-20T04:46:15.6432238Z",
+          "lastTimePlayed": "2026-10-21T02:00:46.8160879Z",
           "visible": true,
           "canHide": true
         },
@@ -44,9 +44,7 @@
         "detail": null,
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
+        "contentBoards": null
       },
       {
         "titleId": "2118292977",
@@ -83,7 +81,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-10-20T03:51:03.8371673Z",
+          "lastTimePlayed": "2026-10-20T19:45:48.1889429Z",
           "visible": true,
           "canHide": true
         },
@@ -96,40 +94,40 @@
         "isStreamable": true
       },
       {
-        "titleId": "1775314772",
-        "pfn": null,
+        "titleId": "1840884885",
+        "pfn": "ElectronicArtsMobile.93317BAB558E_q5ha1ztykcgvj",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "serviceConfigId": "00000000-0000-0000-0000-00006db9ac95",
         "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
+        "name": "Battlefield™",
         "type": "Game",
         "devices": [
-          "Win32"
+          "XboxSeries"
         ],
-        "displayImage": "",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.55941.14463498338197768.18cb1494-64ce-4e59-ab19-e22d2d16a6b4.f74c4338-395e-46ad-9adb-436f62c7c6b3",
         "mediaItemType": "Application",
-        "modernTitleId": null,
+        "modernTitleId": "1840884885",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 0,
+          "currentAchievements": 4,
           "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0,
-          "baseGameCount": 0,
+          "currentGamerscore": 60,
+          "totalGamerscore": 1185,
+          "progressPercentage": 5,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
           "baseGameCompleted": 0,
           "isMythic": false
         },
         "stats": {
-          "sourceVersion": 0
+          "sourceVersion": 2
         },
         "gamePass": {
           "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-10-18T03:01:04.7858254Z",
+          "lastTimePlayed": "2026-10-20T17:56:19.893109Z",
           "visible": true,
           "canHide": true
         },
@@ -137,7 +135,9 @@
         "detail": null,
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
-        "contentBoards": null
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       }
     ]
   },

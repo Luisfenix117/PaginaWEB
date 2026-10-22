@@ -3,40 +3,40 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1775314772",
-        "pfn": null,
+        "titleId": "1840884885",
+        "pfn": "ElectronicArtsMobile.93317BAB558E_q5ha1ztykcgvj",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "serviceConfigId": "00000000-0000-0000-0000-00006db9ac95",
         "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
+        "name": "Battlefield™",
         "type": "Game",
         "devices": [
-          "Win32"
+          "XboxSeries"
         ],
-        "displayImage": "",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.55941.14463498338197768.18cb1494-64ce-4e59-ab19-e22d2d16a6b4.f74c4338-395e-46ad-9adb-436f62c7c6b3",
         "mediaItemType": "Application",
-        "modernTitleId": null,
+        "modernTitleId": "1840884885",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 0,
+          "currentAchievements": 4,
           "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0,
-          "baseGameCount": 0,
+          "currentGamerscore": 60,
+          "totalGamerscore": 1185,
+          "progressPercentage": 5,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
           "baseGameCompleted": 0,
           "isMythic": false
         },
         "stats": {
-          "sourceVersion": 0
+          "sourceVersion": 2
         },
         "gamePass": {
           "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-10-21T02:00:46.8160879Z",
+          "lastTimePlayed": "2026-10-22T01:59:42.5177012Z",
           "visible": true,
           "canHide": true
         },
@@ -44,7 +44,9 @@
         "detail": null,
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
-        "contentBoards": null
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
         "titleId": "2118292977",
@@ -81,7 +83,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-10-20T19:45:48.1889429Z",
+          "lastTimePlayed": "2026-10-22T00:10:35.6629961Z",
           "visible": true,
           "canHide": true
         },
@@ -94,40 +96,40 @@
         "isStreamable": true
       },
       {
-        "titleId": "1840884885",
-        "pfn": "ElectronicArtsMobile.93317BAB558E_q5ha1ztykcgvj",
+        "titleId": "1877036175",
+        "pfn": null,
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006db9ac95",
+        "serviceConfigId": "00000000-0000-0000-0000-00006fe14c8f",
         "windowsPhoneProductId": null,
-        "name": "Battlefield™",
+        "name": "ROBLOX",
         "type": "Game",
         "devices": [
-          "XboxSeries"
+          "Win32"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.55941.14463498338197768.18cb1494-64ce-4e59-ab19-e22d2d16a6b4.f74c4338-395e-46ad-9adb-436f62c7c6b3",
+        "displayImage": "https://images-eds-ssl.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyK5e80DRl1hAf0L0fVg3cEgb7Jx5pii0lTS3YSRaruWTt4wnMBXYOR5arr.F70HqKIR5bbIA1p1iqBqDi_mQYmFQ--",
         "mediaItemType": "Application",
-        "modernTitleId": "1840884885",
+        "modernTitleId": null,
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 4,
+          "currentAchievements": 0,
           "totalAchievements": 0,
-          "currentGamerscore": 60,
-          "totalGamerscore": 1185,
-          "progressPercentage": 5,
-          "sourceVersion": 2,
-          "baseGameCount": 1,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0,
+          "baseGameCount": 0,
           "baseGameCompleted": 0,
           "isMythic": false
         },
         "stats": {
-          "sourceVersion": 2
+          "sourceVersion": 0
         },
         "gamePass": {
           "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-10-20T17:56:19.893109Z",
+          "lastTimePlayed": "2026-10-21T23:42:13.370733Z",
           "visible": true,
           "canHide": true
         },
@@ -136,8 +138,7 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
+        "xboxLiveTier": "None"
       }
     ]
   },

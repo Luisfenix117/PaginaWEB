@@ -3,72 +3,27 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "342226876",
-        "pfn": "ROBLOXCorporation.5ad2cfcf-5dbe-4535-9006-55fda781_55nm5eh3cm0pr",
-        "bingId": "c79323fd-00f8-462a-a97a-39a0eb61791e",
-        "serviceConfigId": "bab50100-e49a-4ce8-b16f-918d1465f7bc",
-        "windowsPhoneProductId": null,
-        "name": "Roblox - Xbox",
-        "type": "Game",
-        "devices": [
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.64577.68327322396008232.c94c16e6-da74-4496-8e30-c6564f83c85d.9a482da9-7019-4173-be8c-1818c83d8668",
-        "mediaItemType": "Application",
-        "modernTitleId": "342226876",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 3,
-          "totalAchievements": 0,
-          "currentGamerscore": 260,
-          "totalGamerscore": 1000,
-          "progressPercentage": 26,
-          "sourceVersion": 2,
-          "baseGameCount": 1,
-          "baseGameCompleted": 0,
-          "isMythic": false
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-10-22T05:30:37.1033731Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
-      },
-      {
-        "titleId": "1840884885",
-        "pfn": "ElectronicArtsMobile.93317BAB558E_q5ha1ztykcgvj",
+        "titleId": "1995603548",
+        "pfn": "LandfallPublishing.PEAK_xh6ds9terj0x8",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006db9ac95",
+        "serviceConfigId": "00000000-0000-0000-0000-000076f27e5c",
         "windowsPhoneProductId": null,
-        "name": "Battlefield™",
+        "name": "PEAK",
         "type": "Game",
         "devices": [
+          "PC",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.55941.14463498338197768.18cb1494-64ce-4e59-ab19-e22d2d16a6b4.f74c4338-395e-46ad-9adb-436f62c7c6b3",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.10088.13690576805036811.a692716b-bccb-4296-95be-ce651e257db8.8c9b6026-9398-4319-88f4-2c414ecf2347",
         "mediaItemType": "Application",
-        "modernTitleId": "1840884885",
+        "modernTitleId": "1995603548",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 5,
+          "currentAchievements": 7,
           "totalAchievements": 0,
-          "currentGamerscore": 75,
-          "totalGamerscore": 1185,
-          "progressPercentage": 6,
+          "currentGamerscore": 85,
+          "totalGamerscore": 1000,
+          "progressPercentage": 8,
           "sourceVersion": 2,
           "baseGameCount": 1,
           "baseGameCompleted": 0,
@@ -82,7 +37,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-10-22T01:59:42.5177012Z",
+          "lastTimePlayed": "2026-10-23T21:06:49.7463945Z",
           "visible": true,
           "canHide": true
         },
@@ -95,41 +50,87 @@
         "isStreamable": true
       },
       {
-        "titleId": "2118292977",
-        "pfn": "Embark.arc-raiders_kd876xf6dde24",
+        "titleId": "2132429347",
+        "pfn": "GearboxPublishing.RiskofRain2_qskmxqknqwqd4",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
+        "serviceConfigId": "00000000-0000-0000-0000-00007f1a4a23",
         "windowsPhoneProductId": null,
-        "name": "ARC Raiders",
+        "name": "Risk of Rain 2",
         "type": "Game",
         "devices": [
-          "PC",
+          "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.8912.14621244486516926.f1cfde77-0a61-41c8-b5a7-ee7ba21d57fa.d53ca184-fb2c-4a32-8b4b-9d6cd15395fb",
         "mediaItemType": "Application",
-        "modernTitleId": "2118292977",
+        "modernTitleId": "2132429347",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 46,
+          "currentAchievements": 38,
           "totalAchievements": 0,
-          "currentGamerscore": 950,
-          "totalGamerscore": 1000,
-          "progressPercentage": 95,
+          "currentGamerscore": 1110,
+          "totalGamerscore": 1430,
+          "progressPercentage": 77,
           "sourceVersion": 2,
           "baseGameCount": 1,
           "baseGameCompleted": 0,
           "isMythic": false
         },
         "stats": {
-          "sourceVersion": 2
+          "sourceVersion": 3
         },
         "gamePass": {
           "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-10-22T00:10:35.6629961Z",
+          "lastTimePlayed": "2026-10-23T20:36:48.8290945Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
+        "titleId": "1634088961",
+        "pfn": "15140GreenManGaming.NoMoreRoomInHell2_82x1bmjckbb2j",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000061663801",
+        "windowsPhoneProductId": null,
+        "name": "No More Room in Hell 2",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.33783.14213687083064799.8ae5df44-07c8-4118-88c1-1ddb736d5d1c.f4c2d831-9773-46de-bd95-ef1d691b9050",
+        "mediaItemType": "Application",
+        "modernTitleId": "1634088961",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 32,
+          "totalAchievements": 0,
+          "currentGamerscore": 820,
+          "totalGamerscore": 1000,
+          "progressPercentage": 82,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-10-23T20:18:37.6988288Z",
           "visible": true,
           "canHide": true
         },

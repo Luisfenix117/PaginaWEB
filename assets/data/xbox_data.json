@@ -3,71 +3,27 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1775314772",
-        "pfn": null,
+        "titleId": "2118292977",
+        "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
         "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
-        "type": "Game",
-        "devices": [
-          "Win32"
-        ],
-        "displayImage": "",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0,
-          "baseGameCount": 0,
-          "baseGameCompleted": 0,
-          "isMythic": false
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-10-24T04:25:29.4897523Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null
-      },
-      {
-        "titleId": "1995603548",
-        "pfn": "LandfallPublishing.PEAK_xh6ds9terj0x8",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000076f27e5c",
-        "windowsPhoneProductId": null,
-        "name": "PEAK",
+        "name": "ARC Raiders",
         "type": "Game",
         "devices": [
           "PC",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.10088.13690576805036811.a692716b-bccb-4296-95be-ce651e257db8.8c9b6026-9398-4319-88f4-2c414ecf2347",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
         "mediaItemType": "Application",
-        "modernTitleId": "1995603548",
+        "modernTitleId": "2118292977",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 7,
+          "currentAchievements": 46,
           "totalAchievements": 0,
-          "currentGamerscore": 85,
+          "currentGamerscore": 950,
           "totalGamerscore": 1000,
-          "progressPercentage": 8,
+          "progressPercentage": 95,
           "sourceVersion": 2,
           "baseGameCount": 1,
           "baseGameCompleted": 0,
@@ -81,7 +37,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-10-23T21:06:49.7463945Z",
+          "lastTimePlayed": "2026-10-25T02:12:29.5494997Z",
           "visible": true,
           "canHide": true
         },
@@ -94,27 +50,73 @@
         "isStreamable": true
       },
       {
-        "titleId": "2132429347",
-        "pfn": "GearboxPublishing.RiskofRain2_qskmxqknqwqd4",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007f1a4a23",
+        "titleId": "1144039928",
+        "pfn": "Microsoft.Chelan_8wekyb3d8bbwe",
+        "bingId": "f33009f4-14ff-4821-94e3-c3573c868c2e",
+        "serviceConfigId": "77290100-225e-4768-9373-98164430a9f8",
         "windowsPhoneProductId": null,
-        "name": "Risk of Rain 2",
+        "name": "Halo: la colección Jefe Maestro",
         "type": "Game",
         "devices": [
-          "XboxOne",
-          "XboxSeries"
+          "PC"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.8912.14621244486516926.f1cfde77-0a61-41c8-b5a7-ee7ba21d57fa.d53ca184-fb2c-4a32-8b4b-9d6cd15395fb",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.25919.14011015795942652.ca67db1b-d21e-47e9-bbb4-5ece2ce3f774.c71a2431-5ef1-4c32-92fa-22cca6162053",
         "mediaItemType": "Application",
-        "modernTitleId": "2132429347",
+        "modernTitleId": "1144039928",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 38,
+          "currentAchievements": 293,
           "totalAchievements": 0,
-          "currentGamerscore": 1110,
-          "totalGamerscore": 1430,
-          "progressPercentage": 77,
+          "currentGamerscore": 2825,
+          "totalGamerscore": 7000,
+          "progressPercentage": 40,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-10-25T00:46:58.8977744Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1634088961",
+        "pfn": "15140GreenManGaming.NoMoreRoomInHell2_82x1bmjckbb2j",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000061663801",
+        "windowsPhoneProductId": null,
+        "name": "No More Room in Hell 2",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.33783.14213687083064799.8ae5df44-07c8-4118-88c1-1ddb736d5d1c.f4c2d831-9773-46de-bd95-ef1d691b9050",
+        "mediaItemType": "Application",
+        "modernTitleId": "1634088961",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 32,
+          "totalAchievements": 0,
+          "currentGamerscore": 820,
+          "totalGamerscore": 1000,
+          "progressPercentage": 82,
           "sourceVersion": 2,
           "baseGameCount": 1,
           "baseGameCompleted": 0,
@@ -128,7 +130,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-10-23T20:36:48.8290945Z",
+          "lastTimePlayed": "2026-10-24T22:27:19.8123665Z",
           "visible": true,
           "canHide": true
         },
@@ -137,7 +139,8 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full"
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       }
     ]
   },

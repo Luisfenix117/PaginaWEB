@@ -3,74 +3,27 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "2118292977",
-        "pfn": "Embark.arc-raiders_kd876xf6dde24",
+        "titleId": "1634088961",
+        "pfn": "15140GreenManGaming.NoMoreRoomInHell2_82x1bmjckbb2j",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
+        "serviceConfigId": "00000000-0000-0000-0000-000061663801",
         "windowsPhoneProductId": null,
-        "name": "ARC Raiders",
+        "name": "No More Room in Hell 2",
         "type": "Game",
         "devices": [
           "PC",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.33783.14213687083064799.8ae5df44-07c8-4118-88c1-1ddb736d5d1c.f4c2d831-9773-46de-bd95-ef1d691b9050",
         "mediaItemType": "Application",
-        "modernTitleId": "2118292977",
+        "modernTitleId": "1634088961",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 46,
+          "currentAchievements": 32,
           "totalAchievements": 0,
-          "currentGamerscore": 950,
+          "currentGamerscore": 820,
           "totalGamerscore": 1000,
-          "progressPercentage": 95,
-          "sourceVersion": 2,
-          "baseGameCount": 1,
-          "baseGameCompleted": 0,
-          "isMythic": false
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-10-29T02:28:21.7236586Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "2132429347",
-        "pfn": "GearboxPublishing.RiskofRain2_qskmxqknqwqd4",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007f1a4a23",
-        "windowsPhoneProductId": null,
-        "name": "Risk of Rain 2",
-        "type": "Game",
-        "devices": [
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.8912.14621244486516926.f1cfde77-0a61-41c8-b5a7-ee7ba21d57fa.d53ca184-fb2c-4a32-8b4b-9d6cd15395fb",
-        "mediaItemType": "Application",
-        "modernTitleId": "2132429347",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 38,
-          "totalAchievements": 0,
-          "currentGamerscore": 1110,
-          "totalGamerscore": 1430,
-          "progressPercentage": 77,
+          "progressPercentage": 82,
           "sourceVersion": 2,
           "baseGameCount": 1,
           "baseGameCompleted": 0,
@@ -84,7 +37,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-10-28T04:20:18.3636762Z",
+          "lastTimePlayed": "2026-10-29T17:37:09.2902497Z",
           "visible": true,
           "canHide": true
         },
@@ -93,7 +46,8 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full"
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
         "titleId": "1775314772",
@@ -129,7 +83,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-10-27T04:11:51.8354291Z",
+          "lastTimePlayed": "2026-10-29T16:11:10.6263219Z",
           "visible": true,
           "canHide": true
         },
@@ -138,6 +92,53 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
+      },
+      {
+        "titleId": "2118292977",
+        "pfn": "Embark.arc-raiders_kd876xf6dde24",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
+        "windowsPhoneProductId": null,
+        "name": "ARC Raiders",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
+        "mediaItemType": "Application",
+        "modernTitleId": "2118292977",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 46,
+          "totalAchievements": 0,
+          "currentGamerscore": 950,
+          "totalGamerscore": 1000,
+          "progressPercentage": 95,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-10-29T04:07:49.8010516Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       }
     ]
   },

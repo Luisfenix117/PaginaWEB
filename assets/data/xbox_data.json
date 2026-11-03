@@ -36,7 +36,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-11-01T11:35:53.8090209Z",
+          "lastTimePlayed": "2026-11-03T02:53:16.4430962Z",
           "visible": true,
           "canHide": true
         },
@@ -47,41 +47,42 @@
         "contentBoards": null
       },
       {
-        "titleId": "1634088961",
-        "pfn": "15140GreenManGaming.NoMoreRoomInHell2_82x1bmjckbb2j",
+        "titleId": "267695549",
+        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000061663801",
+        "serviceConfigId": "93ac0100-efec-488c-af85-e5850ff4b5bd",
         "windowsPhoneProductId": null,
-        "name": "No More Room in Hell 2",
+        "name": "Fortnite",
         "type": "Game",
         "devices": [
           "PC",
+          "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.33783.14213687083064799.8ae5df44-07c8-4118-88c1-1ddb736d5d1c.f4c2d831-9773-46de-bd95-ef1d691b9050",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.31130.70702278257994163.f7265b8a-f10e-49c4-8115-73c4d800af63.641ad74a-edd4-40c9-8049-3bb73387d09a",
         "mediaItemType": "Application",
-        "modernTitleId": "1634088961",
+        "modernTitleId": "267695549",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 32,
+          "currentAchievements": 14,
           "totalAchievements": 0,
-          "currentGamerscore": 820,
+          "currentGamerscore": 170,
           "totalGamerscore": 1000,
-          "progressPercentage": 82,
+          "progressPercentage": 17,
           "sourceVersion": 2,
           "baseGameCount": 1,
           "baseGameCompleted": 0,
           "isMythic": false
         },
         "stats": {
-          "sourceVersion": 3
+          "sourceVersion": 2
         },
         "gamePass": {
-          "isGamePass": false
+          "isGamePass": true
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-11-01T08:57:36.6504056Z",
+          "lastTimePlayed": "2026-11-02T15:36:51.9134279Z",
           "visible": true,
           "canHide": true
         },
@@ -94,41 +95,41 @@
         "isStreamable": true
       },
       {
-        "titleId": "1728022534",
-        "pfn": "ElectronicArtsMobile.PVZReloaded_q5ha1ztykcgvj",
+        "titleId": "2118292977",
+        "pfn": "Embark.arc-raiders_kd876xf6dde24",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000066ff8806",
+        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
         "windowsPhoneProductId": null,
-        "name": "Plants vs. Zombies™: Replanted",
+        "name": "ARC Raiders",
         "type": "Game",
         "devices": [
-          "XboxOne",
+          "PC",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.55682.14249493036313298.22c0dae5-4fa6-41f8-a5bd-bfdfcb3e98a0.ebf432b1-68de-40d9-81b1-3ad79b49cc82",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
         "mediaItemType": "Application",
-        "modernTitleId": "1728022534",
+        "modernTitleId": "2118292977",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 3,
+          "currentAchievements": 46,
           "totalAchievements": 0,
-          "currentGamerscore": 60,
+          "currentGamerscore": 950,
           "totalGamerscore": 1000,
-          "progressPercentage": 6,
+          "progressPercentage": 95,
           "sourceVersion": 2,
           "baseGameCount": 1,
           "baseGameCompleted": 0,
           "isMythic": false
         },
         "stats": {
-          "sourceVersion": 1
+          "sourceVersion": 2
         },
         "gamePass": {
           "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-11-01T08:22:34.9577505Z",
+          "lastTimePlayed": "2026-11-02T14:34:14.4328355Z",
           "visible": true,
           "canHide": true
         },

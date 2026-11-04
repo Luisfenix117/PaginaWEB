@@ -3,40 +3,40 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1775314772",
-        "pfn": null,
+        "titleId": "1840884885",
+        "pfn": "ElectronicArtsMobile.93317BAB558E_q5ha1ztykcgvj",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "serviceConfigId": "00000000-0000-0000-0000-00006db9ac95",
         "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
+        "name": "Battlefield™",
         "type": "Game",
         "devices": [
-          "Win32"
+          "XboxSeries"
         ],
-        "displayImage": "",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.55941.14463498338197768.18cb1494-64ce-4e59-ab19-e22d2d16a6b4.f74c4338-395e-46ad-9adb-436f62c7c6b3",
         "mediaItemType": "Application",
-        "modernTitleId": null,
+        "modernTitleId": "1840884885",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 0,
+          "currentAchievements": 6,
           "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0,
-          "baseGameCount": 0,
+          "currentGamerscore": 125,
+          "totalGamerscore": 1185,
+          "progressPercentage": 10,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
           "baseGameCompleted": 0,
           "isMythic": false
         },
         "stats": {
-          "sourceVersion": 0
+          "sourceVersion": 2
         },
         "gamePass": {
           "isGamePass": false
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-11-03T02:53:16.4430962Z",
+          "lastTimePlayed": "2026-11-04T18:09:26.4047973Z",
           "visible": true,
           "canHide": true
         },
@@ -44,7 +44,9 @@
         "detail": null,
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
-        "contentBoards": null
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
         "titleId": "267695549",
@@ -82,7 +84,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-11-02T15:36:51.9134279Z",
+          "lastTimePlayed": "2026-11-04T17:03:30.1730399Z",
           "visible": true,
           "canHide": true
         },
@@ -129,7 +131,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-11-02T14:34:14.4328355Z",
+          "lastTimePlayed": "2026-11-04T15:05:52.8329266Z",
           "visible": true,
           "canHide": true
         },

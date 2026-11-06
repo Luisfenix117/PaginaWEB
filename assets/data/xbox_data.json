@@ -36,7 +36,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-11-05T02:25:30.2258173Z",
+          "lastTimePlayed": "2026-11-06T02:30:37.925276Z",
           "visible": true,
           "canHide": true
         },
@@ -45,52 +45,6 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
-      },
-      {
-        "titleId": "1840884885",
-        "pfn": "ElectronicArtsMobile.93317BAB558E_q5ha1ztykcgvj",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00006db9ac95",
-        "windowsPhoneProductId": null,
-        "name": "Battlefield™",
-        "type": "Game",
-        "devices": [
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.55941.14463498338197768.18cb1494-64ce-4e59-ab19-e22d2d16a6b4.f74c4338-395e-46ad-9adb-436f62c7c6b3",
-        "mediaItemType": "Application",
-        "modernTitleId": "1840884885",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 6,
-          "totalAchievements": 0,
-          "currentGamerscore": 125,
-          "totalGamerscore": 1185,
-          "progressPercentage": 10,
-          "sourceVersion": 2,
-          "baseGameCount": 1,
-          "baseGameCompleted": 0,
-          "isMythic": false
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-11-04T18:09:26.4047973Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       },
       {
         "titleId": "267695549",
@@ -128,7 +82,53 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-11-04T17:03:30.1730399Z",
+          "lastTimePlayed": "2026-11-05T15:24:28.0952356Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1840884885",
+        "pfn": "ElectronicArtsMobile.93317BAB558E_q5ha1ztykcgvj",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00006db9ac95",
+        "windowsPhoneProductId": null,
+        "name": "Battlefield™",
+        "type": "Game",
+        "devices": [
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.55941.14463498338197768.18cb1494-64ce-4e59-ab19-e22d2d16a6b4.f74c4338-395e-46ad-9adb-436f62c7c6b3",
+        "mediaItemType": "Application",
+        "modernTitleId": "1840884885",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 6,
+          "totalAchievements": 0,
+          "currentGamerscore": 125,
+          "totalGamerscore": 1185,
+          "progressPercentage": 10,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-11-05T14:52:01.5150089Z",
           "visible": true,
           "canHide": true
         },

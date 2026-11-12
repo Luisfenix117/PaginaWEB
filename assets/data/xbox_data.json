@@ -3,50 +3,6 @@
     "xuid": "2533274897489393",
     "titles": [
       {
-        "titleId": "1775314772",
-        "pfn": null,
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
-        "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
-        "type": "Game",
-        "devices": [
-          "Win32"
-        ],
-        "displayImage": "",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0,
-          "baseGameCount": 0,
-          "baseGameCompleted": 0,
-          "isMythic": false
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-11-11T10:01:32.9528471Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null
-      },
-      {
         "titleId": "267695549",
         "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
         "bingId": null,
@@ -82,7 +38,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-11-10T17:41:56.5348883Z",
+          "lastTimePlayed": "2026-11-11T22:23:15.5806525Z",
           "visible": true,
           "canHide": true
         },
@@ -95,27 +51,27 @@
         "isStreamable": true
       },
       {
-        "titleId": "2118292977",
-        "pfn": "Embark.arc-raiders_kd876xf6dde24",
+        "titleId": "1033937373",
+        "pfn": "KleiEntertainment.DontStarveTogetherConsoleEdition_h1qwf79amjr38",
         "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007e4295f1",
+        "serviceConfigId": "f2570100-ba9e-4443-9b01-def33da0a1dd",
         "windowsPhoneProductId": null,
-        "name": "ARC Raiders",
+        "name": "Don't Starve Together: Console Edition",
         "type": "Game",
         "devices": [
-          "PC",
+          "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.11356.13550041517005289.7f3b0841-0084-4cae-88f4-8996d95d574f.af6c64fc-7b65-4854-9905-62154850f4ce",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.18719.68986806511725911.f424da40-674e-41a9-878c-7a524fa56895.9dccd119-677b-479c-987c-981c54bfcef3",
         "mediaItemType": "Application",
-        "modernTitleId": "2118292977",
+        "modernTitleId": "1033937373",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 46,
+          "currentAchievements": 17,
           "totalAchievements": 0,
-          "currentGamerscore": 950,
+          "currentGamerscore": 420,
           "totalGamerscore": 1000,
-          "progressPercentage": 95,
+          "progressPercentage": 42,
           "sourceVersion": 2,
           "baseGameCount": 1,
           "baseGameCompleted": 0,
@@ -129,7 +85,55 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-11-07T16:10:46.9643566Z",
+          "lastTimePlayed": "2026-11-11T22:13:42.8984615Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1944979900",
+        "pfn": "Hyperstrange.EMPTYSHELL_xvdn3fkyakk1j",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000073ee09bc",
+        "windowsPhoneProductId": null,
+        "name": "EMPTY SHELL",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.11933.14175418215154998.02d19997-f688-4577-9b3b-c8d037460f4b.e374a516-ce5f-4bc5-8b3c-c16d51e9d16b",
+        "mediaItemType": "Application",
+        "modernTitleId": "1944979900",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 4,
+          "totalAchievements": 0,
+          "currentGamerscore": 60,
+          "totalGamerscore": 1000,
+          "progressPercentage": 6,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-11-11T22:12:30.1832489Z",
           "visible": true,
           "canHide": true
         },

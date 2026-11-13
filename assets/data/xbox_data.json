@@ -38,7 +38,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-11-13T02:37:27.8803528Z",
+          "lastTimePlayed": "2026-11-13T15:41:39.7951574Z",
           "visible": true,
           "canHide": true
         },
@@ -49,6 +49,50 @@
         "contentBoards": null,
         "xboxLiveTier": "Full",
         "isStreamable": true
+      },
+      {
+        "titleId": "1775314772",
+        "pfn": null,
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "windowsPhoneProductId": null,
+        "name": "Goddess of Victory: Nikke",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-11-13T13:48:26.5768066Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null
       },
       {
         "titleId": "1033937373",
@@ -86,54 +130,6 @@
         "images": null,
         "titleHistory": {
           "lastTimePlayed": "2026-11-11T22:13:42.8984615Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1944979900",
-        "pfn": "Hyperstrange.EMPTYSHELL_xvdn3fkyakk1j",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000073ee09bc",
-        "windowsPhoneProductId": null,
-        "name": "EMPTY SHELL",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.11933.14175418215154998.02d19997-f688-4577-9b3b-c8d037460f4b.e374a516-ce5f-4bc5-8b3c-c16d51e9d16b",
-        "mediaItemType": "Application",
-        "modernTitleId": "1944979900",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 4,
-          "totalAchievements": 0,
-          "currentGamerscore": 60,
-          "totalGamerscore": 1000,
-          "progressPercentage": 6,
-          "sourceVersion": 2,
-          "baseGameCount": 1,
-          "baseGameCompleted": 0,
-          "isMythic": false
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-11-11T22:12:30.1832489Z",
           "visible": true,
           "canHide": true
         },

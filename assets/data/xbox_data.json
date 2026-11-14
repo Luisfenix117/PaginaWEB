@@ -3,6 +3,51 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1877036175",
+        "pfn": null,
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00006fe14c8f",
+        "windowsPhoneProductId": null,
+        "name": "ROBLOX",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "https://images-eds-ssl.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyK5e80DRl1hAf0L0fVg3cEgb7Jx5pii0lTS3YSRaruWTt4wnMBXYOR5arr.F70HqKIR5bbIA1p1iqBqDi_mQYmFQ--",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-11-14T10:36:38.0691545Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "None"
+      },
+      {
         "titleId": "267695549",
         "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
         "bingId": null,
@@ -93,53 +138,6 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
-      },
-      {
-        "titleId": "1033937373",
-        "pfn": "KleiEntertainment.DontStarveTogetherConsoleEdition_h1qwf79amjr38",
-        "bingId": null,
-        "serviceConfigId": "f2570100-ba9e-4443-9b01-def33da0a1dd",
-        "windowsPhoneProductId": null,
-        "name": "Don't Starve Together: Console Edition",
-        "type": "Game",
-        "devices": [
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.18719.68986806511725911.f424da40-674e-41a9-878c-7a524fa56895.9dccd119-677b-479c-987c-981c54bfcef3",
-        "mediaItemType": "Application",
-        "modernTitleId": "1033937373",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 17,
-          "totalAchievements": 0,
-          "currentGamerscore": 420,
-          "totalGamerscore": 1000,
-          "progressPercentage": 42,
-          "sourceVersion": 2,
-          "baseGameCount": 1,
-          "baseGameCompleted": 0,
-          "isMythic": false
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-11-11T22:13:42.8984615Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       }
     ]
   },

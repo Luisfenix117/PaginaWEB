@@ -3,6 +3,96 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "1775314772",
+        "pfn": null,
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
+        "windowsPhoneProductId": null,
+        "name": "Goddess of Victory: Nikke",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-11-19T18:49:49.2015613Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null
+      },
+      {
+        "titleId": "2035456122",
+        "pfn": "RockstarGamesInc.28872443D20A7_k2ss7vbb13xte",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007952987a",
+        "windowsPhoneProductId": null,
+        "name": "Grand Theft Auto VI",
+        "type": "Game",
+        "devices": [
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.10572.13714795037479433.563e5346-29e4-492a-a767-4bdeeb012f4d.9f55138a-ed59-46cc-89ad-752f07cc4613",
+        "mediaItemType": "Application",
+        "modernTitleId": "2035456122",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 1,
+          "totalAchievements": 0,
+          "currentGamerscore": 5,
+          "totalGamerscore": 1000,
+          "progressPercentage": 0,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-11-19T06:08:15.3559717Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "267695549",
         "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
         "bingId": null,
@@ -49,95 +139,6 @@
         "contentBoards": null,
         "xboxLiveTier": "Full",
         "isStreamable": true
-      },
-      {
-        "titleId": "2035456122",
-        "pfn": "RockstarGamesInc.28872443D20A7_k2ss7vbb13xte",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007952987a",
-        "windowsPhoneProductId": null,
-        "name": "Grand Theft Auto VI",
-        "type": "Game",
-        "devices": [
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.10572.13714795037479433.563e5346-29e4-492a-a767-4bdeeb012f4d.9f55138a-ed59-46cc-89ad-752f07cc4613",
-        "mediaItemType": "Application",
-        "modernTitleId": "2035456122",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 55,
-          "currentGamerscore": 0,
-          "totalGamerscore": 1000,
-          "progressPercentage": 0,
-          "sourceVersion": 2,
-          "baseGameCount": 0,
-          "baseGameCompleted": 0,
-          "isMythic": false
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-11-19T03:13:16.2352465Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
-      },
-      {
-        "titleId": "1775314772",
-        "pfn": null,
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-000069d12754",
-        "windowsPhoneProductId": null,
-        "name": "Goddess of Victory: Nikke",
-        "type": "Game",
-        "devices": [
-          "Win32"
-        ],
-        "displayImage": "",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0,
-          "baseGameCount": 0,
-          "baseGameCompleted": 0,
-          "isMythic": false
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-11-18T05:14:09.9075075Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null
       }
     ]
   },

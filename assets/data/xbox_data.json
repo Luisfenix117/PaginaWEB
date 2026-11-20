@@ -3,6 +3,52 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "2035456122",
+        "pfn": "RockstarGamesInc.28872443D20A7_k2ss7vbb13xte",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007952987a",
+        "windowsPhoneProductId": null,
+        "name": "Grand Theft Auto VI",
+        "type": "Game",
+        "devices": [
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.10572.13714795037479433.563e5346-29e4-492a-a767-4bdeeb012f4d.9f55138a-ed59-46cc-89ad-752f07cc4613",
+        "mediaItemType": "Application",
+        "modernTitleId": "2035456122",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 1,
+          "totalAchievements": 0,
+          "currentGamerscore": 5,
+          "totalGamerscore": 1000,
+          "progressPercentage": 0,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-11-20T19:19:22.6408031Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "1775314772",
         "pfn": null,
         "bingId": null,
@@ -45,52 +91,6 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
-      },
-      {
-        "titleId": "2035456122",
-        "pfn": "RockstarGamesInc.28872443D20A7_k2ss7vbb13xte",
-        "bingId": null,
-        "serviceConfigId": "00000000-0000-0000-0000-00007952987a",
-        "windowsPhoneProductId": null,
-        "name": "Grand Theft Auto VI",
-        "type": "Game",
-        "devices": [
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.10572.13714795037479433.563e5346-29e4-492a-a767-4bdeeb012f4d.9f55138a-ed59-46cc-89ad-752f07cc4613",
-        "mediaItemType": "Application",
-        "modernTitleId": "2035456122",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 1,
-          "totalAchievements": 0,
-          "currentGamerscore": 5,
-          "totalGamerscore": 1000,
-          "progressPercentage": 0,
-          "sourceVersion": 2,
-          "baseGameCount": 1,
-          "baseGameCompleted": 0,
-          "isMythic": false
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": false
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-11-19T06:08:15.3559717Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       },
       {
         "titleId": "267695549",

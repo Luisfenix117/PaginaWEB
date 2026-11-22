@@ -3,6 +3,54 @@
     "xuid": "2533274897489393",
     "titles": [
       {
+        "titleId": "267695549",
+        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
+        "bingId": null,
+        "serviceConfigId": "93ac0100-efec-488c-af85-e5850ff4b5bd",
+        "windowsPhoneProductId": null,
+        "name": "Fortnite",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.31130.70702278257994163.f7265b8a-f10e-49c4-8115-73c4d800af63.641ad74a-edd4-40c9-8049-3bb73387d09a",
+        "mediaItemType": "Application",
+        "modernTitleId": "267695549",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 14,
+          "totalAchievements": 0,
+          "currentGamerscore": 170,
+          "totalGamerscore": 1000,
+          "progressPercentage": 17,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-11-22T02:11:11.5150953Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "2035456122",
         "pfn": "RockstarGamesInc.28872443D20A7_k2ss7vbb13xte",
         "bingId": null,
@@ -91,54 +139,6 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null
-      },
-      {
-        "titleId": "267695549",
-        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
-        "bingId": null,
-        "serviceConfigId": "93ac0100-efec-488c-af85-e5850ff4b5bd",
-        "windowsPhoneProductId": null,
-        "name": "Fortnite",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.31130.70702278257994163.f7265b8a-f10e-49c4-8115-73c4d800af63.641ad74a-edd4-40c9-8049-3bb73387d09a",
-        "mediaItemType": "Application",
-        "modernTitleId": "267695549",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 14,
-          "totalAchievements": 0,
-          "currentGamerscore": 170,
-          "totalGamerscore": 1000,
-          "progressPercentage": 17,
-          "sourceVersion": 2,
-          "baseGameCount": 1,
-          "baseGameCompleted": 0,
-          "isMythic": false
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-11-19T04:15:19.0090692Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       }
     ]
   },

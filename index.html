@@ -2,12 +2,39 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>LUIS_FENIX_117 // TERMINAL </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LUIS_FENIX_117 // ARCHIVE_TERMINAL</title>
     <link rel="stylesheet" href="assets/css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
+
+    <!-- BOOT SCREEN -->
+    <div id="boot-screen">
+        <span class="boot-corner boot-tl">MEM_MAP // 0x0000-0xFFFF</span>
+        <span class="boot-corner boot-tr">DEV // SDA1_ARCHIVE</span>
+
+        <div class="boot-window">
+            <div class="boot-header">
+                <span>LUIS_FENIX_117 // SECRET_ARCHIVE</span>
+                <span class="boot-badge">DUMP_1998.IMG</span>
+            </div>
+
+            <div id="boot-log"></div>
+
+            <div class="boot-progress">
+                <div class="boot-progress-fill"></div>
+            </div>
+
+            <div class="boot-meta">
+                <span id="boot-status">STATUS: INITIALIZING</span>
+                <span id="boot-count">0%</span>
+            </div>
+        </div>
+
+        <span class="boot-corner boot-bl">READ_ONLY // LEGACY_NODE</span>
+        <span class="boot-corner boot-br">[ CLICK TO SKIP ]</span>
+    </div>
 
     <div class="monitor-overlay"></div>
 
@@ -15,7 +42,7 @@
         
         <div class="panel panel-left ui-frame">
             <header class="panel-header">
-                <span class="system-id">USER_DATA // LUIS_FENIX_117</span>
+                <span class="system-id">DIR // USER_LUIS_FENIX_117</span>
                 <span class="status-indicator online">ONLINE</span>
             </header>
             <section class="panel-content">
@@ -27,78 +54,77 @@
                 <!-- --- INFO / CONTACTS --- -->
                 <nav class="link-grid">
                     <a class="link-item" href="https://x.com/Luis_Torres117" target="_blank">
-                    <img src="../PaginaWEB/assets/img/twitter.png" alt="Twitter">
-                    <span>Twitter</span>
+                        <img src="assets/img/twitter.png" alt="Twitter">
+                        <span>Twitter</span>
                     </a>
                     <a class="link-item no-link">
-                    <img src="../PaginaWEB/assets/img/discord.png" alt="Discord">
-                    <span>luisfenix117</span>
+                        <img src="assets/img/discord.png" alt="Discord">
+                        <span>luisfenix117</span>
                     </a>
                     <a class="link-item" href="https://open.spotify.com/user/22iobqhnhbql55r52xrghrulq/playlists" target="_blank">
-                    <img src="../PaginaWEB/assets/img/spotify.png" alt="Spotify">
-                    <span>Spotify</span>
+                        <img src="assets/img/spotify.png" alt="Spotify">
+                        <span>Spotify</span>
                     </a>
                     <a class="link-item" href="https://www.xbox.com/es-MX/play/user/luisfenix117" target="_blank">
-                    <img src="../PaginaWEB/assets/img/xbox.png" alt="Xbox">
-                    <span>Xbox</span>
+                        <img src="assets/img/xbox.png" alt="Xbox">
+                        <span>Xbox</span>
                     </a>
                     <a class="link-item" href="https://steamcommunity.com/id/luis_torres117/" target="_blank">
-                    <img src="../PaginaWEB/assets/img/steam.png" alt="Steam">
-                    <span>Steam</span>
+                        <img src="assets/img/steam.png" alt="Steam">
+                        <span>Steam</span>
                     </a>
                     <a class="link-item" href="https://myanimelist.net/profile/Luisfenix117" target="_blank">
-                    <img src="../PaginaWEB/assets/img/myanimelist.png" alt="MyAnimeList">
-                    <span>MyAnimeList</span>
+                        <img src="assets/img/myanimelist.png" alt="MyAnimeList">
+                        <span>MyAnimeList</span>
                     </a>
                     <a class="link-item" href="https://www.tiktok.com/@luisfenix117" target="_blank">
-                    <img src="../PaginaWEB/assets/img/tiktok.png" alt="TikTok">
-                    <span>TikTok</span>
+                        <img src="assets/img/tiktok.png" alt="TikTok">
+                        <span>TikTok</span>
                     </a>
                 </nav>
                 <!-- --- /INFO --- -->
-
             </section>
         </div>
 
         <div class="panel-center">
-           <section class="xbox-activity ui-frame">
-              <header class="panel-header">
-                  <span class="system-id">XBOX // LIVE_FEED</span>
-                  <span class="status-indicator">SYNCING</span>
-              </header>
+            <section class="xbox-activity ui-frame">
+                <header class="panel-header">
+                    <span class="system-id">LOG // XBOX_TELEMETRY</span>
+                    <span class="status-indicator">SYNCING</span>
+                </header>
                 <div id="xbox-list" class="horizontal-scroll">
-                 <div class="loading-text">ACCEDIENDO A LOS REGISTROS...</div>
+                    <div class="loading-text">LEYENDO SECTOR DE REGISTROS...</div>
                 </div>
             </section>
 
             <section class="spotify-activity ui-frame">
-               <header class="panel-header">
-                 <span class="system-id">CORE_AUDIO // DOMINANT_RECORDS</span> 
-                 <span class="status-indicator">STREAMING</span>
-               </header>
+                <header class="panel-header">
+                    <span class="system-id">TAPE // AUDIO_RECORDS</span> 
+                    <span class="status-indicator">STREAMING</span>
+                </header>
                 <div id="spotify-list" class="horizontal-scroll"> 
-                <div class="loading-text">ACCEDIENDO A LOS REGISTROS...</div>
+                    <div class="loading-text">LEYENDO SECTOR DE REGISTROS...</div>
                 </div>
             </section>
         </div>
 
         <div class="panel panel-right ui-frame">
             <header class="panel-header">
-                <span class="system-id">ACTIVITY_LOG</span>
+                <span class="system-id">FILE // ACTIVITY_LOG</span>
             </header>
             <section class="panel-content audio-section">
                 <div class="music-player">
-                     <audio id="bg-audio"></audio>
+                    <audio id="bg-audio"></audio>
                     <button class="player-btn" onclick="playAmbient()">> PLAY_AMBIENT</button>
                     <button class="player-btn" onclick="pauseAmbient()">[ PAUSE ]</button>
                     <button class="player-btn" onclick="nextTrack()">>> NEXT_TRACK</button>
 
                     <div class="audio-visualizer">
-                        <span></span><span></span><span></span>
+                        <span></span><span></span><span></span><span></span><span></span>
                     </div>
                 </div>
                 
-                <!-- Widget de MyAnimeList con últimas actualizaciones de anime y manga -->
+                <!-- Widget de MyAnimeList -->
                 <div class="mal-widget">
                     <div class="mal-section">
                         <h3>Manga recientes</h3>
@@ -113,8 +139,8 @@
         </div>
 
         <footer class="system-footer ui-frame">
-            <span class="version">V_1.0 //</span>
-            <span class="help-text">SYSTEM SECURED // WAITING FOR INPUT...</span>
+            <span class="version">ARCHIVE_v1.0 //</span>
+            <span class="help-text">READ-ONLY SECTOR // WAITING FOR INPUT...</span>
         </footer>
 
     </main>
@@ -123,7 +149,6 @@
     <script src="assets/scripts/SPOTIFYscrap.js"></script>
     <script src="assets/scripts/MALscrap.js"></script>
     <script src="assets/scripts/XBOXscrap.js"></script>
-
-    
+    <script src="assets/scripts/BOOT.js"></script>
 </body>
 </html>

@@ -7,31 +7,26 @@
 html, body {
     width: 100%;
     min-height: 100vh;
-    background-color: #000; /* Asegura que el fondo sea negro total */
-    overflow-x: hidden; /* Evita que la página se mueva hacia los lados */
+    background-color: #000;
+    overflow-x: hidden;
 }
 
-
-
-
 :root {
-    /* Paleta Táctica */
-    --bg-system: #0a0a0d;
-    --panel-bg: rgba(13, 13, 18, 0.85); /* Semi-transparente */
-    --text-primary: #e0e0e0;
-    --text-muted: #888891;
-    --accent-red: #ff3b3b; /* antes: accent-blue */
-    --border-dim: #27272a;
+    --bg-system: #070709;
+    --panel-bg: rgba(10, 10, 14, 0.9);
+    --text-primary: #dfdfdf;
+    --text-muted: #84848e;
+    --accent-red: #ff3b3b;
+    --border-dim: #232328;
     --font-ui: 'JetBrains Mono', monospace;
 }
 
 body {
     margin: 0;
     font-family: var(--font-ui);
-    /* quitamos la imagen principal de body */
     background-color: var(--bg-system);
     position: relative;
-    z-index: -1; /* importante: para que ::before pueda situarse detrás del contenido */
+    z-index: -1;
 }
 
 /* Capa difusa extendida detrás para rellenar los laterales */
@@ -39,16 +34,63 @@ body::before {
     content: '';
     position: fixed;
     inset: 0;
-    /* Cambiamos contain por cover para que llene todo el móvil */
     background: url('../img/backgroundrojo.png') center center / cover no-repeat fixed;
-    /* Aumentamos el blur para que el ruido de la imagen no distraiga en móvil */
-    filter: blur(40px) brightness(0.35) saturate(0.8);
-    transform: scale(1.1); /* Evita bordes blancos por el blur */
+    filter: blur(42px) brightness(0.32) saturate(0.75);
+    transform: scale(1.1);
     z-index: -2;
     pointer-events: none;
 }
 
-/* La imagen principal ahora se aplica al contenedor de la vista (sobre la capa difusa) */
+/* EFECTO CRT */
+.monitor-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 99990;
+    pointer-events: none;
+    background:
+        repeating-linear-gradient(
+            0deg,
+            rgba(0, 0, 0, 0.22) 0px,
+            rgba(0, 0, 0, 0.22) 1px,
+            transparent 1px,
+            transparent 3px
+        ),
+        radial-gradient(
+            circle at center,
+            transparent 58%,
+            rgba(0, 0, 0, 0.55) 100%
+        );
+    box-shadow: inset 0 0 65px rgba(0, 0, 0, 0.75);
+}
+
+.monitor-overlay::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 90px;
+    background: linear-gradient(
+        180deg,
+        transparent 0%,
+        rgba(255, 59, 59, 0.035) 50%,
+        transparent 100%
+    );
+    animation: crt-refresh 7s linear infinite;
+}
+
+@keyframes crt-refresh {
+    0% { transform: translateY(-100%); }
+    100% { transform: translateY(100vh); }
+}
+
+.panel-header .system-id,
+.boot-header,
+.boot-ok,
+.mal-section h3 {
+    text-shadow: 0 0 6px rgba(255, 59, 59, 0.35);
+}
+
+/* Contenedor principal */
 .viewport-canvas {
     display: grid;
     grid-template-columns: 253px auto 253px;
@@ -62,113 +104,121 @@ body::before {
     background: url('../img/backgroundrojo.png') center center / contain no-repeat;
     background-color: transparent;
     gap: 0;
+    opacity: 0;
+    visibility: hidden;
+    transition:
+        opacity 1.4s ease,
+        visibility 1.4s ease;
 }
 
-/* Capa que aplica una tint roja / recolor sobre la imagen central
-   (queda debajo de los panels y encima del blur) */
+/* Tinte rojo sobre la imagen central */
 .viewport-canvas::before {
     content: '';
     position: absolute;
     inset: 0;
     pointer-events: none;
-    z-index: 1; /* debajo de panels (z-index:5) */
+    z-index: 1;
     background: url('../img/backgroundrojo.png') center center / contain no-repeat;
-    /* mueve los tonos hacia el rojo y potencia contraste ligeramente */
     filter: hue-rotate(-25deg) saturate(1.2) contrast(1.05);
     mix-blend-mode: normal;
     opacity: 1;
     display: block;
 }
 
-/* colocar panels en las columnas laterales y que llenen la altura de la fila 1 */
 .panel-left  { grid-column: 1; grid-row: 1; }
 .panel-right { grid-column: 3; grid-row: 1; }
 
 .panel {
     display: flex;
     flex-direction: column;
-    height: 100%;   /* hace que el panel llegue hasta abajo (fila 1 completa) */
+    height: 100%;
     min-height: 0;
     z-index: 5;
+    width: 100%;
+    align-self: stretch;
 }
 
-/* asegurarse de que el contenido interno haga scroll si excede la altura */
 .panel-content {
     flex: 1 1 auto;
     overflow: auto;
+    padding: 12px;
+    color: var(--text-primary);
 }
 
 .panel-center {
     display: flex;
-    flex-direction: column; 
-    /* El espacio entre Xbox y Spotify */
+    flex-direction: column;
     gap: 25px;
     grid-column: 2;
     padding: 20px;
-    
-    /* CAMBIO CLAVE: Quitamos los 240px fijos para que sea fluido */
-    flex: 1 1 auto; 
+    flex: 1 1 auto;
     width: 100%;
     max-width: 100vw;
-    box-sizing: border-box; /* El padding se cuenta hacia adentro */
-    
-    /* Mantenemos tu lógica de scroll si la necesitas para las tarjetas */
-    overflow-x: hidden; /* Evita el scroll del contenedor padre */
+    box-sizing: border-box;
+    overflow-x: hidden;
     scroll-snap-type: x mandatory;
-
     position: relative;
     z-index: 10;
 }
 
-/* footer en la segunda fila del grid */
+/* Footer barra de estado de archivo */
 .system-footer {
     position: relative;
     grid-column: 1 / -1;
     grid-row: 2;
-    height: 40px;
+    height: 38px;
     width: 100%;
     margin: 0;
     display: flex;
     align-items: center;
+    gap: 8px;
     padding: 0 15px;
     font-size: 10px;
     z-index: 5;
+    background: rgba(6, 6, 8, 0.94);
+    border-top: 1px solid rgba(255, 59, 59, 0.25);
+    color: var(--text-muted);
 }
 
-/* --- ESTILO DE PANELES (UI FRAMES) --- */
+.system-footer .version {
+    color: var(--accent-red);
+    font-weight: 700;
+}
+
+/* --- MARCOS --- */
 .ui-frame {
-    background-color: rgba(6, 6, 8, 0.92); /* más opaco para texto legible */
-    border: 1px solid rgba(255, 64, 64, 0.14); /* sustituye el teal/azul tenue por rojo tenue */
-    box-shadow: 0 10px 30px rgba(0,0,0,0.6); /* profundidad para separar del fondo */
-    backdrop-filter: blur(6px) saturate(1.05);
+    position: relative;
+    background:
+        repeating-linear-gradient(
+            0deg,
+            rgba(255, 255, 255, 0.012) 0px,
+            rgba(255, 255, 255, 0.012) 1px,
+            transparent 1px,
+            transparent 4px
+        ),
+        rgba(8, 8, 11, 0.93);
+    border: 1px solid rgba(255, 59, 59, 0.22);
+    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.72);
+    backdrop-filter: blur(5px);
     color: var(--text-primary);
 }
 
-/* Pseudo-elemento para el pulso (eléctrico) */
 .ui-frame::after {
     content: '';
     position: absolute;
-    top: -1px; left: -1px; right: -1px; bottom: -1px;
-    border: 1px solid var(--accent-red);
+    inset: 0;
+    border: 1px solid rgba(255, 59, 59, 0.12);
     pointer-events: none;
-    opacity: 0;
-    animation: electric-pulse 3s ease-in-out infinite;
-}
-
-@keyframes electric-pulse {
-    0%, 100% { opacity: 0; box-shadow: 0 0 5px transparent; }
-    50% { opacity: 0.6; box-shadow: 0 0 15px var(--accent-red); }
 }
 
 .user-card {
     display: flex;
     flex-direction: column;
     gap: 0;
-    padding: 0;
-    background: rgba(255, 255, 255, 0.04);
-    border: 1px solid rgba(255, 255, 255, 0.08);
-    border-radius: 18px;
-    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.03);
+    padding: 2px;
+    background: rgba(14, 14, 18, 0.85);
+    border: 1px solid rgba(255, 255, 255, 0.09);
+    border-radius: 10px;
     margin-bottom: 12px;
 }
 
@@ -178,118 +228,197 @@ body::before {
     max-height: 180px;
     object-fit: contain;
     object-position: center;
-    border-radius: 18px;
+    border-radius: 8px;
     border: none;
-}
-
-.user-card-info {
-    display: flex;
-    flex-direction: column;
-    gap: 4px;
-}
-
-.user-card-info .user-handle {
-    margin: 0;
-}
-
-.user-card-info .user-bio,
-.user-card-info .user-location {
-    margin: 0;
-}
-
-.panel {
-    width: 100%;
-    display: flex;           /* para permitir que el header y content se distribuyan verticalmente */
-    flex-direction: column;  /* layout vertical dentro del panel */
-    align-self: stretch;     /* asegura que el panel se estire en el eje vertical del contenedor */
-    min-height: 0;           /* necesario para que overflow funcione correctamente dentro del flex item */
-    /* quitar height: fit-content y max-height para que rellene la columna */
 }
 
 .panel-header {
     display: flex;
     justify-content: space-between;
-    padding: 8px 15px;
+    align-items: center;
+    padding: 8px 14px;
     font-size: 10px;
     color: var(--text-muted);
-    border-bottom: 1px solid var(--border-dim);
-    background: linear-gradient(180deg, rgba(0,0,0,0.18), rgba(0,0,0,0.06));
-    text-shadow: 0 1px 0 rgba(0,0,0,0.65);
+    background: rgba(15, 15, 20, 0.92);
+    border-bottom: 1px dashed rgba(255, 59, 59, 0.3);
+    letter-spacing: 0.5px;
 }
 
 .status-indicator { font-weight: 700; }
 .status-indicator.online { color: #50fa7b; }
 
-.panel-content {
-    padding: 12px 12px;
-    flex: 1 1 auto;
-    overflow: auto;
-    color: var(--text-primary);
-    text-shadow: 0 1px 0 rgba(0,0,0,0.6);
-}
-
-.panel-right .panel-content {
-    padding: 12px 12px;
-}
-
-/* Títulos y Texto */
-.user-handle {
-    font-size: 22px;
-    margin: 0 0 10px 0;
-    letter-spacing: -1px;
-    color: var(--text-primary);
-    text-shadow: 0 2px 8px rgba(0,0,0,0.7);
-}
-.user-bio, .user-location {
-    font-size: 11px;
-    color: var(--text-muted);
-    margin: 4px 0;
-}
-
 .separator-line {
     height: 1px;
-    background-color: var(--border-dim);
-    margin: 20px 0;
+    border-top: 1px dashed rgba(255, 59, 59, 0.28);
+    margin: 14px 0;
 }
 
-/* Enlaces */
+/* Enlaces estilo índice */
 .link-grid {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 8px;
 }
 
-
+.link-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 8px 10px;
+    border-radius: 4px;
+    text-decoration: none;
+    background: rgba(16, 16, 21, 0.78);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-left: 2px solid rgba(255, 59, 59, 0.35);
+    transition: all 0.15s ease;
+}
 
 .link-item:hover {
-    background: rgba(255, 59, 59, 0.08);
-    border-color: rgba(255, 59, 59, 0.35);
-    transform: translateX(2px); /* leve, no exagerado */
+    background: rgba(255, 59, 59, 0.1);
+    border-color: rgba(255, 59, 59, 0.45);
+    border-left-color: var(--accent-red);
+    transform: translateX(2px);
+}
+
+.link-item img {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+    filter: brightness(0) invert(1);
+    opacity: 0.85;
 }
 
 .link-item:hover img {
-    filter: brightness(0) invert(1) drop-shadow(0 0 4px rgba(255, 59, 59, 0.8));
+    filter: brightness(0) invert(1) drop-shadow(0 0 3px rgba(255, 59, 59, 0.75));
 }
 
-/* Sección Spotify/Música */
+.link-item span {
+    color: var(--accent-red);
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.4px;
+}
+
+.no-link {
+    cursor: default;
+}
+
+/* Sección Audio + Widget MAL */
 .audio-section {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 12px;
 }
 
+.music-player {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    width: 100%;
+    padding: 10px;
+    background: rgba(12, 12, 16, 0.85);
+    border: 1px solid rgba(255, 59, 59, 0.22);
+    border-radius: 4px;
+}
+
+.player-btn {
+    position: relative;
+    overflow: hidden;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(7, 7, 10, 0.92);
+    color: var(--accent-red);
+    border: 1px solid rgba(255, 59, 59, 0.38);
+    padding: 2px 8px;
+    font-size: 11px;
+    height: 22px;
+    min-width: 116px;
+    font-family: var(--font-ui);
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+    transition: all 0.14s ease;
+    text-transform: uppercase;
+}
+
+.player-btn:hover {
+    background-color: var(--accent-red);
+    color: #070709;
+    border-color: var(--accent-red);
+}
+
+.player-btn:active {
+    transform: translateY(1px);
+}
+
+.player-btn::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: linear-gradient(
+        to bottom,
+        transparent,
+        rgba(255, 59, 59, 0.14),
+        transparent
+    );
+    transform: rotate(45deg);
+    pointer-events: none;
+    opacity: 0;
+}
+
+.is-playing .player-btn::before {
+    opacity: 1;
+    animation: scan-line 2.5s infinite linear;
+}
+
+/* Ecualizador */
+.audio-visualizer {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    gap: 3px;
+    height: 14px;
+    padding: 2px 8px;
+    background: rgba(0, 0, 0, 0.65);
+    border: 1px solid rgba(255, 59, 59, 0.2);
+}
+
+.audio-visualizer span {
+    display: block;
+    width: 3px;
+    height: 3px;
+    background: var(--accent-red);
+    opacity: 0.45;
+    transition: height 0.2s ease;
+}
+
+.is-playing .audio-visualizer span {
+    opacity: 1;
+    animation: eq-bounce 0.75s ease-in-out infinite;
+}
+
+.is-playing .audio-visualizer span:nth-child(2) { animation-delay: 0.15s; }
+.is-playing .audio-visualizer span:nth-child(3) { animation-delay: 0.3s; }
+.is-playing .audio-visualizer span:nth-child(4) { animation-delay: 0.1s; }
+.is-playing .audio-visualizer span:nth-child(5) { animation-delay: 0.25s; }
+
+@keyframes eq-bounce {
+    0%, 100% { height: 3px; }
+    50% { height: 12px; }
+}
+
+/* Widget MAL */
 .mal-widget {
     padding: 12px;
-    background: rgba(255, 255, 255, 0.02);
-    border: 1px solid rgba(255, 255, 255, 0.08);
-    border-radius: 14px;
-}
-
-.mal-widget-title {
-    margin: 0 0 12px;
-    font-size: 14px;
-    letter-spacing: 0.03em;
-    color: var(--accent-red);
+    background: rgba(12, 12, 16, 0.82);
+    border: 1px solid rgba(255, 59, 59, 0.2);
+    border-radius: 6px;
 }
 
 .mal-section {
@@ -298,16 +427,12 @@ body::before {
 
 .mal-section h3 {
     margin: 0 0 8px;
-    font-size: 12px;
+    font-size: 11px;
     color: var(--accent-red);
     text-transform: uppercase;
-    letter-spacing: 0.1em;
-}
-
-.mal-items {
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
+    letter-spacing: 0.08em;
+    padding-bottom: 4px;
+    border-bottom: 1px dashed rgba(255, 59, 59, 0.28);
 }
 
 .mal-item {
@@ -315,18 +440,19 @@ body::before {
     gap: 8px;
     align-items: flex-start;
     padding: 6px 8px;
-    border-radius: 10px;
-    background: rgba(255, 255, 255, 0.03);
-    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.025);
+    border: 1px solid rgba(255, 255, 255, 0.06);
 }
 
 .mal-item-thumb {
     min-width: 48px;
     width: 48px;
     height: 68px;
-    border-radius: 8px;
+    border-radius: 4px;
     overflow: hidden;
     background: #0b0b0d;
+    border: 1px solid rgba(255, 255, 255, 0.09);
     flex-shrink: 0;
 }
 
@@ -360,232 +486,64 @@ body::before {
     opacity: 0.9;
 }
 
-.mal-item-progress {
-    font-size: 11px;
-    color: var(--text-muted);
-}
-
-.mal-item-date {
-    font-size: 10px;
-    color: var(--text-muted);
-}
-
+.mal-item-progress,
+.mal-item-date,
 .mal-item-desc {
-    font-size: 11px;
-    color: var(--text-muted);
-    line-height: 1.4;
-}
-
-.mal-item-date {
     font-size: 10px;
     color: var(--text-muted);
+    line-height: 1.35;
 }
 
-.music-player {
-    display: flex;
-    gap: 8px;
-}
-.player-btn {
-    background: rgba(0,0,0,0.35);
-    color: var(--accent-red);
-    border: 1px solid var(--accent-red);
-    box-shadow: 0 2px 6px rgba(0,0,0,0.45), inset 0 -1px 0 rgba(255,255,255,0.03);
-    cursor: pointer;
-    padding: 5px 10px;
-    font-family: inherit;
-    font-size: 11px;
-}
-.player-btn:hover {
-    background-color: var(--accent-red);
-    color: #000;
-    box-shadow: 0 6px 18px rgba(255,64,64,0.08);
-}
-
-/* --- FOOTER --- */
-.system-footer {
-    background: rgba(0,0,0,0.6);
-    border-top: 1px solid rgba(0,0,0,0.5);
-    color: var(--text-muted);
-    box-shadow: 0 -6px 18px rgba(0,0,0,0.45);
-}
-.system-footer .version {
-    color: var(--accent-red);
-    font-weight: 700;
-    text-shadow: 0 1px 0 rgba(0,0,0,0.7);
-}
-
-
-
-.link-grid {
+/* Contenedor de Xbox y Spotify */
+#xbox-list,
+#spotify-list {
     display: flex;
     flex-direction: column;
-    gap: 12px; /* más aire entre items */
-}
-
-.link-item {
-    display: flex;
-    align-items: center;
     gap: 10px;
-
-    padding: 8px 10px;
-    border-radius: 8px;
-    text-decoration: none;
-
-   
-    background: rgba(255, 255, 255, 0.02);
-    border: 1px solid rgba(255, 255, 255, 0.05);
-
-    transition: all 0.2s ease;
-}
-
-
-
-/* ICONOS */
-.link-item img {
-    width: 22px;
-    height: 22px;
-    object-fit: contain;
-
-    /* visible en fondo oscuro */
-    filter: brightness(0) invert(1);
-    opacity: 0.85;
-}
-
-.link-item:hover img {
-    filter: brightness(0) invert(1) drop-shadow(0 0 4px rgba(255, 59, 59, 0.8));
-}
-
-/* TEXTO */
-.link-item span {
-    color: var(--accent-red);
-    font-size: 13px;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-}
-
-.no-link {
-    cursor: default;
-}
-
-.no-link:hover {
-    color: var(--accent-red);
-}
-
-/* Botones Estilo Terminal Compacta */
-.player-btn {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    background: rgba(0, 0, 0, 0.6);
-    color: var(--accent-red);
-    
-    /* Borde casi imperceptible */
-    border: 0.5px solid rgba(255, 59, 59, 0.3);
-    
-    /* Dimensiones reducidas */
-    padding: 2px 6px; 
-    font-size: 15px; 
-    height: 18px;     /* Altura fija para control total */
-    min-width: 60px;  /* Asegura consistencia sin ser ancho */
-    
-    font-family: var(--font-ui);
-    letter-spacing: 0.5px;
-    cursor: pointer;
-    transition: all 0.15s ease;
-    text-transform: uppercase;
-}
-
-.player-btn:hover {
-    background-color: var(--accent-red);
-    color: #000;
-    border-color: var(--accent-red);
-    box-shadow: 0 0 8px rgba(255, 59, 59, 0.3);
-}
-
-/* Contenedor para que no se estiren */
-.music-player {
-    display: flex;
-    flex-direction: column; /* Los apila uno sobre otro */
-    align-items: center;    /* Los centra horizontalmente */
-    justify-content: center;
-    gap: 6px;               /* Espacio constante entre ellos */
     width: 100%;
-}
-
-.player-btn {
-    position: relative;
-    overflow: hidden; /* Necesario para que el brillo no se salga */
-    background: rgba(0, 0, 0, 0.8);
-    /* ... resto de tus estilos (border, font, etc) ... */
-}
-.player-btn::before {
-    content: '';
-    position: absolute;
-    top: -50%;
-    left: -50%;
-    width: 200%;
-    height: 200%;
-    background: linear-gradient(
-        to bottom,
-        transparent,
-        rgba(255, 59, 59, 0.15),
-        transparent
-    );
-    transform: rotate(45deg);
-    pointer-events: none;
-    opacity: 0;
-}
-
-/* Solo se activa cuando la canción está sonando */
-.is-playing .player-btn::before {
-    opacity: 1;
-    animation: scan-line 2.5s infinite linear;
-}
-
-/* Contenedor con Scroll Horizontal */
-#xbox-list {
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
-    
-    /* Asegura que ocupe todo el ancho disponible del padre */
-    width: 100%; 
     max-width: 100%;
-    
-    /* El padding se cuenta HACIA ADENTRO, no hacia afuera */
-    box-sizing: border-box; 
+    min-width: 0;
+    box-sizing: border-box;
     padding: 10px;
-    
-    /* Elimina cualquier scroll horizontal accidental */
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
+#xbox-list > a,
+#spotify-list > a {
+    display: block;
+    min-width: 0;
+    width: 100%;
+    text-decoration: none;
+    color: inherit;
+}
 
 /* Tarjeta Individual */
 .xbox-item-card {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     gap: 10px;
     width: 100%;
-    box-sizing: border-box; /* Crucial para evitar que el borde sume ancho */
-    background: rgba(255, 255, 255, 0.03);
-    border: 1px solid rgba(255, 64, 64, 0.14);
-    padding: 10px;
+    min-width: 0;
+    box-sizing: border-box;
+    background: rgba(15, 15, 20, 0.84);
+    border: 1px solid rgba(255, 59, 59, 0.18);
+    padding: 9px 10px;
     border-radius: 4px;
+    transition: border-color 0.15s ease, background 0.15s ease;
 }
 
 .xbox-item-card:hover {
-    background: rgba(255, 64, 64, 0.05);
+    background: rgba(255, 59, 59, 0.06);
     border-color: var(--accent-red);
 }
 
-/* Imagen a la izquierda */
 .game-thumb {
-    width: 60px;
-    height: 60px;
+    width: 56px;
+    height: 56px;
     flex-shrink: 0;
     overflow: hidden;
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 3px;
 }
 
 .game-thumb img {
@@ -594,76 +552,91 @@ body::before {
     object-fit: cover;
 }
 
-/* Info a la derecha */
 .game-details {
+    flex: 1 1 auto;
+    min-width: 0;
     display: flex;
     flex-direction: column;
     gap: 4px;
-    
 }
 
 .game-name {
-    font-size: 11px; /* Bajamos un poco el tamaño para títulos largos */
+    font-size: 11px;
     font-weight: 700;
+    line-height: 1.3;
     color: var(--text-primary);
-    
-    /* Si el nombre es muy largo, ponemos puntos suspensivos */
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    min-width: 0;
+    white-space: normal;
+    overflow-wrap: break-word;
 }
 
 .game-stats-row {
-    font-size: 11px;
+    font-size: 10px;
+    line-height: 1.35;
     color: var(--text-muted);
     display: flex;
     align-items: center;
-    gap: 6px;
+    flex-wrap: wrap;
+    gap: 4px 6px;
+    min-width: 0;
+}
+
+.stat-icon,
+.stat-divider {
+    flex-shrink: 0;
+}
+
+.stat-count {
+    min-width: 0;
+    white-space: normal;
+    overflow-wrap: break-word;
 }
 
 .stat-divider {
     color: var(--accent-red);
-    opacity: 0.6;
+    opacity: 0.7;
 }
 
 .stat-percent {
     color: var(--accent-red);
-    font-weight: bold;
+    font-weight: 700;
+    font-size: 9.5px !important;
+    min-width: 0;
+    white-space: normal;
+    overflow-wrap: break-word;
 }
 
 @media (min-width: 768px) {
-    #xbox-list, #spotify-list {
+    #xbox-list,
+    #spotify-list {
         display: grid;
-        grid-template-columns: repeat(3, 1fr); /* Volvemos a las 3 columnas */
+        grid-template-columns: repeat(3, minmax(0, 1fr));
         gap: 10px;
-        overflow-x: hidden;
+        overflow: hidden;
     }
-}
 
-@media (min-width: 768px) {
     .panel-center {
-        flex: 0 0 auto; 
-        /* Aquí puedes poner un ancho máximo para escritorio si no quieres que estire tanto */
+        flex: 0 0 auto;
     }
-
 }
+
 @keyframes scan-line {
     0% { transform: translateY(-100%) rotate(45deg); }
     100% { transform: translateY(100%) rotate(45deg); }
 }
 
-/* Efecto de parpadeo suave al texto */
 .is-playing .player-btn {
     animation: text-flicker 3s infinite;
 }
 
 @keyframes text-flicker {
     0%, 100% { opacity: 1; text-shadow: 0 0 2px var(--accent-red); }
-    50% { opacity: 0.8; text-shadow: 0 0 8px var(--accent-red); }
+    50% { opacity: 0.85; text-shadow: 0 0 8px var(--accent-red); }
 }
-/* Small tweak: asegurar que panel content se lea en pantallas pequeñas */
+
+/* Responsive */
 @media (max-width: 900px) {
-    .ui-frame { background-color: rgba(6,6,8,0.96); }
+    .ui-frame { background-color: rgba(8, 8, 12, 0.96); }
     .panel-header { padding: 10px 16px; }
 }
 
@@ -672,12 +645,10 @@ body::before {
         display: flex;
         flex-direction: column;
         height: auto;
-        /* Quitamos la imagen de fondo repetida en móvil */
-        background: none !important; 
+        background: none !important;
     }
 
     .viewport-canvas::before {
-        /* Desactivamos la capa de tinte central en móvil para limpiar la UI */
         display: none;
     }
 
@@ -689,9 +660,7 @@ body::before {
     .panel-content {
         overflow: visible;
     }
-}
 
-@media (max-width: 768px) {
     .panel-header {
         font-size: 12px;
     }
@@ -708,4 +677,184 @@ body::before {
     .mal-item {
         gap: 10px;
     }
+
+    .monitor-overlay {
+        background:
+            repeating-linear-gradient(
+                0deg,
+                rgba(0, 0, 0, 0.12) 0px,
+                rgba(0, 0, 0, 0.12) 1px,
+                transparent 1px,
+                transparent 4px
+            ),
+            radial-gradient(
+                circle at center,
+                transparent 65%,
+                rgba(0, 0, 0, 0.45) 100%
+            );
+        box-shadow: inset 0 0 35px rgba(0, 0, 0, 0.6);
+    }
+
+    .boot-corner {
+        display: none;
+    }
+}
+
+/* --- BOOT SCREEN --- */
+#boot-screen {
+    position: fixed;
+    inset: 0;
+    z-index: 999999;
+    background:
+        linear-gradient(rgba(255, 59, 59, 0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 59, 59, 0.03) 1px, transparent 1px),
+        #050507;
+    background-size: 28px 28px, 28px 28px, 100% 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    cursor: pointer;
+}
+
+#boot-screen::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: url('../img/backgroundrojo.png') center center / cover no-repeat;
+    filter: blur(28px) brightness(0.22) saturate(1.15);
+    opacity: 0.45;
+    pointer-events: none;
+    z-index: 0;
+}
+
+.boot-corner {
+    position: fixed;
+    z-index: 1;
+    font-size: 10px;
+    letter-spacing: 0.8px;
+    color: rgba(223, 223, 223, 0.36);
+    pointer-events: none;
+}
+
+.boot-tl { top: 14px; left: 16px; }
+.boot-tr { top: 14px; right: 16px; }
+.boot-bl { bottom: 14px; left: 16px; }
+.boot-br { bottom: 14px; right: 16px; color: rgba(255, 59, 59, 0.55); }
+
+.boot-window {
+    position: relative;
+    z-index: 2;
+    width: 650px;
+    max-width: 92%;
+    padding: 20px 24px;
+    background: rgba(11, 11, 15, 0.95);
+    border: 1px solid rgba(255, 59, 59, 0.35);
+    box-shadow: 0 18px 45px rgba(0, 0, 0, 0.9);
+    font-family: 'JetBrains Mono', monospace;
+    cursor: default;
+}
+
+.boot-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    margin-bottom: 14px;
+    padding-bottom: 10px;
+    border-bottom: 1px dashed rgba(255, 59, 59, 0.35);
+    color: var(--accent-red);
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.boot-badge {
+    font-size: 10px;
+    padding: 2px 6px;
+    color: var(--text-muted);
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 59, 59, 0.25);
+}
+
+#boot-log {
+    min-height: 220px;
+    max-height: 280px;
+    overflow-y: auto;
+    padding: 12px 14px;
+    background: #060608;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    color: #d4d4dc;
+    font-size: 12px;
+    line-height: 1.85;
+}
+
+.boot-line {
+    min-height: 1.2em;
+}
+
+.boot-ok {
+    color: var(--accent-red);
+    font-weight: 700;
+    margin-right: 4px;
+}
+
+.boot-grant {
+    color: var(--accent-red);
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.boot-welcome {
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.boot-ready {
+    color: var(--accent-red);
+    font-weight: 700;
+}
+
+.boot-cursor {
+    display: inline-block;
+    margin-left: 2px;
+    color: var(--accent-red);
+    animation: boot-blink 0.8s steps(1, end) infinite;
+}
+
+@keyframes boot-blink {
+    0%, 49% { opacity: 1; }
+    50%, 100% { opacity: 0; }
+}
+
+.boot-progress {
+    margin-top: 14px;
+    height: 10px;
+    padding: 1px;
+    background: #060608;
+    border: 1px solid rgba(255, 59, 59, 0.3);
+}
+
+.boot-progress-fill {
+    width: 0%;
+    height: 100%;
+    background: var(--accent-red);
+    transition: width 0.22s ease;
+}
+
+.boot-meta {
+    margin-top: 10px;
+    padding-top: 8px;
+    border-top: 1px dashed rgba(255, 59, 59, 0.2);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 10px;
+    color: var(--text-muted);
+    letter-spacing: 0.5px;
+}
+
+#boot-count {
+    color: var(--accent-red);
+    font-weight: 700;
 }
